@@ -1,7 +1,6 @@
 {
   "filmes": [
     {
-      {
       "id": "filme-teste-player",
       "titulo": "Filme Teste Player",
       "ano": 2024,
@@ -9,7 +8,6 @@
       "capa": "https://via.placeholder.com/300x450?text=Teste",
       "descricao": "Teste usando player externo.",
       "embedUrl": "https://noflix.top/player.php?id=&tmdb=11322&player=1"
-      }
     }
   ],
   "series": [
