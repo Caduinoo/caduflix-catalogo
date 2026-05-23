@@ -1,74 +1,5 @@
 [
   {
-    "id": "a-revolucao-1911",
-    "tipo": "filme",
-    "titulo": "- A Revolução",
-    "ano": 1911,
-    "descricao": "",
-    "generos": [
-      "DRAMA"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqppYmxtnQfs8yFKjtpWXjbWLzT.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
-      {
-        "nome": "Padrão",
-        "idioma": "Não informado",
-        "qualidade": "Não informado",
-        "xtreamId": 10774464,
-        "container": "mp4"
-      }
-    ]
-  },
-  {
-    "id": "o-brasil-entre-armas-e-livros-1964",
-    "tipo": "filme",
-    "titulo": "- O Brasil Entre Armas e Livros",
-    "ano": 1964,
-    "descricao": "",
-    "generos": [
-      "NACIONAIS"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kERgnDxb4YXU0c6DDSWZiLmuHC1.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
-      {
-        "nome": "Padrão",
-        "idioma": "Não informado",
-        "qualidade": "Não informado",
-        "xtreamId": 10778136,
-        "container": "mp4"
-      }
-    ]
-  },
-  {
-    "id": "a-batalha-de-kruty-1918",
-    "tipo": "filme",
-    "titulo": "– A Batalha de Kruty",
-    "ano": 1918,
-    "descricao": "",
-    "generos": [
-      "DRAMA"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2N0eKs4OD4zM9dpdECZFVK6havp.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
-      {
-        "nome": "Padrão",
-        "idioma": "Não informado",
-        "qualidade": "Não informado",
-        "xtreamId": 10774465,
-        "container": "mp4"
-      }
-    ]
-  },
-  {
     "id": "casa-bonita-mi-amor",
     "tipo": "filme",
     "titulo": "¡Casa Bonita Mi Amor!",
@@ -6479,7 +6410,7 @@
   {
     "id": "81-a-democracia-resiste",
     "tipo": "filme",
-    "titulo": "81 – A Democracia Resiste",
+    "titulo": "81 - A Democracia Resiste",
     "ano": null,
     "descricao": "",
     "generos": [
@@ -8729,6 +8660,29 @@
     ],
     "tituloOriginal": "The Current War",
     "dataLancamento": "2018-02-01"
+  },
+  {
+    "id": "a-batalha-de-kruty-1918",
+    "tipo": "filme",
+    "titulo": "A Batalha de Kruty",
+    "ano": 1918,
+    "descricao": "",
+    "generos": [
+      "DRAMA"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2N0eKs4OD4zM9dpdECZFVK6havp.jpg",
+    "banner": null,
+    "tmdbId": null,
+    "nota": null,
+    "opcoes": [
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10774465,
+        "container": "mp4"
+      }
+    ]
   },
   {
     "id": "a-batalha-de-natal",
@@ -20401,7 +20355,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/lOBKDPPIrPudMGs2RKLGUzHFZHY.jpg",
     "banner": "https://image.tmdb.org/t/p/original/xqft4oJyMATznCFFLpTlQPiSr8N.jpg",
     "tmdbId": 999075,
-    "nota": 7.3,
+    "nota": 7.29,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -23561,7 +23515,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/psEJSjQr6I9GSJTdW28CKC4Kffs.jpg",
     "banner": "https://image.tmdb.org/t/p/original/8VyTWJrNEyV2MTWvniDVp0MpOAe.jpg",
     "tmdbId": 1078605,
-    "nota": 7.3,
+    "nota": 7.257,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -29242,5 +29196,63 @@
     ],
     "tituloOriginal": "방법: 재차의",
     "dataLancamento": "2021-07-28"
+  },
+  {
+    "id": "a-maldicao-do-boneco",
+    "tipo": "filme",
+    "titulo": "A Maldição do Boneco",
+    "ano": null,
+    "descricao": "Depois da morte do pai, uma jovem problemática se muda com a família e encontra na nova casa um boneco amaldiçoado que aterroriza a vida de todos.",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/gvzB7AyfhaGzJ4aRDbEAjf2ZjdN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cjMrwXhlNIPB3ChN23SFUks0KKu.jpg",
+    "tmdbId": 555252,
+    "nota": 4.2,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783603,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780304,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Killer Under The Bed",
+    "dataLancamento": "2018-10-20"
+  },
+  {
+    "id": "a-maldicao-do-boneco-robert",
+    "tipo": "filme",
+    "titulo": "A Maldição do Boneco Robert",
+    "ano": null,
+    "descricao": "A estudante Emily (Tiffany Ceri) tenta ganhar dinheiro trabalhando no turno da noite como faxineira no East Falls Museum. Mas, o que era tranquilo se transforma em momentos de terror quando coisas misteriosas começam a acontecer, como escutar sons de passos nos corredores vazios. Emily suspeita que uma das exposições, a assustadora boneca chamada Robert, está viva e causando todos os problemas.",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/gA435Cf8C3Mu9Gjqfs4IZPnSNQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nfxVCbJRNRlJwaO5hskuFMmzu6d.jpg",
+    "tmdbId": 404461,
+    "nota": 3.5,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783604,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "The Curse of Robert the Doll",
+    "dataLancamento": "2016-09-12"
   }
 ]
