@@ -12,6 +12,160 @@
   "tmdbId": 223564,
   "nota": 8.103,
   "xtreamSeriesId": 1068,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10817569",
+          "tipo": "episodio",
+          "titulo": "100 Namoradas Que Te Amam Muuuuuito S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10817569",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uGLPOAWnrbHxf1m5SZsrmNVHvYg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817570",
+          "tipo": "episodio",
+          "titulo": "100 Namoradas Que Te Amam Muuuuuito S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10817570",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uGLPOAWnrbHxf1m5SZsrmNVHvYg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817571",
+          "tipo": "episodio",
+          "titulo": "100 Namoradas Que Te Amam Muuuuuito S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10817571",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uGLPOAWnrbHxf1m5SZsrmNVHvYg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817572",
+          "tipo": "episodio",
+          "titulo": "100 Namoradas Que Te Amam Muuuuuito S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10817572",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uGLPOAWnrbHxf1m5SZsrmNVHvYg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817573",
+          "tipo": "episodio",
+          "titulo": "100 Namoradas Que Te Amam Muuuuuito S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10817573",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uGLPOAWnrbHxf1m5SZsrmNVHvYg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817574",
+          "tipo": "episodio",
+          "titulo": "100 Namoradas Que Te Amam Muuuuuito S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10817574",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uGLPOAWnrbHxf1m5SZsrmNVHvYg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817575",
+          "tipo": "episodio",
+          "titulo": "100 Namoradas Que Te Amam Muuuuuito S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10817575",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uGLPOAWnrbHxf1m5SZsrmNVHvYg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817576",
+          "tipo": "episodio",
+          "titulo": "100 Namoradas Que Te Amam Muuuuuito S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10817576",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uGLPOAWnrbHxf1m5SZsrmNVHvYg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817577",
+          "tipo": "episodio",
+          "titulo": "100 Namoradas Que Te Amam Muuuuuito S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10817577",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uGLPOAWnrbHxf1m5SZsrmNVHvYg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817578",
+          "tipo": "episodio",
+          "titulo": "100 Namoradas Que Te Amam Muuuuuito S01E10",
+          "numero": 10,
+          "temporada": 1,
+          "xtreamId": "10817578",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uGLPOAWnrbHxf1m5SZsrmNVHvYg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817579",
+          "tipo": "episodio",
+          "titulo": "100 Namoradas Que Te Amam Muuuuuito S01E11",
+          "numero": 11,
+          "temporada": 1,
+          "xtreamId": "10817579",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uGLPOAWnrbHxf1m5SZsrmNVHvYg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817580",
+          "tipo": "episodio",
+          "titulo": "100 Namoradas Que Te Amam Muuuuuito S01E12",
+          "numero": 12,
+          "temporada": 1,
+          "xtreamId": "10817580",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uGLPOAWnrbHxf1m5SZsrmNVHvYg.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 12,
   "tituloOriginal": "君のことが大大大大大好きな100人の彼女",
   "dataLancamento": "2023-10-08"
 }

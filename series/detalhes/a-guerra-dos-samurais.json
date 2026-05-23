@@ -12,6 +12,88 @@
   "tmdbId": 93736,
   "nota": 7.125,
   "xtreamSeriesId": 3984,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10899779",
+          "tipo": "episodio",
+          "titulo": "A Guerra dos Samurais S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10899779",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/h1kkluX8eQdJlx9VKxhU4oMkJRO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899780",
+          "tipo": "episodio",
+          "titulo": "A Guerra dos Samurais S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10899780",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/h1kkluX8eQdJlx9VKxhU4oMkJRO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899781",
+          "tipo": "episodio",
+          "titulo": "A Guerra dos Samurais S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10899781",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/h1kkluX8eQdJlx9VKxhU4oMkJRO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899782",
+          "tipo": "episodio",
+          "titulo": "A Guerra dos Samurais S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10899782",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/h1kkluX8eQdJlx9VKxhU4oMkJRO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899783",
+          "tipo": "episodio",
+          "titulo": "A Guerra dos Samurais S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10899783",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/h1kkluX8eQdJlx9VKxhU4oMkJRO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899784",
+          "tipo": "episodio",
+          "titulo": "A Guerra dos Samurais S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10899784",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/h1kkluX8eQdJlx9VKxhU4oMkJRO.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
   "tituloOriginal": "Age of Samurai: Battle for Japan",
   "dataLancamento": "2021-02-24"
 }

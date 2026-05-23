@@ -12,6 +12,64 @@
   "tmdbId": 236265,
   "nota": null,
   "xtreamSeriesId": 2829,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10862693",
+          "tipo": "episodio",
+          "titulo": "A Era dos Humanos S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10862693",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dVjBIEMvCiOf3XbgtEWQjAUqyFW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10862694",
+          "tipo": "episodio",
+          "titulo": "A Era dos Humanos S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10862694",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dVjBIEMvCiOf3XbgtEWQjAUqyFW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10862695",
+          "tipo": "episodio",
+          "titulo": "A Era dos Humanos S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10862695",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dVjBIEMvCiOf3XbgtEWQjAUqyFW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10862696",
+          "tipo": "episodio",
+          "titulo": "A Era dos Humanos S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10862696",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dVjBIEMvCiOf3XbgtEWQjAUqyFW.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
   "tituloOriginal": "A Era dos Humanos",
   "dataLancamento": "2023-10-04"
 }

@@ -12,6 +12,88 @@
   "tmdbId": 257992,
   "nota": 7.457,
   "xtreamSeriesId": 7104,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11016931",
+          "tipo": "episodio",
+          "titulo": "A Cacada S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11016931",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/u0SpcYDdudUZhuNVSDQTvh0hsbu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016932",
+          "tipo": "episodio",
+          "titulo": "A Cacada S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11016932",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/u0SpcYDdudUZhuNVSDQTvh0hsbu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016933",
+          "tipo": "episodio",
+          "titulo": "A Cacada S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11016933",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/u0SpcYDdudUZhuNVSDQTvh0hsbu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11021966",
+          "tipo": "episodio",
+          "titulo": "A Cacada S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11021966",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/u0SpcYDdudUZhuNVSDQTvh0hsbu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11033034",
+          "tipo": "episodio",
+          "titulo": "A Cacada S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11033034",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/u0SpcYDdudUZhuNVSDQTvh0hsbu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11033725",
+          "tipo": "episodio",
+          "titulo": "A Cacada S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11033725",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/u0SpcYDdudUZhuNVSDQTvh0hsbu.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
   "tituloOriginal": "Traqués",
   "dataLancamento": "2026-03-04"
 }

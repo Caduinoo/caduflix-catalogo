@@ -11,6 +11,8 @@
     ],
     "nota": 8.4,
     "tmdbId": 48041,
+    "totalTemporadas": 1,
+    "totalEpisodios": 11,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/20-dakika.json"
   },
   {
@@ -25,6 +27,8 @@
     ],
     "nota": 7.4,
     "tmdbId": 115970,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/50m.json"
   },
   {
@@ -39,6 +43,8 @@
     ],
     "nota": 7.734,
     "tmdbId": 112745,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/8-em-istambul.json"
   },
   {
@@ -52,6 +58,8 @@
     ],
     "nota": 7,
     "tmdbId": 107150,
+    "totalTemporadas": 1,
+    "totalEpisodios": 87,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-alma-nao-tem-cor.json"
   },
   {
@@ -66,6 +74,8 @@
     ],
     "nota": 5.9,
     "tmdbId": 224773,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-atriz.json"
   },
   {
@@ -80,6 +90,8 @@
     ],
     "nota": 7.61,
     "tmdbId": 60632,
+    "totalTemporadas": 1,
+    "totalEpisodios": 122,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-cor-da-paixao.json"
   },
   {
@@ -94,6 +106,8 @@
     ],
     "nota": 7.9,
     "tmdbId": 135238,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-criatura.json"
   },
   {
@@ -108,6 +122,8 @@
     ],
     "nota": 5.8,
     "tmdbId": 278004,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-enciclopedia-de-istambul.json"
   },
   {
@@ -122,6 +138,8 @@
     ],
     "nota": 7.867,
     "tmdbId": 96305,
+    "totalTemporadas": 2,
+    "totalEpisodios": 210,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-filha-do-embaixador.json"
   },
   {
@@ -136,6 +154,8 @@
     ],
     "nota": 6.7,
     "tmdbId": 214078,
+    "totalTemporadas": 2,
+    "totalEpisodios": 14,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-lenda-de-shahmaran.json"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-05-23T04:21:14.997Z",
+  "geradoEm": "2026-05-23T05:25:14.911Z",
   "entrada": {
     "filmesXtream": 29100,
     "seriesXtream": 7414,
@@ -24,6 +24,10 @@
     "limiteFilmesAtivo": true,
     "filmesAgrupadosComoDuplicados": null,
     "filmesComMaisDeUmaOpcao": 454
+  },
+  "episodios": {
+    "totalEpisodios": 10664,
+    "seriesSemEpisodios": 8
   },
   "capas": {
     "filmesSemCapa": 17,

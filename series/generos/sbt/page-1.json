@@ -11,6 +11,8 @@
     ],
     "nota": 5.7,
     "tmdbId": 259172,
+    "totalTemporadas": 1,
+    "totalEpisodios": 80,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-caverna-encantada.json"
   },
   {
@@ -25,6 +27,8 @@
     ],
     "nota": 8.2,
     "tmdbId": 31791,
+    "totalTemporadas": 2,
+    "totalEpisodios": 43,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-escolinha-do-golias.json"
   }
 ]

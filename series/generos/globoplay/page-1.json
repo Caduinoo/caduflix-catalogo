@@ -11,6 +11,8 @@
     ],
     "nota": 7.8,
     "tmdbId": 124915,
+    "totalTemporadas": 4,
+    "totalEpisodios": 52,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/220-volts.json"
   },
   {
@@ -25,6 +27,8 @@
     ],
     "nota": null,
     "tmdbId": 242929,
+    "totalTemporadas": 1,
+    "totalEpisodios": 3,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/3x-artico-o-alerta-do-gelo.json"
   },
   {
@@ -39,6 +43,8 @@
     ],
     "nota": 7.333,
     "tmdbId": 92045,
+    "totalTemporadas": 1,
+    "totalEpisodios": 9,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-bela-e-o-padeiro.json"
   },
   {
@@ -53,6 +59,8 @@
     ],
     "nota": null,
     "tmdbId": 203048,
+    "totalTemporadas": 2,
+    "totalEpisodios": 15,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-cara-do-pai.json"
   },
   {
@@ -67,6 +75,8 @@
     ],
     "nota": 8.3,
     "tmdbId": 122884,
+    "totalTemporadas": 1,
+    "totalEpisodios": 5,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-corrida-das-vacinas.json"
   },
   {
@@ -81,6 +91,8 @@
     ],
     "nota": 7.834,
     "tmdbId": 77236,
+    "totalTemporadas": 3,
+    "totalEpisodios": 25,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-descoberta-das-bruxas.json"
   },
   {
@@ -95,6 +107,8 @@
     ],
     "nota": 7.469,
     "tmdbId": 17322,
+    "totalTemporadas": 4,
+    "totalEpisodios": 119,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-diarista.json"
   },
   {
@@ -109,6 +123,8 @@
     ],
     "nota": 8.2,
     "tmdbId": 91296,
+    "totalTemporadas": 4,
+    "totalEpisodios": 20,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-divisao.json"
   },
   {
@@ -123,6 +139,8 @@
     ],
     "nota": null,
     "tmdbId": 236265,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-era-dos-humanos.json"
   },
   {
@@ -136,6 +154,8 @@
     ],
     "nota": 10,
     "tmdbId": 289307,
+    "totalTemporadas": 2,
+    "totalEpisodios": 10,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-fabrica.json"
   },
   {
@@ -150,6 +170,8 @@
     ],
     "nota": 7.897,
     "tmdbId": 7448,
+    "totalTemporadas": 1,
+    "totalEpisodios": 197,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-favorita.json"
   },
   {
@@ -164,6 +186,8 @@
     ],
     "nota": 9,
     "tmdbId": 80205,
+    "totalTemporadas": 0,
+    "totalEpisodios": 0,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-formula.json"
   },
   {
@@ -178,6 +202,8 @@
     ],
     "nota": 8.4,
     "tmdbId": 16183,
+    "totalTemporadas": 0,
+    "totalEpisodios": 0,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-grande-familia.json"
   },
   {
@@ -192,6 +218,8 @@
     ],
     "nota": 6.2,
     "tmdbId": 135187,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-guardia-da-floresta.json"
   }
 ]

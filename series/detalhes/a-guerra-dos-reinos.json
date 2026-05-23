@@ -12,6 +12,88 @@
   "tmdbId": 304371,
   "nota": 7,
   "xtreamSeriesId": 22,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10792592",
+          "tipo": "episodio",
+          "titulo": "A Guerra dos Reinos S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10792592",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/61t09Sswx0NR0yOrlRzrZA6h7V7.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10792593",
+          "tipo": "episodio",
+          "titulo": "A Guerra dos Reinos S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10792593",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/61t09Sswx0NR0yOrlRzrZA6h7V7.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10792594",
+          "tipo": "episodio",
+          "titulo": "A Guerra dos Reinos S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10792594",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/61t09Sswx0NR0yOrlRzrZA6h7V7.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10792595",
+          "tipo": "episodio",
+          "titulo": "A Guerra dos Reinos S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10792595",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/61t09Sswx0NR0yOrlRzrZA6h7V7.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10792596",
+          "tipo": "episodio",
+          "titulo": "A Guerra dos Reinos S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10792596",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/61t09Sswx0NR0yOrlRzrZA6h7V7.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10792597",
+          "tipo": "episodio",
+          "titulo": "A Guerra dos Reinos S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10792597",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/61t09Sswx0NR0yOrlRzrZA6h7V7.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
   "tituloOriginal": "Die Nibelungen - Kampf der Königreiche",
   "dataLancamento": "2025-11-06"
 }

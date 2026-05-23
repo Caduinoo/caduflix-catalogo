@@ -12,6 +12,112 @@
   "tmdbId": 135502,
   "nota": 6.375,
   "xtreamSeriesId": 17,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10792223",
+          "tipo": "episodio",
+          "titulo": "A Cabeça de Joaquín Murrieta S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10792223",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b4cRVn14ISRIxczusriGZKq2tbT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10792224",
+          "tipo": "episodio",
+          "titulo": "A Cabeça de Joaquín Murrieta S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10792224",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b4cRVn14ISRIxczusriGZKq2tbT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10792225",
+          "tipo": "episodio",
+          "titulo": "A Cabeça de Joaquín Murrieta S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10792225",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b4cRVn14ISRIxczusriGZKq2tbT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10792226",
+          "tipo": "episodio",
+          "titulo": "A Cabeça de Joaquín Murrieta S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10792226",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b4cRVn14ISRIxczusriGZKq2tbT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10792227",
+          "tipo": "episodio",
+          "titulo": "A Cabeça de Joaquín Murrieta S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10792227",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b4cRVn14ISRIxczusriGZKq2tbT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10792228",
+          "tipo": "episodio",
+          "titulo": "A Cabeça de Joaquín Murrieta S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10792228",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b4cRVn14ISRIxczusriGZKq2tbT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10792229",
+          "tipo": "episodio",
+          "titulo": "A Cabeça de Joaquín Murrieta S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10792229",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b4cRVn14ISRIxczusriGZKq2tbT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10792230",
+          "tipo": "episodio",
+          "titulo": "A Cabeça de Joaquín Murrieta S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10792230",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b4cRVn14ISRIxczusriGZKq2tbT.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
   "tituloOriginal": "La cabeza de Joaquín Murrieta",
   "dataLancamento": "2023-02-17"
 }

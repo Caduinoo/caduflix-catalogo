@@ -12,6 +12,64 @@
   "tmdbId": 212186,
   "nota": 7.459,
   "xtreamSeriesId": 3982,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10899767",
+          "tipo": "episodio",
+          "titulo": "A Garota Desaparecida do Vaticano S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10899767",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ytWjMPudblp3fPM6Jyas5Z4H8jK.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899768",
+          "tipo": "episodio",
+          "titulo": "A Garota Desaparecida do Vaticano S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10899768",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ytWjMPudblp3fPM6Jyas5Z4H8jK.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899769",
+          "tipo": "episodio",
+          "titulo": "A Garota Desaparecida do Vaticano S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10899769",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ytWjMPudblp3fPM6Jyas5Z4H8jK.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899770",
+          "tipo": "episodio",
+          "titulo": "A Garota Desaparecida do Vaticano S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10899770",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ytWjMPudblp3fPM6Jyas5Z4H8jK.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
   "tituloOriginal": "Vatican Girl: la scomparsa di Emanuela Orlandi",
   "dataLancamento": "2022-10-20"
 }

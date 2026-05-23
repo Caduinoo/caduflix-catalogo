@@ -12,6 +12,88 @@
   "tmdbId": 237052,
   "nota": 7.533,
   "xtreamSeriesId": 1630,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10833915",
+          "tipo": "episodio",
+          "titulo": "A Estacao das Garotas Perdidas S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10833915",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/77mybJCqyZ2mKXa70E4MR9eFGm3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833916",
+          "tipo": "episodio",
+          "titulo": "A Estacao das Garotas Perdidas S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10833916",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/77mybJCqyZ2mKXa70E4MR9eFGm3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833917",
+          "tipo": "episodio",
+          "titulo": "A Estacao das Garotas Perdidas S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10833917",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/77mybJCqyZ2mKXa70E4MR9eFGm3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833918",
+          "tipo": "episodio",
+          "titulo": "A Estacao das Garotas Perdidas S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10833918",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/77mybJCqyZ2mKXa70E4MR9eFGm3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833919",
+          "tipo": "episodio",
+          "titulo": "A Estacao das Garotas Perdidas S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10833919",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/77mybJCqyZ2mKXa70E4MR9eFGm3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833920",
+          "tipo": "episodio",
+          "titulo": "A Estacao das Garotas Perdidas S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10833920",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/77mybJCqyZ2mKXa70E4MR9eFGm3.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
   "tituloOriginal": "Les Disparues de la gare",
   "dataLancamento": "2025-10-08"
 }

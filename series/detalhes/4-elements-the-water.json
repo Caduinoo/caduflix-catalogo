@@ -12,6 +12,28 @@
   "tmdbId": 287114,
   "nota": 9,
   "xtreamSeriesId": 7185,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11032144",
+          "tipo": "episodio",
+          "titulo": "4 Elements The Water (2026) [L] S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11032144",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/o9ddliDLVjF6dPobbYnWsoqGTYC.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 1,
   "tituloOriginal": "นทีร้อยเล่ห์",
   "dataLancamento": "2026-03-21"
 }

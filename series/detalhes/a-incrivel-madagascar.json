@@ -12,6 +12,52 @@
   "tmdbId": 114160,
   "nota": 7,
   "xtreamSeriesId": 25,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10792618",
+          "tipo": "episodio",
+          "titulo": "A Incrivel Madagascar S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10792618",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/s5OMIomJ4svwJ4bhuY0CP4pLE6D.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10792619",
+          "tipo": "episodio",
+          "titulo": "A Incrivel Madagascar S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10792619",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/s5OMIomJ4svwJ4bhuY0CP4pLE6D.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10792620",
+          "tipo": "episodio",
+          "titulo": "A Incrivel Madagascar S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10792620",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/s5OMIomJ4svwJ4bhuY0CP4pLE6D.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
   "tituloOriginal": "Land of Gremlins",
   "dataLancamento": "2015-11-02"
 }

@@ -9,8 +9,10 @@
     "generos": [
       "NETFLIX"
     ],
-    "nota": 7.25,
+    "nota": 7.2,
     "tmdbId": 274971,
+    "totalTemporadas": 1,
+    "totalEpisodios": 15,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-mar.json"
   },
   {
@@ -25,6 +27,8 @@
     ],
     "nota": 7.411,
     "tmdbId": 73021,
+    "totalTemporadas": 5,
+    "totalEpisodios": 50,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/des-encanto.json"
   },
   {
@@ -39,6 +43,8 @@
     ],
     "nota": 6.018,
     "tmdbId": 100429,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/100-humanos.json"
   },
   {
@@ -53,6 +59,8 @@
     ],
     "nota": 7.542,
     "tmdbId": 66788,
+    "totalTemporadas": 4,
+    "totalEpisodios": 49,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/13-reasons-why.json"
   },
   {
@@ -67,6 +75,8 @@
     ],
     "nota": 6.6,
     "tmdbId": 210922,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/28-dias-assombrados.json"
   },
   {
@@ -81,6 +91,8 @@
     ],
     "nota": 7.473,
     "tmdbId": 108545,
+    "totalTemporadas": 4,
+    "totalEpisodios": 33,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/3.json"
   },
   {
@@ -95,6 +107,8 @@
     ],
     "nota": 8.163,
     "tmdbId": 92684,
+    "totalTemporadas": 3,
+    "totalEpisodios": 31,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/4-contra-o-apocalipse.json"
   },
   {
@@ -109,6 +123,8 @@
     ],
     "nota": 6.38,
     "tmdbId": 197190,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/42-dias-de-escuridao.json"
   },
   {
@@ -123,6 +139,8 @@
     ],
     "nota": 7.7,
     "tmdbId": 89387,
+    "totalTemporadas": 1,
+    "totalEpisodios": 52,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/44-gatos.json"
   },
   {
@@ -137,6 +155,8 @@
     ],
     "nota": 6.609,
     "tmdbId": 65854,
+    "totalTemporadas": 1,
+    "totalEpisodios": 14,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/60-dias-infiltrados-na-prisao.json"
   },
   {
@@ -151,6 +171,8 @@
     ],
     "nota": 7.686,
     "tmdbId": 85940,
+    "totalTemporadas": 2,
+    "totalEpisodios": 24,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/7-seeds.json"
   },
   {
@@ -165,6 +187,8 @@
     ],
     "nota": 7.789,
     "tmdbId": 274905,
+    "totalTemporadas": 1,
+    "totalEpisodios": 3,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/900-dias-sem-anabel.json"
   },
   {
@@ -179,6 +203,8 @@
     ],
     "nota": 9.5,
     "tmdbId": 36222,
+    "totalTemporadas": 2,
+    "totalEpisodios": 20,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/9mm-sao-paulo.json"
   },
   {
@@ -193,6 +219,8 @@
     ],
     "nota": 7.177,
     "tmdbId": 262920,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-agente.json"
   },
   {
@@ -207,6 +235,8 @@
     ],
     "nota": 7.429,
     "tmdbId": 273977,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-arte-de-sarah.json"
   },
   {
@@ -221,6 +251,8 @@
     ],
     "nota": 6.3,
     "tmdbId": 205657,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-artista-da-enganacao.json"
   },
   {
@@ -235,6 +267,8 @@
     ],
     "nota": 7.43,
     "tmdbId": 293613,
+    "totalTemporadas": 2,
+    "totalEpisodios": 18,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-batalha-dos-100.json"
   },
   {
@@ -249,6 +283,8 @@
     ],
     "nota": 7.43,
     "tmdbId": 293613,
+    "totalTemporadas": 1,
+    "totalEpisodios": 12,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-batalha-dos-100-asia.json"
   },
   {
@@ -263,6 +299,8 @@
     ],
     "nota": 7.5,
     "tmdbId": 258923,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-batalha-dos-chefs-raiz.json"
   },
   {
@@ -277,6 +315,8 @@
     ],
     "nota": 4.7,
     "tmdbId": 127108,
+    "totalTemporadas": 0,
+    "totalEpisodios": 0,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-beira-do-caos.json"
   },
   {
@@ -291,6 +331,8 @@
     ],
     "nota": 8.1,
     "tmdbId": 137646,
+    "totalTemporadas": 2,
+    "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-beleza-secreta-dos-animais.json"
   },
   {
@@ -305,6 +347,8 @@
     ],
     "nota": 7.369,
     "tmdbId": 43899,
+    "totalTemporadas": 1,
+    "totalEpisodios": 89,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-biblia.json"
   },
   {
@@ -319,6 +363,8 @@
     ],
     "nota": 6.841,
     "tmdbId": 238091,
+    "totalTemporadas": 1,
+    "totalEpisodios": 3,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-bilionaria-o-mordomo-e-o-namorado.json"
   },
   {
@@ -333,6 +379,8 @@
     ],
     "nota": 7.7,
     "tmdbId": 61864,
+    "totalTemporadas": 5,
+    "totalEpisodios": 56,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-bruxa-do-bem.json"
   },
   {
@@ -347,6 +395,8 @@
     ],
     "nota": 6.5,
     "tmdbId": 285380,
+    "totalTemporadas": 1,
+    "totalEpisodios": 3,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-caca-ao-tesouro-de-fenn.json"
   },
   {
@@ -361,6 +411,8 @@
     ],
     "nota": 7.968,
     "tmdbId": 96571,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-caminho-do-ceu.json"
   },
   {
@@ -375,6 +427,8 @@
     ],
     "nota": 7.856,
     "tmdbId": 111474,
+    "totalTemporadas": 13,
+    "totalEpisodios": 85,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-casa-magica-da-gabby.json"
   },
   {
@@ -389,6 +443,8 @@
     ],
     "nota": 6.7,
     "tmdbId": 72613,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-catedral-do-mar.json"
   },
   {
@@ -403,6 +459,8 @@
     ],
     "nota": 6.611,
     "tmdbId": 230127,
+    "totalTemporadas": 1,
+    "totalEpisodios": 5,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-colina-do-cao.json"
   },
   {
@@ -417,6 +475,8 @@
     ],
     "nota": null,
     "tmdbId": 261970,
+    "totalTemporadas": 1,
+    "totalEpisodios": 3,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-comida-de-amanha.json"
   },
   {
@@ -431,6 +491,8 @@
     ],
     "nota": 7.506,
     "tmdbId": 221301,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-concierge-pokemon.json"
   },
   {
@@ -445,6 +507,8 @@
     ],
     "nota": 6.2,
     "tmdbId": 298699,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-crise-dos-caras.json"
   },
   {
@@ -459,6 +523,8 @@
     ],
     "nota": 7.39,
     "tmdbId": 280890,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-dama-de-companhia.json"
   },
   {
@@ -473,6 +539,8 @@
     ],
     "nota": 6.915,
     "tmdbId": 94413,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-desordem-que-ficou.json"
   },
   {
@@ -487,6 +555,8 @@
     ],
     "nota": 7.552,
     "tmdbId": 203857,
+    "totalTemporadas": 3,
+    "totalEpisodios": 22,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-diplomata.json"
   },
   {
@@ -501,6 +571,8 @@
     ],
     "nota": 7.3,
     "tmdbId": 244623,
+    "totalTemporadas": 2,
+    "totalEpisodios": 20,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-dona-da-bola.json"
   },
   {
@@ -515,6 +587,8 @@
     ],
     "nota": 6.3,
     "tmdbId": 106525,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-era-dos-dados.json"
   },
   {
@@ -529,6 +603,8 @@
     ],
     "nota": 7.353,
     "tmdbId": 203502,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-escola-amaldicoada.json"
   },
   {
@@ -543,6 +619,8 @@
     ],
     "nota": null,
     "tmdbId": 292233,
+    "totalTemporadas": 1,
+    "totalEpisodios": 100,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-filha-do-mariachi.json"
   },
   {
@@ -557,6 +635,8 @@
     ],
     "nota": 8.302,
     "tmdbId": 214454,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-flor-mais-bela.json"
   },
   {
@@ -571,6 +651,8 @@
     ],
     "nota": 7.125,
     "tmdbId": 212588,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-furia-de-paris.json"
   },
   {
@@ -585,6 +667,8 @@
     ],
     "nota": 7.2,
     "tmdbId": 210750,
+    "totalTemporadas": 2,
+    "totalEpisodios": 16,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-gangue-da-luva-verde.json"
   },
   {
@@ -599,6 +683,8 @@
     ],
     "nota": null,
     "tmdbId": 121241,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-garota-de-oslo.json"
   },
   {
@@ -613,6 +699,8 @@
     ],
     "nota": 7.459,
     "tmdbId": 212186,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-garota-desaparecida-do-vaticano.json"
   },
   {
@@ -627,6 +715,8 @@
     ],
     "nota": 7.185,
     "tmdbId": 215333,
+    "totalTemporadas": 2,
+    "totalEpisodios": 12,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-garota-na-fita.json"
   },
   {
@@ -641,6 +731,8 @@
     ],
     "nota": 7.012,
     "tmdbId": 279283,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-grande-descoberta.json"
   },
   {
@@ -655,6 +747,8 @@
     ],
     "nota": 7.142,
     "tmdbId": 220801,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-grande-ilusao.json"
   },
   {
@@ -669,6 +763,8 @@
     ],
     "nota": 7.125,
     "tmdbId": 93736,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-guerra-dos-samurais.json"
   },
   {
@@ -683,6 +779,8 @@
     ],
     "nota": 7,
     "tmdbId": 212553,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-herdeira.json"
   },
   {
@@ -697,6 +795,8 @@
     ],
     "nota": 7.2,
     "tmdbId": 281679,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-historia-da-minha-familia.json"
   },
   {
@@ -711,6 +811,8 @@
     ],
     "nota": 7.564,
     "tmdbId": 297464,
+    "totalTemporadas": 1,
+    "totalEpisodios": 20,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-hospede.json"
   },
   {
@@ -725,6 +827,8 @@
     ],
     "nota": 7.044,
     "tmdbId": 117678,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-ilha-da-caveira.json"
   },
   {
@@ -739,6 +843,8 @@
     ],
     "nota": 7.64,
     "tmdbId": 131488,
+    "totalTemporadas": 2,
+    "totalEpisodios": 12,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-imperatriz.json"
   },
   {
@@ -753,6 +859,8 @@
     ],
     "nota": 7.4,
     "tmdbId": 155973,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-incrivel-vida-dos-nossos-bichinhos.json"
   },
   {
@@ -767,6 +875,8 @@
     ],
     "nota": 7.7,
     "tmdbId": 241455,
+    "totalTemporadas": 1,
+    "totalEpisodios": 16,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-influenciadora.json"
   },
   {
@@ -781,6 +891,8 @@
     ],
     "nota": 6.776,
     "tmdbId": 130477,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-inundacao-do-milenio.json"
   },
   {
@@ -795,6 +907,8 @@
     ],
     "nota": 8.586,
     "tmdbId": 250463,
+    "totalTemporadas": 1,
+    "totalEpisodios": 12,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-jogada-da-vitoria.json"
   }
 ]

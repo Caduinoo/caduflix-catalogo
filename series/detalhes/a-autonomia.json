@@ -12,6 +12,76 @@
   "tmdbId": 82060,
   "nota": 6.2,
   "xtreamSeriesId": 3361,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10882408",
+          "tipo": "episodio",
+          "titulo": "A Autonomia S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10882408",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/che2DITXSJlwlaKsQOZugXPwGy3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10882409",
+          "tipo": "episodio",
+          "titulo": "A Autonomia S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10882409",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/che2DITXSJlwlaKsQOZugXPwGy3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10882410",
+          "tipo": "episodio",
+          "titulo": "A Autonomia S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10882410",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/che2DITXSJlwlaKsQOZugXPwGy3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10882411",
+          "tipo": "episodio",
+          "titulo": "A Autonomia S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10882411",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/che2DITXSJlwlaKsQOZugXPwGy3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10882412",
+          "tipo": "episodio",
+          "titulo": "A Autonomia S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10882412",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/che2DITXSJlwlaKsQOZugXPwGy3.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
   "tituloOriginal": "אוטונומיות",
   "dataLancamento": "2018-09-06"
 }

@@ -395,7 +395,7 @@
     "generos": [
       "LEGENDADOS"
     ],
-    "nota": 8.047,
+    "nota": 8.04,
     "tmdbId": 1167027,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-extraordinaria-vida-de-ibelin.json"
   },
@@ -781,6 +781,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/7-harry-potter-e-as-reliquias-da-morte-parte-1.json"
   },
   {
+    "id": "a-bela-e-a-fera",
+    "tipo": "filme",
+    "titulo": "A Bela e a Fera",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/is4c02QuP70BCVLp27SSlDeByoe.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.728,
+    "tmdbId": 10020,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-bela-e-a-fera.json"
+  },
+  {
     "id": "a-bela-e-a-fera-1991",
     "tipo": "filme",
     "titulo": "A Bela e a Fera",
@@ -823,20 +837,6 @@
     "nota": 7.703,
     "tmdbId": 672,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/2-harry-potter-e-a-camera-secreta.json"
-  },
-  {
-    "id": "a-bela-e-a-fera",
-    "tipo": "filme",
-    "titulo": "A Bela e a Fera",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/is4c02QuP70BCVLp27SSlDeByoe.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.7,
-    "tmdbId": 10020,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-bela-e-a-fera.json"
   },
   {
     "id": "a-confeiteira",

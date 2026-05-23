@@ -11,6 +11,8 @@
     ],
     "nota": 7,
     "tmdbId": 75627,
+    "totalTemporadas": 1,
+    "totalEpisodios": 62,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-candidata.json"
   },
   {
@@ -25,6 +27,8 @@
     ],
     "nota": 8.593,
     "tmdbId": 42336,
+    "totalTemporadas": 1,
+    "totalEpisodios": 55,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-casa-das-sete-mulheres.json"
   },
   {
@@ -39,6 +43,8 @@
     ],
     "nota": 7.6,
     "tmdbId": 128794,
+    "totalTemporadas": 1,
+    "totalEpisodios": 79,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-desalmada.json"
   },
   {
@@ -53,6 +59,8 @@
     ],
     "nota": 7.3,
     "tmdbId": 244623,
+    "totalTemporadas": 1,
+    "totalEpisodios": 159,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-dona.json"
   },
   {
@@ -67,6 +75,8 @@
     ],
     "nota": 7.3,
     "tmdbId": 90234,
+    "totalTemporadas": 1,
+    "totalEpisodios": 161,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-dona-do-pedaco.json"
   },
   {
@@ -81,6 +91,8 @@
     ],
     "nota": 7.495,
     "tmdbId": 13179,
+    "totalTemporadas": 1,
+    "totalEpisodios": 173,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-escrava-isaura.json"
   },
   {
@@ -95,6 +107,8 @@
     ],
     "nota": 8.056,
     "tmdbId": 11721,
+    "totalTemporadas": 1,
+    "totalEpisodios": 300,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-feia-mais-bela.json"
   },
   {
@@ -109,6 +123,8 @@
     ],
     "nota": 7.2,
     "tmdbId": 73752,
+    "totalTemporadas": 1,
+    "totalEpisodios": 173,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-forca-do-querer.json"
   },
   {
@@ -123,6 +139,8 @@
     ],
     "nota": 8.1,
     "tmdbId": 95544,
+    "totalTemporadas": 1,
+    "totalEpisodios": 160,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-gata-comeu.json"
   },
   {
@@ -137,6 +155,8 @@
     ],
     "nota": 9,
     "tmdbId": 121581,
+    "totalTemporadas": 1,
+    "totalEpisodios": 381,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-historia-de-ana-raio-e-ze-trovao.json"
   },
   {
@@ -151,6 +171,8 @@
     ],
     "nota": 6.9,
     "tmdbId": 41811,
+    "totalTemporadas": 1,
+    "totalEpisodios": 333,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-indomada.json"
   },
   {
@@ -165,6 +187,8 @@
     ],
     "nota": 6.855,
     "tmdbId": 19615,
+    "totalTemporadas": 1,
+    "totalEpisodios": 151,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-intrusa.json"
   }
 ]

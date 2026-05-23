@@ -11,6 +11,8 @@
     ],
     "nota": 0,
     "tmdbId": null,
+    "totalTemporadas": 2,
+    "totalEpisodios": 15,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/-1923.json"
   },
   {
@@ -25,6 +27,8 @@
     ],
     "nota": 6.506,
     "tmdbId": 62146,
+    "totalTemporadas": 1,
+    "totalEpisodios": 12,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/100-code.json"
   },
   {
@@ -39,6 +43,8 @@
     ],
     "nota": 7.163,
     "tmdbId": 219971,
+    "totalTemporadas": 1,
+    "totalEpisodios": 149,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-agencia.json"
   },
   {
@@ -53,6 +59,8 @@
     ],
     "nota": 7.799,
     "tmdbId": 605,
+    "totalTemporadas": 1,
+    "totalEpisodios": 24,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-aprendiz-de-feiticeira.json"
   },
   {
@@ -67,6 +75,8 @@
     ],
     "nota": 7.396,
     "tmdbId": 44606,
+    "totalTemporadas": 4,
+    "totalEpisodios": 70,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-bela-e-a-fera.json"
   },
   {
@@ -81,6 +91,8 @@
     ],
     "nota": 8.2,
     "tmdbId": 220073,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-bloody-lucky-day.json"
   },
   {
@@ -95,6 +107,8 @@
     ],
     "nota": 7.621,
     "tmdbId": 81144,
+    "totalTemporadas": 0,
+    "totalEpisodios": 0,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-boa-vizinhanca.json"
   },
   {
@@ -109,6 +123,8 @@
     ],
     "nota": 7.6,
     "tmdbId": 89214,
+    "totalTemporadas": 13,
+    "totalEpisodios": 164,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-culpa-e-do-cabral.json"
   },
   {
@@ -123,6 +139,8 @@
     ],
     "nota": null,
     "tmdbId": 205746,
+    "totalTemporadas": 1,
+    "totalEpisodios": 11,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-culpa-e-do-cabral-na-estrada.json"
   },
   {
@@ -137,6 +155,8 @@
     ],
     "nota": 6.807,
     "tmdbId": 9045,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-danca-da-morte.json"
   },
   {
@@ -151,6 +171,8 @@
     ],
     "nota": 7.2,
     "tmdbId": 59268,
+    "totalTemporadas": 2,
+    "totalEpisodios": 48,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-familia-hathaway.json"
   },
   {
@@ -165,6 +187,8 @@
     ],
     "nota": 7.1,
     "tmdbId": 222236,
+    "totalTemporadas": 2,
+    "totalEpisodios": 18,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-familia-stallone.json"
   }
 ]

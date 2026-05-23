@@ -12,6 +12,52 @@
   "tmdbId": 274905,
   "nota": 7.789,
   "xtreamSeriesId": 7040,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11016192",
+          "tipo": "episodio",
+          "titulo": "900 Dias Sem Anabel S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11016192",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qEKXbBYUmAhqhglNXCzwdnlspEs.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016193",
+          "tipo": "episodio",
+          "titulo": "900 Dias Sem Anabel S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11016193",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qEKXbBYUmAhqhglNXCzwdnlspEs.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016194",
+          "tipo": "episodio",
+          "titulo": "900 Dias Sem Anabel S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11016194",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qEKXbBYUmAhqhglNXCzwdnlspEs.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
   "tituloOriginal": "900 días sin Anabel",
   "dataLancamento": "2024-11-22"
 }

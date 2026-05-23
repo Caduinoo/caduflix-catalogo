@@ -12,6 +12,112 @@
   "tmdbId": 248590,
   "nota": 7,
   "xtreamSeriesId": 1327,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10827077",
+          "tipo": "episodio",
+          "titulo": "A Igreja Oculta S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10827077",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8MPw1le71B8hFhl4onAyLIoYbn2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10827078",
+          "tipo": "episodio",
+          "titulo": "A Igreja Oculta S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10827078",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8MPw1le71B8hFhl4onAyLIoYbn2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10827079",
+          "tipo": "episodio",
+          "titulo": "A Igreja Oculta S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10827079",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8MPw1le71B8hFhl4onAyLIoYbn2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10827080",
+          "tipo": "episodio",
+          "titulo": "A Igreja Oculta S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10827080",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8MPw1le71B8hFhl4onAyLIoYbn2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10827081",
+          "tipo": "episodio",
+          "titulo": "A Igreja Oculta S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10827081",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8MPw1le71B8hFhl4onAyLIoYbn2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10827082",
+          "tipo": "episodio",
+          "titulo": "A Igreja Oculta S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10827082",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8MPw1le71B8hFhl4onAyLIoYbn2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10827083",
+          "tipo": "episodio",
+          "titulo": "A Igreja Oculta S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10827083",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8MPw1le71B8hFhl4onAyLIoYbn2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10827084",
+          "tipo": "episodio",
+          "titulo": "A Igreja Oculta S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10827084",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8MPw1le71B8hFhl4onAyLIoYbn2.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
   "tituloOriginal": "La Iglesia Oculta",
   "dataLancamento": "2017-07-10"
 }

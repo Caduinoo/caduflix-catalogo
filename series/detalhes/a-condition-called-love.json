@@ -12,6 +12,64 @@
   "tmdbId": 239214,
   "nota": 7.221,
   "xtreamSeriesId": 1067,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10817565",
+          "tipo": "episodio",
+          "titulo": "A Condition Called Love S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10817565",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4zdTYtknEf1egyPORghs9pPXNo5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817566",
+          "tipo": "episodio",
+          "titulo": "A Condition Called Love S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10817566",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4zdTYtknEf1egyPORghs9pPXNo5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817567",
+          "tipo": "episodio",
+          "titulo": "A Condition Called Love S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10817567",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4zdTYtknEf1egyPORghs9pPXNo5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817568",
+          "tipo": "episodio",
+          "titulo": "A Condition Called Love S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10817568",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4zdTYtknEf1egyPORghs9pPXNo5.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
   "tituloOriginal": "花野井くんと恋の病",
   "dataLancamento": "2024-04-04"
 }

@@ -11,6 +11,8 @@
     ],
     "nota": 7.6,
     "tmdbId": 217766,
+    "totalTemporadas": 1,
+    "totalEpisodios": 12,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/100-coisas-para-fazer-antes-de-virar-zumbi.json"
   },
   {
@@ -25,6 +27,8 @@
     ],
     "nota": 8.103,
     "tmdbId": 223564,
+    "totalTemporadas": 1,
+    "totalEpisodios": 12,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/100-namoradas-que-te-amam-muuuuuito.json"
   },
   {
@@ -39,6 +43,8 @@
     ],
     "nota": 7.4,
     "tmdbId": 230189,
+    "totalTemporadas": 1,
+    "totalEpisodios": 12,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/365-days-to-the-wedding.json"
   },
   {
@@ -53,6 +59,8 @@
     ],
     "nota": 7.9,
     "tmdbId": 4455,
+    "totalTemporadas": 1,
+    "totalEpisodios": 11,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/86.json"
   },
   {
@@ -67,6 +75,8 @@
     ],
     "nota": 7.221,
     "tmdbId": 239214,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-condition-called-love.json"
   },
   {
@@ -81,6 +91,8 @@
     ],
     "nota": 7.171,
     "tmdbId": 122587,
+    "totalTemporadas": 2,
+    "totalEpisodios": 35,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-couple-of-cuckoos.json"
   },
   {
@@ -95,6 +107,8 @@
     ],
     "nota": 8.121,
     "tmdbId": 117933,
+    "totalTemporadas": 1,
+    "totalEpisodios": 25,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-ilha-das-sombras.json"
   },
   {
@@ -109,6 +123,8 @@
     ],
     "nota": 7.205,
     "tmdbId": 240633,
+    "totalTemporadas": 1,
+    "totalEpisodios": 11,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-journey-through-another-world-raising-kids-while-adventuring.json"
   }
 ]

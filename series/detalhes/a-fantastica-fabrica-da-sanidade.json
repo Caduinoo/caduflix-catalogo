@@ -12,6 +12,52 @@
   "tmdbId": 219018,
   "nota": 1,
   "xtreamSeriesId": 1025,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10816977",
+          "tipo": "episodio",
+          "titulo": "A Fantastica Fábrica da Sanidade S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10816977",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7CC2p1QajubhB3lXjFHkuww2KkN.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816978",
+          "tipo": "episodio",
+          "titulo": "A Fantastica Fábrica da Sanidade S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10816978",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7CC2p1QajubhB3lXjFHkuww2KkN.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816979",
+          "tipo": "episodio",
+          "titulo": "A Fantastica Fábrica da Sanidade S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10816979",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7CC2p1QajubhB3lXjFHkuww2KkN.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
   "tituloOriginal": "A Fantastica Fábrica da Sanidade",
   "dataLancamento": "2023-01-23"
 }

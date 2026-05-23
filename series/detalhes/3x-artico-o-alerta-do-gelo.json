@@ -12,6 +12,52 @@
   "tmdbId": 242929,
   "nota": null,
   "xtreamSeriesId": 2820,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10862491",
+          "tipo": "episodio",
+          "titulo": "3x Artico O Alerta do Gelo S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10862491",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8AbWvPr776OYTuysKgyT6jUafKT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10862492",
+          "tipo": "episodio",
+          "titulo": "3x Artico O Alerta do Gelo S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10862492",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8AbWvPr776OYTuysKgyT6jUafKT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10862493",
+          "tipo": "episodio",
+          "titulo": "3x Artico O Alerta do Gelo S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10862493",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8AbWvPr776OYTuysKgyT6jUafKT.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
   "tituloOriginal": "3x Ártico: O Alerta do Gelo",
   "dataLancamento": "2024-01-01"
 }

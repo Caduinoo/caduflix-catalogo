@@ -11,6 +11,8 @@
     ],
     "nota": 8,
     "tmdbId": 120161,
+    "totalTemporadas": 2,
+    "totalEpisodios": 52,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/100-lobo-a-lenda-da-pedra-da-lua.json"
   },
   {
@@ -25,6 +27,8 @@
     ],
     "nota": 7,
     "tmdbId": 202709,
+    "totalTemporadas": 1,
+    "totalEpisodios": 7,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/190-inteligencia-contra-o-crime.json"
   },
   {
@@ -39,6 +43,8 @@
     ],
     "nota": null,
     "tmdbId": 138597,
+    "totalTemporadas": 4,
+    "totalEpisodios": 37,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/24-horas-pra-redecorar.json"
   },
   {
@@ -53,6 +59,8 @@
     ],
     "nota": null,
     "tmdbId": 209303,
+    "totalTemporadas": 2,
+    "totalEpisodios": 20,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/4x4-sob-medida.json"
   },
   {
@@ -67,6 +75,8 @@
     ],
     "nota": 1.5,
     "tmdbId": 124081,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/90-dias-na-cozinha.json"
   },
   {
@@ -81,6 +91,8 @@
     ],
     "nota": 7.1,
     "tmdbId": 61575,
+    "totalTemporadas": 10,
+    "totalEpisodios": 146,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/90-dias-para-casar.json"
   },
   {
@@ -95,6 +107,8 @@
     ],
     "nota": 6.4,
     "tmdbId": 230272,
+    "totalTemporadas": 2,
+    "totalEpisodios": 31,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/90-dias-para-casar-a-ultima-chance.json"
   },
   {
@@ -109,6 +123,8 @@
     ],
     "nota": 7.5,
     "tmdbId": 73319,
+    "totalTemporadas": 6,
+    "totalEpisodios": 99,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/90-dias-para-casar-antes-dos-90-dias.json"
   },
   {
@@ -123,6 +139,8 @@
     ],
     "nota": 6.6,
     "tmdbId": 205154,
+    "totalTemporadas": 4,
+    "totalEpisodios": 50,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/90-dias-para-casar-reino-unido.json"
   },
   {
@@ -137,6 +155,8 @@
     ],
     "nota": null,
     "tmdbId": 251422,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/90-dias-para-casar-seguindo-jorge-e-anfisa.json"
   },
   {
@@ -151,6 +171,8 @@
     ],
     "nota": 7.99,
     "tmdbId": 91987,
+    "totalTemporadas": 2,
+    "totalEpisodios": 24,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/90-dias-para-ficar-milionario.json"
   },
   {
@@ -165,6 +187,8 @@
     ],
     "nota": null,
     "tmdbId": 297627,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-ascensao-e-a-queda-dos-faraos.json"
   },
   {
@@ -179,6 +203,8 @@
     ],
     "nota": null,
     "tmdbId": 254240,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-batalha-das-vovos.json"
   },
   {
@@ -193,6 +219,8 @@
     ],
     "nota": null,
     "tmdbId": 96271,
+    "totalTemporadas": 2,
+    "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-batalha-dos-biscoitos-natalinos.json"
   },
   {
@@ -207,6 +235,8 @@
     ],
     "nota": 6.6,
     "tmdbId": 31783,
+    "totalTemporadas": 14,
+    "totalEpisodios": 112,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-batalha-dos-piores-cozinheiros.json"
   },
   {
@@ -221,6 +251,8 @@
     ],
     "nota": 7.5,
     "tmdbId": 115957,
+    "totalTemporadas": 1,
+    "totalEpisodios": 7,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-batalha-dos-piores-cozinheiros-em-pratos-limpos.json"
   },
   {
@@ -235,6 +267,8 @@
     ],
     "nota": 7.8,
     "tmdbId": 74676,
+    "totalTemporadas": 8,
+    "totalEpisodios": 46,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-disputa-dos-confeiteiros-halloween.json"
   },
   {
@@ -249,6 +283,8 @@
     ],
     "nota": 6.6,
     "tmdbId": 70728,
+    "totalTemporadas": 8,
+    "totalEpisodios": 69,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-disputa-dos-confeiteiros-primavera.json"
   },
   {
@@ -263,6 +299,8 @@
     ],
     "nota": 2,
     "tmdbId": 227683,
+    "totalTemporadas": 0,
+    "totalEpisodios": 0,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-grande-cacada.json"
   },
   {
@@ -277,6 +315,8 @@
     ],
     "nota": 6.4,
     "tmdbId": 67823,
+    "totalTemporadas": 5,
+    "totalEpisodios": 53,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-guerra-dos-bolos.json"
   },
   {
@@ -291,6 +331,8 @@
     ],
     "nota": 8,
     "tmdbId": 77760,
+    "totalTemporadas": 1,
+    "totalEpisodios": 3,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-historia-do-mundo-atraves-dos-tempos.json"
   },
   {
@@ -305,6 +347,8 @@
     ],
     "nota": 7,
     "tmdbId": 248590,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-igreja-oculta.json"
   },
   {
@@ -319,6 +363,8 @@
     ],
     "nota": 6.7,
     "tmdbId": 202960,
+    "totalTemporadas": 1,
+    "totalEpisodios": 5,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-internet-do-mal.json"
   }
 ]

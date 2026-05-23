@@ -12,6 +12,136 @@
   "tmdbId": 292052,
   "nota": 8.7,
   "xtreamSeriesId": 3,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10791953",
+          "tipo": "episodio",
+          "titulo": "90 Minutos S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10791953",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1wccCeLiINjJwc1qN7JFvP46OwQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10791954",
+          "tipo": "episodio",
+          "titulo": "90 Minutos S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10791954",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1wccCeLiINjJwc1qN7JFvP46OwQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10791955",
+          "tipo": "episodio",
+          "titulo": "90 Minutos S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10791955",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1wccCeLiINjJwc1qN7JFvP46OwQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10791956",
+          "tipo": "episodio",
+          "titulo": "90 Minutos S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10791956",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1wccCeLiINjJwc1qN7JFvP46OwQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10791957",
+          "tipo": "episodio",
+          "titulo": "90 Minutos S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10791957",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1wccCeLiINjJwc1qN7JFvP46OwQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10791958",
+          "tipo": "episodio",
+          "titulo": "90 Minutos S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10791958",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1wccCeLiINjJwc1qN7JFvP46OwQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10791959",
+          "tipo": "episodio",
+          "titulo": "90 Minutos S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10791959",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1wccCeLiINjJwc1qN7JFvP46OwQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10791960",
+          "tipo": "episodio",
+          "titulo": "90 Minutos S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10791960",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1wccCeLiINjJwc1qN7JFvP46OwQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10791961",
+          "tipo": "episodio",
+          "titulo": "90 Minutos S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10791961",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1wccCeLiINjJwc1qN7JFvP46OwQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10791962",
+          "tipo": "episodio",
+          "titulo": "90 Minutos S01E10",
+          "numero": 10,
+          "temporada": 1,
+          "xtreamId": "10791962",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1wccCeLiINjJwc1qN7JFvP46OwQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 10,
   "tituloOriginal": "90 Minutes",
   "dataLancamento": "2025-05-22"
 }

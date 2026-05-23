@@ -12,6 +12,64 @@
   "tmdbId": 9045,
   "nota": 6.807,
   "xtreamSeriesId": 6484,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10992916",
+          "tipo": "episodio",
+          "titulo": "A Dança da Morte S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10992916",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kHV7sGzzpFMb2SypKpLUwNC10sN.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10992917",
+          "tipo": "episodio",
+          "titulo": "A Dança da Morte S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10992917",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kHV7sGzzpFMb2SypKpLUwNC10sN.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10992918",
+          "tipo": "episodio",
+          "titulo": "A Dança da Morte S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10992918",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kHV7sGzzpFMb2SypKpLUwNC10sN.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10992919",
+          "tipo": "episodio",
+          "titulo": "A Dança da Morte S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10992919",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kHV7sGzzpFMb2SypKpLUwNC10sN.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
   "tituloOriginal": "The Stand",
   "dataLancamento": "1994-05-08"
 }

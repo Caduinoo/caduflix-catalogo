@@ -12,6 +12,160 @@
   "tmdbId": 126782,
   "nota": 3.5,
   "xtreamSeriesId": 7051,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11016259",
+          "tipo": "episodio",
+          "titulo": "A Bruxa J da Porta ao Lado [L] S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11016259",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gAUDm8HB78XnNMeX16t0dzy2egO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016260",
+          "tipo": "episodio",
+          "titulo": "A Bruxa J da Porta ao Lado [L] S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11016260",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gAUDm8HB78XnNMeX16t0dzy2egO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016261",
+          "tipo": "episodio",
+          "titulo": "A Bruxa J da Porta ao Lado [L] S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11016261",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gAUDm8HB78XnNMeX16t0dzy2egO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016262",
+          "tipo": "episodio",
+          "titulo": "A Bruxa J da Porta ao Lado [L] S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11016262",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gAUDm8HB78XnNMeX16t0dzy2egO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016263",
+          "tipo": "episodio",
+          "titulo": "A Bruxa J da Porta ao Lado [L] S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11016263",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gAUDm8HB78XnNMeX16t0dzy2egO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016264",
+          "tipo": "episodio",
+          "titulo": "A Bruxa J da Porta ao Lado [L] S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11016264",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gAUDm8HB78XnNMeX16t0dzy2egO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016265",
+          "tipo": "episodio",
+          "titulo": "A Bruxa J da Porta ao Lado [L] S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "11016265",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gAUDm8HB78XnNMeX16t0dzy2egO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016266",
+          "tipo": "episodio",
+          "titulo": "A Bruxa J da Porta ao Lado [L] S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "11016266",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gAUDm8HB78XnNMeX16t0dzy2egO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016267",
+          "tipo": "episodio",
+          "titulo": "A Bruxa J da Porta ao Lado [L] S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "11016267",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gAUDm8HB78XnNMeX16t0dzy2egO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016268",
+          "tipo": "episodio",
+          "titulo": "A Bruxa J da Porta ao Lado [L] S01E10",
+          "numero": 10,
+          "temporada": 1,
+          "xtreamId": "11016268",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gAUDm8HB78XnNMeX16t0dzy2egO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016269",
+          "tipo": "episodio",
+          "titulo": "A Bruxa J da Porta ao Lado [L] S01E11",
+          "numero": 11,
+          "temporada": 1,
+          "xtreamId": "11016269",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gAUDm8HB78XnNMeX16t0dzy2egO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016270",
+          "tipo": "episodio",
+          "titulo": "A Bruxa J da Porta ao Lado [L] S01E12",
+          "numero": 12,
+          "temporada": 1,
+          "xtreamId": "11016270",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gAUDm8HB78XnNMeX16t0dzy2egO.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 12,
   "tituloOriginal": "옆집 마녀 제이",
   "dataLancamento": "2021-06-04"
 }

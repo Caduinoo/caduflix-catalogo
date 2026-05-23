@@ -11,6 +11,8 @@
     ],
     "nota": null,
     "tmdbId": 208661,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-crise-dos-tres-poderes.json"
   },
   {
@@ -25,6 +27,8 @@
     ],
     "nota": 1,
     "tmdbId": 219018,
+    "totalTemporadas": 1,
+    "totalEpisodios": 3,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-fantastica-fabrica-da-sanidade.json"
   }
 ]

@@ -12,6 +12,100 @@
   "tmdbId": 202709,
   "nota": 7,
   "xtreamSeriesId": 1309,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10826449",
+          "tipo": "episodio",
+          "titulo": "190 Inteligência Contra o Crime S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10826449",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kapqgnjRDf5HPH7fBTDcLW6kQxx.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10826450",
+          "tipo": "episodio",
+          "titulo": "190 Inteligência Contra o Crime S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10826450",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kapqgnjRDf5HPH7fBTDcLW6kQxx.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10826451",
+          "tipo": "episodio",
+          "titulo": "190 Inteligência Contra o Crime S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10826451",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kapqgnjRDf5HPH7fBTDcLW6kQxx.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10826452",
+          "tipo": "episodio",
+          "titulo": "190 Inteligência Contra o Crime S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10826452",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kapqgnjRDf5HPH7fBTDcLW6kQxx.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10826453",
+          "tipo": "episodio",
+          "titulo": "190 Inteligência Contra o Crime S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10826453",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kapqgnjRDf5HPH7fBTDcLW6kQxx.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10826454",
+          "tipo": "episodio",
+          "titulo": "190 Inteligência Contra o Crime S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10826454",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kapqgnjRDf5HPH7fBTDcLW6kQxx.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10826455",
+          "tipo": "episodio",
+          "titulo": "190 Inteligência Contra o Crime S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10826455",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kapqgnjRDf5HPH7fBTDcLW6kQxx.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
   "tituloOriginal": "190: Inteligência Contra o Crime",
   "dataLancamento": "2022-05-20"
 }

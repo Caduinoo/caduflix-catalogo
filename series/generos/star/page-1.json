@@ -11,6 +11,8 @@
     ],
     "nota": 8,
     "tmdbId": 89393,
+    "totalTemporadas": 5,
+    "totalEpisodios": 72,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/9-1-1-lone-star.json"
   },
   {
@@ -25,6 +27,8 @@
     ],
     "nota": 5.8,
     "tmdbId": 205971,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-batalha-das-pizzas.json"
   },
   {
@@ -39,6 +43,8 @@
     ],
     "nota": 7.5,
     "tmdbId": 66185,
+    "totalTemporadas": 3,
+    "totalEpisodios": 15,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-historia-de-deus-com-morgan-freeman.json"
   }
 ]

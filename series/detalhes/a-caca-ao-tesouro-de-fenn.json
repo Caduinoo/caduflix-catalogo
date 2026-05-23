@@ -12,6 +12,52 @@
   "tmdbId": 285380,
   "nota": 6.5,
   "xtreamSeriesId": 3964,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10899504",
+          "tipo": "episodio",
+          "titulo": "A Caca ao Tesouro de Fenn S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10899504",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1dwFP0t5LHPLdX2hBkaeezGcyIU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899505",
+          "tipo": "episodio",
+          "titulo": "A Caca ao Tesouro de Fenn S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10899505",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1dwFP0t5LHPLdX2hBkaeezGcyIU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899506",
+          "tipo": "episodio",
+          "titulo": "A Caca ao Tesouro de Fenn S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10899506",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1dwFP0t5LHPLdX2hBkaeezGcyIU.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
   "tituloOriginal": "Gold & Greed: The Hunt for Fenn's Treasure",
   "dataLancamento": "2025-03-27"
 }

@@ -11,6 +11,8 @@
     ],
     "nota": 7.4,
     "tmdbId": 60948,
+    "totalTemporadas": 4,
+    "totalEpisodios": 47,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/12-monkeys.json"
   },
   {
@@ -25,6 +27,8 @@
     ],
     "nota": 7.8,
     "tmdbId": 1973,
+    "totalTemporadas": 9,
+    "totalEpisodios": 204,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/24-horas.json"
   },
   {
@@ -39,6 +43,8 @@
     ],
     "nota": 6.9,
     "tmdbId": 74447,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-acusacao.json"
   },
   {
@@ -53,6 +59,8 @@
     ],
     "nota": 7.457,
     "tmdbId": 257992,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-cacada.json"
   },
   {
@@ -67,6 +75,8 @@
     ],
     "nota": 6.8,
     "tmdbId": 231000,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-casa-de-moda.json"
   },
   {
@@ -81,6 +91,8 @@
     ],
     "nota": 5.1,
     "tmdbId": 130232,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-casa-harper.json"
   },
   {
@@ -95,6 +107,8 @@
     ],
     "nota": 6.73,
     "tmdbId": 93716,
+    "totalTemporadas": 2,
+    "totalEpisodios": 17,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-costa-do-mosquito.json"
   },
   {
@@ -109,6 +123,8 @@
     ],
     "nota": 6.483,
     "tmdbId": 39775,
+    "totalTemporadas": 6,
+    "totalEpisodios": 128,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-ilha-da-fantasia.json"
   },
   {
@@ -123,6 +139,8 @@
     ],
     "nota": 7.429,
     "tmdbId": 50825,
+    "totalTemporadas": 4,
+    "totalEpisodios": 61,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-lenda-de-sleepy-hollow.json"
   }
 ]

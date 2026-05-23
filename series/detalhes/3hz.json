@@ -12,6 +12,172 @@
   "tmdbId": 208427,
   "nota": 7,
   "xtreamSeriesId": 1626,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10833792",
+          "tipo": "episodio",
+          "titulo": "3Hz S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10833792",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b9R1paAYG8HpzPs6JS7hxmKgO8t.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833793",
+          "tipo": "episodio",
+          "titulo": "3Hz S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10833793",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b9R1paAYG8HpzPs6JS7hxmKgO8t.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833794",
+          "tipo": "episodio",
+          "titulo": "3Hz S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10833794",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b9R1paAYG8HpzPs6JS7hxmKgO8t.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833795",
+          "tipo": "episodio",
+          "titulo": "3Hz S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10833795",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b9R1paAYG8HpzPs6JS7hxmKgO8t.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833796",
+          "tipo": "episodio",
+          "titulo": "3Hz S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10833796",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b9R1paAYG8HpzPs6JS7hxmKgO8t.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833797",
+          "tipo": "episodio",
+          "titulo": "3Hz S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10833797",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b9R1paAYG8HpzPs6JS7hxmKgO8t.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833798",
+          "tipo": "episodio",
+          "titulo": "3Hz S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10833798",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b9R1paAYG8HpzPs6JS7hxmKgO8t.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833799",
+          "tipo": "episodio",
+          "titulo": "3Hz S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10833799",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b9R1paAYG8HpzPs6JS7hxmKgO8t.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833800",
+          "tipo": "episodio",
+          "titulo": "3Hz S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10833800",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b9R1paAYG8HpzPs6JS7hxmKgO8t.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833801",
+          "tipo": "episodio",
+          "titulo": "3Hz S01E10",
+          "numero": 10,
+          "temporada": 1,
+          "xtreamId": "10833801",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b9R1paAYG8HpzPs6JS7hxmKgO8t.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833802",
+          "tipo": "episodio",
+          "titulo": "3Hz S01E11",
+          "numero": 11,
+          "temporada": 1,
+          "xtreamId": "10833802",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b9R1paAYG8HpzPs6JS7hxmKgO8t.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833803",
+          "tipo": "episodio",
+          "titulo": "3Hz S01E12",
+          "numero": 12,
+          "temporada": 1,
+          "xtreamId": "10833803",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b9R1paAYG8HpzPs6JS7hxmKgO8t.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833804",
+          "tipo": "episodio",
+          "titulo": "3Hz S01E13",
+          "numero": 13,
+          "temporada": 1,
+          "xtreamId": "10833804",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b9R1paAYG8HpzPs6JS7hxmKgO8t.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 13,
   "tituloOriginal": "3Hz",
   "dataLancamento": "2021-09-01"
 }
