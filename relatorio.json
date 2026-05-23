@@ -1,0 +1,29 @@
+{
+  "geradoEm": "2026-05-22T21:10:00.336Z",
+  "entrada": {
+    "filmesXtream": 29100,
+    "seriesXtream": 7414,
+    "canaisXtream": 1861
+  },
+  "saida": {
+    "filmesFinais": 1000,
+    "seriesFinais": 300,
+    "canaisFinais": 200
+  },
+  "agrupamento": {
+    "observacao": "Limite de teste ativado. O número real de duplicados só deve ser validado com limiteFilmes: null.",
+    "filmesAgrupadosComoDuplicados": null,
+    "filmesComMaisDeUmaOpcao": 411
+  },
+  "capas": {
+    "filmesSemCapa": 17,
+    "filmesSemBanner": 102,
+    "seriesSemCapa": 3,
+    "seriesSemBanner": 5,
+    "canaisSemCapa": 0
+  },
+  "tmdb": {
+    "filmesNaoEncontrados": 75,
+    "seriesNaoEncontradas": 3
+  }
+}
