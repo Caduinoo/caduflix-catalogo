@@ -128,12 +128,13 @@
       "LEGENDADOS",
       "DRAMA",
       "ROMANCE",
+      "4K",
       "LANÇAMENTOS"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/762vOiAWzosAH95sKLzUqYaAoHR.jpg",
     "banner": "https://image.tmdb.org/t/p/original/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
     "tmdbId": 1316092,
-    "nota": 6.6,
+    "nota": 6.64,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -157,53 +158,19 @@
         "container": "mp4"
       },
       {
-        "nome": "Padrão",
-        "idioma": "Não informado",
-        "qualidade": "Não informado",
-        "xtreamId": 11033332,
-        "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "\"Wuthering Heights\"",
-    "dataLancamento": "2026-02-11"
-  },
-  {
-    "id": "o-morro-dos-ventos-uivantes-hdr",
-    "tipo": "filme",
-    "titulo": "“O Morro dos Ventos Uivantes” [HDR]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/762vOiAWzosAH95sKLzUqYaAoHR.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
-      {
         "nome": "4K",
         "idioma": "Não informado",
         "qualidade": "4K",
         "xtreamId": 11034009,
         "container": "mp4"
-      }
-    ]
-  },
-  {
-    "id": "o-morro-dos-ventos-uivantes-lancamento",
-    "tipo": "filme",
-    "titulo": "“O Morro dos Ventos Uivantes” [Lançamento]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "LANÇAMENTOS"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgUKl2DgbZwnT9f3y7F1Z5Cpvc7.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 11033332,
+        "container": "mp4"
+      },
       {
         "nome": "Padrão",
         "idioma": "Não informado",
@@ -211,7 +178,9 @@
         "xtreamId": 11050116,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "\"Wuthering Heights\"",
+    "dataLancamento": "2026-02-11"
   },
   {
     "id": "a-fronteira",
@@ -245,7 +214,8 @@
     "ano": null,
     "descricao": "Kátia Klein é uma escritora bem-sucedida que enfrenta uma crise criativa às vésperas da entrega do seu novo livro, ao mesmo tempo em que descobre a falência do seu casamento e administra o acúmulo das demandas dos filhos e dos pais. Sobrecarregada e em busca de alívio, ela passa de uma simples taça de vinho ao total descontrole, sendo gradualmente engolida pelos excessos do vício.",
     "generos": [
-      "NACIONAIS"
+      "NACIONAIS",
+      "LANÇAMENTOS"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/scl6uVD0YZc46WZHgXbEcaH2zYw.jpg",
     "banner": "https://image.tmdb.org/t/p/original/kskuAryLOhMTtsb8QIngE1H4XmJ.jpg",
@@ -258,25 +228,7 @@
         "qualidade": "Não informado",
         "xtreamId": 11035099,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "(Des)controle",
-    "dataLancamento": "2026-02-05"
-  },
-  {
-    "id": "des-controle-lancamento",
-    "tipo": "filme",
-    "titulo": "(Des)controle [Lançamento]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "LANÇAMENTOS"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXZs5jGPToGzNNRlG6o88zomZ0y.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "Padrão",
         "idioma": "Não informado",
@@ -284,7 +236,9 @@
         "xtreamId": 11049932,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "(Des)controle",
+    "dataLancamento": "2026-02-05"
   },
   {
     "id": "in-seguros",
@@ -376,29 +330,6 @@
     ],
     "tituloOriginal": "Birth/Rebirth",
     "dataLancamento": "2023-08-18"
-  },
-  {
-    "id": "hdr-1985",
-    "tipo": "filme",
-    "titulo": "[HDR]",
-    "ano": 1985,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/mV7QRq3nI238vxlbyXRYFQKfbyL.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
-      {
-        "nome": "4K",
-        "idioma": "Não informado",
-        "qualidade": "4K",
-        "xtreamId": 10781891,
-        "container": "mp4"
-      }
-    ]
   },
   {
     "id": "oshi-no-ko-o-ato-final",
@@ -839,25 +770,7 @@
         "qualidade": "4K",
         "xtreamId": 11035569,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "#SalveRosa",
-    "dataLancamento": "2025-10-23"
-  },
-  {
-    "id": "salverosa-hdr",
-    "tipo": "filme",
-    "titulo": "#SalveRosa [HDR]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCivukZVNGjvj7VGwsPMFFHq0Zx.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -865,7 +778,9 @@
         "xtreamId": 11034909,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "#SalveRosa",
+    "dataLancamento": "2025-10-23"
   },
   {
     "id": "seacabo-diario-das-campeas",
@@ -1170,7 +1085,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/u5hkEerfpDx0eqk3braCh0eVuDT.jpg",
     "banner": "https://image.tmdb.org/t/p/original/7DLCXCQx52YLle1qTokrjROTwVV.jpg",
     "tmdbId": 660,
-    "nota": 6.666,
+    "nota": 6.7,
     "opcoes": [
       {
         "nome": "Padrão",
@@ -1195,7 +1110,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/iy2lzurX2whm3AmbQZboYzWHEua.jpg",
     "banner": "https://image.tmdb.org/t/p/original/fIWsCpYR9iGDMSbMTSAzy8L7Kg5.jpg",
     "tmdbId": 710,
-    "nota": 6.902,
+    "nota": 6.9,
     "opcoes": [
       {
         "nome": "Padrão",
@@ -1353,7 +1268,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/vetwfKSMJ1yqfuI98k6XExu7GFH.jpg",
     "banner": "https://image.tmdb.org/t/p/original/8lBViysvNJBPkl6zG1LVAaW3qhj.jpg",
     "tmdbId": 206647,
-    "nota": 6.6,
+    "nota": 6.569,
     "opcoes": [
       {
         "nome": "Padrão",
@@ -1523,7 +1438,8 @@
     "ano": null,
     "descricao": "Bond deixou o serviço ativo e está desfrutando de uma vida tranquila na Jamaica. Sua paz é interrompida quando o seu velho amigo Felix Leiter, da CIA, aparece pedindo sua ajuda. A missão de resgatar um cientista sequestrado acaba sendo muito mais difícil do que o esperado, deixando Bond no caminho de um vilão misterioso e armado com uma nova tecnologia perigosa.",
     "generos": [
-      "AÇÃO | CRIME | GUERRA"
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/ymiLbqoSxGSkMeM2vW6JWpmnPjL.jpg",
     "banner": "https://image.tmdb.org/t/p/original/x9td0NQha0t44K2qgcMipLOGjVi.jpg",
@@ -1536,25 +1452,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10769094,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "No Time to Die",
-    "dataLancamento": "2021-09-29"
-  },
-  {
-    "id": "007-sem-tempo-para-morrer-hdr",
-    "tipo": "filme",
-    "titulo": "007 Sem Tempo para Morrer [HDR]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/ymiLbqoSxGSkMeM2vW6JWpmnPjL.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -1562,7 +1460,9 @@
         "xtreamId": 10781895,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "No Time to Die",
+    "dataLancamento": "2021-09-29"
   },
   {
     "id": "007-somente-para-seus-olhos",
@@ -1897,7 +1797,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/yS9WxbISOCzucj7484IohnrBr5b.jpg",
     "banner": "https://image.tmdb.org/t/p/original/nZlvmbnx5ZJYkSVocuQvOgVlWli.jpg",
     "tmdbId": 7840,
-    "nota": 5.503,
+    "nota": 5.505,
     "opcoes": [
       {
         "nome": "Padrão",
@@ -1951,12 +1851,13 @@
     "descricao": "Intimidado pelo chefe, ele era só mais um funcionário explorado. Mas tudo o que esse homem precisava para finalmente se sentir vivo era um ataque de zumbis!",
     "generos": [
       "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/lwyleO7PqNNkX66stvANWP01p9I.jpg",
     "banner": "https://image.tmdb.org/t/p/original/bD8ftQIovUjCAIA6OVVuquHtLWH.jpg",
     "tmdbId": 1070514,
-    "nota": 6.6,
+    "nota": 6.557,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -1971,25 +1872,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10769097,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "ゾン100～ゾンビになるまでにしたい100のこと～",
-    "dataLancamento": "2023-08-03"
-  },
-  {
-    "id": "100-coisas-para-fazer-antes-de-virar-zumbi-hybrid",
-    "tipo": "filme",
-    "titulo": "100 Coisas para Fazer Antes de Virar Zumbi [Hybrid]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/lwyleO7PqNNkX66stvANWP01p9I.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -1997,7 +1880,9 @@
         "xtreamId": 10781893,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "ゾン100～ゾンビになるまでにしたい100のこと～",
+    "dataLancamento": "2023-08-03"
   },
   {
     "id": "100-dias-de-resistencia",
@@ -2012,7 +1897,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/naG6PCVZupvYaOf9kGgKd2MVZRZ.jpg",
     "banner": "https://image.tmdb.org/t/p/original/kkwIaDrsnWyhJ1EYF1fFCwBpKix.jpg",
     "tmdbId": 662876,
-    "nota": 7,
+    "nota": 7.462,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -2439,7 +2324,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/aiHIhV8c45FzIlbqYlswrrNyQD6.jpg",
     "banner": "https://image.tmdb.org/t/p/original/w4bTBXcqXc2TUyS5Fc4h67uWbPn.jpg",
     "tmdbId": 389,
-    "nota": 8.561,
+    "nota": 8.6,
     "opcoes": [
       {
         "nome": "Padrão",
@@ -2461,7 +2346,8 @@
     "generos": [
       "LEGENDADOS",
       "4K",
-      "AÇÃO | CRIME | GUERRA"
+      "AÇÃO | CRIME | GUERRA",
+      "LANÇAMENTOS"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/fgE599tMFzidu8x1IgtSQDRi06j.jpg",
     "banner": "https://image.tmdb.org/t/p/original/9pWJnd9jneXRkjOnpHCLN41Bse5.jpg",
@@ -2488,25 +2374,7 @@
         "qualidade": "Não informado",
         "xtreamId": 11041336,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "怒火十二小时",
-    "dataLancamento": "2024-08-28"
-  },
-  {
-    "id": "12-horas-de-furia-infinda-lancamento",
-    "tipo": "filme",
-    "titulo": "12 Horas de Fúria Infinda [Lançamento]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "LANÇAMENTOS"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgE599tMFzidu8x1IgtSQDRi06j.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "Padrão",
         "idioma": "Não informado",
@@ -2514,7 +2382,9 @@
         "xtreamId": 11049935,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "怒火十二小时",
+    "dataLancamento": "2024-08-28"
   },
   {
     "id": "12-horas-para-o-fim-do-mundo",
@@ -2741,7 +2611,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/qxAzFpo0mDW3ZLvJEAKTz3Pc6Tv.jpg",
     "banner": "https://image.tmdb.org/t/p/original/viBWzktrBmhzRw4ehmUIrrN4C0z.jpg",
     "tmdbId": 44115,
-    "nota": 7.089,
+    "nota": 7.088,
     "opcoes": [
       {
         "nome": "Padrão",
@@ -2882,7 +2752,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/K4lEgO47Axbidt5MJo5KljpP3G.jpg",
     "banner": "https://image.tmdb.org/t/p/original/ayDMYGUNVvXS76wQgFwTiUIDNb5.jpg",
     "tmdbId": 300671,
-    "nota": 7.273,
+    "nota": 7.274,
     "opcoes": [
       {
         "nome": "Padrão",
@@ -2935,7 +2805,8 @@
     "ano": null,
     "descricao": "Enquanto as tropas americanas se retiram, o Talibã assume o controle da capital. Diante da crise, milhares de afegãos buscam refúgio na Embaixada da França, cuja proteção está sob o comando de Mohamed Bida e seus homens. Cercado pelas forças do Talibã, Bida precisa negociar a passagem segura de um comboio de última chance em direção ao aeroporto, em uma corrida contra o tempo pela vida dos refugiados.",
     "generos": [
-      "AÇÃO | CRIME | GUERRA"
+      "AÇÃO | CRIME | GUERRA",
+      "LANÇAMENTOS"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/i5jBVwAMY8CxKX5ENUqLSHeJI2x.jpg",
     "banner": "https://image.tmdb.org/t/p/original/1zlHZDtV5KsX5VcBahNy5GDqUVt.jpg",
@@ -2948,25 +2819,7 @@
         "qualidade": "Não informado",
         "xtreamId": 11050440,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "13 Jours, 13 Nuits",
-    "dataLancamento": "2025-06-27"
-  },
-  {
-    "id": "13-noites-lancamento",
-    "tipo": "filme",
-    "titulo": "13 Noites [Lançamento]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "LANÇAMENTOS"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5jBVwAMY8CxKX5ENUqLSHeJI2x.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "Padrão",
         "idioma": "Não informado",
@@ -2974,7 +2827,9 @@
         "xtreamId": 11050480,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "13 Jours, 13 Nuits",
+    "dataLancamento": "2025-06-27"
   },
   {
     "id": "13-o-jogador",
@@ -3074,7 +2929,8 @@
     "ano": null,
     "descricao": "“Como o final feliz de um filme perfeito”. É assim que João descreve o fim de seu relacionamento de 10 anos com Hugo. Apesar da separação, eles permanecem amigos bem próximos. No entanto, voltar ao universo dos encontros românticos, usando aplicativos, traz um turbilhão de emoções, mostrando que a vida real não pode ser controlada como um roteiro de filme.",
     "generos": [
-      "NACIONAIS"
+      "NACIONAIS",
+      "LANÇAMENTOS"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/dpZgJHBTG7GRr6BpmIhrKfq8BpP.jpg",
     "banner": "https://image.tmdb.org/t/p/original/lREwJEc3rT30jbaFlJ87QSG6KXK.jpg",
@@ -3087,25 +2943,7 @@
         "qualidade": "Não informado",
         "xtreamId": 11041294,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "13 Sentimentos",
-    "dataLancamento": "2024-06-13"
-  },
-  {
-    "id": "13-sentimentos-lancamento",
-    "tipo": "filme",
-    "titulo": "13 Sentimentos [Lançamento]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "LANÇAMENTOS"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpZgJHBTG7GRr6BpmIhrKfq8BpP.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "Padrão",
         "idioma": "Não informado",
@@ -3113,7 +2951,9 @@
         "xtreamId": 11049931,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "13 Sentimentos",
+    "dataLancamento": "2024-06-13"
   },
   {
     "id": "13-distrito-ultimato",
@@ -3564,7 +3404,8 @@
     "generos": [
       "LEGENDADOS",
       "DRAMA",
-      "4K"
+      "4K",
+      "LANÇAMENTOS"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/1TApAJqCQekKeoRV1Nza2damyfz.jpg",
     "banner": "https://image.tmdb.org/t/p/original/21YKck5bSRcvRIXlVg6ZaV0k0sj.jpg",
@@ -3591,25 +3432,7 @@
         "qualidade": "4K",
         "xtreamId": 11035570,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "18th Rose",
-    "dataLancamento": "2026-04-09"
-  },
-  {
-    "id": "18-rosas-lancamento",
-    "tipo": "filme",
-    "titulo": "18 Rosas [Lançamento]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "LANÇAMENTOS"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TApAJqCQekKeoRV1Nza2damyfz.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "Padrão",
         "idioma": "Não informado",
@@ -3617,7 +3440,9 @@
         "xtreamId": 11049927,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "18th Rose",
+    "dataLancamento": "2026-04-09"
   },
   {
     "id": "180",
@@ -3627,12 +3452,13 @@
     "descricao": "Depois que um incidente no trânsito deixa seu filho em estado crítico, um pai com sangue nos olhos embarca em um caminho sombrio de caos e vingança.",
     "generos": [
       "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
+      "AÇÃO | CRIME | GUERRA",
+      "LANÇAMENTOS"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
     "banner": "https://image.tmdb.org/t/p/original/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
     "tmdbId": 1659087,
-    "nota": 5.785,
+    "nota": 5.748,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -3647,25 +3473,7 @@
         "qualidade": "Não informado",
         "xtreamId": 11036319,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "180",
-    "dataLancamento": "2026-04-16"
-  },
-  {
-    "id": "180-lancamento",
-    "tipo": "filme",
-    "titulo": "180 [Lançamento]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "LANÇAMENTOS"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "Padrão",
         "idioma": "Não informado",
@@ -3673,7 +3481,9 @@
         "xtreamId": 11049933,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "180",
+    "dataLancamento": "2026-04-16"
   },
   {
     "id": "1br",
@@ -4071,7 +3881,8 @@
     "ano": null,
     "descricao": "Noruega, 2011. Anders Behring Breivik, consumido pelos seus ideias fundamentalistas cristãos e anti-islâmicos, mata 75 pessoas a tiros em um acampamento na Ilha de Utoya. Os sobreviventes do ataque pedem justiça ao governo Norueguês, enquanto os advogados do terrorista condenado se mobilizam para defendê-lo perante a lei. Baseado em fatos reais.",
     "generos": [
-      "DRAMA"
+      "DRAMA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/fO1YmU5DvYdudmODO25PpRekiMX.jpg",
     "banner": "https://image.tmdb.org/t/p/original/rKzHtW1bdboA89FwiyRBNTY7edc.jpg",
@@ -4084,25 +3895,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10774468,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "22 July",
-    "dataLancamento": "2018-10-04"
-  },
-  {
-    "id": "22-de-julho-hybrid",
-    "tipo": "filme",
-    "titulo": "22 de Julho [Hybrid]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/vRTNX2KhxwSXynzxWQrJMW5kLFi.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -4110,7 +3903,9 @@
         "xtreamId": 10781889,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "22 July",
+    "dataLancamento": "2018-10-04"
   },
   {
     "id": "22-milhas",
@@ -5252,7 +5047,8 @@
     "descricao": "Quatro crianças, a mais velha com 12 anos e a mais nova com 11 meses, viajavam em um pequeno avião com a mãe quando, devido a problemas técnicos, o piloto tentou pousar na selva amazônica de Guaviare, na Colômbia. O pequeno avião caiu de cabeça na mata, matando a mãe e o piloto, mas as crianças saíram ilesas, encontrando-se repentinamente sozinhas e desprotegidas no meio da selva. Com a ideia de voltar para casa, começaram a caminhar sem saber exatamente para onde ir. Não tinham comida nem qualquer tipo de ajuda. Grupos de indígenas e membros do exército colombiano iniciaram as buscas, sem saber se estavam vivas ou mortas. Após quarenta dias, um grupo de busca indígena as encontrou e as entregou às autoridades.",
     "generos": [
       "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
+      "AVENTURA | FICÇÃO | FANTASIA",
+      "LANÇAMENTOS"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/9ByWI7ressU9JwidkImepGmZcVV.jpg",
     "banner": "https://image.tmdb.org/t/p/original/415xAlYMf6y4kh5IUMaOjaK2ePR.jpg",
@@ -5272,25 +5068,7 @@
         "qualidade": "Não informado",
         "xtreamId": 11041323,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "40 días perdidos en la selva",
-    "dataLancamento": "2024-04-25"
-  },
-  {
-    "id": "40-dias-perdidos-en-la-selva-lancamento",
-    "tipo": "filme",
-    "titulo": "40 días perdidos en la selva [Lançamento]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "LANÇAMENTOS"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ByWI7ressU9JwidkImepGmZcVV.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "Padrão",
         "idioma": "Não informado",
@@ -5298,7 +5076,9 @@
         "xtreamId": 11049934,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "40 días perdidos en la selva",
+    "dataLancamento": "2024-04-25"
   },
   {
     "id": "400-bullets",
@@ -5912,7 +5692,8 @@
     "descricao": "Desesperado para não perder a guarda da filha, um lutador de MMA abandona uma luta importante e corre por Berlim para chegar à festa de aniversário da menina.",
     "generos": [
       "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/n5wjsuYh954HLagCnqrLpPT8xi7.jpg",
     "banner": "https://image.tmdb.org/t/p/original/adNMDatnEnIEo4LUo1KyhouP6VA.jpg",
@@ -5932,25 +5713,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10769122,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "60 Minuten",
-    "dataLancamento": "2024-01-19"
-  },
-  {
-    "id": "60-minutos-hybrid",
-    "tipo": "filme",
-    "titulo": "60 Minutos [Hybrid]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/n5wjsuYh954HLagCnqrLpPT8xi7.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -5958,7 +5721,9 @@
         "xtreamId": 10781903,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "60 Minuten",
+    "dataLancamento": "2024-01-19"
   },
   {
     "id": "60-minutos-para-morrer",
@@ -5997,7 +5762,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/8TZwcOERoTh4gDCEu2MKLoYI7lx.jpg",
     "banner": "https://image.tmdb.org/t/p/original/mAeDJ3P4ZRDBsuDlKgL2mNXFvsc.jpg",
     "tmdbId": 9679,
-    "nota": 6.463,
+    "nota": 6.5,
     "opcoes": [
       {
         "nome": "Padrão",
@@ -6018,7 +5783,8 @@
     "descricao": "Após um acidente catastrófico em um planeta desconhecido, o piloto Mills rapidamente descobre que está preso na Terra há 65 milhões de anos. Agora, com apenas uma chance de resgate, Mills e o único outro sobrevivente, Koa, devem atravessar um terreno desconhecido cheio de perigosas criaturas pré-históricas (incluindo dinossauros) em uma luta épica para sobreviver.",
     "generos": [
       "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
+      "AVENTURA | FICÇÃO | FANTASIA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/uwAUZ2yD6mgQl2lhuEkRDpl5lmR.jpg",
     "banner": "https://image.tmdb.org/t/p/original/eSVu1FvGPy86TDo4hQbpuHx55DJ.jpg",
@@ -6038,25 +5804,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10777654,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "65",
-    "dataLancamento": "2023-03-02"
-  },
-  {
-    "id": "65-ameaca-pre-historica-hybrid",
-    "tipo": "filme",
-    "titulo": "65 Ameaça Pré-Histórica [Hybrid]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/uwAUZ2yD6mgQl2lhuEkRDpl5lmR.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -6064,7 +5812,9 @@
         "xtreamId": 10781906,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "65",
+    "dataLancamento": "2023-03-02"
   },
   {
     "id": "684-unidade-de-combate",
@@ -6693,7 +6443,8 @@
     "descricao": "Um quarteto de melhores amigas idosas decide viver a vida ao máximo fazendo uma viagem louca ao Super Bowl 51 para ver seu herói Tom Brady jogar.",
     "generos": [
       "LEGENDADOS",
-      "COMÉDIA"
+      "COMÉDIA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/sZBOc7sXmK618zujlxaiyLTq2e0.jpg",
     "banner": "https://image.tmdb.org/t/p/original/aeksAhU6dZl0Fclm3dBRt6cKBmD.jpg",
@@ -6713,25 +6464,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10772031,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "80 for Brady",
-    "dataLancamento": "2023-02-03"
-  },
-  {
-    "id": "80-for-brady-quatro-amigas-e-uma-paixao-hdr",
-    "tipo": "filme",
-    "titulo": "80 for Brady Quatro Amigas e uma Paixão [HDR]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/sZBOc7sXmK618zujlxaiyLTq2e0.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -6739,7 +6472,9 @@
         "xtreamId": 10781908,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "80 for Brady",
+    "dataLancamento": "2023-02-03"
   },
   {
     "id": "81-a-democracia-resiste",
@@ -7617,7 +7352,8 @@
     "descricao": "Encontro de Ricardo Miranda com Paulo César Saraceni, diretor de Porto das Caixas e O desafio, cineasta de difícil rotulação, de filmografia ímpar e escolhas estéticas radicais. Miranda foi montador de alguns filmes de Saraceni, como Amor, carnaval e sonhos e Anchieta, José do Brasil.",
     "generos": [
       "LEGENDADOS",
-      "COMÉDIA"
+      "COMÉDIA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/wxn73oa7s1hZQ64s6akWVykA30a.jpg",
     "banner": "https://image.tmdb.org/t/p/original/3Uw1pObTs2pfQpDQtbFLOYyv5bD.jpg",
@@ -7636,6 +7372,13 @@
         "idioma": "Não informado",
         "qualidade": "Não informado",
         "xtreamId": 10791338,
+        "container": "mp4"
+      },
+      {
+        "nome": "4K",
+        "idioma": "Não informado",
+        "qualidade": "4K",
+        "xtreamId": 11033992,
         "container": "mp4"
       }
     ],
@@ -7674,29 +7417,6 @@
     ],
     "tituloOriginal": "Einvera",
     "dataLancamento": "2024-04-03"
-  },
-  {
-    "id": "a-amizade-hdr",
-    "tipo": "filme",
-    "titulo": "a Amizade… [HDR]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8B4RQr40OlimrJa3Bt04asBRFI.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
-      {
-        "nome": "4K",
-        "idioma": "Não informado",
-        "qualidade": "4K",
-        "xtreamId": 11033992,
-        "container": "mp4"
-      }
-    ]
   },
   {
     "id": "a-anfitria",
@@ -8148,7 +7868,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/3IZ7QZzC41M7N7LDOcZSUwsNzCL.jpg",
     "banner": "https://image.tmdb.org/t/p/original/5rwcd24GGltKiqdPT4G2dmchLr9.jpg",
     "tmdbId": 579583,
-    "nota": 6.992,
+    "nota": 6.989,
     "opcoes": [
       {
         "nome": "Padrão",
@@ -8244,7 +7964,8 @@
     "descricao": "Um grupo resolve acampar durante um final de semana sem celular porém ao chegarem no local, eles são atacados por uma família de canibais mas descobrem que existem muito mais por trás da família. E uma ligação com uma das suposta vítima. Tudo isso com elementos de bruxaria e misticismo.",
     "generos": [
       "LEGENDADOS",
-      "NACIONAIS"
+      "NACIONAIS",
+      "LANÇAMENTOS"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/eGPrd0tOYLToHpLFZ78X4rITnE1.jpg",
     "banner": "https://image.tmdb.org/t/p/original/wLgXcMkDCiMga3R6EbZs8J00zKr.jpg",
@@ -8264,25 +7985,7 @@
         "qualidade": "Não informado",
         "xtreamId": 11040916,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "A Árvore Que Chorava Sangue",
-    "dataLancamento": "2023-04-01"
-  },
-  {
-    "id": "a-arvore-que-chorava-sangue-lancamento",
-    "tipo": "filme",
-    "titulo": "A Árvore Que Chorava Sangue [Lançamento]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "LANÇAMENTOS"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGPrd0tOYLToHpLFZ78X4rITnE1.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "Padrão",
         "idioma": "Não informado",
@@ -8290,7 +7993,9 @@
         "xtreamId": 11049949,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "A Árvore Que Chorava Sangue",
+    "dataLancamento": "2023-04-01"
   },
   {
     "id": "a-ascensao-da-rainha-guerreira",
@@ -8573,7 +8278,8 @@
     "descricao": "Cole já sabia que a babá dele era linda e sexy, mas descobre também que ela faz parte de um culto satânico e que a turma da seita quer muito manter o segredo.",
     "generos": [
       "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/wfs8vJ5TfEvKEK8OsUJzx3GriGg.jpg",
     "banner": "https://image.tmdb.org/t/p/original/wNW576H4HtGy3kQHDeI4x8uHEZ3.jpg",
@@ -8593,25 +8299,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10780190,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "The Babysitter",
-    "dataLancamento": "2017-10-13"
-  },
-  {
-    "id": "a-baba-hdr",
-    "tipo": "filme",
-    "titulo": "A Babá [HDR]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/eUMsZbnhquxIpr7lV5w78P2P7CH.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -8619,7 +8307,9 @@
         "xtreamId": 10781923,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "The Babysitter",
+    "dataLancamento": "2017-10-13"
   },
   {
     "id": "a-baba-o-chamado-das-sombras",
@@ -8634,7 +8324,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/urbyC5UsvP8Ym15S4Rd3sZ9WBkw.jpg",
     "banner": "https://image.tmdb.org/t/p/original/4br4B8C0SRIYcKHUgoaOlGo50MU.jpg",
     "tmdbId": 575088,
-    "nota": 6.336,
+    "nota": 6.3,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -8661,7 +8351,8 @@
     "ano": null,
     "descricao": "Dois anos após sobreviver a um culto satânico, Cole vive outro pesadelo: o ensino médio. Mas os demônios do passado continuam infernizando sua vida. Continuação do filme: A Babá (2017)",
     "generos": [
-      "SUSPENSE | TERROR | THRILLER"
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/1JnolYGDrhgo5y3rOb0S1VErF4f.jpg",
     "banner": "https://image.tmdb.org/t/p/original/qDV3sQRhqyXflUfH6gOTGkPXTaV.jpg",
@@ -8674,25 +8365,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10780193,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "The Babysitter: Killer Queen",
-    "dataLancamento": "2020-09-10"
-  },
-  {
-    "id": "a-baba-rainha-da-morte-hybrid",
-    "tipo": "filme",
-    "titulo": "A Babá Rainha da Morte [Hybrid]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/1JnolYGDrhgo5y3rOb0S1VErF4f.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -8700,7 +8373,9 @@
         "xtreamId": 10781924,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "The Babysitter: Killer Queen",
+    "dataLancamento": "2020-09-10"
   },
   {
     "id": "a-bailarina",
@@ -8710,7 +8385,8 @@
     "descricao": "Felicie é uma menina órfã apaixonada pela dança. Ao lado do seu melhor amigo Victor, que deseja se tornar um grande inventor, eles desenvolvem um grande plano de fuga para conseguirem o que querem. Eles fogem do orfanato em que vivem para Paris, a Cidade Luz, onde a torre Eiffel ainda está sendo construída. Felicie terá que se superar e aprender com seus erros para tornar o seu grande sonho em realidade: ser uma grande bailarina da Ópera Nacional de Paris.",
     "generos": [
       "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/xKPMlQ3v6KJD3u6ik3urzGesh5g.jpg",
     "banner": "https://image.tmdb.org/t/p/original/wlLdcK3Sm7zp0w1ZuVvnFlmcchM.jpg",
@@ -8730,25 +8406,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10769130,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "Ballerina",
-    "dataLancamento": "2016-12-14"
-  },
-  {
-    "id": "a-bailarina-hybrid",
-    "tipo": "filme",
-    "titulo": "A Bailarina [Hybrid]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/zrL3C3YPiuFchLgQVYSlYZyx15G.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -8756,7 +8414,9 @@
         "xtreamId": 10781914,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "Ballerina",
+    "dataLancamento": "2016-12-14"
   },
   {
     "id": "a-balada-de-buster-scruggs",
@@ -8816,7 +8476,8 @@
     "descricao": "Um professor de inglês recluso que sofre de obesidade severa tenta se reconectar com sua filha adolescente distante para uma última chance de redenção.",
     "generos": [
       "LEGENDADOS",
-      "DRAMA"
+      "DRAMA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/toM19i88jddoMa3mSBeg9T6E9MO.jpg",
     "banner": "https://image.tmdb.org/t/p/original/46FRuCeAn6TrS4F1P4F9zhyCpyo.jpg",
@@ -8836,25 +8497,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10774505,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "The Whale",
-    "dataLancamento": "2022-12-09"
-  },
-  {
-    "id": "a-baleia-hybrid",
-    "tipo": "filme",
-    "titulo": "A Baleia [Hybrid]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/wo9d6U70YFCjICNWpOZwl7rRkOA.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -8862,7 +8505,9 @@
         "xtreamId": 10781916,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "The Whale",
+    "dataLancamento": "2022-12-09"
   },
   {
     "id": "a-barbarie",
@@ -9093,7 +8738,8 @@
     "descricao": "Depois que Chris faz um acordo com uma elfo travessa chamada Pepper para aumentar suas chances de vitória, ela lança um feitiço que dá vida aos 12 dias de Natal e causa estragos em toda a cidade. Correndo o risco de arruinar as férias de sua família, Chris, sua esposa Carol e seus três filhos devem correr contra o relógio para quebrar o feitiço de Pepper, lutar contra personagens mágicos e salvar o Natal para todos.",
     "generos": [
       "LEGENDADOS",
-      "NATALINO"
+      "NATALINO",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/7xz7evAsp4wqwSBSZLnNd13wBZt.jpg",
     "banner": "https://image.tmdb.org/t/p/original/sp6egj5NHHRGmCMdIoTNdbLwACR.jpg",
@@ -9113,25 +8759,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10778644,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "Candy Cane Lane",
-    "dataLancamento": "2023-11-29"
-  },
-  {
-    "id": "a-batalha-de-natal-hybrid",
-    "tipo": "filme",
-    "titulo": "A Batalha de Natal [Hybrid]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/7xz7evAsp4wqwSBSZLnNd13wBZt.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -9139,7 +8767,9 @@
         "xtreamId": 10781913,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "Candy Cane Lane",
+    "dataLancamento": "2023-11-29"
   },
   {
     "id": "a-batalha-de-riddick",
@@ -9501,7 +9131,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/is4c02QuP70BCVLp27SSlDeByoe.jpg",
     "banner": "https://image.tmdb.org/t/p/original/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg",
     "tmdbId": 10020,
-    "nota": 7.728,
+    "nota": 7.7,
     "opcoes": [
       {
         "nome": "Padrão",
@@ -10615,7 +10245,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/hokzY8zEyYhUDhqr6H7jyY1C3i4.jpg",
     "banner": "https://image.tmdb.org/t/p/original/qMf1MuY9u6BfBYTscEjWbIlWMrg.jpg",
     "tmdbId": 10206,
-    "nota": 5.621,
+    "nota": 5.623,
     "opcoes": [
       {
         "nome": "Padrão",
@@ -10910,7 +10540,8 @@
     "descricao": "No verão antes da faculdade, a estudiosa Auden conhece o misterioso Eli, que a ensina a levar uma vida mais leve e despreocupada.",
     "generos": [
       "LEGENDADOS",
-      "ROMANCE"
+      "ROMANCE",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/tqcSehEOf0mgaYRvyF9VHUPSZR0.jpg",
     "banner": "https://image.tmdb.org/t/p/original/rOunAU2rF7C0eU58X9VKHY79EIq.jpg",
@@ -10930,25 +10561,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10778967,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "Along for the Ride",
-    "dataLancamento": "2022-05-06"
-  },
-  {
-    "id": "a-caminho-do-verao-hdr",
-    "tipo": "filme",
-    "titulo": "A Caminho do Verão [HDR[",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/tqcSehEOf0mgaYRvyF9VHUPSZR0.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -10956,7 +10569,9 @@
         "xtreamId": 10781927,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "Along for the Ride",
+    "dataLancamento": "2022-05-06"
   },
   {
     "id": "a-cancao-de-ninar-de-katherine",
@@ -11259,7 +10874,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/i80FjKCtfMKNhH119uoc2E5gDwY.jpg",
     "banner": "https://image.tmdb.org/t/p/original/mRaNy8rNfxOpT0LrD3FIQztmpYL.jpg",
     "tmdbId": 10678,
-    "nota": 5.975,
+    "nota": 6,
     "opcoes": [
       {
         "nome": "Padrão",
@@ -11973,7 +11588,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/hVtsIdJ9CogLz0NuqMKnfIu1uzR.jpg",
     "banner": "https://image.tmdb.org/t/p/original/3otAGduCHdqdEIVC1HOOLb5Qnp2.jpg",
     "tmdbId": 9297,
-    "nota": 6.712,
+    "nota": 6.711,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -12112,7 +11727,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/oKG4YJJCoXJSZ89J52CNJwmVKS0.jpg",
     "banner": "https://image.tmdb.org/t/p/original/1UAjYFLLQYOzFd0Ud6YQq2HoubU.jpg",
     "tmdbId": 398173,
-    "nota": 7.126,
+    "nota": 7.1,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -12247,7 +11862,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/alPdA3FAi6Atrioys4yxC3hr7V3.jpg",
     "banner": "https://image.tmdb.org/t/p/original/vSth4ghPLwuZ0geilirc303aB0c.jpg",
     "tmdbId": 1362101,
-    "nota": 7.023,
+    "nota": 7.05,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -12415,7 +12030,8 @@
     "descricao": "Cinco amigos fazem uma reunião virtual após um ano de um grave incidente que envolveu todos eles.",
     "generos": [
       "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/wK3TtT1xoeaXjb0Rn2UA5Df0TU4.jpg",
     "banner": "https://image.tmdb.org/t/p/original/7kf9F9UqGfjMHcYx5YX02jGXUpn.jpg",
@@ -12435,25 +12051,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10769133,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "A Chamada",
-    "dataLancamento": "2021-03-12"
-  },
-  {
-    "id": "a-chamada-hybrid",
-    "tipo": "filme",
-    "titulo": "A Chamada [Hybrid]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/wK3TtT1xoeaXjb0Rn2UA5Df0TU4.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -12461,7 +12059,9 @@
         "xtreamId": 10781921,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "A Chamada",
+    "dataLancamento": "2021-03-12"
   },
   {
     "id": "a-chance",
@@ -12853,7 +12453,8 @@
     "generos": [
       "LEGENDADOS",
       "DRAMA",
-      "4K"
+      "4K",
+      "LANÇAMENTOS"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/dp0jlDZv6z3nY23kbmasgNLFZyd.jpg",
     "banner": "https://image.tmdb.org/t/p/original/zL8BUUF5zc0BQAMmCGY01wEzxvL.jpg",
@@ -12880,25 +12481,7 @@
         "qualidade": "4K",
         "xtreamId": 11035929,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "City of Dreams",
-    "dataLancamento": "2024-08-29"
-  },
-  {
-    "id": "a-cidade-dos-sonhos-lancamento",
-    "tipo": "filme",
-    "titulo": "A Cidade dos Sonhos [Lançamento]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "LANÇAMENTOS"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dp0jlDZv6z3nY23kbmasgNLFZyd.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "Padrão",
         "idioma": "Não informado",
@@ -12906,7 +12489,9 @@
         "xtreamId": 11049930,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "City of Dreams",
+    "dataLancamento": "2024-08-29"
   },
   {
     "id": "a-cidade-dourada",
@@ -13220,7 +12805,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/uYxz0lIiNgErrPhQbSjUdwYxtFc.jpg",
     "banner": "https://image.tmdb.org/t/p/original/qVGpxnjrGlHaSTCqTQI6viBDSfp.jpg",
     "tmdbId": 346364,
-    "nota": 7.2,
+    "nota": 7.24,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -13248,7 +12833,8 @@
     "descricao": "Devon acabou de entrar na faculdade. Celeste é popular e confiante. Quando as duas resolvem morar juntas, a amizade se transforma em uma verdadeira guerra.",
     "generos": [
       "LEGENDADOS",
-      "COMÉDIA"
+      "COMÉDIA",
+      "LANÇAMENTOS"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/36zoDJG52EkHnMm60M9BdLw8Siv.jpg",
     "banner": "https://image.tmdb.org/t/p/original/uYVxuLVZsxnJfXK03YgZSzqiWiQ.jpg",
@@ -13268,15 +12854,22 @@
         "qualidade": "Não informado",
         "xtreamId": 11036315,
         "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 11049928,
+        "container": "mp4"
       }
     ],
     "tituloOriginal": "Roommates",
     "dataLancamento": "2026-04-13"
   },
   {
-    "id": "a-colega-perfeita-dv-hdr",
+    "id": "a-colega-perfeita-dv",
     "tipo": "filme",
-    "titulo": "A Colega Perfeita [DV][HDR]",
+    "titulo": "A Colega Perfeita [DV]",
     "ano": null,
     "descricao": "",
     "generos": [
@@ -13292,29 +12885,6 @@
         "idioma": "Não informado",
         "qualidade": "4K",
         "xtreamId": 11036304,
-        "container": "mp4"
-      }
-    ]
-  },
-  {
-    "id": "a-colega-perfeita-lancamento",
-    "tipo": "filme",
-    "titulo": "A Colega Perfeita [Lançamento]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "LANÇAMENTOS"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/36zoDJG52EkHnMm60M9BdLw8Siv.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
-      {
-        "nome": "Padrão",
-        "idioma": "Não informado",
-        "qualidade": "Não informado",
-        "xtreamId": 11049928,
         "container": "mp4"
       }
     ]
@@ -13989,7 +13559,8 @@
     "descricao": "Em 1906, em uma pequena cidade da Georgia, sul dos Estados Unidos, a quase adolescente Celie, violentada pelo próprio pai, torna-se mãe de duas crianças. Separada dos filhos, Celie, é doada à Mister, que a trata como companheira e escrava ao mesmo tempo. Cada vez mais calada e solitária, Celie passa a compartilhar sua tristeza em carta.",
     "generos": [
       "LEGENDADOS",
-      "DRAMA"
+      "DRAMA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/5K2D1l7uvPhWQwQol3brgXl0aBz.jpg",
     "banner": "https://image.tmdb.org/t/p/original/lh6MbyxwCribn3hdAo81xLdPGoV.jpg",
@@ -14009,25 +13580,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10774529,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "The Color Purple",
-    "dataLancamento": "1985-12-18"
-  },
-  {
-    "id": "a-cor-purpura-hdr",
-    "tipo": "filme",
-    "titulo": "A Cor Púrpura [HDR]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/nZ3TV8mfwvQzgl5Ad8KH4P1kyq3.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -14035,7 +13588,9 @@
         "xtreamId": 10781925,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "The Color Purple",
+    "dataLancamento": "1985-12-18"
   },
   {
     "id": "a-cor-que-caiu-do-espaco",
@@ -14191,7 +13746,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/ftUHKZfXONnjuOGGpNeFCeAXbYF.jpg",
     "banner": "https://image.tmdb.org/t/p/original/hKy4J8jbiOBmSKs0NlcHP1hLWYl.jpg",
     "tmdbId": 1295026,
-    "nota": 7.844,
+    "nota": 7.827,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -14249,7 +13804,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/ftUHKZfXONnjuOGGpNeFCeAXbYF.jpg",
     "banner": "https://image.tmdb.org/t/p/original/hKy4J8jbiOBmSKs0NlcHP1hLWYl.jpg",
     "tmdbId": 1295026,
-    "nota": 7.844,
+    "nota": 7.827,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -14317,7 +13872,8 @@
     "ano": null,
     "descricao": "Uma dama de honra atrapalhada recebe a ajuda de seu belo rival quando as coisas dão errado no casamento de sua melhor amiga na Costa Rica. Estrelado por Rhiannon Fish e Christopher Russell.",
     "generos": [
-      "COMÉDIA"
+      "COMÉDIA",
+      "LANÇAMENTOS"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/knKhFVyhttpBbM96D2rYQCGWAbn.jpg",
     "banner": "https://image.tmdb.org/t/p/original/yC6lxF30s9IA7X0Vx1ZKFo6Tni6.jpg",
@@ -14330,25 +13886,7 @@
         "qualidade": "Não informado",
         "xtreamId": 11054570,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "A Costa Rican Wedding",
-    "dataLancamento": "2025-07-17"
-  },
-  {
-    "id": "a-costa-rican-wedding-lancamento",
-    "tipo": "filme",
-    "titulo": "A Costa Rican Wedding [Lançamento]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "LANÇAMENTOS"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccYPtLstIoNW1zkWzOQg2MC0qs3.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "Padrão",
         "idioma": "Não informado",
@@ -14356,7 +13894,9 @@
         "xtreamId": 11054582,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "A Costa Rican Wedding",
+    "dataLancamento": "2025-07-17"
   },
   {
     "id": "a-costureira",
@@ -14366,7 +13906,8 @@
     "descricao": "Barbara Duggen é uma costureira lutando para manter sua loja aberta. Após visitar uma cliente, ela se depara com dois homens feridos e uma maleta cheia de dinheiro. Barbara fica em dúvida sobre o que deve fazer: seguir o seu caminho, chamar a polícia ou cometer o crime perfeito.",
     "generos": [
       "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
+      "SUSPENSE | TERROR | THRILLER",
+      "LANÇAMENTOS"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/Qso0177z6RrRFTHeblgjJEzpxX.jpg",
     "banner": "https://image.tmdb.org/t/p/original/rVTeajiYbZJAuwqsPdpMA5TJFxj.jpg",
@@ -14386,25 +13927,7 @@
         "qualidade": "Não informado",
         "xtreamId": 11034264,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "Sew Torn",
-    "dataLancamento": "2025-09-11"
-  },
-  {
-    "id": "a-costureira-lancamento",
-    "tipo": "filme",
-    "titulo": "A Costureira [Lançamento]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "LANÇAMENTOS"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Qso0177z6RrRFTHeblgjJEzpxX.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "Padrão",
         "idioma": "Não informado",
@@ -14412,7 +13935,9 @@
         "xtreamId": 11049929,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "Sew Torn",
+    "dataLancamento": "2025-09-11"
   },
   {
     "id": "a-cozinha",
@@ -14480,7 +14005,8 @@
     "descricao": "Caleb Channing foi criado numa colônia de mineração lunar e está prestes a ser transferido permanentemente para um planeta idílico e distante após a morte do pai. Mas, antes de partir, ele e seus três melhores amigos, Dylan, Borney e Marcus, juntamente com Addison, uma recém-chegada da Terra, querem realizar o último desejo do pai dele. Então eles roubam um rover para viver uma última aventura e partem em uma jornada para explorar uma cratera misteriosa.",
     "generos": [
       "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
+      "AVENTURA | FICÇÃO | FANTASIA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/65CXDhp2Y0ro847Lzq9l1iQ9Hn6.jpg",
     "banner": "https://image.tmdb.org/t/p/original/wUMDnvi1xa8iMEpRDVAXrcAtqus.jpg",
@@ -14500,25 +14026,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10777661,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "Crater",
-    "dataLancamento": "2023-05-12"
-  },
-  {
-    "id": "a-cratera-hybrid",
-    "tipo": "filme",
-    "titulo": "A Cratera [Hybrid]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/65CXDhp2Y0ro847Lzq9l1iQ9Hn6.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -14526,7 +14034,9 @@
         "xtreamId": 10781928,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "Crater",
+    "dataLancamento": "2023-05-12"
   },
   {
     "id": "a-creche-do-papai",
@@ -14865,7 +14375,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/g2x1gF89LFej8gOTeeLVefDP5Je.jpg",
     "banner": "https://image.tmdb.org/t/p/original/xxIRKSd9LmHojUD5grvMuGypwVC.jpg",
     "tmdbId": 36095,
-    "nota": 7.5,
+    "nota": 7.543,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -15000,7 +14510,8 @@
     "ano": null,
     "descricao": "A história de uma cachorrinha de classe chamada Lady que se sente abandonada pelos donos quando eles têm um bebê e acaba se envolvendo com um cachorro de rua conhecido como Vagabundo. Os dois terão que lidar com uma injusta tia que, com seus gatos de estimação, chegam na casa e acabam com o sossego de Lady.",
     "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
+      "ANIMAÇÃO | INFANTIL | FAMILIA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/qKBA03V9LvfpvcNfUgAwdydRSA1.jpg",
     "banner": "https://image.tmdb.org/t/p/original/yGgEg4yimYQJLZrZg3Qhogp2raQ.jpg",
@@ -15013,25 +14524,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10770997,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "Lady and the Tramp",
-    "dataLancamento": "1955-06-22"
-  },
-  {
-    "id": "a-dama-e-o-vagabundo-hdr",
-    "tipo": "filme",
-    "titulo": "A Dama E O Vagabundo [HDR]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/qKBA03V9LvfpvcNfUgAwdydRSA1.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -15039,7 +14532,9 @@
         "xtreamId": 10781930,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "Lady and the Tramp",
+    "dataLancamento": "1955-06-22"
   },
   {
     "id": "a-dama-na-agua",
@@ -15547,7 +15042,8 @@
     "descricao": "Annie Sullivan é uma jornalista que escreve sobre um famoso serial killer ao mesmo tempo em que tenta ajudar um detetive a solucionar o caso. Buscando um pouco de paz e tranquilidade, ela se muda para uma pequena cidade rural, mas descobre que a violência não conhece fronteiras.",
     "generos": [
       "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
+      "AÇÃO | CRIME | GUERRA",
+      "LANÇAMENTOS"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/xbBpMvfntGLYSQ3MJ39cOt5NGgD.jpg",
     "banner": "https://image.tmdb.org/t/p/original/qp904ZWNglgroJX5RbRKEKaLetN.jpg",
@@ -15567,25 +15063,7 @@
         "qualidade": "Não informado",
         "xtreamId": 11038939,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "The Notorious Finster",
-    "dataLancamento": "2024-05-28"
-  },
-  {
-    "id": "a-dois-passos-do-assassino-lancamento",
-    "tipo": "filme",
-    "titulo": "A Dois Passos do Assassino [Lançamento]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "LANÇAMENTOS"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbBpMvfntGLYSQ3MJ39cOt5NGgD.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "Padrão",
         "idioma": "Não informado",
@@ -15593,7 +15071,9 @@
         "xtreamId": 11049926,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "The Notorious Finster",
+    "dataLancamento": "2024-05-28"
   },
   {
     "id": "a-dupla-explosiva",
@@ -15727,7 +15207,8 @@
     "descricao": "Millie é uma mulher passando por dificuldades que se sente aliviada com a chance de um novo começo como empregada doméstica de Nina e Andrew, um casal rico. Logo, ela descobre que os segredos da família são muito mais perigosos do que os seus.",
     "generos": [
       "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/qaqAdyuk8Fcgfsj19Cj3OpJ8hN.jpg",
     "banner": "https://image.tmdb.org/t/p/original/8lgSWWrpS75Hwdm0TZlL1dK7VDD.jpg",
@@ -15747,25 +15228,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10791286,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "The Housemaid",
-    "dataLancamento": "2025-12-18"
-  },
-  {
-    "id": "a-empregada-hdr",
-    "tipo": "filme",
-    "titulo": "A Empregada [HDR]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoBcz7hOFPdJS9aWMr1z4Gk76rN.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -15773,7 +15236,9 @@
         "xtreamId": 10791436,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "The Housemaid",
+    "dataLancamento": "2025-12-18"
   },
   {
     "id": "a-encruzilhada",
@@ -16019,7 +15484,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/dlqC2gJs02gc23XvyOjoz52ToRI.jpg",
     "banner": "https://image.tmdb.org/t/p/original/8pwIhymsxfAVjrAE7syDjQULn37.jpg",
     "tmdbId": 425,
-    "nota": 7.373,
+    "nota": 7.374,
     "opcoes": [
       {
         "nome": "Padrão",
@@ -16118,9 +15583,9 @@
       "ANIMAÇÃO | INFANTIL | FAMILIA"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/hHZjD7IXKlFfMt2UHLj0qaTg06j.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qw02SUqrrdTjAOPCFJBPyKaVf4z.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tleIOY1MS8DIe6v7x6gg7lRCOfA.jpg",
     "tmdbId": 774825,
-    "nota": 6.572,
+    "nota": 6.6,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -16774,7 +16239,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/skbkDIP7QW1QJzT8P778bmqxp2Y.jpg",
     "banner": "https://image.tmdb.org/t/p/original/uMe6McFXAPEhkasGVlaLTOuhfnl.jpg",
     "tmdbId": 9078,
-    "nota": 7.221,
+    "nota": 7.222,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -17040,7 +16505,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/1jwOKQ9vPopoWkOW3SJ2lbPCUoQ.jpg",
     "banner": "https://image.tmdb.org/t/p/original/1OK9voMZPeeXZ9OFcT7sUJJxmSw.jpg",
     "tmdbId": 9075,
-    "nota": 7.451,
+    "nota": 7.452,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -17714,7 +17179,8 @@
     "ano": null,
     "descricao": "Leo Borlock, é um estudante mediano da Mica High School. Ele tira notas decentes, é membro da banda marcial da escola e sempre se contentou a voar abaixo do radar. Mas tudo isso muda quando ele conhece Estrela Caraway, uma aluna nova confiante e colorida com uma predileção pelo ukulele, que se destaca da multidão. Ela é doce, enxerga magia nas coisas comuns e toca a vida de todos com os gestos mais simples. Suas excentricidades e personalidade contagiante encantam Leo e o corpo estudantil, e ela rapidamente deixa de ser ignorada e ridicularizada para ser aceita e aclamada, e o inverso outra vez, colocando Leo em uma montanha-russa de emoções.",
     "generos": [
-      "COMÉDIA"
+      "COMÉDIA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/zYvD1TZfGF2RHe1078MULl78nsV.jpg",
     "banner": "https://image.tmdb.org/t/p/original/hX3kteYoGqvoPpSlqg6nryFL6xR.jpg",
@@ -17727,25 +17193,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10772070,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "Stargirl",
-    "dataLancamento": "2020-03-10"
-  },
-  {
-    "id": "a-extraordinaria-garota-chamada-estrela-hdr",
-    "tipo": "filme",
-    "titulo": "A Extraordinária Garota Chamada Estrela [HDR]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/2h5C9SDYM3hk2xDJQZP0SKSVVZT.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -17753,7 +17201,9 @@
         "xtreamId": 10781932,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "Stargirl",
+    "dataLancamento": "2020-03-10"
   },
   {
     "id": "a-extraordinaria-garota-chamada-estrela-em-hollywood",
@@ -17762,7 +17212,8 @@
     "ano": null,
     "descricao": "Quando sua mãe é contratada para trabalhar em um filme, elas se mudam para Los Angeles, onde Estrela acaba conhecendo dois irmãos aspirantes a cineastas, um vizinho mal-humorado e uma musicista que Estrela admira.",
     "generos": [
-      "COMÉDIA"
+      "COMÉDIA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/2h5C9SDYM3hk2xDJQZP0SKSVVZT.jpg",
     "banner": "https://image.tmdb.org/t/p/original/hGykHXIRZ5HI602BDpQDUNUsVqH.jpg",
@@ -17775,25 +17226,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10772071,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "Hollywood Stargirl",
-    "dataLancamento": "2022-06-03"
-  },
-  {
-    "id": "a-extraordinaria-garota-chamada-estrela-em-hollywood-hdr",
-    "tipo": "filme",
-    "titulo": "A Extraordinária Garota Chamada Estrela em Hollywood [HDR]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/2h5C9SDYM3hk2xDJQZP0SKSVVZT.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -17801,7 +17234,9 @@
         "xtreamId": 10781933,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "Hollywood Stargirl",
+    "dataLancamento": "2022-06-03"
   },
   {
     "id": "a-extraordinaria-historia-do-new-york-cosmos",
@@ -18022,17 +17457,17 @@
   {
     "id": "a-falha",
     "tipo": "filme",
-    "titulo": "Terremoto: A Falha de San Andreas",
+    "titulo": "A Falha",
     "ano": null,
-    "descricao": "Um forte terremoto atinge a Califórnia e faz com que Ray, um bombeiro especializado em resgates com helicópteros, tenha que percorrer o estado ao lado da ex-esposa para resgatar a sua filha Blake.",
+    "descricao": "Vinte e cinco anos após deixar a escola, um grupo de ex-alunos decide organizar uma reunião. Mas, ao contrário do que se esperava, esses \"velhos rapazes\" percebem que o tempo acentuou suas diferenças. O clima é tenso, a conversa tensa e os velhos rancores ressurgem em pouco tempo.",
     "generos": [
       "LEGENDADOS",
       "SUSPENSE | TERROR | THRILLER"
     ],
-    "capa": "https://image.tmdb.org/t/p/w500/wVp2zu88NMWpGluqW9eGQbwLWi.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zcySy6dnSmyqiichtDgO7AEeZoq.jpg",
-    "tmdbId": 254128,
-    "nota": 6.245,
+    "capa": "https://image.tmdb.org/t/p/w500/qvNAGuzpWNV1vWpIwhx5D5AOCi2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vTZA3XxgxKhFZLmuJfARVKVg741.jpg",
+    "tmdbId": 471955,
+    "nota": 7.25,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -18049,8 +17484,8 @@
         "container": "mp4"
       }
     ],
-    "tituloOriginal": "San Andreas",
-    "dataLancamento": "2015-05-27"
+    "tituloOriginal": "A Falha",
+    "dataLancamento": "2002-10-24"
   },
   {
     "id": "a-familia-addams",
@@ -18143,7 +17578,8 @@
     "descricao": "Os Addams se envolvem em aventuras mais malucas e se envolvem em confrontos hilariantes com todos os tipos de personagens desavisados.",
     "generos": [
       "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
+      "AVENTURA | FICÇÃO | FANTASIA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/kGSZSlmJqshcxh6Usgx9Um0utK0.jpg",
     "banner": "https://image.tmdb.org/t/p/original/wfrfxivLOBtGMC98tIr2LSOeKSe.jpg",
@@ -18163,25 +17599,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10777170,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "The Addams Family 2",
-    "dataLancamento": "2021-10-01"
-  },
-  {
-    "id": "a-familia-addams-2-pe-na-estrada-hdr",
-    "tipo": "filme",
-    "titulo": "A Família Addams 2 Pé na Estrada [HDR]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/kGSZSlmJqshcxh6Usgx9Um0utK0.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -18189,7 +17607,9 @@
         "xtreamId": 10781934,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "The Addams Family 2",
+    "dataLancamento": "2021-10-01"
   },
   {
     "id": "a-familia-belier",
@@ -18959,7 +18379,8 @@
     "ano": null,
     "descricao": "Um grupo de atores veteranos da Broadway vão sem aviso a uma festa de final de ano de uma escola que não permitiu que uma de suas alunas fosse ao baile acompanhada de sua namorada.",
     "generos": [
-      "COMÉDIA"
+      "COMÉDIA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/A5P45oHuKIuMD1YYtksPuJ7sveQ.jpg",
     "banner": "https://image.tmdb.org/t/p/original/pF4pEiMHKvCIqX3h582tTCoNkwC.jpg",
@@ -18972,25 +18393,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10772078,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "The Prom",
-    "dataLancamento": "2020-12-02"
-  },
-  {
-    "id": "a-festa-de-formatura-hybrid",
-    "tipo": "filme",
-    "titulo": "A Festa de Formatura [Hybrid]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/A5P45oHuKIuMD1YYtksPuJ7sveQ.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -18998,7 +18401,9 @@
         "xtreamId": 10781937,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "The Prom",
+    "dataLancamento": "2020-12-02"
   },
   {
     "id": "a-festa-de-leo",
@@ -19186,7 +18591,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/qeKlL9mMi3LRUNeVo0mziO04Xo2.jpg",
     "banner": "https://image.tmdb.org/t/p/original/ppXYWZdv0qkr9aIRMLjtJPXDDon.jpg",
     "tmdbId": 2275,
-    "nota": 6.415,
+    "nota": 6.418,
     "opcoes": [
       {
         "nome": "Padrão",
@@ -19356,7 +18761,8 @@
     "descricao": "Helena, uma mulher que vive uma vida aparentemente comum, esconde um segredo obscuro: seu pai é o infame “Rei do Pântano”, o homem que manteve ela e sua mãe em cativeiro na selva durante anos.  Depois de uma vida inteira tentando escapar de seu passado, Helena é forçada a enfrentar seus demônios quando seu pai escapa inesperadamente da prisão.",
     "generos": [
       "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/f2V05fRxGxSGI6xjqA0pQeXk35.jpg",
     "banner": "https://image.tmdb.org/t/p/original/c7MRmF3LMiBWokedmdQl3roTUv2.jpg",
@@ -19376,25 +18782,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10779519,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "The Marsh King's Daughter",
-    "dataLancamento": "2023-09-28"
-  },
-  {
-    "id": "a-filha-do-rei-do-pantano-hybrid",
-    "tipo": "filme",
-    "titulo": "A Filha do Rei do Pântano [Hybrid]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/f2V05fRxGxSGI6xjqA0pQeXk35.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -19402,7 +18790,9 @@
         "xtreamId": 10781938,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "The Marsh King's Daughter",
+    "dataLancamento": "2023-09-28"
   },
   {
     "id": "a-filha-dos-trapalhoes",
@@ -19520,7 +18910,8 @@
     "descricao": "Em 1999, a jovem Beverly encontra uma fita quebrada gravada pelos pais falecidos. Então ela vai atrás das músicas – e aprende mais sobre a mãe e o pai.",
     "generos": [
       "LEGENDADOS",
-      "COMÉDIA"
+      "COMÉDIA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/zs3o9kLwM2M9akZ5dvD4jQDVkis.jpg",
     "banner": "https://image.tmdb.org/t/p/original/kl5LXP7St8ct25BaBUehDGXT3gd.jpg",
@@ -19540,25 +18931,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10772083,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "Mixtape",
-    "dataLancamento": "2021-12-03"
-  },
-  {
-    "id": "a-fita-cassete-hybrid",
-    "tipo": "filme",
-    "titulo": "A Fita Cassete [Hybrid]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/6Y5CcWHLlTKlYxJVWWQkvhWVELy.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -19566,7 +18939,9 @@
         "xtreamId": 10781940,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "Mixtape",
+    "dataLancamento": "2021-12-03"
   },
   {
     "id": "a-flauta-magica",
@@ -20161,7 +19536,8 @@
     "descricao": "Um chefe do crime de Miami guia criminosos desesperados até a Colômbia em busca do tesouro de Escobar perto da Vila dos Herdeiros. Um advogado se envolve após um assassinato e descobre segredos perigosos.",
     "generos": [
       "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
+      "AÇÃO | CRIME | GUERRA",
+      "LANÇAMENTOS"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/xbhskNIkQTyxoLvruk1R3uZZkme.jpg",
     "banner": "https://image.tmdb.org/t/p/original/cDiEVwx3VWNRny0ctFVVmCuCFSo.jpg",
@@ -20181,25 +19557,7 @@
         "qualidade": "Não informado",
         "xtreamId": 11041333,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "אסקובנק",
-    "dataLancamento": "2025-11-14"
-  },
-  {
-    "id": "a-fortuna-de-escobar-lancamento",
-    "tipo": "filme",
-    "titulo": "A Fortuna de Escobar [Lançamento]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "LANÇAMENTOS"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbhskNIkQTyxoLvruk1R3uZZkme.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "Padrão",
         "idioma": "Não informado",
@@ -20207,7 +19565,9 @@
         "xtreamId": 11049943,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "אסקובנק",
+    "dataLancamento": "2025-11-14"
   },
   {
     "id": "a-fotografia",
@@ -20308,7 +19668,8 @@
     "descricao": "Quatro anos após os acontecimentos na abadia de St. Carta, a Irmã Irene (Taissa Farmiga) regressa mais uma vez e depara-se com a força demoníaca de Valak, a Freira (Bonnie Aarons).",
     "generos": [
       "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/omV2IW2OlFTSw6Hih13hz6lFdvP.jpg",
     "banner": "https://image.tmdb.org/t/p/original/27jtaS1oCiLK5Y7P6iOXG2yj1Nc.jpg",
@@ -20328,25 +19689,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10780248,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "The Nun II",
-    "dataLancamento": "2023-09-06"
-  },
-  {
-    "id": "a-freira-2-hybrid",
-    "tipo": "filme",
-    "titulo": "A Freira 2 [Hybrid]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/omV2IW2OlFTSw6Hih13hz6lFdvP.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -20354,7 +19697,9 @@
         "xtreamId": 10781942,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "The Nun II",
+    "dataLancamento": "2023-09-06"
   },
   {
     "id": "a-fuga",
@@ -20422,7 +19767,8 @@
     "descricao": "Um grupo de galinhas destemidas se une para enfrentar uma nova ameaça: uma fazenda muito suspeita, com cheiro de fritura no ar.",
     "generos": [
       "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
+      "ANIMAÇÃO | INFANTIL | FAMILIA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/8O7qM2ue5VHPsu1FFbZSRMpCqwY.jpg",
     "banner": "https://image.tmdb.org/t/p/original/utChUdMhCEWKjHTc8DO5aK8dUVS.jpg",
@@ -20442,25 +19788,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10771013,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "Chicken Run: Dawn of the Nugget",
-    "dataLancamento": "2023-12-08"
-  },
-  {
-    "id": "a-fuga-das-galinhas-a-ameaca-dos-nuggets-hybrid",
-    "tipo": "filme",
-    "titulo": "A Fuga das Galinhas A Ameaça dos Nuggets [Hybrid]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/8O7qM2ue5VHPsu1FFbZSRMpCqwY.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -20468,7 +19796,9 @@
         "xtreamId": 10781945,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "Chicken Run: Dawn of the Nugget",
+    "dataLancamento": "2023-12-08"
   },
   {
     "id": "a-fuga-de-akilla",
@@ -20697,7 +20027,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/5FDpiMP6ETXiFRVVN7vE4YqLF9I.jpg",
     "banner": "https://image.tmdb.org/t/p/original/v6wahTqcsU3kcQ1uz7wQpFTZbIb.jpg",
     "tmdbId": 11713,
-    "nota": 7.226,
+    "nota": 7.2,
     "opcoes": [
       {
         "nome": "Padrão",
@@ -22483,6 +21813,7 @@
     "descricao": "No que poderia ser o último dia da vida na Terra, uma luta em um apartamento inundado se transforma na única esperança de sobrevivência da humanidade.",
     "generos": [
       "LEGENDADOS",
+      "4K",
       "AVENTURA | FICÇÃO | FANTASIA"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/Ac0e9baf6i0OuypcoZcAmwojabQ.jpg",
@@ -22498,6 +21829,13 @@
         "container": "mp4"
       },
       {
+        "nome": "4K",
+        "idioma": "Não informado",
+        "qualidade": "4K",
+        "xtreamId": 10781949,
+        "container": "mp4"
+      },
+      {
         "nome": "Padrão",
         "idioma": "Não informado",
         "qualidade": "Não informado",
@@ -22507,29 +21845,6 @@
     ],
     "tituloOriginal": "대홍수",
     "dataLancamento": "2025-09-18"
-  },
-  {
-    "id": "a-grande-inundacao-hdr",
-    "tipo": "filme",
-    "titulo": "A Grande Inundação [HDR]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/Ac0e9baf6i0OuypcoZcAmwojabQ.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
-      {
-        "nome": "4K",
-        "idioma": "Não informado",
-        "qualidade": "4K",
-        "xtreamId": 10781949,
-        "container": "mp4"
-      }
-    ]
   },
   {
     "id": "a-grande-invasao-do-balao-bomba",
@@ -22734,7 +22049,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/15hzyOCCiPbSQkgtUr4sdOJjQwO.jpg",
     "banner": "https://image.tmdb.org/t/p/original/a66PKC32YVZISoqZtRQyz8c9Vx6.jpg",
     "tmdbId": 9390,
-    "nota": 7,
+    "nota": 6.985,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -22782,25 +22097,7 @@
         "qualidade": "Não informado",
         "xtreamId": 11049849,
         "container": null
-      }
-    ],
-    "tituloOriginal": "Le Bus : Les Bleus en grève",
-    "dataLancamento": "2026-05-13"
-  },
-  {
-    "id": "a-greve-da-selecao-da-franca-lancamento",
-    "tipo": "filme",
-    "titulo": "A Greve da Seleção da França [Lançamento]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "LANÇAMENTOS"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLYxo8SDMLfroqT3fMVnbvddXRF.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "Padrão",
         "idioma": "Não informado",
@@ -22808,7 +22105,9 @@
         "xtreamId": 11049942,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "Le Bus : Les Bleus en grève",
+    "dataLancamento": "2026-05-13"
   },
   {
     "id": "a-greve-das-camareiras",
@@ -22983,12 +22282,13 @@
     "ano": null,
     "descricao": "Em 2051, a humanidade está perdendo uma guerra global contra uma espécie mortal de alienígenas. Para garantir a sobrevivência dos humanos, soldados e civis do presente são transportados para o futuro e se juntam à luta, entre eles Dan Forester, um pai de família determinado a salvar o mundo para sua filha.",
     "generos": [
-      "AÇÃO | CRIME | GUERRA"
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/lWQ3hI78Az2RHfzDpEuvougqUz7.jpg",
     "banner": "https://image.tmdb.org/t/p/original/yizL4cEKsVvl17Wc1mGEIrQtM2F.jpg",
     "tmdbId": 588228,
-    "nota": 7.476,
+    "nota": 7.477,
     "opcoes": [
       {
         "nome": "Padrão",
@@ -22996,25 +22296,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10769160,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "The Tomorrow War",
-    "dataLancamento": "2021-09-03"
-  },
-  {
-    "id": "a-guerra-do-amanha-hdr",
-    "tipo": "filme",
-    "titulo": "A Guerra do Amanhã [HDR]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/lWQ3hI78Az2RHfzDpEuvougqUz7.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -23022,7 +22304,9 @@
         "xtreamId": 10781951,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "The Tomorrow War",
+    "dataLancamento": "2021-09-03"
   },
   {
     "id": "a-guerra-do-hamburguer",
@@ -23773,15 +23057,22 @@
         "qualidade": "Não informado",
         "xtreamId": 11049846,
         "container": null
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 11049936,
+        "container": "mp4"
       }
     ],
     "tituloOriginal": "A Gorilla Story: Told by David Attenborough",
     "dataLancamento": "2026-04-16"
   },
   {
-    "id": "a-historia-de-um-gorila-com-david-attenborough-dv-hdr",
+    "id": "a-historia-de-um-gorila-com-david-attenborough-dv",
     "tipo": "filme",
-    "titulo": "A História de Um Gorila com David Attenborough [DV][HDR]",
+    "titulo": "A História de Um Gorila com David Attenborough [DV]",
     "ano": null,
     "descricao": "",
     "generos": [
@@ -23797,29 +23088,6 @@
         "idioma": "Não informado",
         "qualidade": "4K",
         "xtreamId": 11036585,
-        "container": "mp4"
-      }
-    ]
-  },
-  {
-    "id": "a-historia-de-um-gorila-com-david-attenborough-lancamento",
-    "tipo": "filme",
-    "titulo": "A História de Um Gorila com David Attenborough [Lançamento]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "LANÇAMENTOS"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdbhjmDymtYdcYfzsmBlQEsOExV.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
-      {
-        "nome": "Padrão",
-        "idioma": "Não informado",
-        "qualidade": "Não informado",
-        "xtreamId": 11049936,
         "container": "mp4"
       }
     ]
@@ -23857,7 +23125,8 @@
     "descricao": "Em 1917, Lionel e David se conhecem no Conservatório de Boston, unidos pelo amor à música folk. Anos depois, eles se reencontram e partem juntos em uma viagem pelo interior do Maine para registrar canções tradicionais de ex-soldados da Primeira Guerra. Durante essa jornada que transformará suas vidas para sempre, eles descobrem que compartilham muito mais do que a paixão pela música.",
     "generos": [
       "LEGENDADOS",
-      "DRAMA"
+      "DRAMA",
+      "LANÇAMENTOS"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/dR7HYAE56gEY8WcGVRZPLS3GEaR.jpg",
     "banner": "https://image.tmdb.org/t/p/original/e13Io18jl6p5UiS5Cxhug9ptTPU.jpg",
@@ -23877,25 +23146,7 @@
         "qualidade": "Não informado",
         "xtreamId": 11049587,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "The History of Sound",
-    "dataLancamento": "2025-09-12"
-  },
-  {
-    "id": "a-historia-do-som-lancamento",
-    "tipo": "filme",
-    "titulo": "A História do Som [Lançamento]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "LANÇAMENTOS"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dR7HYAE56gEY8WcGVRZPLS3GEaR.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "Padrão",
         "idioma": "Não informado",
@@ -23903,7 +23154,9 @@
         "xtreamId": 11049937,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "The History of Sound",
+    "dataLancamento": "2025-09-12"
   },
   {
     "id": "a-historia-pessoal-de-david-copperfield",
@@ -24223,7 +23476,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/qpqjqYK1WNlNdVCXIx76PD6IRPH.jpg",
     "banner": "https://image.tmdb.org/t/p/original/2KBVvcJvFhRe00VuKfiovcYiKzm.jpg",
     "tmdbId": 18086,
-    "nota": 6.378,
+    "nota": 6.4,
     "opcoes": [
       {
         "nome": "Padrão",
@@ -24249,7 +23502,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/cxd2as1dyaO9845ic5PhC2l1EVZ.jpg",
     "banner": "https://image.tmdb.org/t/p/original/6WCy7leVWrmec3eakfYTa7960VG.jpg",
     "tmdbId": 608994,
-    "nota": 6.3,
+    "nota": 6.34,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -24723,6 +23976,7 @@
     "descricao": "Um psicanalista prestando serviço comunitário ajuda um agente a superar uma infidelidade. Juntos, eles enfrentam uma série de perigos e descobrem que existem segundas chances.",
     "generos": [
       "LEGENDADOS",
+      "4K",
       "COMÉDIA"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/dXa93VNH1uF3IJyOIKyxsHooAIY.jpg",
@@ -24738,6 +23992,13 @@
         "container": "mp4"
       },
       {
+        "nome": "4K",
+        "idioma": "Não informado",
+        "qualidade": "4K",
+        "xtreamId": 10781955,
+        "container": "mp4"
+      },
+      {
         "nome": "Padrão",
         "idioma": "Não informado",
         "qualidade": "Não informado",
@@ -24747,29 +24008,6 @@
     ],
     "tituloOriginal": "La hora de los valientes",
     "dataLancamento": "2025-12-18"
-  },
-  {
-    "id": "a-hora-dos-valentes-hdr",
-    "tipo": "filme",
-    "titulo": "A Hora dos Valentes [HDR]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/dXa93VNH1uF3IJyOIKyxsHooAIY.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
-      {
-        "nome": "4K",
-        "idioma": "Não informado",
-        "qualidade": "4K",
-        "xtreamId": 10781955,
-        "container": "mp4"
-      }
-    ]
   },
   {
     "id": "a-hora-e-a-vez-de-augusto-matraga",
@@ -25244,7 +24482,8 @@
     "descricao": "Eleanor Morgenstein, uma mulher de 94 anos, está tentando reconstruir sua vida após a perda de sua melhor amiga. Depois de décadas na Flórida, ela regressa a Nova York para um novo começo. O longa é o primeiro trabalho da renomada atriz Scarlett Johansson como diretora.",
     "generos": [
       "LEGENDADOS",
-      "DRAMA"
+      "DRAMA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/1BKfPBPVGfLAIIDu8RRJqaIglLU.jpg",
     "banner": "https://image.tmdb.org/t/p/original/Adg0gp8kGKXUSe8emJByRbvweGk.jpg",
@@ -25264,25 +24503,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10791647,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "Eleanor the Great",
-    "dataLancamento": "2025-09-04"
-  },
-  {
-    "id": "a-incrivel-eleanor-hdr",
-    "tipo": "filme",
-    "titulo": "A Incrível Eleanor [HDR]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BKfPBPVGfLAIIDu8RRJqaIglLU.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -25290,7 +24511,9 @@
         "xtreamId": 11033993,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "Eleanor the Great",
+    "dataLancamento": "2025-09-04"
   },
   {
     "id": "a-incrivel-historia-da-ilha-das-rosas",
@@ -25375,7 +24598,8 @@
     "descricao": "Wes Anderson dirige esta adaptação do conto de Roald Dahl sobre um homem rico determinado a dominar uma técnica extraordinária para trapacear no jogo.",
     "generos": [
       "LEGENDADOS",
-      "COMÉDIA"
+      "COMÉDIA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/nfbHWkyrNKFGkOS0FtjiFNgnFS2.jpg",
     "banner": "https://image.tmdb.org/t/p/original/dS4JR8gmj8UnamjuLEyAkEFoppy.jpg",
@@ -25395,25 +24619,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10772111,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "The Wonderful Story of Henry Sugar",
-    "dataLancamento": "2023-09-20"
-  },
-  {
-    "id": "a-incrivel-historia-de-henry-sugar-hybrid",
-    "tipo": "filme",
-    "titulo": "A Incrível História de Henry Sugar [Hybrid]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/nfbHWkyrNKFGkOS0FtjiFNgnFS2.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -25421,7 +24627,9 @@
         "xtreamId": 10781956,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "The Wonderful Story of Henry Sugar",
+    "dataLancamento": "2023-09-20"
   },
   {
     "id": "a-incrivel-historia-de-henry-sugar-e-outros-tres-contos",
@@ -25866,7 +25074,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/k4PqKV5M9lIxrFreEIRmo3f5WEd.jpg",
     "banner": "https://image.tmdb.org/t/p/original/xG8MoAb91jRGi01iwU0UMpXNlvK.jpg",
     "tmdbId": 688258,
-    "nota": 6.152,
+    "nota": 6.166,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -26123,7 +25331,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/gqGZehMFRo2fnrSxWUitCH8cLfi.jpg",
     "banner": "https://image.tmdb.org/t/p/original/oqaKsofz49zjNhi48sxQIq8U73X.jpg",
     "tmdbId": 11658,
-    "nota": 8,
+    "nota": 7.999,
     "opcoes": [
       {
         "nome": "Padrão",
@@ -26277,7 +25485,8 @@
     "descricao": "Chang, um ásio-americano de 16 anos, aposta com o astro do basquete da escola que consegue enterrar no último jogo da temporada. Com 1,72m de altura, ele inicia sua jornada para aprender o arremesso, não apenas para impressionar sua paixão, Kristy, como também para ganhar o respeito de seus colegas do ensino médio. Mas, antes que consiga saltar e acertar essa cesta, ele terá que repensar tudo o que sabe sobre si mesmo, suas amizades e sua família.",
     "generos": [
       "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
+      "ANIMAÇÃO | INFANTIL | FAMILIA",
+      "4K"
     ],
     "capa": "https://image.tmdb.org/t/p/w500/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg",
     "banner": "https://image.tmdb.org/t/p/original/uepvV4FlHUf8jzZ1yPKr5eJkCBS.jpg",
@@ -26297,25 +25506,7 @@
         "qualidade": "Não informado",
         "xtreamId": 10781704,
         "container": "mp4"
-      }
-    ],
-    "tituloOriginal": "Chang Can Dunk",
-    "dataLancamento": "2023-03-09"
-  },
-  {
-    "id": "a-jogada-de-chang-hdr",
-    "tipo": "filme",
-    "titulo": "A Jogada de Chang [HDR]",
-    "ano": null,
-    "descricao": "",
-    "generos": [
-      "4K"
-    ],
-    "capa": "https://image.tmdb.org/t/p/w500/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg",
-    "banner": null,
-    "tmdbId": null,
-    "nota": null,
-    "opcoes": [
+      },
       {
         "nome": "4K",
         "idioma": "Não informado",
@@ -26323,7 +25514,9 @@
         "xtreamId": 10781957,
         "container": "mp4"
       }
-    ]
+    ],
+    "tituloOriginal": "Chang Can Dunk",
+    "dataLancamento": "2023-03-09"
   },
   {
     "id": "a-jornada",
@@ -26883,16 +26076,16 @@
   {
     "id": "a-lenda",
     "tipo": "filme",
-    "titulo": "A Lenda de Aang: O Último Mestre do Ar",
+    "titulo": "Eu Sou a Lenda",
     "ano": null,
-    "descricao": "O Avatar Aang, o último mestre do ar do mundo, toma conhecimento de um poder antigo que poderia salvar sua cultura da extinção. Com a ajuda de seus amigos, ele embarca em uma busca global para encontrá-lo antes que caia em mãos erradas e ameace destruir a paz que eles sacrificaram tudo para alcançar.",
+    "descricao": "Robert Neville é um brilhante cientista e o único sobrevivente de uma epidemia que transformou os humanos em mutantes sedentos por sangue. Andando pela cidade de Nova York, ele procura por outros possíveis sobreviventes e tenta achar a cura da praga usando seu próprio sangue, que é imune.",
     "generos": [
       "AVENTURA | FICÇÃO | FANTASIA"
     ],
-    "capa": "https://image.tmdb.org/t/p/w500/mTdadPqjkcjOphSsKXLiW2fgLMm.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg",
-    "tmdbId": 980431,
-    "nota": null,
+    "capa": "https://image.tmdb.org/t/p/w500/j2jb6DwNCPIU2LtUrJ9zoQIGvSz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aTLq0TMKdsmIy1ZyFM1LfPs326d.jpg",
+    "tmdbId": 6479,
+    "nota": 7.213,
     "opcoes": [
       {
         "nome": "Padrão",
@@ -26902,8 +26095,8 @@
         "container": "mp4"
       }
     ],
-    "tituloOriginal": "Avatar Aang: The Last Airbender",
-    "dataLancamento": "2026-10-09"
+    "tituloOriginal": "I Am Legend",
+    "dataLancamento": "2007-12-12"
   },
   {
     "id": "a-lenda-da-befana",
@@ -28217,7 +27410,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/jbnF7dVi8iu80zTsWAC0Om8ZYOu.jpg",
     "banner": "https://image.tmdb.org/t/p/original/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
     "tmdbId": 424,
-    "nota": 8.6,
+    "nota": 8.569,
     "opcoes": [
       {
         "nome": "Padrão",
@@ -28408,7 +27601,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/qE0XKOHZvXtiM4aBLlTPUVZiIc5.jpg",
     "banner": "https://image.tmdb.org/t/p/original/2dlt9I2ga6hweywz9zsFUz1PVii.jpg",
     "tmdbId": 604079,
-    "nota": 6.923,
+    "nota": 6.922,
     "opcoes": [
       {
         "nome": "Legendado",
@@ -28460,5 +27653,1594 @@
     ],
     "tituloOriginal": "Corazonada",
     "dataLancamento": "2022-11-12"
+  },
+  {
+    "id": "a-lua",
+    "tipo": "filme",
+    "titulo": "Como Vender a Lua",
+    "ano": null,
+    "descricao": "Contratada para trabalhar a imagem da NASA com o público, a marketeira Kelly Jones precisa chegar a um acordo em como trabalhar com o diretor de lançamento, Cole Davis, que já tem muito em jogo com a missão. Quando a Casa Branca considera que a missão é importante demais para falhar, Jones precisa encenar um pouso falso na lua como back-up.",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/vGLp898JntN7s5KABbiJ7PCS3ZL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4ItXEyVPj6wb9AdhsltcqYE6f5f.jpg",
+    "tmdbId": 956842,
+    "nota": 6.808,
+    "opcoes": [
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10771026,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Fly Me to the Moon",
+    "dataLancamento": "2024-07-10"
+  },
+  {
+    "id": "a-luneta-do-tempo",
+    "tipo": "filme",
+    "titulo": "A Luneta do Tempo",
+    "ano": null,
+    "descricao": "No sertão, Lampião e Maria Bonita brilham nesse filme repleto de personagens fictícios que vivem amores e aventuras numa fantasia de circo ao som de Alceu Valença.",
+    "generos": [
+      "DRAMA"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/gl1Dw9IHNotcblyraZSoecn7kGu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6JPCaJf3iEqCPZH8qY1HaEgYn9i.jpg",
+    "tmdbId": 299800,
+    "nota": 7.1,
+    "opcoes": [
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10774632,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "A Luneta do Tempo",
+    "dataLancamento": "2014-09-25"
+  },
+  {
+    "id": "a-luta",
+    "tipo": "filme",
+    "titulo": "A Luta",
+    "ano": null,
+    "descricao": "O garoto Tininho, morador do pequeno distrito do Divisório, em Minas Gerais, vive a expectativa sobre a luta de boxe histórica entre o americano Joe Louis e Max Schmeling em 1938. Uma história de aventura e amizade.",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/9ZeXSeJX4AtWXuhddO5F3xw59Pt.jpg",
+    "banner": null,
+    "tmdbId": 1568899,
+    "nota": null,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783573,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10774227,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "A Luta",
+    "dataLancamento": "2017-01-20"
+  },
+  {
+    "id": "a-luta-de-uma-vida",
+    "tipo": "filme",
+    "titulo": "A Luta de uma Vida",
+    "ano": null,
+    "descricao": "Harry Haft é um boxeador que lutou contra outros prisioneiros nos campos de concentração para sobreviver. Assombrado pelas memórias e sua culpa, ele tenta usar lutas de alto nível contra lendas do boxe como Rocky Marciano como uma maneira de encontrar seu primeiro amor novamente.",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/maTuBPCOMEHCUHg1ytgZvsjU7kt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2X7BAu7x2oMB3cTMF38uJhGSqoB.jpg",
+    "tmdbId": 606870,
+    "nota": 6.824,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783574,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10774629,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "The Survivor",
+    "dataLancamento": "2022-04-07"
+  },
+  {
+    "id": "a-luz-divina",
+    "tipo": "filme",
+    "titulo": "A Luz Divina",
+    "ano": null,
+    "descricao": "Sol Harkens ( Kevin Sorbo) é o ateu mais famoso do mundo. Por sua opinião sempre contundentes e muitas vezes polêmica, ele alcançou muitos fãs e odiadores, mas mesmo assim leva uma vida solitária e amargurada, além de não conseguir dar de ser um bom pai. Mas, depois de quase morrer, ele verá todas as suas convicções sendo testadas e a sua rotina tendo mudanças radicais.",
+    "generos": [
+      "RELIGIOSOS"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/dGSITQuMpB96RF05b0UGEclrxit.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/listgoAFIjSpTrS45HpQ2Xlnaub.jpg",
+    "tmdbId": 480881,
+    "nota": 5.6,
+    "opcoes": [
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10778868,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Let There Be Light",
+    "dataLancamento": "2017-10-27"
+  },
+  {
+    "id": "a-luz-do-demonio",
+    "tipo": "filme",
+    "titulo": "A Luz do Demônio",
+    "ano": null,
+    "descricao": "A irmã Ann é uma inquieta de 25 anos que acredita devotamente que realizar exorcismos é sua vocação. Mas ela está em desacordo com as tradições da instituição: freiras não podem realizar exorcismos, apenas padres. Com o apoio de um mentor, um professor que percebe seu dom especial, ela pode observar sessões de treinamento reais. Seu desejo de provar a si mesma toma um rumo pessoal quando ela conhece um dos pacientes mais perturbados da escola. Durante seus encontros angustiantes, a Irmã Ann fica cara a cara com uma força demoníaca que infesta a escola e tem laços misteriosos com seu próprio passado. É então que o poder do mal e suas próprias habilidades surpreendentes são plenamente realizadas.",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/mYa1vhjTYakyNCB65lR8Y7jujBn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7dm64SW5L5CCg47kAEAcdCGaq5i.jpg",
+    "tmdbId": 676547,
+    "nota": 6.863,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783575,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780283,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Prey for the Devil",
+    "dataLancamento": "2022-10-23"
+  },
+  {
+    "id": "a-luz-entre-oceanos",
+    "tipo": "filme",
+    "titulo": "A Luz Entre Oceanos",
+    "ano": null,
+    "descricao": "Na Austrália, depois da Primeira Guerra Mundial, um homem trabalha em um farol com a sua esposa. Um dia, eles encontram dentro de um barco um cadáver e um bebê de dois meses de idade. O casal pensa inicialmente em avisar a polícia, mas depois decidem que este foi um presente de Deus, e passam a cuidar da criança. Muito tempo mais tarde, quando fazem uma viagem, eles descobrem que tomaram a decisão errada.",
+    "generos": [
+      "ROMANCE"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/2V2Kkmt75V8U4KsWTBmSc5z63yS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/s72jkxT7xPbfGxnE1lETq5OywvY.jpg",
+    "tmdbId": 283552,
+    "nota": 7.066,
+    "opcoes": [
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10778989,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "The Light Between Oceans",
+    "dataLancamento": "2016-09-02"
+  },
+  {
+    "id": "a-madea-family-funeral",
+    "tipo": "filme",
+    "titulo": "Um Funeral em Família",
+    "ano": null,
+    "descricao": "Madea (Tyler Perry) e seus companheiros achavam que estavam indo para uma reunião de família como outra qualquer. Porém, tudo se transforma em um pesadelo quando de repente eles precisam planejar um funeral no meio de sua viagem a Georgia.",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/1VxYsfaNTglHFL0hqgJGeXv0JOz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/byHW1cN59Af7RFhSSbtz9kzMCc4.jpg",
+    "tmdbId": 464504,
+    "nota": 5.958,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783577,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "A Madea Family Funeral",
+    "dataLancamento": "2019-03-01"
+  },
+  {
+    "id": "a-madrasta",
+    "tipo": "filme",
+    "titulo": "A Madrasta",
+    "ano": null,
+    "descricao": "Um par de mãe e filha bruxas chega ao lar de uma família e causa devastação, cada qual a seu tempo, já que partilham um único corpo enquanto a outra vive num gato durante esse período. Agora é com a mãe da família, um detetive particular e um policial afastado, tentar parar as bruxas.\r O filme é famoso sobretudo por ter sido este o último papel de Bette Davis. No meio, ela foi substituída por Carrera como a bruxa madrastra.",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/qjjd9jQKwVb6afW5iZwKu6tKsHF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jaThbMk4mSRkXtTN4JSfKjO3qYa.jpg",
+    "tmdbId": 35826,
+    "nota": 4.607,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783576,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780286,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Wicked Stepmother",
+    "dataLancamento": "1989-02-03"
+  },
+  {
+    "id": "a-mae",
+    "tipo": "filme",
+    "titulo": "A Mãe",
+    "ano": null,
+    "descricao": "Perseguida por inimigos perigosos, uma assassina foragida sai do esconderijo para proteger a filha que abandonou anos atrás.",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/ytfWQcleGhSE4yXYQjungE2BDMG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/n5NSF8wZeWQHHZtuWgbRAVpqXFR.jpg",
+    "tmdbId": 552688,
+    "nota": 6.626,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783667,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10769182,
+        "container": "mp4"
+      },
+      {
+        "nome": "4K",
+        "idioma": "Não informado",
+        "qualidade": "4K",
+        "xtreamId": 10781978,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "The Mother",
+    "dataLancamento": "2023-05-04"
+  },
+  {
+    "id": "a-mae-da-noiva",
+    "tipo": "filme",
+    "titulo": "A Mãe da Noiva",
+    "ano": null,
+    "descricao": "Uma mãe amorosa vai a um resort tropical para o casamento da filha e descobre que o pai do noivo é o ex que ela não via há décadas.",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE",
+      "4K"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/6gnzZDWfxizydSnjjRX36pW88nw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/m0XCtFisSD0O6P55G1pUHdFccuL.jpg",
+    "tmdbId": 1093231,
+    "nota": 5.889,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783666,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10778991,
+        "container": "mp4"
+      },
+      {
+        "nome": "4K",
+        "idioma": "Não informado",
+        "qualidade": "4K",
+        "xtreamId": 10781980,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Mother of the Bride",
+    "dataLancamento": "2024-05-08"
+  },
+  {
+    "id": "a-mae-do-ano",
+    "tipo": "filme",
+    "titulo": "A Mãe do Ano",
+    "ano": null,
+    "descricao": "A ex-agente especial Nina volta para a ativa depois que o filho que ela nunca teve a chance de conhecer é sequestrado.",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/3kTffR2pOxjwVP1qI5RwWnktI4y.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/AfiFDBdgRVqmoc0XK2FqeI3WpLL.jpg",
+    "tmdbId": 1107872,
+    "nota": 5.816,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783668,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10779547,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Dzień Matki",
+    "dataLancamento": "2023-05-24"
+  },
+  {
+    "id": "a-mae-do-meu-filho",
+    "tipo": "filme",
+    "titulo": "A Mãe do Meu Filho",
+    "ano": null,
+    "descricao": "Um tribunal. Um divórcio. Um drama contado em flashback. Numa história de tribunal, o espectador assistirá ao divórcio de Clemente e Emília, em que se discutem a partilha de bens e a custódia de um filho. Mas algo de estranho começa lentamente a transparecer nos depoimentos: do choque entre as 2 versões da vivência de um mesmo casal, a verdade virá ao de cima.",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/oy9wxFPdUHykmBz42mLoW1FhIJi.jpg",
+    "banner": null,
+    "tmdbId": 498751,
+    "nota": null,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783669,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10774654,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "A mãe do meu filho",
+    "dataLancamento": "2012-07-07"
+  },
+  {
+    "id": "a-mae-e-a-maldicao",
+    "tipo": "filme",
+    "titulo": "A Mãe e a Maldição",
+    "ano": null,
+    "descricao": "Uma mãe descobre seus poderes divinos e se transforma na poderosa deusa Kali para enfrentar um demônio que ameaça sua família com uma terrível maldição.",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/axW2ccdp85roJ3Ks2F9b2zegzPR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/u3Cfe21Cmv5cWs5VnFCz15HdfKO.jpg",
+    "tmdbId": 1389158,
+    "nota": 6.733,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783670,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780334,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "माँ",
+    "dataLancamento": "2025-06-20"
+  },
+  {
+    "id": "a-mafia-volta-ao-diva",
+    "tipo": "filme",
+    "titulo": "A Máfia Volta ao Divã",
+    "ano": null,
+    "descricao": "Paul Vitti (Robert De Niro) está preso, mas logo será solto e precisará dos conselhos do psiquiatra Ben Sobel (Billy Crystal) para se readaptar à vida fora da cadeia. Ao reencontrar Sobel, Vitti logo percebe que ele está com problemas para lidar com sua nova família, após se casar com Laura (Lisa Kudrow). É quando o mafioso decide usar sua experiência de anos para ajudar o amigo analista.",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/8VhmarFxBRhYXNjqMAIcfJkzSpy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/squEMJDrsY7ooVNFqbTSdIVO4Qh.jpg",
+    "tmdbId": 9932,
+    "nota": 5.842,
+    "opcoes": [
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10772134,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Analyze That",
+    "dataLancamento": "2002-12-06"
+  },
+  {
+    "id": "a-magia-comeca-na-rocha-encantada",
+    "tipo": "filme",
+    "titulo": "A Magia Começa na Rocha Encantada",
+    "ano": null,
+    "descricao": "Quando as festas de fim de ano são repletas de aventuras e desafios inesperados, os Fraggles aprendem a valorizar cada dia por ser único e especial, como um floco de neve.",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/uw4AM4MBb1UgpGJeFBnshNf9LSv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/h5hCdU9KvcCbBihSNfn3vtML7tV.jpg",
+    "tmdbId": 1566269,
+    "nota": 7,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783579,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 11049719,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "The First Snow of Fraggle Rock",
+    "dataLancamento": "2025-12-04"
+  },
+  {
+    "id": "a-magia-de-sonhar",
+    "tipo": "filme",
+    "titulo": "A Magia de Sonhar",
+    "ano": null,
+    "descricao": "Kaan é um jovem que vive no campo e fica triste ao saber que terá que se mudar para Istambul. Ele encontra conforto em um livro sobre um menino que é vítima de bullying em uma cidade mágica. Conforme se aprofunda na história, Kaan aprende a transformar seus sonhos em realidade.",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/m0kNfI6RnLzoH2e7l2dButHKF9T.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hDxnvCi3IQOV3UWff9az1E1ln4J.jpg",
+    "tmdbId": 943107,
+    "nota": 5.5,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783578,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10774631,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Bir Dilek Tut",
+    "dataLancamento": "2022-04-08"
+  },
+  {
+    "id": "a-magia-de-um-sonho",
+    "tipo": "filme",
+    "titulo": "A Magia de um Sonho",
+    "ano": null,
+    "descricao": "Uma família emocionalmente devastada após a descoberta que o filho mais novo tem um câncer. Toda a comunidade se une para organizar um último Natal e comemorar com o menino, ainda que estejam em pleno mês de outubro.",
+    "generos": [
+      "DRAMA"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/d0KI51qCECD2hEdB35FhPsGGInj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lGyFqGYmbTDpfqcYyk5uAFyMKqR.jpg",
+    "tmdbId": 135682,
+    "nota": 6.2,
+    "opcoes": [
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10774635,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "The Heart of Christmas",
+    "dataLancamento": "2011-12-04"
+  },
+  {
+    "id": "a-maior-historia-de-amor-nunca-contada",
+    "tipo": "filme",
+    "titulo": "A Maior História de Amor Nunca Contada",
+    "ano": null,
+    "descricao": "Dirigido por Jason Bergh, A Maior História de Amor Nunca Contada acompanha Jennifer Lopez enquanto ela prepara seu projeto mais ousado: a produção independente de um novo álbum e um filme que exploram sua jornada de 20 anos em busca do amor-próprio.",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/yC6sypLTnZzgt7Zvcc9WzbPn0r0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hu0S4QPE1p6UNcYUSDcrINKwwzs.jpg",
+    "tmdbId": 1246030,
+    "nota": 6.182,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783581,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "The Greatest Love Story Never Told",
+    "dataLancamento": "2024-02-26"
+  },
+  {
+    "id": "a-mais-alta-das-apostas",
+    "tipo": "filme",
+    "titulo": "A Mais Alta das Apostas",
+    "ano": null,
+    "descricao": "Richard Heart embarca em uma missão inovadora para revolucionar o mundo das finanças. Alimentado por sua crença inabalável no potencial da tecnologia blockchain. Heart se propõe a criar uma rede revolucionária chamada PulseChain.",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/qesFMWXEamHqPaMscFjmKEiXHvy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aAGB9fYYb9ssCrLlcGUJwQZPaA9.jpg",
+    "tmdbId": 1150798,
+    "nota": 7.5,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783582,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "The Highest of Stakes",
+    "dataLancamento": "2023-08-04"
+  },
+  {
+    "id": "a-mais-louca-sexta-feira-em-apuros",
+    "tipo": "filme",
+    "titulo": "A Mais Louca Sexta-Feira em Apuros",
+    "ano": null,
+    "descricao": "Embora os primos Craig (Ice Cube) e Day-Day (Mike Epps) tenham deixado para trás a segurança de viver com seus pais, o velho apartamento que hoje eles estão dividindo está cheio de equipamentos e do espírito de férias do Natal. O clima de alegria e confraternização domina... até que um falso Papai Noel arromba o apartamento e rouba seus presentes de Natal e tudo mais que ele consegue colocar dentro do enorme saco, inclusive o dinheiro para pagar o aluguel que estava escondido dentro da caixa acústica do aparelhos de som. Diante dessa triste realidade de um Natal sem presentes e com ameaça de despejo, se eles não pagarem o aluguel até o dia do vencimento - sua única esperança de ganhar algum dinheiro , e rápido, acaba levando-os à rua do strip-tease da região, onde eles conseguem um emprego como seguranças. Durante essa inusitada experiência, Craig e Day-Day aprendem algumas divertidas lições sobre o verdadeiro significado das férias e do Natal.",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/92NaYp6Gpcc1e36WMbUlCVGZQPT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bfnQPbcmPAXO2QmDONalx4vNWPB.jpg",
+    "tmdbId": 10426,
+    "nota": 6.371,
+    "opcoes": [
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 11020374,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Friday After Next",
+    "dataLancamento": "2002-11-22"
+  },
+  {
+    "id": "a-mais-preciosa-das-cargas",
+    "tipo": "filme",
+    "titulo": "A Mais Preciosa das Cargas",
+    "ano": null,
+    "descricao": "Menina judia é jogada pelo pai de um trem em movimento a caminho de Auschwitz e acaba sendo encontrada pela esposa de um lenhador.",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/3pU6C8KM4NsUNyVFHD0H86yktpi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bKhhWhoV6B1Kq1wKRSWGDBhLv9Z.jpg",
+    "tmdbId": 842859,
+    "nota": 7.7,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783580,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "La Plus Précieuse des marchandises",
+    "dataLancamento": "2024-11-20"
+  },
+  {
+    "id": "a-malandrinha",
+    "tipo": "filme",
+    "titulo": "A Malandrinha",
+    "ano": null,
+    "descricao": "Após uma noite de farra, Bill Dancer (James Belushi) encontra na porta de sua casa um bebê abandonado. Ele faz o que pode para criá-la e, 9 anos depois, Curly Sue (Alisan Porter) o ajuda em seus pequenos golpes. Os dois vivem mudando de cidade e, ao chegarem em Chicago, tentam aplicar um golpe em Grey Ellison (Kelly Lynch), uma conhecida executiva de uma empresa de advocacia. Eles fazem com que Grey pense que atropelou Bill, visando ganhar um jantar, mas ela acaba se envolvendo com ambos e muda suas vidas.",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/km08ZF8kRKGTJbITfnW3jj1fjmI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/b7nNVBVKjuuvyoxj7WFvddI1ML3.jpg",
+    "tmdbId": 11894,
+    "nota": 6.4,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783584,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10772133,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Curly Sue",
+    "dataLancamento": "1991-10-25"
+  },
+  {
+    "id": "a-maldicao",
+    "tipo": "filme",
+    "titulo": "A Maldição do Sanpaku",
+    "ano": null,
+    "descricao": "Integrante de quadrilha rouba uma pedra preciosa e passa a ser perseguido por seu chefe violento, disposto a qualquer coisa para recuperar sua fortuna. Ciente dos riscos que corre, o ladrão envolve sua namorada e seu melhor amigo no golpe.",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA",
+      "LEGENDADOS"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/vwOKlRRh8Zn8L1HJSAfEa97WZqt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wsmSPM48J2wRR0KUDRyqpwLhtcT.jpg",
+    "tmdbId": 303798,
+    "nota": 5.556,
+    "opcoes": [
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10774228,
+        "container": null
+      },
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783583,
+        "container": null
+      }
+    ],
+    "tituloOriginal": "A Maldição do Sanpaku",
+    "dataLancamento": "1991-05-21"
+  },
+  {
+    "id": "a-maldicao-2022",
+    "tipo": "filme",
+    "titulo": "Piratas do Caribe: A Maldição do Pérola Negra",
+    "ano": 2022,
+    "descricao": "O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola.",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/9Xcg7Ar4ketv4rl8yeK32yp9zQA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zXMGAtDqJ58P8G3W4bwKyYffPhn.jpg",
+    "tmdbId": 22,
+    "nota": 7.823,
+    "opcoes": [
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 11050267,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "dataLancamento": "2003-07-09"
+  },
+  {
+    "id": "a-maldicao-2021",
+    "tipo": "filme",
+    "titulo": "A Maldição",
+    "ano": 2021,
+    "descricao": "Billy Halleck é um advogado influente que leva uma vida perfeita - com exceção da dificuldade em emagrecer. Um dia, ele atropela e mata uma cigana e, sendo absolvido do crime por suas ligações profissionais, é amaldiçoado pelo pai da vítima a emagrecer cada vez mais até morrer.",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/eQcLh0SMoY1It2tAJScnh6GAuNr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3xLT29KkCwLqRgRRtaUHGG6OaZ5.jpg",
+    "tmdbId": 10280,
+    "nota": 5.9,
+    "opcoes": [
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 11050328,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Thinner",
+    "dataLancamento": "1996-10-25"
+  },
+  {
+    "id": "a-maldicao-1996",
+    "tipo": "filme",
+    "titulo": "A Maldição",
+    "ano": 1996,
+    "descricao": "Billy Halleck é um advogado influente que leva uma vida perfeita - com exceção da dificuldade em emagrecer. Um dia, ele atropela e mata uma cigana e, sendo absolvido do crime por suas ligações profissionais, é amaldiçoado pelo pai da vítima a emagrecer cada vez mais até morrer.",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/eQcLh0SMoY1It2tAJScnh6GAuNr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3xLT29KkCwLqRgRRtaUHGG6OaZ5.jpg",
+    "tmdbId": 10280,
+    "nota": 5.9,
+    "opcoes": [
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 11050329,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Thinner",
+    "dataLancamento": "1996-10-25"
+  },
+  {
+    "id": "a-maldicao-da-bela-adormecida",
+    "tipo": "filme",
+    "titulo": "A Maldição da Bela Adormecida",
+    "ano": null,
+    "descricao": "Thomas Kaiser (Ethan Peck) finalmente herda a grande mansão de sua família, pertencente aos Kaiser há muitas e muitas gerações. No entanto, Thomas logo percebe que existe algo errado com a propriedade e as respostas para suas questões vem na forma de uma maldição milenar da qual Thomas não poderá fugir.",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/i8M9qjL1j47MYjxKjnLKEBHtg8j.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4cxxnXQyTu4hHQpJsxU9FcT8vDy.jpg",
+    "tmdbId": 388440,
+    "nota": 5.202,
+    "opcoes": [
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10777183,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "The Curse of Sleeping Beauty",
+    "dataLancamento": "2016-05-05"
+  },
+  {
+    "id": "a-maldicao-da-bruxa",
+    "tipo": "filme",
+    "titulo": "A Maldição da Bruxa",
+    "ano": null,
+    "descricao": "Paranoia e Superstição na Europa no Século 15.  Um jovem criador de cabras nos Alpes do século XV, após a morte traumatizante de sua mãe, começa a sentir uma presença na escuridão.",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/eNZmedLm117ei3nTiYI0BZ3v7NI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4ioXfbRTllE0YsZsBlr7fBTUr4l.jpg",
+    "tmdbId": 466565,
+    "nota": 5.71,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783586,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780289,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Hagazussa",
+    "dataLancamento": "2018-05-17"
+  },
+  {
+    "id": "a-maldicao-da-casa-usher",
+    "tipo": "filme",
+    "titulo": "A Maldição da Casa Usher",
+    "ano": null,
+    "descricao": "A família Usher foi amaldiçoada pela loucura e pelo amor não correspondido. Roderick Usher retorna a casa de sua família ao saber que seu pai está doente. Mas as coisas começam a sair do controle após receber a visita de sua namorada, que fará de tudo para tirá-lo daquele lugar macabro.",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/876Hnx0M7rXHcoDaAG92dN58CbQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yOkQfZWf7q0E4Y59Cd9sa95rcpX.jpg",
+    "tmdbId": 750587,
+    "nota": 6.4,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783585,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780290,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Lady Usher",
+    "dataLancamento": "2021-09-10"
+  },
+  {
+    "id": "a-maldicao-da-casa-winchester",
+    "tipo": "filme",
+    "titulo": "A Maldição da Casa Winchester",
+    "ano": null,
+    "descricao": "Sarah Winchester (Helen Mirren) é herdeira de uma empresa de armas de fogo que está convicta de que é assombrada pelas almas mortas através do rifle da família Winchester. Após as repentinas mortes do marido e filho, ela decide construir uma mansão para afastar os espíritos. Quando o psiquiatra Eric Price (Jason Clarke) parte para avaliar o estado psicológico de Sarah, ele percebe que talvez a obsessão dela não seja tão insana assim.",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/oMS8uz4DrQoP2OU0MHr7KGFdpww.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/q9p7v4KRuwDOzR6TRedXGMADBn0.jpg",
+    "tmdbId": 416234,
+    "nota": 5.886,
+    "opcoes": [
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780284,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Winchester",
+    "dataLancamento": "2018-02-02"
+  },
+  {
+    "id": "a-maldicao-da-chorona",
+    "tipo": "filme",
+    "titulo": "A Maldição da Chorona",
+    "ano": null,
+    "descricao": "Na Los Angeles da década de 1970, uma assistente social criando seus dois filhos sozinha depois de ser deixada viúva começa a ver semelhanças entre um caso que está investigando e a entidade sobrenatural La Llorona. A lenda conta que, em vida, La Llorona afogou seus filhos e depois se jogou no rio, se debulhando em lágrimas. Agora ela chora eternamente, capturando outras crianças para substituir os filhos.",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/x7GUGVMn8c9sMZeD1jZRsLoGQUc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8MCCpfOe7hkG28cNmkXVrOWRIlK.jpg",
+    "tmdbId": 480414,
+    "nota": 5.653,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783587,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780285,
+        "container": "mp4"
+      },
+      {
+        "nome": "4K",
+        "idioma": "Não informado",
+        "qualidade": "4K",
+        "xtreamId": 10781965,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "The Curse of La Llorona",
+    "dataLancamento": "2019-04-17"
+  },
+  {
+    "id": "a-maldicao-da-fazenda-grady",
+    "tipo": "filme",
+    "titulo": "A Maldição da Fazenda Grady",
+    "ano": null,
+    "descricao": "",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/fja6GIKIhgH0z27j49v5OIOApkg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fMRPmdKGMacAuyzryIStxVW2BB6.jpg",
+    "tmdbId": 750732,
+    "nota": 4.778,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783588,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780291,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "The Haunting of Grady Farm",
+    "dataLancamento": "2020-09-25"
+  },
+  {
+    "id": "a-maldicao-da-freira",
+    "tipo": "filme",
+    "titulo": "A Maldição da Freira",
+    "ano": null,
+    "descricao": "No outono de 1960, os padres Thomas Riley (Lalor Roddy) e John Thornton (Ciaran Flynn) são enviados pelo Vaticano para investigar um evento milagroso em um lar irlandês para mulheres órfãs, grávidas solteiras ou com distúrbios mentais. Lá eles encontram uma adolescente grávida com sinais de possessão demoníaca e acabam descobrindo algo terrível.",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/k7hUTY2ANJzKa1bc2XT1pitKEbE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/weaONWEyKX0OmFwcB2SWsNXeP8Z.jpg",
+    "tmdbId": 524789,
+    "nota": 5.455,
+    "opcoes": [
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780288,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "The Devil's Doorway",
+    "dataLancamento": "2018-07-13"
+  },
+  {
+    "id": "a-maldicao-da-ponte-ritual",
+    "tipo": "filme",
+    "titulo": "A Maldição da Ponte: Ritual",
+    "ano": null,
+    "descricao": "Um grupo de alunos testa um jogo de terror de realidade aumentada em uma universidade supostamente assombrada, liberando algo sinistro e extremamente real.",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/lsESSUpzeHdkgYRXVThVqfDLLzD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qqKQv8sjwY8nmxqU0fheQ4HgR0c.jpg",
+    "tmdbId": 999087,
+    "nota": 6.1,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783589,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "女鬼橋2：怨鬼樓",
+    "dataLancamento": "2023-10-13"
+  },
+  {
+    "id": "a-maldicao-da-primeira-colheita",
+    "tipo": "filme",
+    "titulo": "A Maldição da Primeira Colheita",
+    "ano": null,
+    "descricao": "Na primeira noite da colheita, três irmãos vão para o deserto para ver o cadáver de uma bruxa, mas acidentalmente profanam o corpo, trazendo terríveis consequências.",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/eOPXRsQjIZ4Fm6TWpG5V5VP4zJp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ekCs1aReMB2QZ7sMpWG4i5oZFZu.jpg",
+    "tmdbId": 1132497,
+    "nota": 5.1,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783590,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 11049803,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Falling Stars",
+    "dataLancamento": "2024-11-29"
+  },
+  {
+    "id": "a-maldicao-da-sereia",
+    "tipo": "filme",
+    "titulo": "A Maldição da Sereia",
+    "ano": null,
+    "descricao": "Uma sereia é arrancada do Pacífico, seu rabo é cortado e ela é jogada em um lar psíquico, onde ninguém acredita que ela é uma sereia.",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/2cjgA1jdZXfDhLx7mdfNW22Eua2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7cQKUEcRkw2EeK7KDn8eRqS3XkC.jpg",
+    "tmdbId": 504631,
+    "nota": 6.417,
+    "opcoes": [
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780292,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Mermaid Down",
+    "dataLancamento": "2019-10-15"
+  },
+  {
+    "id": "a-maldicao-da-torre",
+    "tipo": "filme",
+    "titulo": "A Maldição da Torre",
+    "ano": null,
+    "descricao": "Quando os restos mortais de dois príncipes assassinados são descobertos na Torre de Londres, um padre perturbado deve deixar suas crenças de lado para fazer amizade com um prisioneiro misterioso, que tem poderes sobrenaturais para se comunicar com os mortos. Juntos, eles devem resolver o mistério de quem assassinou os príncipes, enquanto os prisioneiros na masmorra do castelo encontram seus destinos sangrentos nas mãos dos fantasmas dos príncipes, que continuam a assombrar o castelo em busca de vingança.",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/jqzTf5VxtmJ3YMX6ScgWAQcwNTc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ouN6tUnlwhN0IgtnEI4ADIE6V3g.jpg",
+    "tmdbId": 854881,
+    "nota": 5.9,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783591,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780294,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "The Haunting of the Tower of London",
+    "dataLancamento": "2022-06-27"
+  },
+  {
+    "id": "a-maldicao-de-audrey",
+    "tipo": "filme",
+    "titulo": "A Maldição de Audrey",
+    "ano": null,
+    "descricao": "Em 1973, Audrey, uma jovem bela e enigmática, e Agatha, sua mãe dominadora, vivem secretamente como ocultistas nos arredores de uma remota aldeia de devotos protestantes.",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/wHN7gvTBvqFiM4nhEjjqFpR0JV7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dhdby4wEnYL5VwP4onSfdwVaTyI.jpg",
+    "tmdbId": 688343,
+    "nota": 5.4,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783592,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780297,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "The Curse of Audrey Earnshaw",
+    "dataLancamento": "2020-09-30"
+  },
+  {
+    "id": "a-maldicao-de-bridge-hollow",
+    "tipo": "filme",
+    "titulo": "A Maldição de Bridge Hollow",
+    "ano": null,
+    "descricao": "Pai e filha unem forças para salvar a cidade quando um espírito travesso faz com que as decorações de Halloween ganhem vida e espalhem o caos.",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/f4hdxB3gErjNJtfWBU9rMdhiNbU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pZv3qb5wK3h0kOUL2HOloYioAT9.jpg",
+    "tmdbId": 864959,
+    "nota": 6.531,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783593,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10771939,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "The Curse of Bridge Hollow",
+    "dataLancamento": "2022-10-14"
+  },
+  {
+    "id": "a-maldicao-de-chucky",
+    "tipo": "filme",
+    "titulo": "A Maldição de Chucky",
+    "ano": null,
+    "descricao": "Depois do suicídio de sua mãe, Nica recebe a visita de sua autoritária irmã Barb, que pretende ajudar nos arranjos do funeral. Sua filha traz um boneco ruivo que chegou curiosamente pelos correios. Quando uma série de assassinatos aterrorizam a vizinhança, Nica começa a suspeitar que o brinquedo tenha alguma relação com estes fatos, mas não sabe que Chucky está de volta para resolver casos pessoais de mais de vinte anos atrás.",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/uR9Pa7yed4fL73oxqd0xW3K1gDH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nNBhmIKYuojQxfQRFEFF0yCXonF.jpg",
+    "tmdbId": 167032,
+    "nota": 5.9,
+    "opcoes": [
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780287,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Curse of Chucky",
+    "dataLancamento": "2013-10-08"
+  },
+  {
+    "id": "a-maldicao-de-hannah-stevenson",
+    "tipo": "filme",
+    "titulo": "A Maldição de Hannah Stevenson",
+    "ano": null,
+    "descricao": "Hannah e Matt, um jovem casal em suas primeiras férias juntos, descobrem rapidamente que podem não concordar. Sentindo-se como se tivesse decepcionado o namorado, Hannah pede a ajuda de uma misteriosa cigana, na esperança de que os problemas do casal possam ser superados. No entanto, quando Matt acorda e descobre que sua namorada desapareceu, as intenções sinistras da cigana tornam-se muito claras.",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/uCOMiPwygEPSuUjatADcLMDoRnL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iKVkmyDKUHOS7r0fkF7sWLArCsv.jpg",
+    "tmdbId": 949567,
+    "nota": 5.784,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783596,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780293,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "The Exorcism of Hannah Stevenson",
+    "dataLancamento": "2022-03-14"
+  },
+  {
+    "id": "a-maldicao-de-isabelle",
+    "tipo": "filme",
+    "titulo": "A Maldição de Isabelle",
+    "ano": null,
+    "descricao": "O sonho de um jovem casal de começar uma família se quebra enquanto eles caem nas profundezas da paranóia e precisam lutar para sobreviver a uma presença maligna que não quer nada além de suas próprias vidas.",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/j45giQ0qy2rnzPuVDfP13QYIydg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/px8rtxeHaFs065bk26etiF7yEmn.jpg",
+    "tmdbId": 540291,
+    "nota": 5.1,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783595,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780295,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Isabelle",
+    "dataLancamento": "2019-05-24"
+  },
+  {
+    "id": "a-maldicao-de-lizzie-borden",
+    "tipo": "filme",
+    "titulo": "A Maldição de Lizzie Borden",
+    "ano": null,
+    "descricao": "Uma maldição levou aos mais infames assassinatos a machadada da história.",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/yD5z6Ha9tlgjT2EjIZeimuMH5cq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gaZC5nC6HDY8i82Td0nFia9kLOK.jpg",
+    "tmdbId": 873081,
+    "nota": 5.917,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783594,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "The Curse of Lizzie Borden",
+    "dataLancamento": "2021-09-10"
+  },
+  {
+    "id": "a-maldicao-de-medeia",
+    "tipo": "filme",
+    "titulo": "A Maldição de Medeia",
+    "ano": null,
+    "descricao": "Liza, uma mãe divorciada com duas crianças para criar, conhece uma misteriosa mulher que diz que sua família é amaldiçoada e seus dois filhos correm um grande perigo. Liza se recusa a acreditar na mulher, mas após ser atormentada por estranhas visões, começa a buscar uma maneira de salvar a vida dos garotos.",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/iU21ibI24tpl1spmMYDlM72zELv.jpg",
+    "banner": null,
+    "tmdbId": 1025186,
+    "nota": null,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783598,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780300,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Fluch der Medea",
+    "dataLancamento": "2014-02-07"
+  },
+  {
+    "id": "a-maldicao-de-ouro",
+    "tipo": "filme",
+    "titulo": "A Maldição De Ouro",
+    "ano": null,
+    "descricao": "Quando uma mina de ouro assombrada é reaberta após 150 anos, uma criatura sobrenatural e horripilante foge e resolve se vingar dos habitantes de uma pequena cidade. Emitindo uma névoa capaz de paralisar suas vítimas com medo, o monstro as destrói, deixando para trás um rastro de sangue. E enquanto os moradores indefesos são assassinados e o reino do terror começa, um xerife e uma legista unem forças para encontrar um jeito de destruir a criatura antes que ela destrua a cidade.",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/61AmNxfiS5wscJuCrGkYqdwgOG2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4DPUEz1BTJeVFJZcSveCX879xDW.jpg",
+    "tmdbId": 168802,
+    "nota": 4.6,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 11036327,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 11036364,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Heebie Jeebies",
+    "dataLancamento": "2013-02-09"
+  },
+  {
+    "id": "a-maldicao-de-raven-s-hollow",
+    "tipo": "filme",
+    "titulo": "A Maldição de Raven's Hollow",
+    "ano": null,
+    "descricao": "O cadete de West Point, Edgar Allan Poe, e quatro outros cadetes em um exercício de treinamento no interior do estado de Nova York são atraídos por uma descoberta horrível em uma comunidade esquecida, onde encontram um local que guarda um segredo assustador.",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/8N9qjYLujTFwawY95mHxQUPO1sj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cBsuqkXl13ubY8xqUlzpusMojra.jpg",
+    "tmdbId": 996581,
+    "nota": 5.4,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783597,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780296,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Raven's Hollow",
+    "dataLancamento": "2022-09-22"
+  },
+  {
+    "id": "a-maldicao-de-rose",
+    "tipo": "filme",
+    "titulo": "A Maldição de Rose",
+    "ano": null,
+    "descricao": "Após o brutal assassinato de sua família pelas mãos de seu pai, uma veterana de guerra, Rose é enviada para morar em um convento no nordeste dos Estados Unidos. No entanto, os demônios que atormentavam seu pai, seguem despertando os pesadelos de seu passado.",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/17fqc7EvBTAvc0xqrOwjgiuLa3p.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/f6WSV0lsuOub8lgPBHrFlOhTGUk.jpg",
+    "tmdbId": 662821,
+    "nota": 6.1,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783600,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10774633,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "The Dawn",
+    "dataLancamento": "2019-09-27"
+  },
+  {
+    "id": "a-maldicao-de-samantha",
+    "tipo": "filme",
+    "titulo": "A Maldição de Samantha",
+    "ano": null,
+    "descricao": "No centro desta trama está o jovem Paul Conway, um pequeno gênio da ciência, recém-chegado a uma cidadezinha para estudar formas de inteligência artificial na universidade local. Uma de suas realizações de alta tecnologia chama-se \"Bee-Bee\", seu incrível robô de estimação, dotado até de voz. E uma de suas novas amigas é a encantadora vizinha Samantha. Quando trágicos acidentes lhe arrebatam \"Bee Bee\" e Samantha de uma só vez, Paul, com seu talento, decide recuperar o amor perdido. E como um moderno Dr, Frankstein, ele, descobre tarde demais que criou um monstro alucinado. Samantha vai deixando por onde passa sua marca registrada: Terror, Medo... e sangue! Tudo isso numa espirituosa combinação de susto e divertimento!",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/lASH7BmOwFauqVR9NHysgOS08Xr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/AlCqrEHsJ1c3kYITJPu6VYwNKgp.jpg",
+    "tmdbId": 33278,
+    "nota": 6.181,
+    "opcoes": [
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780298,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Deadly Friend",
+    "dataLancamento": "1986-10-10"
+  },
+  {
+    "id": "a-maldicao-de-savannah",
+    "tipo": "filme",
+    "titulo": "A Maldição de Savannah",
+    "ano": null,
+    "descricao": "Após a filha de um casal morrer afogada em sua própria casa, a família decide se mudar para Savannah, uma pequena cidade da Geórgia. Consumida pela culpa, a mãe começa a presenciar estranhos fenômenos paranormais que ela acredita serem causados pelo fantasma de sua filha.",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/dLoIGT1rCQ9IM1Oa38gwx1GFD00.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hg8J9cow8XaGUTuOcAsXzQye3jW.jpg",
+    "tmdbId": 852917,
+    "nota": 5.867,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783599,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780299,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "A Savannah Haunting",
+    "dataLancamento": "2022-10-28"
+  },
+  {
+    "id": "a-maldicao-de-sharon-tate",
+    "tipo": "filme",
+    "titulo": "A Maldição de Sharon Tate",
+    "ano": null,
+    "descricao": "Sharon Tate estava no melhor momento de sua vida: tinha sido indicada ao Globo de Ouro por sua atuação no filme “O Vale da Bonecas”, era casada com um dos maiores diretores de Hollywood, Roman Polanski, e carregava na barriga seu primeiro filho. Tudo mudou quando seguidores de um culto macabro liderado por Charles Manson invadiram sua casa em Los Angeles e a esfaquearam dezesseis vezes, sem nenhuma piedade. Minutos antes de morrer, Sharon tomou consciência de todas as atrocidades que ela e seu filho estavam prestes a sofrer.",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/g6HBnMsznUcAZuGIdAAwlGxfdZF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7OsMTSVI9pfurIsaOrGPW7cxqgk.jpg",
+    "tmdbId": 503706,
+    "nota": 4.388,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783601,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780301,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "The Haunting of Sharon Tate",
+    "dataLancamento": "2019-04-05"
+  },
+  {
+    "id": "a-maldicao-de-valburga",
+    "tipo": "filme",
+    "titulo": "A Maldição de Valburga",
+    "ano": null,
+    "descricao": "Bojan e Marjan organizam um passeio turístico em uma mansão de Valburga, que teoricamente pertenceu ao primo do Conde Drácula. Durante a primeira visita, um personagem misterioso aparece.",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/hBPCankcTQci3ZYxnuzkfPtZ2Qr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qvGKwveQKOwafSwJFCkdF0HFFXn.jpg",
+    "tmdbId": 544756,
+    "nota": 5.889,
+    "opcoes": [
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10780302,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "Prekletstvo Valburge",
+    "dataLancamento": "2019-07-18"
+  },
+  {
+    "id": "a-maldicao-despertar-dos-mortos",
+    "tipo": "filme",
+    "titulo": "A Maldição: Despertar dos Mortos",
+    "ano": null,
+    "descricao": "Uma série de assassinatos é cometida por mortos-vivos. No primeiro caso, o corpo do suspeito é encontrado ao lado da vítima na cena do crime, mas a polícia descobre que ele morreu há três meses. Enquanto isso, a jornalista Lim Jin-hee recebe uma ligação misteriosa de um homem que assume a autoria do crime. O suspeito alerta que três novos assassinatos ocorrerão, executados por cadáveres ressuscitados conhecidos como Jaechaui. No dia do primeiro ataque anunciado, a polícia se prepara para capturar o culpado, mas é surpreendida por um exército de mortos-vivos. Quem está por trás desses eventos e qual o seu verdadeiro motivo?",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "capa": "https://image.tmdb.org/t/p/w500/k3IgF9W8ZD6BBdz2bljQAHydFCe.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gkd9A6PKd3W4BryClsF4dcU7Qmq.jpg",
+    "tmdbId": 724885,
+    "nota": 7.413,
+    "opcoes": [
+      {
+        "nome": "Legendado",
+        "idioma": "Legendado",
+        "qualidade": "Não informado",
+        "xtreamId": 10783602,
+        "container": "mp4"
+      },
+      {
+        "nome": "Padrão",
+        "idioma": "Não informado",
+        "qualidade": "Não informado",
+        "xtreamId": 10779539,
+        "container": "mp4"
+      }
+    ],
+    "tituloOriginal": "방법: 재차의",
+    "dataLancamento": "2021-07-28"
   }
 ]
