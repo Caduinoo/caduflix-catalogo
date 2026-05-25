@@ -1,5 +1,37 @@
 [
   {
+    "id": "milo",
+    "tipo": "serie",
+    "titulo": "Milo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/x5B0Y2yvMmLFNcj08V724oMu9am.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xavHGCzcYrAsrevxLnwDKUnJhzd.jpg",
+    "generos": [
+      "HBO MAX"
+    ],
+    "nota": 8.7,
+    "tmdbId": 228272,
+    "totalTemporadas": 1,
+    "totalEpisodios": 26,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/milo.json"
+  },
+  {
+    "id": "minha-baba-e-uma-vampira",
+    "tipo": "serie",
+    "titulo": "Minha Babá é Uma Vampira",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wzfgkVZHRz78mg8yb6uCFRjcnaE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hzkX0Mujeika5hBQGxFd8anFEB2.jpg",
+    "generos": [
+      "HBO MAX"
+    ],
+    "nota": 8.112,
+    "tmdbId": 39518,
+    "totalTemporadas": 2,
+    "totalEpisodios": 26,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/minha-baba-e-uma-vampira.json"
+  },
+  {
     "id": "minha-estranha-obsessao",
     "tipo": "serie",
     "titulo": "Minha Estranha Obsessão",

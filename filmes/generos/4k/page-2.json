@@ -743,6 +743,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cinderela.json"
   },
   {
+    "id": "cinquenta-tons-de-liberdade",
+    "tipo": "filme",
+    "titulo": "Cinquenta Tons de Liberdade",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/c7lzePlEU91R6tZUXpllwISZgXF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
+    "generos": [
+      "DRAMA",
+      "4K"
+    ],
+    "nota": 6.675,
+    "tmdbId": 337167,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cinquenta-tons-de-liberdade.json"
+  },
+  {
     "id": "cinzas",
     "tipo": "filme",
     "titulo": "Avatar: Fogo e Cinzas",
@@ -1276,6 +1291,20 @@
     "nota": 5.659,
     "tmdbId": 827931,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/corte-no-tempo.json"
+  },
+  {
+    "id": "covil",
+    "tipo": "filme",
+    "titulo": "Covil",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yYXv9dF3hfb6xvXJkSdENf6h6Qf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zPNOtPlRrHpev1nJc9lP682uIl0.jpg",
+    "generos": [
+      "4K"
+    ],
+    "nota": null,
+    "tmdbId": 1405945,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/covil.json"
   },
   {
     "id": "covil-de-ladroes-2",
@@ -2478,6 +2507,22 @@
     "nota": 6.168,
     "tmdbId": 1168709,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/einstein-e-a-bomba.json"
+  },
+  {
+    "id": "el-salvador-o-dia-em-que-o-medo-mudou-de-lado",
+    "tipo": "filme",
+    "titulo": "El Salvador - O dia em que o medo mudou de lado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bg4KbU1M53QRFKGtoHOJPjFonbu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/o5WFZISFD8rW2K2WVOSiu73Lgf6.jpg",
+    "generos": [
+      "4K",
+      "NACIONAIS",
+      "LANÇAMENTOS"
+    ],
+    "nota": 8.5,
+    "tmdbId": 1699414,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/el-salvador-o-dia-em-que-o-medo-mudou-de-lado.json"
   },
   {
     "id": "ela-disse",
@@ -3815,6 +3860,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/furia-da-natureza.json"
   },
   {
+    "id": "furia-em-alto-mar",
+    "tipo": "filme",
+    "titulo": "Fúria em Alto Mar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ral7cnZBQZGFmGaJUxrpcY8Xj3l.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gCIB3DdK00DyfwosVGf7pnFFdK3.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 6.908,
+    "tmdbId": 399402,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/furia-em-alto-mar.json"
+  },
+  {
     "id": "furia-primitiva",
     "tipo": "filme",
     "titulo": "Fúria Primitiva",
@@ -4647,69 +4707,5 @@
     "nota": 6.819,
     "tmdbId": 932086,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/horizon-uma-saga-americana-capitulo-1.json"
-  },
-  {
-    "id": "hotel-artemis",
-    "tipo": "filme",
-    "titulo": "Hotel Artemis",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/lDj5AEPO121NJIMZBFXrMs7Y06A.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9E4mLJY4ZiQDPi2KR8cWr7mHF8o.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA",
-      "4K"
-    ],
-    "nota": 6.071,
-    "tmdbId": 406761,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/hotel-artemis.json"
-  },
-  {
-    "id": "how-to-have-sex",
-    "tipo": "filme",
-    "titulo": "How to Have Sex",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yQyoFCBLGJH5HXESmJAzaiXw9zU.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/akvlTeB0LiNzw9U9YCAB8wwb5Qo.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA",
-      "4K"
-    ],
-    "nota": 6.236,
-    "tmdbId": 1075175,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/how-to-have-sex.json"
-  },
-  {
-    "id": "humane-ate-onde-o-ser-humano-pode-chegar",
-    "tipo": "filme",
-    "titulo": "Humane: Até Onde o Ser Humano Pode Chegar",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/sngVFA61zXSYo3jOjMdwbx66yoq.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mwI1OarF7BVWwn5O1Ng73UhyctP.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "4K",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.454,
-    "tmdbId": 914215,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/humane-ate-onde-o-ser-humano-pode-chegar.json"
-  },
-  {
-    "id": "hurry-up-tomorrow-alem-dos-holofotes",
-    "tipo": "filme",
-    "titulo": "Hurry Up Tomorrow: Além dos Holofotes",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/651x5Q1RIuVLdliwZSHi5B8NrWh.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/iqQSRP52a8q7CNViVyXz6nC5CJP.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER",
-      "4K"
-    ],
-    "nota": 5.096,
-    "tmdbId": 1093237,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/hurry-up-tomorrow-alem-dos-holofotes.json"
   }
 ]

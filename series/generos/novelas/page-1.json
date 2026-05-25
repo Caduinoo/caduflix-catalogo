@@ -3055,6 +3055,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/que-rei-sou-eu.json"
   },
   {
+    "id": "quem-ama-cuida",
+    "tipo": "serie",
+    "titulo": "Quem Ama Cuida",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lzLkCVaN1l0RBYYDClZ983l4ZOz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/usn2hDX2RIPjvHQE72sSLLHjoDM.jpg",
+    "generos": [
+      "NOVELAS"
+    ],
+    "nota": 7.5,
+    "tmdbId": 306956,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/quem-ama-cuida.json"
+  },
+  {
     "id": "rainha-da-sucata",
     "tipo": "serie",
     "titulo": "Rainha da Sucata",

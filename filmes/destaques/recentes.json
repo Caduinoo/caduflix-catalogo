@@ -158,6 +158,246 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mestres-do-universo.json"
   },
   {
+    "id": "a-tregua",
+    "tipo": "filme",
+    "titulo": "A trégua",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "DRAMA",
+      "LANÇAMENTOS"
+    ],
+    "nota": null,
+    "tmdbId": 735675,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-tregua.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-25",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.25",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-25.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-26",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.26",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-26.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-27",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.27",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-27.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-28",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.28",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-28.json"
+  },
+  {
+    "id": "jornada-nas-estrelas-12",
+    "tipo": "filme",
+    "titulo": "Jornada Nas Estrelas 12",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQg1M46bIcqozNYfhYPJs93Dd2w.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jornada-nas-estrelas-12.json"
+  },
+  {
+    "id": "mazzaropi-betao-ronca-ferro",
+    "tipo": "filme",
+    "titulo": "Mazzaropi - Betao Ronca Ferro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hjz8BhdKCzTEaLsa4G92oZ1U7a.jpg",
+    "banner": null,
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mazzaropi-betao-ronca-ferro.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-25",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.25",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-25.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-28",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.28",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-28.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-29",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.29",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-29.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-26",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.26",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-26.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-27",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.27",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-27.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-23",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.23",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-23.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-24",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.24",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-24.json"
+  },
+  {
+    "id": "maldicao-da-mumia-dv",
+    "tipo": "filme",
+    "titulo": "Maldição da Múmia [DV]",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubN87iHY2DyWtwU2JHS0SQ1KqJu.jpg",
+    "banner": null,
+    "generos": [
+      "4K"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/maldicao-da-mumia-dv.json"
+  },
+  {
+    "id": "jack-ryan-de-tom-clancy-guerra-fantasma-dv",
+    "tipo": "filme",
+    "titulo": "Jack Ryan de Tom Clancy Guerra Fantasma [DV]",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPue4NKPiGNrIbZFeOsZfnovFAM.jpg",
+    "banner": null,
+    "generos": [
+      "4K"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jack-ryan-de-tom-clancy-guerra-fantasma-dv.json"
+  },
+  {
+    "id": "primeiro-as-damas",
+    "tipo": "filme",
+    "titulo": "Primeiro as Damas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tW10rRdxMwJC4r1zldQzxcyzEUS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
+    "generos": [
+      "COMÉDIA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 5.744,
+    "tmdbId": 1368881,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/primeiro-as-damas.json"
+  },
+  {
     "id": "zero",
     "tipo": "filme",
     "titulo": "Zona Zero",
@@ -185,6 +425,22 @@
     "nota": null,
     "tmdbId": null,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-22.json"
+  },
+  {
+    "id": "el-salvador-o-dia-em-que-o-medo-mudou-de-lado",
+    "tipo": "filme",
+    "titulo": "El Salvador - O dia em que o medo mudou de lado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bg4KbU1M53QRFKGtoHOJPjFonbu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/o5WFZISFD8rW2K2WVOSiu73Lgf6.jpg",
+    "generos": [
+      "4K",
+      "NACIONAIS",
+      "LANÇAMENTOS"
+    ],
+    "nota": 8.5,
+    "tmdbId": 1699414,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/el-salvador-o-dia-em-que-o-medo-mudou-de-lado.json"
   },
   {
     "id": "fantasma",
@@ -223,7 +479,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/bPue4NKPiGNrIbZFeOsZfnovFAM.jpg",
     "banner": "https://image.tmdb.org/t/p/original/69KkxROnZoJdQAulnY5B7Gx6D7Z.jpg",
     "generos": [
-      "TOP 10"
+      "TOP 10",
+      "4K"
     ],
     "nota": 7.11,
     "tmdbId": 1380291,
@@ -571,6 +828,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/abandonados.json"
   },
   {
+    "id": "ufc-fight-night-276-allen-vs-costa-2026",
+    "tipo": "filme",
+    "titulo": "UFC Fight Night 276: Allen vs. Costa",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/cssaN9nb45lxwDrEw5XH1ZBgIMO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/usGQRmo8WpyydMlxvCEHnRvm0T1.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA",
+      "LANÇAMENTOS"
+    ],
+    "nota": null,
+    "tmdbId": 1696745,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ufc-fight-night-276-allen-vs-costa-2026.json"
+  },
+  {
     "id": "seducao",
     "tipo": "filme",
     "titulo": "Sedução",
@@ -870,284 +1142,11 @@
     "generos": [
       "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA",
-      "LANÇAMENTOS"
+      "LANÇAMENTOS",
+      "4K"
     ],
     "nota": 8.483,
     "tmdbId": 1439930,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-justiceiro-uma-ultima-morte.json"
-  },
-  {
-    "id": "untold-reino-unido-jamie-vardy",
-    "tipo": "filme",
-    "titulo": "Untold Reino Unido: Jamie Vardy",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/t3cxqW5ZlQnLO8rhzKbrW8uOgaI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/weFG1yMIwVsjGr5YfdpltxpBh09.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "LANÇAMENTOS"
-    ],
-    "nota": 7.6,
-    "tmdbId": 1684240,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/untold-reino-unido-jamie-vardy.json"
-  },
-  {
-    "id": "arthur-e-merlin-cavaleiros-de-camelot-14",
-    "tipo": "filme",
-    "titulo": "Arthur & Merlin Cavaleiros de Camelot.14",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
-    "banner": null,
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-14.json"
-  },
-  {
-    "id": "arthur-e-merlin-cavaleiros-de-camelot-15",
-    "tipo": "filme",
-    "titulo": "Arthur & Merlin Cavaleiros de Camelot.15",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
-    "banner": null,
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-15.json"
-  },
-  {
-    "id": "arthur-e-merlin-cavaleiros-de-camelot-16",
-    "tipo": "filme",
-    "titulo": "Arthur & Merlin Cavaleiros de Camelot.16",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
-    "banner": null,
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-16.json"
-  },
-  {
-    "id": "fascinacao-mortal-a-vinganca-15",
-    "tipo": "filme",
-    "titulo": "Fascinacao Mortal A Vinganca.15",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
-    "banner": null,
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-15.json"
-  },
-  {
-    "id": "criaturas-extraordinariamente-brilhantes-dv",
-    "tipo": "filme",
-    "titulo": "Criaturas Extraordinariamente Brilhantes [DV]",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdX43F9GGMKLKZGxPde6nv09Uhn.jpg",
-    "banner": null,
-    "generos": [
-      "4K"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/criaturas-extraordinariamente-brilhantes-dv.json"
-  },
-  {
-    "id": "martin-short-uma-vida-de-comedia",
-    "tipo": "filme",
-    "titulo": "Martin Short: Uma Vida de Comédia",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/udQ4UWZaaN5s46jVHTBmEkWVpst.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vate7k6MyLQDeFYkHqCrLhRes6m.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "LANÇAMENTOS"
-    ],
-    "nota": 8.273,
-    "tmdbId": 1620034,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/martin-short-uma-vida-de-comedia.json"
-  },
-  {
-    "id": "mortal-kombat-2-ruim",
-    "tipo": "filme",
-    "titulo": "Mortal Kombat 2 RUIM",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2OwwZBGZxJDWRglKqbFhx7Eok.jpg",
-    "banner": null,
-    "generos": [
-      "CINEMA | RUIM | CAM | PROPAGANDA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mortal-kombat-2-ruim.json"
-  },
-  {
-    "id": "gary-dv",
-    "tipo": "filme",
-    "titulo": "Gary [DV]",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOOhoxvUDe7lWpPEeh0gFBYpjFe.jpg",
-    "banner": null,
-    "generos": [
-      "4K"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/gary-dv.json"
-  },
-  {
-    "id": "socorro-dv",
-    "tipo": "filme",
-    "titulo": "Socorro! [DV]",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/furPD78BZsKAWZoGvoqArIJYPy2.jpg",
-    "banner": null,
-    "generos": [
-      "4K"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/socorro-dv.json"
-  },
-  {
-    "id": "com-amor",
-    "tipo": "filme",
-    "titulo": "Da Toscana, com Amor",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/d2aVcAMi5tZPLPBc7ZSVQ0rN2cr.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/bWvGtxd3a6wW7ocQPlYza3ycpxk.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA",
-      "4K",
-      "LANÇAMENTOS"
-    ],
-    "nota": 6.746,
-    "tmdbId": 1317448,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/com-amor.json"
-  },
-  {
-    "id": "american-solitaire-ruim",
-    "tipo": "filme",
-    "titulo": "American Solitaire RUIM",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJUffaY6Qeo5WQRgVkWWbcKODFg.jpg",
-    "banner": null,
-    "generos": [
-      "CINEMA | RUIM | CAM | PROPAGANDA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/american-solitaire-ruim.json"
-  },
-  {
-    "id": "boy-of-your-dreams-2-ruim",
-    "tipo": "filme",
-    "titulo": "Boy Of Your Dreams 2 RUIM",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bt6b9l5mcv3VU4pZLiuMLmDLT5f.jpg",
-    "banner": null,
-    "generos": [
-      "CINEMA | RUIM | CAM | PROPAGANDA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/boy-of-your-dreams-2-ruim.json"
-  },
-  {
-    "id": "desert-warrior-ruim",
-    "tipo": "filme",
-    "titulo": "Desert Warrior RUIM",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JHYiYhOPoME3E5pscYpE4dQfbT.jpg",
-    "banner": null,
-    "generos": [
-      "CINEMA | RUIM | CAM | PROPAGANDA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/desert-warrior-ruim.json"
-  },
-  {
-    "id": "empire-of-lies-ruim",
-    "tipo": "filme",
-    "titulo": "Empire of Lies RUIM",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uAFDuOCv6jjbRolZQDnVsbjU8n.jpg",
-    "banner": null,
-    "generos": [
-      "CINEMA | RUIM | CAM | PROPAGANDA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/empire-of-lies-ruim.json"
-  },
-  {
-    "id": "maldicao-da-mumia-ruim",
-    "tipo": "filme",
-    "titulo": "Maldição da Múmia RUIM",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubN87iHY2DyWtwU2JHS0SQ1KqJu.jpg",
-    "banner": null,
-    "generos": [
-      "CINEMA | RUIM | CAM | PROPAGANDA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/maldicao-da-mumia-ruim.json"
-  },
-  {
-    "id": "bright",
-    "tipo": "filme",
-    "titulo": "Criaturas Extraordinariamente Brilhantes",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iMJaRPY4xx4lScIaIWd67yWJuqc.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 8.539,
-    "tmdbId": 1330021,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/bright.json"
-  },
-  {
-    "id": "criaturas",
-    "tipo": "filme",
-    "titulo": "Criaturas Extraordinariamente Brilhantes",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iMJaRPY4xx4lScIaIWd67yWJuqc.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 8.539,
-    "tmdbId": 1330021,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/criaturas.json"
-  },
-  {
-    "id": "criaturas-extraordinariamente-brilhantes",
-    "tipo": "filme",
-    "titulo": "Criaturas Extraordinariamente Brilhantes",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iMJaRPY4xx4lScIaIWd67yWJuqc.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA",
-      "LANÇAMENTOS"
-    ],
-    "nota": 8.548,
-    "tmdbId": 1330021,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/criaturas-extraordinariamente-brilhantes.json"
   }
 ]

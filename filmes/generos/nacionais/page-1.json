@@ -1356,6 +1356,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/as-aventuras-de-poliana-o-filme.json"
   },
   {
+    "id": "as-granfinas-e-o-camelo",
+    "tipo": "filme",
+    "titulo": "As Granfinas e o Camelô",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1VazFrgotv7qSxajDTTpUnidzim.jpg",
+    "banner": null,
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 7,
+    "tmdbId": 440712,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/as-granfinas-e-o-camelo.json"
+  },
+  {
     "id": "as-incriveis-artimanhas-da-nuvem-cigana",
     "tipo": "filme",
     "titulo": "As Incríveis Artimanhas da Nuvem Cigana",
@@ -2601,6 +2615,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/colegio-girassol.json"
   },
   {
+    "id": "com-as-calcas-na-mao",
+    "tipo": "filme",
+    "titulo": "Com as Calças na Mão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pYyGcrYMu82uvu1eQ8RcivAxuC6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9vNcsLYU9D2BawR8qvnGtY07kIQ.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 5.25,
+    "tmdbId": 245740,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/com-as-calcas-na-mao.json"
+  },
+  {
     "id": "como-esquecer",
     "tipo": "filme",
     "titulo": "Como Esquecer",
@@ -3423,6 +3451,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/el-mate.json"
   },
   {
+    "id": "el-salvador-o-dia-em-que-o-medo-mudou-de-lado",
+    "tipo": "filme",
+    "titulo": "El Salvador - O dia em que o medo mudou de lado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bg4KbU1M53QRFKGtoHOJPjFonbu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/o5WFZISFD8rW2K2WVOSiu73Lgf6.jpg",
+    "generos": [
+      "4K",
+      "NACIONAIS",
+      "LANÇAMENTOS"
+    ],
+    "nota": 8.5,
+    "tmdbId": 1699414,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/el-salvador-o-dia-em-que-o-medo-mudou-de-lado.json"
+  },
+  {
     "id": "ela-e-eu",
     "tipo": "filme",
     "titulo": "Ela e Eu",
@@ -4225,47 +4269,5 @@
     "nota": null,
     "tmdbId": 791389,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/imagem-da-incompletude.json"
-  },
-  {
-    "id": "impuros-o-filme",
-    "tipo": "filme",
-    "titulo": "Impuros: O Filme",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/9UFRFJ8PoXdy1OA6XW0i1hGjyFF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qDR4k7sjD5eFGY7xiaqhkm1YzUY.jpg",
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": 6.9,
-    "tmdbId": 871932,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/impuros-o-filme.json"
-  },
-  {
-    "id": "inabitaveis",
-    "tipo": "filme",
-    "titulo": "Inabitáveis",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/t44iYYVrx5kPfltVZldJS3yWcAe.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/aXssryzUKqTTVkF0I78nNM443hX.jpg",
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": 4,
-    "tmdbId": 668044,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/inabitaveis.json"
-  },
-  {
-    "id": "incompativel",
-    "tipo": "filme",
-    "titulo": "Incompatível",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xIzfGf7tZbv8flY13plCREyEJ0J.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vbrJOegAhoE45DNc33dNemZLyAj.jpg",
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": 7.8,
-    "tmdbId": 756099,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/incompativel.json"
   }
 ]

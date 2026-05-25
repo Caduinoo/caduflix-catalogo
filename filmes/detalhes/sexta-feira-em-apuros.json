@@ -18,9 +18,16 @@
       "qualidade": "Não informado",
       "xtreamId": 10773823,
       "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11060838,
+      "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1773567049,
+  "dataCriacaoXtream": 1779613165,
   "tituloOriginal": "Friday",
   "dataLancamento": "1995-04-26"
 }

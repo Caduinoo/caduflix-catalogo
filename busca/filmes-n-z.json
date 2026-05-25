@@ -3753,6 +3753,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/nada-e-por-acaso.json"
   },
   {
+    "id": "nada-em-comum",
+    "tipo": "filme",
+    "titulo": "Nada Em Comum",
+    "tituloNormalizado": "nada em comum",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jEE9U8bBGv3bgF1ZkAd60EFP8uJ.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/nada-em-comum.json"
+  },
+  {
     "id": "nada-mais-a-perder",
     "tipo": "filme",
     "titulo": "Nada Mais a Perder",
@@ -7245,6 +7254,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/nove-meses.json"
   },
   {
+    "id": "nove-milhas-para-o-inferno",
+    "tipo": "filme",
+    "titulo": "Nove Milhas Para o Inferno",
+    "tituloNormalizado": "nove milhas para o inferno",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hjciAFfi0J6UaU4MX7oVQSjfJ97.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/nove-milhas-para-o-inferno.json"
+  },
+  {
     "id": "novembro",
     "tipo": "filme",
     "titulo": "Novembro",
@@ -9961,6 +9979,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/7IlDfL40rIe1bVERCxXUJJfx2en.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-chamado-4-samara-ressurge.json"
+  },
+  {
+    "id": "o-chamado-da-agua",
+    "tipo": "filme",
+    "titulo": "O Chamado da Água",
+    "tituloNormalizado": "o chamado da agua",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fmoIVtw5a1Yl8kydzYSke4z4S2O.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-chamado-da-agua.json"
   },
   {
     "id": "o-chamado-da-floresta",
@@ -15057,6 +15084,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-jarro-de-natal.json"
   },
   {
+    "id": "o-jeca-e-a-egua-milagrosa",
+    "tipo": "filme",
+    "titulo": "O Jeca e a Égua Milagrosa",
+    "tituloNormalizado": "o jeca e a egua milagrosa",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gpgvRnaGr3bTtRVbC3J5gBdd1n7.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-jeca-e-a-egua-milagrosa.json"
+  },
+  {
     "id": "o-jeremias",
     "tipo": "filme",
     "titulo": "O Jeremias",
@@ -15343,6 +15379,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-justiceiro.json"
+  },
+  {
+    "id": "o-justiceiro-estrada-do-caos",
+    "tipo": "filme",
+    "titulo": "O Justiceiro: Estrada do Caos",
+    "tituloNormalizado": "o justiceiro: estrada do caos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2YYxSzOq66PEOppuQ2XxWm0QRDf.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-justiceiro-estrada-do-caos.json"
   },
   {
     "id": "o-justiceiro-uma-ultima-morte",
@@ -25056,6 +25101,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-agentes-do-destino.json"
   },
   {
+    "id": "os-aldeoes",
+    "tipo": "filme",
+    "titulo": "Os Aldeões",
+    "tituloNormalizado": "os aldeoes",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yqkeaEllNPCBVvVchlzbRzwqKx5.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-aldeoes.json"
+  },
+  {
     "id": "os-aloprados",
     "tipo": "filme",
     "titulo": "Os Aloprados",
@@ -27205,6 +27259,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/cNPhs8Gkm1SJ4vuZDnytZnj1EsY.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-sem-floresta.json"
+  },
+  {
+    "id": "os-sete-gatinhos",
+    "tipo": "filme",
+    "titulo": "Os Sete Gatinhos",
+    "tituloNormalizado": "os sete gatinhos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gDtK3boRVeqZ8llWdANCrpGoMoJ.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-sete-gatinhos.json"
   },
   {
     "id": "os-sete-pecados-capitais-furia-de-edimburgo-parte-2",
@@ -29637,6 +29700,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/patrulha-canina-o-filme.json"
   },
   {
+    "id": "patrulha-canina-resgate-de-dino",
+    "tipo": "filme",
+    "titulo": "Patrulha Canina: Resgate de Dino",
+    "tituloNormalizado": "patrulha canina: resgate de dino",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qgqYiiuomYGGqds6WP8q4c7pYNv.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/patrulha-canina-resgate-de-dino.json"
+  },
+  {
     "id": "patrulha-canina-super-filhotes",
     "tipo": "filme",
     "titulo": "Patrulha Canina: Super Filhotes",
@@ -31761,6 +31833,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pistoleiros-do-entardecer.json"
   },
   {
+    "id": "pitanga",
+    "tipo": "filme",
+    "titulo": "Pitanga",
+    "tituloNormalizado": "pitanga",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zGDc4O9eQhTD9fcfSECNjAYTJtM.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pitanga.json"
+  },
+  {
     "id": "pitbull-forca-bruta",
     "tipo": "filme",
     "titulo": "Pitbull - Força Bruta",
@@ -33111,6 +33192,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/portrait-of-a-lady-on-fire.json"
   },
   {
+    "id": "portugal-minha-saudade",
+    "tipo": "filme",
+    "titulo": "Portugal... Minha Saudade",
+    "tituloNormalizado": "portugal... minha saudade",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hvz6PW5TotlI1KrCPVX28fkosnf.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/portugal-minha-saudade.json"
+  },
+  {
     "id": "poseidon",
     "tipo": "filme",
     "titulo": "Poseidon",
@@ -33993,6 +34083,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/primeiro-ano.json"
   },
   {
+    "id": "primeiro-as-damas",
+    "tipo": "filme",
+    "titulo": "Primeiro as Damas",
+    "tituloNormalizado": "primeiro as damas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tW10rRdxMwJC4r1zldQzxcyzEUS.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/primeiro-as-damas.json"
+  },
+  {
     "id": "primeiro-da-classe",
     "tipo": "filme",
     "titulo": "Primeiro da Classe",
@@ -34009,6 +34108,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/isCnmtLE2YnpEadEivtzE5Clhl6.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/primeiro-impacto.json"
+  },
+  {
+    "id": "primitivo",
+    "tipo": "filme",
+    "titulo": "Primitivo",
+    "tituloNormalizado": "primitivo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/90Ck5KYjfiyM7fyJPx7y5qZfYGm.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/primitivo.json"
   },
   {
     "id": "primos",
@@ -38268,6 +38376,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/relatos-de-guerra.json"
   },
   {
+    "id": "relatos-do-mundo",
+    "tipo": "filme",
+    "titulo": "Relatos do Mundo",
+    "tituloNormalizado": "relatos do mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cLqg9BjcecdzYGqURSdWgBUO3rX.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/relatos-do-mundo.json"
+  },
+  {
     "id": "relatos-selvagens",
     "tipo": "filme",
     "titulo": "Relatos Selvagens",
@@ -39166,6 +39283,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/e0CKmNlKfWwc8LSgfyf4gYsTjjP.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rio-2.json"
+  },
+  {
+    "id": "rio-babilonia",
+    "tipo": "filme",
+    "titulo": "Rio Babilônia",
+    "tituloNormalizado": "rio babilonia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oEKmpE8E1fQDISKWnWVnyNeZqn0.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rio-babilonia.json"
   },
   {
     "id": "rio-de-janeiro-paraiso-em-chamas",
@@ -47610,6 +47736,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/striptease.json"
   },
   {
+    "id": "stuber-a-corrida-maluca",
+    "tipo": "filme",
+    "titulo": "Stuber: A Corrida Maluca",
+    "tituloNormalizado": "stuber: a corrida maluca",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bopJPyP68dJEjO7i0gUrYMYC0Eh.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/stuber-a-corrida-maluca.json"
+  },
+  {
     "id": "stuck",
     "tipo": "filme",
     "titulo": "Stuck - A Canção dos Trilhos",
@@ -50328,6 +50463,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/testemunha-fatal.json"
   },
   {
+    "id": "testemunhas-silenciosas",
+    "tipo": "filme",
+    "titulo": "Testemunhas Silenciosas",
+    "tituloNormalizado": "testemunhas silenciosas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/o31Mwup2EQAygdjCez21hOXN0ZG.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/testemunhas-silenciosas.json"
+  },
+  {
     "id": "tetris",
     "tipo": "filme",
     "titulo": "Tetris",
@@ -52983,6 +53127,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/todo-dia.json"
   },
   {
+    "id": "todo-dia-uma-vida",
+    "tipo": "filme",
+    "titulo": "Todo Dia Uma Vida",
+    "tituloNormalizado": "todo dia uma vida",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iYZmsE1UNKZF1nPvq06xtkrXjkP.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/todo-dia-uma-vida.json"
+  },
+  {
     "id": "todo-mundo-ainda-tem-problemas-sexuais",
     "tipo": "filme",
     "titulo": "Todo Mundo Ainda Tem Problemas Sexuais",
@@ -54675,6 +54828,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tristao-e-isolda.json"
   },
   {
+    "id": "tristeza-do-jeca",
+    "tipo": "filme",
+    "titulo": "Tristeza do Jeca",
+    "tituloNormalizado": "tristeza do jeca",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vjCBeW5tJGX1CdO7jlePqSN7u0b.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tristeza-do-jeca.json"
+  },
+  {
     "id": "triunfantes-em-deus",
     "tipo": "filme",
     "titulo": "Triunfantes em Deus",
@@ -55314,6 +55476,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tudo-o-que-tivemos.json"
   },
   {
+    "id": "tudo-o-que-voce-podia-ser",
+    "tipo": "filme",
+    "titulo": "Tudo O Que Você Podia Ser",
+    "tituloNormalizado": "tudo o que voce podia ser",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xYxdFw8mPLAbFetKwx477bd4LGE.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tudo-o-que-voce-podia-ser.json"
+  },
+  {
     "id": "tudo-o-que-voce-sempre-quis-saber-sobre-sexo-mas-tinha-medo-de-perguntar",
     "tipo": "filme",
     "titulo": "Tudo o que Você Sempre Quis Saber Sobre Sexo Mas Tinha Medo de Perguntar",
@@ -55861,6 +56032,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/mj3S0pMp5kHccFmyVZ1L49c2Xtp.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ufc-fight-night-258-imavov-vs-borralho.json"
+  },
+  {
+    "id": "ufc-fight-night-276-allen-vs-costa-2026",
+    "tipo": "filme",
+    "titulo": "UFC Fight Night 276: Allen vs. Costa",
+    "tituloNormalizado": "ufc fight night 276: allen vs. costa",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/cssaN9nb45lxwDrEw5XH1ZBgIMO.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ufc-fight-night-276-allen-vs-costa-2026.json"
   },
   {
     "id": "ufo",
@@ -58858,6 +59038,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/gi14xLvfgZRjhKDBe5JKlOdn0QQ.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-porto-seguro.json"
+  },
+  {
+    "id": "um-pouco-de-caos",
+    "tipo": "filme",
+    "titulo": "Um Pouco de Caos",
+    "tituloNormalizado": "um pouco de caos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iXRYX6v5K8Vb9dXQqifTSQaMwZz.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-pouco-de-caos.json"
   },
   {
     "id": "um-pouco-de-nos",
@@ -64924,6 +65113,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/9Azlmj0MvhXvFIqUs5Jg0AS5sA2.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/volcano.json"
+  },
+  {
+    "id": "voldemort-a-origem-do-herdeiro",
+    "tipo": "filme",
+    "titulo": "Voldemort: A Origem do Herdeiro",
+    "tituloNormalizado": "voldemort: a origem do herdeiro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2LilBeUffRfr1sRSvi32Axg3uGv.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/voldemort-a-origem-do-herdeiro.json"
   },
   {
     "id": "volition",

@@ -1,5 +1,50 @@
 [
   {
+    "id": "maria-montessori-ensinando-com-amor",
+    "tipo": "filme",
+    "titulo": "Maria Montessori - Ensinando com Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/blMeGbby3GanSfJqDGwSiYtGUGY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sg2iCpfERyX4xyqZipfvNqSAHbx.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.995,
+    "tmdbId": 959395,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/maria-montessori-ensinando-com-amor.json"
+  },
+  {
+    "id": "marinette",
+    "tipo": "filme",
+    "titulo": "Marinette",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/aM7o55PKT45q630Qmma1fNu99Cd.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2RV5M80S4El2R5bmqpBJx6hpquT.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.473,
+    "tmdbId": 953735,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/marinette.json"
+  },
+  {
+    "id": "mario-e-leon-no-amor-e-no-jogo",
+    "tipo": "filme",
+    "titulo": "Mário e Leon: No Amor e no Jogo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/v7YILAHLXFPYJ5sm9Z6l5iP8XSF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gcFONl7qIeACgUPIxNyvrdnjanL.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 7.164,
+    "tmdbId": 500259,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mario-e-leon-no-amor-e-no-jogo.json"
+  },
+  {
     "id": "mark-felt-o-homem-que-derrubou-a-casa-branca",
     "tipo": "filme",
     "titulo": "Mark Felt: O Homem Que Derrubou a Casa Branca",
@@ -1986,6 +2031,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/nada-e-por-acaso.json"
   },
   {
+    "id": "nada-em-comum",
+    "tipo": "filme",
+    "titulo": "Nada Em Comum",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jEE9U8bBGv3bgF1ZkAd60EFP8uJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tMH0vpz9s0GfA4rnl7k1x3nyRdl.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 5.86,
+    "tmdbId": 29968,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/nada-em-comum.json"
+  },
+  {
     "id": "nada-santo",
     "tipo": "filme",
     "titulo": "Nada Santo",
@@ -3784,6 +3843,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-chale.json"
   },
   {
+    "id": "o-chamado-da-agua",
+    "tipo": "filme",
+    "titulo": "O Chamado da Água",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fmoIVtw5a1Yl8kydzYSke4z4S2O.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/anm4weP3FrUWMllycTI6jV1aepC.jpg",
+    "generos": [
+      "DRAMA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 5.8,
+    "tmdbId": 1156104,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-chamado-da-agua.json"
+  },
+  {
     "id": "o-chamado-da-floresta",
     "tipo": "filme",
     "titulo": "O Chamado da Floresta",
@@ -4294,78 +4368,5 @@
     "nota": 5.876,
     "tmdbId": 50627,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-dia-dos-loucos.json"
-  },
-  {
-    "id": "o-dia-que-mudou-o-mundo",
-    "tipo": "filme",
-    "titulo": "O Dia que Mudou o Mundo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/n1Uw2cMlQr9oz6sbekuEcCs4e9U.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/pigQBEI6xpamTs8ItzXW3z77rtd.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.6,
-    "tmdbId": 655379,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-dia-que-mudou-o-mundo.json"
-  },
-  {
-    "id": "o-diabo-de-cada-dia",
-    "tipo": "filme",
-    "titulo": "O Diabo de Cada Dia",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/spqWjgLWvWlluIodXFn1SsNtISC.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gWPz2ucZxzbnbTQCJHADDCcGi9o.jpg",
-    "generos": [
-      "DRAMA",
-      "4K"
-    ],
-    "nota": 7.2,
-    "tmdbId": 499932,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-diabo-de-cada-dia.json"
-  },
-  {
-    "id": "o-diario-de-anne-frank",
-    "tipo": "filme",
-    "titulo": "O Diário de Anne Frank",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/i7kUdUAF9eTxQG7GdR6lKUK96En.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/t5rUpe1MwGP0JwMLbfaMJvAfUsG.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.176,
-    "tmdbId": 2576,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-diario-de-anne-frank.json"
-  },
-  {
-    "id": "o-diario-de-uma-adolescente",
-    "tipo": "filme",
-    "titulo": "O Diário de Uma Adolescente",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dmaO958Hq0EP2LxqRXxWrWwnSnD.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jUiH4T53kBjyflRgzVuD6aB8hQi.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.578,
-    "tmdbId": 250124,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-diario-de-uma-adolescente.json"
-  },
-  {
-    "id": "o-direito-de-viver",
-    "tipo": "filme",
-    "titulo": "O Direito de Viver",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/prC4sNzMAyxgK53po7IxJ4xKqVk.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zSIM1UOHCAsPWTJOCkoEWVdtas5.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 5.6,
-    "tmdbId": 565470,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-direito-de-viver.json"
   }
 ]

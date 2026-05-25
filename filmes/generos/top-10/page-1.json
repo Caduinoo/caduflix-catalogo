@@ -41,7 +41,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/bPue4NKPiGNrIbZFeOsZfnovFAM.jpg",
     "banner": "https://image.tmdb.org/t/p/original/69KkxROnZoJdQAulnY5B7Gx6D7Z.jpg",
     "generos": [
-      "TOP 10"
+      "TOP 10",
+      "4K"
     ],
     "nota": 7.11,
     "tmdbId": 1380291,
@@ -89,7 +90,8 @@
     "generos": [
       "LEGENDADOS",
       "TOP 10",
-      "LANÇAMENTOS"
+      "LANÇAMENTOS",
+      "4K"
     ],
     "nota": 7.652,
     "tmdbId": 1226863,

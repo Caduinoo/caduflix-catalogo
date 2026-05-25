@@ -1,5 +1,140 @@
 [
   {
+    "id": "amor-em-harmony-valley",
+    "tipo": "filme",
+    "titulo": "Amor em Harmony Valley",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9yKHFsqNanfJ4MyirVummOk9vM9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kiqr3ndLlOHkcUqAR0t4p2oDCly.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 7.4,
+    "tmdbId": 723968,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-harmony-valley.json"
+  },
+  {
+    "id": "amor-em-hong-kong",
+    "tipo": "filme",
+    "titulo": "Amor em Hong Kong",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fUaEj7vJwVPAI0fFurAnolTzq76.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ptKjeAarO95PBPAiLQ4eYkwcs2P.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 5,
+    "tmdbId": 1149108,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-hong-kong.json"
+  },
+  {
+    "id": "amor-em-little-italy",
+    "tipo": "filme",
+    "titulo": "Amor em Little Italy",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mOC25KOQYNeUnTurG66kBgfxGB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lrxsLj0ZYSiSmrNRr9m4UQV8TxQ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.61,
+    "tmdbId": 523773,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-little-italy.json"
+  },
+  {
+    "id": "amor-em-obras",
+    "tipo": "filme",
+    "titulo": "Amor em Obras",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sQLiCMQFC9pK0b5g9Qwnkl4D9yh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lVJdFZc8hBJRVnOIay60tl04Qjv.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE",
+      "4K"
+    ],
+    "nota": 6.5,
+    "tmdbId": 623195,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-obras.json"
+  },
+  {
+    "id": "amor-em-south-beach",
+    "tipo": "filme",
+    "titulo": "Amor em South Beach",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/h517jl5N8y6wHUdD4GUveLy58wI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sydy4nujE2hs6xF3VadL6ESvsXr.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.667,
+    "tmdbId": 860267,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-south-beach.json"
+  },
+  {
+    "id": "amor-em-soweto",
+    "tipo": "filme",
+    "titulo": "Amor em Soweto",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1XYiQqxCPzYTomOUg0otKYKAo8b.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2T2NU30YsXwk0Ir4Vi0IDTaGYGC.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 4.646,
+    "tmdbId": 1237835,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-soweto.json"
+  },
+  {
+    "id": "amor-em-tempos-de-guerra",
+    "tipo": "filme",
+    "titulo": "Amor em Tempos de Guerra",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/x5MIYyGx3ukYXK0jNFxnDYwaiz7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7RJmCyuTPbckzian3DvSbfgWSYE.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 6.055,
+    "tmdbId": 433356,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-tempos-de-guerra.json"
+  },
+  {
+    "id": "amor-em-tempos-de-odio",
+    "tipo": "filme",
+    "titulo": "Amor em Tempos de Ódio",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7ZGqze3H7kNIIKZxWYf60Eng5jX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2reDfi3bl3givTawULOVvjEF1rR.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7.891,
+    "tmdbId": 426618,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-tempos-de-odio.json"
+  },
+  {
+    "id": "amor-em-tempos-de-polarizacao",
+    "tipo": "filme",
+    "titulo": "Amor em Tempos de Polarização",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5KL3ewJAgjoXrThUBJfQadGq6B.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/it3aYAPBhx2Ph4aWX3e5s77vXXL.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 5.5,
+    "tmdbId": 1011367,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-tempos-de-polarizacao.json"
+  },
+  {
     "id": "amor-em-verona",
     "tipo": "filme",
     "titulo": "Amor em Verona",
@@ -4220,132 +4355,5 @@
     "nota": 6.44,
     "tmdbId": 457335,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/armas-em-jogo.json"
-  },
-  {
-    "id": "armas-na-mesa",
-    "tipo": "filme",
-    "titulo": "Armas na Mesa",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uHYwAUc4AiyUpkwjERq5icFKt2d.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/hnWBg0qgYa7LxVnTdVYUbAPLctc.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 7.4,
-    "tmdbId": 376290,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/armas-na-mesa.json"
-  },
-  {
-    "id": "armstrong",
-    "tipo": "filme",
-    "titulo": "Tráfico de Armas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/klENV7aVrKXv3mdtYGklfXt13li.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/n6v6vkIFPPwVCjCzgMrpcyoGKRE.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 4.7,
-    "tmdbId": 108928,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/armstrong.json"
-  },
-  {
-    "id": "army-of-the-dead-invasao-em-las-vegas",
-    "tipo": "filme",
-    "titulo": "Army of the Dead: Invasão em Las Vegas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/sdVbjJ33SQO2caG6DkYKRhSyrja.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/c0izdYdnTe4uMRifHgvTA85wPz0.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.205,
-    "tmdbId": 503736,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/army-of-the-dead-invasao-em-las-vegas.json"
-  },
-  {
-    "id": "arn-o-cavaleiro-templario",
-    "tipo": "filme",
-    "titulo": "Arn - O Cavaleiro Templário",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gThQJrOfzeC1HQzwdEofRSyCU7p.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dUg9UcQgfMhTdvLqrHnel5YEMVQ.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.291,
-    "tmdbId": 13491,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arn-o-cavaleiro-templario.json"
-  },
-  {
-    "id": "arquivo-x-eu-quero-acreditar",
-    "tipo": "filme",
-    "titulo": "Arquivo X: Eu Quero Acreditar",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mtt7m7mjWcuq7XeEdbnVWUikVfu.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fCdc3TZNNHGk1ZQBXENdWLqjUio.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 5.9,
-    "tmdbId": 8836,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arquivo-x-eu-quero-acreditar.json"
-  },
-  {
-    "id": "arquivos-da-perversao-os-abusos-na-boy-scouts-of-america",
-    "tipo": "filme",
-    "titulo": "Arquivos da Perversão: Os Abusos na Boy Scouts of America",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dP6QJ62LQL8xPqBTueXRYILJKm0.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zwj0Vk50L8RoweODJPdQ8ULPKdU.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7.6,
-    "tmdbId": 1165111,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arquivos-da-perversao-os-abusos-na-boy-scouts-of-america.json"
-  },
-  {
-    "id": "arquivos-de-um-serial-killer",
-    "tipo": "filme",
-    "titulo": "Arquivos de um Serial Killer",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/2sfmqtBvCvI9s3uMRLTLMo6QtVi.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zZmdNi1l4asOE6a6FJVGR95GHOT.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.927,
-    "tmdbId": 852851,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arquivos-de-um-serial-killer.json"
-  },
-  {
-    "id": "arranha-ceu-coragem-sem-limite",
-    "tipo": "filme",
-    "titulo": "Arranha-Céu: Coragem Sem Limite",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fvwR00VUW2yFtSdYr8F3NUmusf6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/oMKFQmoVgB69fyXfSMu0lGlHJP2.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.308,
-    "tmdbId": 447200,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arranha-ceu-coragem-sem-limite.json"
-  },
-  {
-    "id": "arraste-me-para-o-inferno",
-    "tipo": "filme",
-    "titulo": "Arraste-me Para o Inferno",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5yykGbXP353oBpkX7Z9Iw34mmeX.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3tvwsRSIDgwJuaGdh67XZ942UMy.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.477,
-    "tmdbId": 16871,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arraste-me-para-o-inferno.json"
   }
 ]

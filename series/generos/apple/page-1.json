@@ -2769,6 +2769,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/pluribus.json"
   },
   {
+    "id": "prazer-maximo-garantido",
+    "tipo": "serie",
+    "titulo": "Prazer Máximo Garantido",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/b5mDbXQoTs6SPjbBjoWfvWOpGhc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9mZlvYlGA4jblCvAvOpinrgn6hr.jpg",
+    "generos": [
+      "APPLE+"
+    ],
+    "nota": 5.2,
+    "tmdbId": 285404,
+    "totalTemporadas": 1,
+    "totalEpisodios": 2,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/prazer-maximo-garantido.json"
+  },
+  {
     "id": "pretzel-e-os-filhotes",
     "tipo": "serie",
     "titulo": "Pretzel e os Filhotes",

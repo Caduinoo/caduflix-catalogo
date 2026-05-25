@@ -1,5 +1,91 @@
 [
   {
+    "id": "a-paixao-segundo-g-h",
+    "tipo": "filme",
+    "titulo": "A Paixão Segundo G.H.",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cuXbKwUO4y4swgKvbyy58MOUXhV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/m3wARXek8GToFKQPSpX0rOIyl5k.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 6.5,
+    "tmdbId": 566268,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-paixao-segundo-g-h.json"
+  },
+  {
+    "id": "a-palavra",
+    "tipo": "filme",
+    "titulo": "A Palavra",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sSFtJytLcrQp21jaLDi845e8Ecs.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mp0LuXFSAV2Ze02xHHFxVJ2Hn4E.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 6,
+    "tmdbId": 286255,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-palavra.json"
+  },
+  {
+    "id": "a-palavra-de-pablo",
+    "tipo": "filme",
+    "titulo": "A Palavra de Pablo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4fSD3wa1FNDIwBwAXjlUImjk7dq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6kbUwkGVYkZzOQUXsU60MYblSod.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.3,
+    "tmdbId": 427427,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-palavra-de-pablo.json"
+  },
+  {
+    "id": "a-pandemia-da-agua",
+    "tipo": "filme",
+    "titulo": "A Pandemia da Água",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fPpr2Smzj8HzvgjJ2hvXZ7dvVFx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nOaLgER55rOF3lo7yJd2MR1CK59.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 4.5,
+    "tmdbId": 940100,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-pandemia-da-agua.json"
+  },
+  {
+    "id": "a-pantera-cor-de-rosa",
+    "tipo": "filme",
+    "titulo": "A Pantera Cor-de-Rosa",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vsA6L6kNdkr3Zhi03u3PFxUSWz1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3jiNJ4lyAmdSidvbFTFIL2GQGBu.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 5.864,
+    "tmdbId": 12096,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-pantera-cor-de-rosa.json"
+  },
+  {
+    "id": "a-paranoia-de-lulu",
+    "tipo": "filme",
+    "titulo": "A Paranoia de Lulu",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pZtTmf67sxOyYBSjX9TGIZXQpeD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/y4ddQhHT9NRAoDG165RA7Sp6DXr.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 4.2,
+    "tmdbId": 1119197,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-paranoia-de-lulu.json"
+  },
+  {
     "id": "a-parede",
     "tipo": "filme",
     "titulo": "Contra a Parede",
@@ -492,6 +578,21 @@
     "nota": 7.822,
     "tmdbId": 826,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ponte-do-rio-kwai.json"
+  },
+  {
+    "id": "a-porrada-vai-comer",
+    "tipo": "filme",
+    "titulo": "A Porrada Vai Comer!",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2ujZDnUE0g309LxhLtQFIDQgGyM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uzXLCqPWYbsVzPU3pGz3oPqO4lE.jpg",
+    "generos": [
+      "COMÉDIA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.5,
+    "tmdbId": 1165441,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-porrada-vai-comer.json"
   },
   {
     "id": "a-porta-ao-lado",
@@ -3450,6 +3551,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-travessia.json"
   },
   {
+    "id": "a-tregua",
+    "tipo": "filme",
+    "titulo": "A trégua",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "DRAMA",
+      "LANÇAMENTOS"
+    ],
+    "nota": null,
+    "tmdbId": 735675,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-tregua.json"
+  },
+  {
     "id": "a-trilha",
     "tipo": "filme",
     "titulo": "A Trilha",
@@ -4239,124 +4355,5 @@
     "nota": 5.712,
     "tmdbId": 384682,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-ressaca-do-ano.json"
-  },
-  {
-    "id": "a-ultima-sessao-de-freud",
-    "tipo": "filme",
-    "titulo": "A Última Sessão de Freud",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/13ZlDok5Qn0Sx3WX961kM8ww39B.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/pg01mUOLX6bmkmQyQownrPDXbm.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA",
-      "4K"
-    ],
-    "nota": 6.585,
-    "tmdbId": 1025491,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-sessao-de-freud.json"
-  },
-  {
-    "id": "a-ultima-showgirl",
-    "tipo": "filme",
-    "titulo": "A Última Showgirl",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/g26HMndLqlZ9zMYl6yG6XYwlWEb.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sfhhJmKJBidavKSnCd8ZIMFOOup.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.419,
-    "tmdbId": 1235499,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-showgirl.json"
-  },
-  {
-    "id": "a-ultima-tentacao-de-cristo",
-    "tipo": "filme",
-    "titulo": "A Última Tentação de Cristo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yqUf4l6UuqCUKs7cVH879anIoC6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rBqdcQeM1h05YjF9rFtPWnNaDO2.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 7.21,
-    "tmdbId": 11051,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-tentacao-de-cristo.json"
-  },
-  {
-    "id": "a-ultima-viagem",
-    "tipo": "filme",
-    "titulo": "A Última Viagem",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/72TAV2h6vZaQJUX9VwIrgVclryv.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/arrilHwb2z1iIflRDHuWqhhLFo.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": null,
-    "tmdbId": 1356017,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-viagem.json"
-  },
-  {
-    "id": "a-ultima-vinganca",
-    "tipo": "filme",
-    "titulo": "Halloween 6: A Última Vingança",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dIPn1ohodFg87zsZYCbdcx02RBQ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jHtuoRdP5nGyulwYoV8izEU6p8M.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.2,
-    "tmdbId": 10987,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-vinganca.json"
-  },
-  {
-    "id": "a-ultima-vitima",
-    "tipo": "filme",
-    "titulo": "A Última Vítima",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hoJ4G6JVJL8OEB37mRr4t1jn8l0.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sYmXL2iSUbQLzRcFgsePOYgpFyg.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.216,
-    "tmdbId": 865370,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-vitima.json"
-  },
-  {
-    "id": "a-unica-mulher-na-orquestra",
-    "tipo": "filme",
-    "titulo": "A Única Mulher na Orquestra",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/swEozMPfk1sbIiSsw1JjIsY79E6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/n9xkjl1feNcfdtANFFVvaJ5yDqO.jpg",
-    "generos": [
-      "OSCAR"
-    ],
-    "nota": 6.623,
-    "tmdbId": 1195310,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-unica-mulher-na-orquestra.json"
-  },
-  {
-    "id": "a-unica-sobrevivente",
-    "tipo": "filme",
-    "titulo": "A Única Sobrevivente",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nreStPF08Bd5RYH4gjbXVh59XAu.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xTLSA6areOJIf4dDNdhjOjiz68V.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.619,
-    "tmdbId": 610363,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-unica-sobrevivente.json"
   }
 ]

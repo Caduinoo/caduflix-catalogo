@@ -1,5 +1,66 @@
 [
   {
+    "id": "flora-e-filho-musica-em-familia",
+    "tipo": "filme",
+    "titulo": "Flora e Filho - Música em Família",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/i1Xv3pmIwEXmrbnMOwl6BExjV9a.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nV4nOG6ZCK8orRL7T5wXXgMdM0N.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA",
+      "4K"
+    ],
+    "nota": 6.928,
+    "tmdbId": 1059811,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/flora-e-filho-musica-em-familia.json"
+  },
+  {
+    "id": "florence-quem-e-essa-mulher",
+    "tipo": "filme",
+    "titulo": "Florence: Quem é Essa Mulher?",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oXIkaUF2DDfs4c3jfO5wHj0fJuh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/x5zHw4qTZ1aP4Lrcv49coRluvxr.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.654,
+    "tmdbId": 315664,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/florence-quem-e-essa-mulher.json"
+  },
+  {
+    "id": "flores-partidas",
+    "tipo": "filme",
+    "titulo": "Flores Partidas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pSvtfXwjdb7UpiyVMp3gt8pTOHT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xTO4x2OyF7TdZ32mVnjzhjslDOd.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.938,
+    "tmdbId": 308,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/flores-partidas.json"
+  },
+  {
+    "id": "fora-de-controle",
+    "tipo": "filme",
+    "titulo": "Um Dia Fora de Controle",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/auLOTlulof19GSPrNomyG7myfzN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5lQ4euO30sDin5nCifvi0vURFNd.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.064,
+    "tmdbId": 1248226,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fora-de-controle.json"
+  },
+  {
     "id": "fora-de-serie",
     "tipo": "filme",
     "titulo": "Um Homem Fora de Série",
@@ -4050,6 +4111,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/marido-e-mulher.json"
   },
   {
+    "id": "marido-por-acaso",
+    "tipo": "filme",
+    "titulo": "Marido por Acaso",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rqOaIW7bmKB5MsZVuvW5DgoQqZM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wBxsxb27gCgcMZuNwLl9EoxSt03.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 5.57,
+    "tmdbId": 13401,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/marido-por-acaso.json"
+  },
+  {
     "id": "maridos",
     "tipo": "filme",
     "titulo": "Maridos",
@@ -4280,75 +4355,5 @@
     "nota": 6,
     "tmdbId": 75212,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mazzaropi-as-aventuras-de-pedro-malazartes.json"
-  },
-  {
-    "id": "mazzaropi-candinho",
-    "tipo": "filme",
-    "titulo": "Mazzaropi - Candinho",
-    "ano": null,
-    "capa": null,
-    "banner": null,
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mazzaropi-candinho.json"
-  },
-  {
-    "id": "mazzaropi-casinha-pequenina",
-    "tipo": "filme",
-    "titulo": "Mazzaropi - Casinha Pequenina",
-    "ano": null,
-    "capa": null,
-    "banner": null,
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mazzaropi-casinha-pequenina.json"
-  },
-  {
-    "id": "mazzaropi-chico-fumaca",
-    "tipo": "filme",
-    "titulo": "Mazzaropi - Chico Fumaca",
-    "ano": null,
-    "capa": null,
-    "banner": null,
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mazzaropi-chico-fumaca.json"
-  },
-  {
-    "id": "mazzaropi-chofer-de-praca",
-    "tipo": "filme",
-    "titulo": "Mazzaropi - Chofer de Praca",
-    "ano": null,
-    "capa": null,
-    "banner": null,
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mazzaropi-chofer-de-praca.json"
-  },
-  {
-    "id": "mazzaropi-fuzileiro-do-amor",
-    "tipo": "filme",
-    "titulo": "Mazzaropi - Fuzileiro Do Amor",
-    "ano": null,
-    "capa": null,
-    "banner": null,
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mazzaropi-fuzileiro-do-amor.json"
   }
 ]

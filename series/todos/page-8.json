@@ -1,5 +1,21 @@
 [
   {
+    "id": "dinheiro-sujo",
+    "tipo": "serie",
+    "titulo": "Dinheiro Sujo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sYCOQbb7bXra6BMgV8HQfNO1YNu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xnDlsAAZdf4OhcYcd6yjww6OVAH.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 5.238,
+    "tmdbId": 90833,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/dinheiro-sujo.json"
+  },
+  {
     "id": "dino-girl-gauko",
     "tipo": "serie",
     "titulo": "Kyouryuu Shoujo Gauko",
@@ -2733,6 +2749,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/ed-stafford-o-sobrevivente.json"
   },
   {
+    "id": "ed-stafford-rituais-extremos",
+    "tipo": "serie",
+    "titulo": "Ed Stafford: Rituais Extremos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xmRRM0qEJ5Zo5I0UKeoSsjpBlIc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qPDKcTLYyiWAamI3khPdJ0FLR2i.jpg",
+    "generos": [
+      "HBO MAX"
+    ],
+    "nota": null,
+    "tmdbId": 309548,
+    "totalTemporadas": 1,
+    "totalEpisodios": 1,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/ed-stafford-rituais-extremos.json"
+  },
+  {
     "id": "ed-stafford-rumo-ao-desconhecido",
     "tipo": "serie",
     "titulo": "Ed Stafford: Rumo ao Desconhecido",
@@ -4758,37 +4790,5 @@
     "totalTemporadas": 2,
     "totalEpisodios": 16,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/esquadrao-de-confeiteiros.json"
-  },
-  {
-    "id": "esquadrao-de-herois",
-    "tipo": "serie",
-    "titulo": "Esquadrão de Heróis",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nWhJyfeVElaosx4mc7893YJmM77.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/15DFqwJsyXs3lPSrwzARhCMWRTo.jpg",
-    "generos": [
-      "DISNEY+"
-    ],
-    "nota": 7.5,
-    "tmdbId": 21781,
-    "totalTemporadas": 1,
-    "totalEpisodios": 26,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/esquadrao-de-herois.json"
-  },
-  {
-    "id": "esquadrao-especial-winspector",
-    "tipo": "serie",
-    "titulo": "Esquadrão Especial Winspector",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/cjATkbcmt9dM8LmrwK1u5tFQCRi.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/m6PIE3VAXm45WO5dTXOEQpYHQon.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 7.969,
-    "tmdbId": 3917,
-    "totalTemporadas": 1,
-    "totalEpisodios": 49,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/esquadrao-especial-winspector.json"
   }
 ]

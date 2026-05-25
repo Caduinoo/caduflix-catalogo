@@ -1,5 +1,53 @@
 [
   {
+    "id": "parasyte-the-maxim",
+    "tipo": "serie",
+    "titulo": "Parasyte -the maxim-",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dC1rIfKScgrHjmZYdTpUgWpZF4h.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zfk6siC4KRXurG4jJzSXHy9szGQ.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 8.338,
+    "tmdbId": 61459,
+    "totalTemporadas": 1,
+    "totalEpisodios": 24,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/parasyte-the-maxim.json"
+  },
+  {
+    "id": "parede-de-gelo",
+    "tipo": "serie",
+    "titulo": "Parede de Gelo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/d03KBIFklbUjz3aHP77dqo9iagN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 8.1,
+    "tmdbId": 283428,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/parede-de-gelo.json"
+  },
+  {
+    "id": "parenthood-minha-familia",
+    "tipo": "serie",
+    "titulo": "Parenthood - Minha Família",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/v9dbPtRxWYj6Ch9kPerhks0XoH7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/72zLfNDaL8JpfLDwmQ2b8DPbeHc.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.466,
+    "tmdbId": 21762,
+    "totalTemporadas": 6,
+    "totalEpisodios": 103,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/parenthood-minha-familia.json"
+  },
+  {
     "id": "parish",
     "tipo": "serie",
     "titulo": "Parish",
@@ -2141,6 +2189,22 @@
     "totalTemporadas": 1,
     "totalEpisodios": 22,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sakamoto-days.json"
+  },
+  {
+    "id": "salish-e-jordan-matter",
+    "tipo": "serie",
+    "titulo": "Salish e Jordan Matter",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/d8tVPtlvJ4219WknD3GvPmxg3Xh.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 5.5,
+    "tmdbId": 318906,
+    "totalTemporadas": 1,
+    "totalEpisodios": 7,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/salish-e-jordan-matter.json"
   },
   {
     "id": "sally-fisiculturismo-e-assassinato",
@@ -4494,6 +4558,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-blacklist.json"
   },
   {
+    "id": "the-boroughs",
+    "tipo": "serie",
+    "titulo": "The Boroughs",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iftYIh1OjJb99EOTHIrDcx59zWb.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.578,
+    "tmdbId": 224941,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-boroughs.json"
+  },
+  {
     "id": "the-chosen-os-escolhidos",
     "tipo": "serie",
     "titulo": "The Chosen: Os Escolhidos",
@@ -4716,85 +4796,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-midnight-gospel.json"
-  },
-  {
-    "id": "the-oa",
-    "tipo": "serie",
-    "titulo": "The OA",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rueY4slMeKtTGitm0raFUJvgaa5.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/hsSFJ7WyVTNU87c06KFVesntrUQ.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.51,
-    "tmdbId": 69061,
-    "totalTemporadas": 2,
-    "totalEpisodios": 16,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-oa.json"
-  },
-  {
-    "id": "the-one",
-    "tipo": "serie",
-    "titulo": "The One Show",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7QpzCej3Lwrsnx5A8FePYsUCIzf.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/69TLqW1BeyP3bAPf18GpGqjTb00.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 4.4,
-    "tmdbId": 1514,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-one.json"
-  },
-  {
-    "id": "the-rain",
-    "tipo": "serie",
-    "titulo": "The Rain",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qGNfbDHjHN4zDZQlQiByPhU5oAr.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rfK7BGBUoqXc2EiKGbKuzaeSDjW.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.227,
-    "tmdbId": 76719,
-    "totalTemporadas": 3,
-    "totalEpisodios": 20,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-rain.json"
-  },
-  {
-    "id": "the-sandman",
-    "tipo": "serie",
-    "titulo": "Sandman",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5k1PlMiep3mg1BwIc7P4RZlu3WI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/i8taDLjpF8cCbp53N8kOFt1LSkW.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.873,
-    "tmdbId": 90802,
-    "totalTemporadas": 2,
-    "totalEpisodios": 23,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-sandman.json"
-  },
-  {
-    "id": "the-seven-deadly-sins-os-quatro-cavaleiros-do-apocalipse",
-    "tipo": "serie",
-    "titulo": "The Seven Deadly Sins: Os Quatro Cavaleiros do Apocalipse",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/aJnmS9S3m6BsSnzMNEnF0KPl9PC.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dd1tEbUU9NLLo3drq39NknpHQ6v.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 8.11,
-    "tmdbId": 218843,
-    "totalTemporadas": 2,
-    "totalEpisodios": 36,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-seven-deadly-sins-os-quatro-cavaleiros-do-apocalipse.json"
   }
 ]

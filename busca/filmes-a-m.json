@@ -117,6 +117,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/007-o-amanha-nunca-morre.json"
   },
   {
+    "id": "007-o-mundo-nao-e-o-bastante",
+    "tipo": "filme",
+    "titulo": "007: O Mundo Não é o Bastante",
+    "tituloNormalizado": "007: o mundo nao e o bastante",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9SrYvEKF3w7Qb4TF5pdDZHJKlp2.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/007-o-mundo-nao-e-o-bastante.json"
+  },
+  {
     "id": "007-permissao-para-matar",
     "tipo": "filme",
     "titulo": "007 - Permissão para Matar",
@@ -763,6 +772,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/2Wv6a0yNxTl7NH1f0FbPYC2kZvg.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/13-andar.json"
+  },
+  {
+    "id": "13-distrito",
+    "tipo": "filme",
+    "titulo": "B13 - 13º Distrito",
+    "tituloNormalizado": "b13 - 13º distrito",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/m3CkWymzFl269Pjmc3eTPkvtdRl.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/13-distrito.json"
   },
   {
     "id": "14-cartas-de-amor",
@@ -7731,6 +7749,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lei.json"
   },
   {
+    "id": "a-lei-das-ruas",
+    "tipo": "filme",
+    "titulo": "A Lei das Ruas",
+    "tituloNormalizado": "a lei das ruas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6wmE7rJ0YvGcDe5wBb3on7zludk.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lei-das-ruas.json"
+  },
+  {
     "id": "a-lenda",
     "tipo": "filme",
     "titulo": "Eu Sou a Lenda",
@@ -9270,6 +9297,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-metade-negra.json"
   },
   {
+    "id": "a-mexicana",
+    "tipo": "filme",
+    "titulo": "A Mexicana",
+    "tituloNormalizado": "a mexicana",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gp81OzJEQb0OHrrcQPvGJajAKTr.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-mexicana.json"
+  },
+  {
     "id": "a-milhoes-de-quilometros",
     "tipo": "filme",
     "titulo": "A Milhões de Quilômetros",
@@ -9619,6 +9655,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/aplFM9u5lye78Xz5d6FokE8dyKq.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-mulher-mais-bonita-de-saigon.json"
+  },
+  {
+    "id": "a-mulher-mais-rica-do-mundo",
+    "tipo": "filme",
+    "titulo": "A Mulher Mais Rica do Mundo",
+    "tituloNormalizado": "a mulher mais rica do mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kYQ7nDESAkYR08RSz4PQe7J0YlO.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-mulher-mais-rica-do-mundo.json"
   },
   {
     "id": "a-mulher-milagrosa",
@@ -10141,6 +10186,15 @@
     "ano": null,
     "capa": null,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-odisseia-de-jacques.json"
+  },
+  {
+    "id": "a-odisseia-dos-tontos",
+    "tipo": "filme",
+    "titulo": "A Odisseia dos Tontos",
+    "tituloNormalizado": "a odisseia dos tontos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fEtGiZ6NEEo6z2wQGiiiAsmdxpL.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-odisseia-dos-tontos.json"
   },
   {
     "id": "a-oitava-clausula",
@@ -10717,6 +10771,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/z4NWsLsLogVh2XfLXbPaaGrX8Zz.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ponte-do-rio-kwai.json"
+  },
+  {
+    "id": "a-porrada-vai-comer",
+    "tipo": "filme",
+    "titulo": "A Porrada Vai Comer!",
+    "tituloNormalizado": "a porrada vai comer!",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2ujZDnUE0g309LxhLtQFIDQgGyM.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-porrada-vai-comer.json"
   },
   {
     "id": "a-porta-ao-lado",
@@ -12472,6 +12535,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/8F78yefPAMVuIxYosXby3GfPsiK.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-travessia.json"
+  },
+  {
+    "id": "a-tregua",
+    "tipo": "filme",
+    "titulo": "A trégua",
+    "tituloNormalizado": "a tregua",
+    "ano": null,
+    "capa": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-tregua.json"
   },
   {
     "id": "a-trilha",
@@ -15820,6 +15892,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/4N22lC5mofacGHCH13VinxyaQ38.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/alem-das-montanhas.json"
+  },
+  {
+    "id": "alem-das-profundezas",
+    "tipo": "filme",
+    "titulo": "Além das Profundezas",
+    "tituloNormalizado": "alem das profundezas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/moC7rQG3AQ1sGR1gJUEQydE3N3g.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/alem-das-profundezas.json"
   },
   {
     "id": "alem-de-um-olhar",
@@ -20988,6 +21069,69 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-22.json"
   },
   {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-23",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.23",
+    "tituloNormalizado": "arthur & merlin cavaleiros de camelot.23",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-23.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-24",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.24",
+    "tituloNormalizado": "arthur & merlin cavaleiros de camelot.24",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-24.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-25",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.25",
+    "tituloNormalizado": "arthur & merlin cavaleiros de camelot.25",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-25.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-26",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.26",
+    "tituloNormalizado": "arthur & merlin cavaleiros de camelot.26",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-26.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-27",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.27",
+    "tituloNormalizado": "arthur & merlin cavaleiros de camelot.27",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-27.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-28",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.28",
+    "tituloNormalizado": "arthur & merlin cavaleiros de camelot.28",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-28.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-29",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.29",
+    "tituloNormalizado": "arthur & merlin cavaleiros de camelot.29",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-29.json"
+  },
+  {
     "id": "arthur-e-merlin-cavaleiros-de-camelot-3",
     "tipo": "filme",
     "titulo": "Arthur & Merlin Cavaleiros de Camelot.3",
@@ -21877,6 +22021,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/dwF82WRNRVwhLwA21aSAnMrUevc.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/as-grandes-aventuras-de-pee-wee.json"
+  },
+  {
+    "id": "as-granfinas-e-o-camelo",
+    "tipo": "filme",
+    "titulo": "As Granfinas e o Camelô",
+    "tituloNormalizado": "as granfinas e o camelo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1VazFrgotv7qSxajDTTpUnidzim.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/as-granfinas-e-o-camelo.json"
   },
   {
     "id": "as-hereges",
@@ -30159,6 +30312,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/caestronautas-aventura-no-paraiso.json"
   },
   {
+    "id": "cafarnaum",
+    "tipo": "filme",
+    "titulo": "Cafarnaum",
+    "tituloNormalizado": "cafarnaum",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ReHOMkW1rVTo3Yslqe1xATl8c8.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cafarnaum.json"
+  },
+  {
     "id": "cafundo",
     "tipo": "filme",
     "titulo": "Cafundó",
@@ -34461,6 +34623,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/com-amor-simon.json"
   },
   {
+    "id": "com-as-calcas-na-mao",
+    "tipo": "filme",
+    "titulo": "Com as Calças na Mão",
+    "tituloNormalizado": "com as calcas na mao",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pYyGcrYMu82uvu1eQ8RcivAxuC6.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/com-as-calcas-na-mao.json"
+  },
+  {
     "id": "com-as-proprias-maos",
     "tipo": "filme",
     "titulo": "Com as Próprias Mãos",
@@ -34558,6 +34729,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/2hcfqAFyryc1pBSmvvGkFdW1ONZ.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/comando-imbativel.json"
+  },
+  {
+    "id": "comando-justiceiro-2019",
+    "tipo": "filme",
+    "titulo": "Comando Justiceiro",
+    "tituloNormalizado": "comando justiceiro",
+    "ano": 2019,
+    "capa": "https://image.tmdb.org/t/p/w500/5lEgytFiJhBMV7RhzZynNrtZWn8.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/comando-justiceiro-2019.json"
   },
   {
     "id": "comando-para-matar",
@@ -37215,6 +37395,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/coutures-ruim.json"
   },
   {
+    "id": "covil",
+    "tipo": "filme",
+    "titulo": "Covil",
+    "tituloNormalizado": "covil",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yYXv9dF3hfb6xvXJkSdENf6h6Qf.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/covil.json"
+  },
+  {
     "id": "covil-de-ladroes",
     "tipo": "filme",
     "titulo": "Covil de Ladrões",
@@ -37465,6 +37654,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/n3Vy8oJEGqvaFurE7e7QJbF4mGs.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/criacao-dos-deuses-i-reino-das-tempestades.json"
+  },
+  {
+    "id": "criancas-da-noite",
+    "tipo": "filme",
+    "titulo": "Crianças da Noite",
+    "tituloNormalizado": "criancas da noite",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/q43BL7KbxCw8zdiYcoiwVDWVPC8.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/criancas-da-noite.json"
   },
   {
     "id": "criancas-de-valor",
@@ -46080,6 +46278,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/el-mesero.json"
   },
   {
+    "id": "el-salvador-o-dia-em-que-o-medo-mudou-de-lado",
+    "tipo": "filme",
+    "titulo": "El Salvador - O dia em que o medo mudou de lado",
+    "tituloNormalizado": "el salvador - o dia em que o medo mudou de lado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bg4KbU1M53QRFKGtoHOJPjFonbu.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/el-salvador-o-dia-em-que-o-medo-mudou-de-lado.json"
+  },
+  {
     "id": "el-titan-the-adrian-gonzalez-story",
     "tipo": "filme",
     "titulo": "El Titán: The Adrián González Story",
@@ -48040,6 +48247,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/oMU3JpuKuasjAWIbUQgCaT6pco1.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/entergalactic.json"
+  },
+  {
+    "id": "enterrando-os-mortos",
+    "tipo": "filme",
+    "titulo": "Enterrando os Mortos",
+    "tituloNormalizado": "enterrando os mortos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/x6H4DtBRIfwTcOIK64R8pSXNpvN.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/enterrando-os-mortos.json"
   },
   {
     "id": "enterre-seus-mortos",
@@ -51892,6 +52108,42 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-24.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-25",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.25",
+    "tituloNormalizado": "fascinacao mortal a vinganca.25",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-25.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-26",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.26",
+    "tituloNormalizado": "fascinacao mortal a vinganca.26",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-26.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-27",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.27",
+    "tituloNormalizado": "fascinacao mortal a vinganca.27",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-27.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-28",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.28",
+    "tituloNormalizado": "fascinacao mortal a vinganca.28",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-28.json"
   },
   {
     "id": "fascinacao-mortal-a-vinganca-3",
@@ -57852,6 +58104,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/hacker-privacidade-violada.json"
   },
   {
+    "id": "hacker-todo-crime-tem-um-inicio",
+    "tipo": "filme",
+    "titulo": "Hacker: Todo Crime Tem Um Início",
+    "tituloNormalizado": "hacker: todo crime tem um inicio",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6zHdhfnreagE3Bv6n7BXtC8gk6r.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/hacker-todo-crime-tem-um-inicio.json"
+  },
+  {
     "id": "hackers-piratas-de-computador",
     "tipo": "filme",
     "titulo": "Hackers - Piratas de Computador",
@@ -59839,6 +60100,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/C7MZwRTjvEy7gkWcLJeBGZFE1w.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/homem-de-ferro-3.json"
+  },
+  {
+    "id": "homem-de-ferro-a-batalha-contra-ezekiel-stane",
+    "tipo": "filme",
+    "titulo": "Homem de Ferro: A Batalha Contra Ezekiel Stane",
+    "tituloNormalizado": "homem de ferro: a batalha contra ezekiel stane",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3vgn4p1gZ8RLk7ti4pYXVhiEfiE.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/homem-de-ferro-a-batalha-contra-ezekiel-stane.json"
   },
   {
     "id": "homem-formiga-e-a-vespa",
@@ -63495,6 +63765,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jack-reacher-o-ultimo-tiro.json"
   },
   {
+    "id": "jack-ryan-de-tom-clancy-guerra-fantasma-dv",
+    "tipo": "filme",
+    "titulo": "Jack Ryan de Tom Clancy Guerra Fantasma [DV]",
+    "tituloNormalizado": "jack ryan de tom clancy guerra fantasma [dv]",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPue4NKPiGNrIbZFeOsZfnovFAM.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jack-ryan-de-tom-clancy-guerra-fantasma-dv.json"
+  },
+  {
     "id": "jack-ryan-de-tom-clancy-guerra-fantasma",
     "tipo": "filme",
     "titulo": "Jack Ryan de Tom Clancy: Guerra Fantasma",
@@ -65178,6 +65457,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jornada-nas-estrelas-11.json"
   },
   {
+    "id": "jornada-nas-estrelas-12",
+    "tipo": "filme",
+    "titulo": "Jornada Nas Estrelas 12",
+    "tituloNormalizado": "jornada nas estrelas 12",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQg1M46bIcqozNYfhYPJs93Dd2w.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jornada-nas-estrelas-12.json"
+  },
+  {
     "id": "jornada-nas-estrelas-13",
     "tipo": "filme",
     "titulo": "Jornada Nas Estrelas 13",
@@ -66355,6 +66643,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/6V0iiGV1N6rmnkf7BtMSdPAF1Aj.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/karsmenia.json"
+  },
+  {
+    "id": "kart-nervoso",
+    "tipo": "filme",
+    "titulo": "Kart Nervoso",
+    "tituloNormalizado": "kart nervoso",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fMFh6ESVe4m1iHQilNybOpScjYB.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kart-nervoso.json"
   },
   {
     "id": "kasa-branca",
@@ -71955,6 +72252,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/maldicao-da-mumia.json"
   },
   {
+    "id": "maldicao-da-mumia-dv",
+    "tipo": "filme",
+    "titulo": "Maldição da Múmia [DV]",
+    "tituloNormalizado": "maldicao da mumia [dv]",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubN87iHY2DyWtwU2JHS0SQ1KqJu.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/maldicao-da-mumia-dv.json"
+  },
+  {
     "id": "maldicao-da-mumia-ruim",
     "tipo": "filme",
     "titulo": "Maldição da Múmia RUIM",
@@ -73017,6 +73323,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/marido-em-casa-melhor-supremo-imortal.json"
   },
   {
+    "id": "marido-por-acaso",
+    "tipo": "filme",
+    "titulo": "Marido por Acaso",
+    "tituloNormalizado": "marido por acaso",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rqOaIW7bmKB5MsZVuvW5DgoQqZM.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/marido-por-acaso.json"
+  },
+  {
     "id": "maridos",
     "tipo": "filme",
     "titulo": "Maridos",
@@ -74005,6 +74320,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/38vUpNIbGdjYEzjBw0X4GbIIv5g.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mazzaropi-as-aventuras-de-pedro-malazartes.json"
+  },
+  {
+    "id": "mazzaropi-betao-ronca-ferro",
+    "tipo": "filme",
+    "titulo": "Mazzaropi - Betao Ronca Ferro",
+    "tituloNormalizado": "mazzaropi - betao ronca ferro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hjz8BhdKCzTEaLsa4G92oZ1U7a.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mazzaropi-betao-ronca-ferro.json"
   },
   {
     "id": "mazzaropi-candinho",

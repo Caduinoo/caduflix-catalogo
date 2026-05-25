@@ -1,5 +1,21 @@
 [
   {
+    "id": "cosmo-o-cosmonauta",
+    "tipo": "serie",
+    "titulo": "Cosmo - O Cosmonauta",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/AvRz9Gf1Pk9LBorLE9hgjQ0yavv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vMnEVtd8NJ6zWtSQ5pYpl2VxW4B.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": null,
+    "tmdbId": 257068,
+    "totalTemporadas": 1,
+    "totalEpisodios": 13,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/cosmo-o-cosmonauta.json"
+  },
+  {
     "id": "cosmos",
     "tipo": "serie",
     "titulo": "Cosmos",
@@ -4777,21 +4793,5 @@
     "totalTemporadas": 2,
     "totalEpisodios": 12,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/dinheiro-facil-a-serie.json"
-  },
-  {
-    "id": "dinheiro-sujo",
-    "tipo": "serie",
-    "titulo": "Dinheiro Sujo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/sYCOQbb7bXra6BMgV8HQfNO1YNu.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xnDlsAAZdf4OhcYcd6yjww6OVAH.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 5.238,
-    "tmdbId": 90833,
-    "totalTemporadas": 1,
-    "totalEpisodios": 4,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/dinheiro-sujo.json"
   }
 ]

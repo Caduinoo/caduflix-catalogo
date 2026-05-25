@@ -1,5 +1,37 @@
 [
   {
+    "id": "esquadrao-de-herois",
+    "tipo": "serie",
+    "titulo": "Esquadrão de Heróis",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nWhJyfeVElaosx4mc7893YJmM77.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/15DFqwJsyXs3lPSrwzARhCMWRTo.jpg",
+    "generos": [
+      "DISNEY+"
+    ],
+    "nota": 7.5,
+    "tmdbId": 21781,
+    "totalTemporadas": 1,
+    "totalEpisodios": 26,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/esquadrao-de-herois.json"
+  },
+  {
+    "id": "esquadrao-especial-winspector",
+    "tipo": "serie",
+    "titulo": "Esquadrão Especial Winspector",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cjATkbcmt9dM8LmrwK1u5tFQCRi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/m6PIE3VAXm45WO5dTXOEQpYHQon.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 7.969,
+    "tmdbId": 3917,
+    "totalTemporadas": 1,
+    "totalEpisodios": 49,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/esquadrao-especial-winspector.json"
+  },
+  {
     "id": "esquadrao-relampago-changeman",
     "tipo": "serie",
     "titulo": "Esquadrão Relâmpago Changeman",
@@ -4755,37 +4787,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 6,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/funk-doc-popular-proibido.json"
-  },
-  {
-    "id": "funk-doc-popular-e-proibido",
-    "tipo": "serie",
-    "titulo": "Funk.Doc: Popular & Proibido",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/a1XizO958bYhDeLX9N5xcqxXeNN.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jV4blHRyVosDVas91a2jZSD2WSI.jpg",
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": 2,
-    "tmdbId": 208853,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/funk-doc-popular-e-proibido.json"
-  },
-  {
-    "id": "funkbol",
-    "tipo": "serie",
-    "titulo": "Funkbol",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5Uivwkw514vNQJp5YjZeTYmnFKA.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8HkeA8BJCA47cR3s5Ix6hvUABAj.jpg",
-    "generos": [
-      "PARAMOUNT+"
-    ],
-    "nota": null,
-    "tmdbId": 211243,
-    "totalTemporadas": 1,
-    "totalEpisodios": 5,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/funkbol.json"
   }
 ]

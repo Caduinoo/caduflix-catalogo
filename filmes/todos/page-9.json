@@ -1,5 +1,132 @@
 [
   {
+    "id": "armas-na-mesa",
+    "tipo": "filme",
+    "titulo": "Armas na Mesa",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uHYwAUc4AiyUpkwjERq5icFKt2d.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hnWBg0qgYa7LxVnTdVYUbAPLctc.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 7.4,
+    "tmdbId": 376290,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/armas-na-mesa.json"
+  },
+  {
+    "id": "armstrong",
+    "tipo": "filme",
+    "titulo": "Tráfico de Armas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/klENV7aVrKXv3mdtYGklfXt13li.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/n6v6vkIFPPwVCjCzgMrpcyoGKRE.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 4.7,
+    "tmdbId": 108928,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/armstrong.json"
+  },
+  {
+    "id": "army-of-the-dead-invasao-em-las-vegas",
+    "tipo": "filme",
+    "titulo": "Army of the Dead: Invasão em Las Vegas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sdVbjJ33SQO2caG6DkYKRhSyrja.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/c0izdYdnTe4uMRifHgvTA85wPz0.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.205,
+    "tmdbId": 503736,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/army-of-the-dead-invasao-em-las-vegas.json"
+  },
+  {
+    "id": "arn-o-cavaleiro-templario",
+    "tipo": "filme",
+    "titulo": "Arn - O Cavaleiro Templário",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gThQJrOfzeC1HQzwdEofRSyCU7p.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dUg9UcQgfMhTdvLqrHnel5YEMVQ.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.291,
+    "tmdbId": 13491,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arn-o-cavaleiro-templario.json"
+  },
+  {
+    "id": "arquivo-x-eu-quero-acreditar",
+    "tipo": "filme",
+    "titulo": "Arquivo X: Eu Quero Acreditar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mtt7m7mjWcuq7XeEdbnVWUikVfu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fCdc3TZNNHGk1ZQBXENdWLqjUio.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 5.9,
+    "tmdbId": 8836,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arquivo-x-eu-quero-acreditar.json"
+  },
+  {
+    "id": "arquivos-da-perversao-os-abusos-na-boy-scouts-of-america",
+    "tipo": "filme",
+    "titulo": "Arquivos da Perversão: Os Abusos na Boy Scouts of America",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dP6QJ62LQL8xPqBTueXRYILJKm0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zwj0Vk50L8RoweODJPdQ8ULPKdU.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.6,
+    "tmdbId": 1165111,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arquivos-da-perversao-os-abusos-na-boy-scouts-of-america.json"
+  },
+  {
+    "id": "arquivos-de-um-serial-killer",
+    "tipo": "filme",
+    "titulo": "Arquivos de um Serial Killer",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2sfmqtBvCvI9s3uMRLTLMo6QtVi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zZmdNi1l4asOE6a6FJVGR95GHOT.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 5.927,
+    "tmdbId": 852851,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arquivos-de-um-serial-killer.json"
+  },
+  {
+    "id": "arranha-ceu-coragem-sem-limite",
+    "tipo": "filme",
+    "titulo": "Arranha-Céu: Coragem Sem Limite",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fvwR00VUW2yFtSdYr8F3NUmusf6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oMKFQmoVgB69fyXfSMu0lGlHJP2.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.308,
+    "tmdbId": 447200,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arranha-ceu-coragem-sem-limite.json"
+  },
+  {
+    "id": "arraste-me-para-o-inferno",
+    "tipo": "filme",
+    "titulo": "Arraste-me Para o Inferno",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5yykGbXP353oBpkX7Z9Iw34mmeX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3tvwsRSIDgwJuaGdh67XZ942UMy.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.477,
+    "tmdbId": 16871,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arraste-me-para-o-inferno.json"
+  },
+  {
     "id": "arremessando-alto",
     "tipo": "filme",
     "titulo": "Arremessando Alto",
@@ -307,6 +434,104 @@
     "nota": null,
     "tmdbId": null,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-22.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-23",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.23",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-23.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-24",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.24",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-24.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-25",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.25",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-25.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-26",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.26",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-26.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-27",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.27",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-27.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-28",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.28",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-28.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-29",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.29",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-29.json"
   },
   {
     "id": "arthur-e-merlin-cavaleiros-de-camelot-3",
@@ -1784,6 +2009,20 @@
     "nota": 6.475,
     "tmdbId": 5683,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/as-grandes-aventuras-de-pee-wee.json"
+  },
+  {
+    "id": "as-granfinas-e-o-camelo",
+    "tipo": "filme",
+    "titulo": "As Granfinas e o Camelô",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1VazFrgotv7qSxajDTTpUnidzim.jpg",
+    "banner": null,
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 7,
+    "tmdbId": 440712,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/as-granfinas-e-o-camelo.json"
   },
   {
     "id": "as-hereges",
@@ -4089,255 +4328,5 @@
     "nota": 5.342,
     "tmdbId": 381237,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ataque-dos-zumbis.json"
-  },
-  {
-    "id": "ataque-fatal",
-    "tipo": "filme",
-    "titulo": "Ataque Fatal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zVvBC1suZu1F2OBitJ60Tp8iPwk.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/t9KwbeScQ7VDocdemvPAAXA8R4G.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.794,
-    "tmdbId": 608845,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ataque-fatal.json"
-  },
-  {
-    "id": "ataque-terrorista",
-    "tipo": "filme",
-    "titulo": "Ataque Terrorista",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/s2q2BIcVRXheJHZpdi6CYDlCGGX.jpg",
-    "banner": null,
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.2,
-    "tmdbId": 14076,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ataque-terrorista.json"
-  },
-  {
-    "id": "ate-a-morte",
-    "tipo": "filme",
-    "titulo": "Os Roses: Até Que a Morte Os Separe",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/JJOQF1c90qs35YNE3QLhBQQJJe.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3CPQc1pgYu0iWr1UNk2nwy2ylDE.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.678,
-    "tmdbId": 1267905,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ate-a-morte.json"
-  },
-  {
-    "id": "ate-a-morte-sobreviver-e-a-melhor-vinganca",
-    "tipo": "filme",
-    "titulo": "Até a Morte: Sobreviver é a Melhor Vingança",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/blWUQPSyv4vWJ8S8MS9lU9BD9Mf.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rInMNJipAil3iIcBltPiGRkNAG7.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.683,
-    "tmdbId": 672741,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ate-a-morte-sobreviver-e-a-melhor-vinganca.json"
-  },
-  {
-    "id": "ate-a-proxima-vez",
-    "tipo": "filme",
-    "titulo": "Até a Próxima Vez",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3OEVTXt455NkA4X9slqeEn5Yz0n.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/pIlIXdRiMzWMnjcPMyV5IBEvMwC.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 7.111,
-    "tmdbId": 944664,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ate-a-proxima-vez.json"
-  },
-  {
-    "id": "ate-a-ultima-gota",
-    "tipo": "filme",
-    "titulo": "Até a Última Gota",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/t3nmSPWX5MOKdpAuTb2t5g69BT3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fnbWrDx8w8Reau4F1tFqoGuGmDZ.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 7.717,
-    "tmdbId": 1426776,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ate-a-ultima-gota.json"
-  },
-  {
-    "id": "ate-as-ultimas-consequencias",
-    "tipo": "filme",
-    "titulo": "Até as Últimas Consequências",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/g6v8HNLCw03b0y022czoPOyww8C.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8ebAtpx6YVfRGrxPrs4nTTWSbT9.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.2,
-    "tmdbId": 9400,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ate-as-ultimas-consequencias.json"
-  },
-  {
-    "id": "ate-marte-por-amor",
-    "tipo": "filme",
-    "titulo": "Até Marte por Amor",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jmvjmR50c3vIegMbfoEoNns84lM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cDvWWDXMf4tTmtr26B40RIiqJHp.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 5.976,
-    "tmdbId": 843889,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ate-marte-por-amor.json"
-  },
-  {
-    "id": "ate-o-ceu",
-    "tipo": "filme",
-    "titulo": "Até o Céu",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/imo9QdjIb3y5tJ7DICdVKHRkYXV.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vx4bevtt3ZVgezPZsuiVxm90l5E.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.088,
-    "tmdbId": 651589,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ate-o-ceu.json"
-  },
-  {
-    "id": "ate-o-fim",
-    "tipo": "filme",
-    "titulo": "Bad Boys: Até o Fim",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/vnFFZ6Y1sudcrfNCioQW4e8NW5X.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3q01ACG0MWm0DekhvkPFCXyPZSu.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.328,
-    "tmdbId": 573435,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ate-o-fim.json"
-  },
-  {
-    "id": "ate-o-final",
-    "tipo": "filme",
-    "titulo": "Até o Final",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/e0wgAHmcB2BlNU2lShLdej01EEh.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/u9ZI8sadr89Q39ytbGPJT207vpm.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5,
-    "tmdbId": 707214,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ate-o-final.json"
-  },
-  {
-    "id": "ate-o-limite",
-    "tipo": "filme",
-    "titulo": "Até o Limite",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/bHIwckeEu5SO0K4zmYMtDpDfnfW.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/26D4G7okoLYbDf5MFYFlSRM6jMv.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.069,
-    "tmdbId": 979924,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ate-o-limite.json"
-  },
-  {
-    "id": "ate-o-limite-da-honra",
-    "tipo": "filme",
-    "titulo": "Até o Limite da Honra",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/i8u0gaNBI7TTkxKkqjUTSpAtE5F.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/bs65jUGHevSDmfKF5LgVyWtPK4o.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.47,
-    "tmdbId": 4421,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ate-o-limite-da-honra.json"
-  },
-  {
-    "id": "ate-o-ultimo-homem",
-    "tipo": "filme",
-    "titulo": "Até o Último Homem",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mPnU3yKuZpmLjkVXGplhkpX31LY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
-    "generos": [
-      "DRAMA",
-      "4K"
-    ],
-    "nota": 8.19,
-    "tmdbId": 324786,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ate-o-ultimo-homem.json"
-  },
-  {
-    "id": "ate-o-ultimo-obstaculo",
-    "tipo": "filme",
-    "titulo": "Até o Último Obstáculo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/lGBkMNBe4BCCmSe9Vt7CLWcMwQP.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lN2XNTsQ4m0leHqvHOcvWECiPby.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 8.6,
-    "tmdbId": 1083789,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ate-o-ultimo-obstaculo.json"
-  },
-  {
-    "id": "ate-os-ossos",
-    "tipo": "filme",
-    "titulo": "Até os Ossos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/skrBwlNcYcZmrIKW8blfJAYlszx.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8sPxa4sdRvjgRG3GgkO8RQxUR9P.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 7.014,
-    "tmdbId": 791177,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ate-os-ossos.json"
-  },
-  {
-    "id": "ate-os-ratos-merecem-o-ceu",
-    "tipo": "filme",
-    "titulo": "Até os Ratos Merecem o Céu",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mHGQgwbunagp0GwvyMJ2QDmkV6d.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fgCVqNJHv6qJbv9Xh8lUXSuxw09.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.1,
-    "tmdbId": 588890,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ate-os-ratos-merecem-o-ceu.json"
   }
 ]

@@ -2200,6 +2200,104 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-22.json"
   },
   {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-23",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.23",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-23.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-24",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.24",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-24.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-25",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.25",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-25.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-26",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.26",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-26.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-27",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.27",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-27.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-28",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.28",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-28.json"
+  },
+  {
+    "id": "arthur-e-merlin-cavaleiros-de-camelot-29",
+    "tipo": "filme",
+    "titulo": "Arthur & Merlin Cavaleiros de Camelot.29",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-29.json"
+  },
+  {
     "id": "arthur-e-merlin-cavaleiros-de-camelot-3",
     "tipo": "filme",
     "titulo": "Arthur & Merlin Cavaleiros de Camelot.3",
@@ -4273,109 +4371,5 @@
     "nota": 6.9,
     "tmdbId": 49049,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dredd.json"
-  },
-  {
-    "id": "drones",
-    "tipo": "filme",
-    "titulo": "Drones",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/cpCb1VdxYyo98b0eWfgHEi3qMUX.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wuw89mXvGrtliNyKXUR7aaUkJRu.jpg",
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 4.6,
-    "tmdbId": 228933,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/drones.json"
-  },
-  {
-    "id": "dual",
-    "tipo": "filme",
-    "titulo": "Dual",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wDEse2TQRiyfhdlusSXBdkDOQRj.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3QrD6F2MKooZhlnMqrzknzcQp92.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 5.964,
-    "tmdbId": 698128,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dual.json"
-  },
-  {
-    "id": "dumbo",
-    "tipo": "filme",
-    "titulo": "Dumbo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nGvMq9dEQwYrIbZe2N9OvVMBVSL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/eEKpOowAkVAF3sKJKqY2h4h12GV.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA",
-      "4K"
-    ],
-    "nota": 6.988,
-    "tmdbId": 11360,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dumbo.json"
-  },
-  {
-    "id": "dummie-a-mumia-e-a-tumba-de-achnetut",
-    "tipo": "filme",
-    "titulo": "Dummie A Múmia e a Tumba de Achnetut",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/2obwJYn2N9teDclkgCgr79I5Y1R.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/eZad0T9hhvP9prh2rH8tg9bDPMn.jpg",
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 5.8,
-    "tmdbId": 476792,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dummie-a-mumia-e-a-tumba-de-achnetut.json"
-  },
-  {
-    "id": "duna-parte-dois",
-    "tipo": "filme",
-    "titulo": "Duna: Parte Dois",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA",
-      "OSCAR"
-    ],
-    "nota": 8.128,
-    "tmdbId": 693134,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/duna-parte-dois.json"
-  },
-  {
-    "id": "dungeons-e-dragons-honra-entre-rebeldes",
-    "tipo": "filme",
-    "titulo": "Dungeons & Dragons: Honra Entre Rebeldes",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tt23D7Mkg0dHhsWn3aN0hbslaFw.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/AdBXP8e6K3FYdDrMx3Wr6WZqCYF.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA",
-      "4K"
-    ],
-    "nota": 7.342,
-    "tmdbId": 493529,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dungeons-e-dragons-honra-entre-rebeldes.json"
-  },
-  {
-    "id": "e-t-o-extraterrestre",
-    "tipo": "filme",
-    "titulo": "E.T.: O Extraterrestre",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/8j5igb0iuV9TYudw9SuMV5GT9K9.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 7.5,
-    "tmdbId": 601,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/e-t-o-extraterrestre.json"
   }
 ]

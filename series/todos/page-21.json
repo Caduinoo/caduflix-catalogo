@@ -1,5 +1,165 @@
 [
   {
+    "id": "sobe-na-minha-moto",
+    "tipo": "serie",
+    "titulo": "Sobe na Minha Moto",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/y9weqTw95vxCqv6aAPN4KCJVGL2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3KAXI0PzPfQMKjmUFcYKCg1hmxr.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 7.5,
+    "tmdbId": 111119,
+    "totalTemporadas": 1,
+    "totalEpisodios": 15,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sobe-na-minha-moto.json"
+  },
+  {
+    "id": "sobre-essa-pele",
+    "tipo": "serie",
+    "titulo": "Sobre Essa Pele",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/r99BBVappNpdylfna3ZFFKFN4j1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tFv2xzSULtUDJG4zL5BsXgUuMgx.jpg",
+    "generos": [
+      "HBO MAX"
+    ],
+    "nota": null,
+    "tmdbId": 277689,
+    "totalTemporadas": 2,
+    "totalEpisodios": 17,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sobre-essa-pele.json"
+  },
+  {
+    "id": "sobre-juventude",
+    "tipo": "serie",
+    "titulo": "Sobre a Juventude",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1YgkvV86ro08lpzobjrmjBE79YA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oTCQMTi7x2byuGN3b3bgHzbaB5h.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 6.5,
+    "tmdbId": 202460,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sobre-juventude.json"
+  },
+  {
+    "id": "sobre-nos-dois",
+    "tipo": "serie",
+    "titulo": "Sobre Nós Dois",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gAkCKaDxEO8Kbf03TsgnUML9sfE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rNuEcBelKcPubX6Xf0JNO2aP8jJ.jpg",
+    "generos": [
+      "GLOBOPLAY"
+    ],
+    "nota": null,
+    "tmdbId": 231796,
+    "totalTemporadas": 2,
+    "totalEpisodios": 20,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sobre-nos-dois.json"
+  },
+  {
+    "id": "sobre-viver",
+    "tipo": "serie",
+    "titulo": "Sobre Viver",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6TOcbePt7D4QQsDU2eW3saCgpfn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8AvE6BmejslT4wUD0i2EeUcsiLA.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 7,
+    "tmdbId": 106735,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sobre-viver.json"
+  },
+  {
+    "id": "sobrepostas",
+    "tipo": "serie",
+    "titulo": "Sobrepostas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cpxXVwf1PRfc3DXGoWz1tPjU4fr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5OKWbKlfh2T79sWZ1d2ZYesejUM.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": null,
+    "tmdbId": 137255,
+    "totalTemporadas": 1,
+    "totalEpisodios": 13,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sobrepostas.json"
+  },
+  {
+    "id": "sobrevivencia-extrema",
+    "tipo": "serie",
+    "titulo": "Sobrevivência Extrema",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6i07z6le7SPwmu2Jb5HmYmdreGN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6i3FIxwl35V0oYsEH77GR8AP2hr.jpg",
+    "generos": [
+      "DISCOVERY+"
+    ],
+    "nota": null,
+    "tmdbId": 256708,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sobrevivencia-extrema.json"
+  },
+  {
+    "id": "sobrevivendo-a-amazonia",
+    "tipo": "serie",
+    "titulo": "Sobrevivendo a Amazônia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ztwIOAjhJd5beuzDgdIjRw8EQug.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xw0cKKXGYLXUIoQx0rDLeGWy7WC.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 9,
+    "tmdbId": 243410,
+    "totalTemporadas": 1,
+    "totalEpisodios": 5,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sobrevivendo-a-amazonia.json"
+  },
+  {
+    "id": "sobrevivendo-a-jeffrey-epstein",
+    "tipo": "serie",
+    "titulo": "Sobrevivendo a Jeffrey Epstein",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3BZS3xqniTSkAMjmvIAWsnaVZp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gELEpFvVT73EKoRVBDn8wjXXqZR.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 5,
+    "tmdbId": 106282,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sobrevivendo-a-jeffrey-epstein.json"
+  },
+  {
+    "id": "sobrevivendo-a-queda-dos-black-hawks",
+    "tipo": "serie",
+    "titulo": "Sobrevivendo à Queda dos Black Hawks",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/keDBieYscTMIPJg0jhJA5spyt8a.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9zh63vQFLaCmWpSU575q5lTu2yu.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.53,
+    "tmdbId": 282201,
+    "totalTemporadas": 1,
+    "totalEpisodios": 3,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sobrevivendo-a-queda-dos-black-hawks.json"
+  },
+  {
     "id": "sobrevivendo-ao-paraiso",
     "tipo": "serie",
     "titulo": "Sobrevivendo ao Paraíso",
@@ -4631,165 +4791,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 221,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/terra-e-paixao.json"
-  },
-  {
-    "id": "terra-incognita",
-    "tipo": "serie",
-    "titulo": "Terra Incógnita",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/bKIECPk2MlYKtFtVuS91xnRKpVb.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/hOElpHx1LLRzAlwjarCzvjhctW.jpg",
-    "generos": [
-      "DISNEY+"
-    ],
-    "nota": 7.2,
-    "tmdbId": 128384,
-    "totalTemporadas": 2,
-    "totalEpisodios": 16,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/terra-incognita.json"
-  },
-  {
-    "id": "terra-indomavel",
-    "tipo": "serie",
-    "titulo": "Terra Indomável",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4uHGMf2ifvcNLI3LouDuO41E1Dq.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1FxG2lmDYsCM1svJf7H79HNNwu2.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.655,
-    "tmdbId": 215866,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/terra-indomavel.json"
-  },
-  {
-    "id": "terra-nostra",
-    "tipo": "serie",
-    "titulo": "Terra Nostra",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/thkRCi1qRJq5scAGg4luO8k1C18.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mHMnnMhG3rJQMETfe5L0GpYvjA0.jpg",
-    "generos": [
-      "NOVELAS"
-    ],
-    "nota": 6.688,
-    "tmdbId": 12895,
-    "totalTemporadas": 1,
-    "totalEpisodios": 150,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/terra-nostra.json"
-  },
-  {
-    "id": "terra-nova",
-    "tipo": "serie",
-    "titulo": "Terra Nova",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/y8dFONeUSXhMHiFecqFoaGI7S6y.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3kz0Hp1sO7JnHFX8BzTokdxTuwY.jpg",
-    "generos": [
-      "APPLE+"
-    ],
-    "nota": 6.767,
-    "tmdbId": 32754,
-    "totalTemporadas": 1,
-    "totalEpisodios": 11,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/terra-nova.json"
-  },
-  {
-    "id": "terra-tempestuosa",
-    "tipo": "serie",
-    "titulo": "Terra Tempestuosa",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kfquSOmQxKS1c9ROj9kKiOwCLq4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8W7lcxN51SiubiwXvCOYTyG4IoZ.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.1,
-    "tmdbId": 211942,
-    "totalTemporadas": 1,
-    "totalEpisodios": 4,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/terra-tempestuosa.json"
-  },
-  {
-    "id": "territorios-sob-o-dominio-do-crime",
-    "tipo": "serie",
-    "titulo": "Territórios - Sob o Domínio do Crime",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/r4ClDl5sYE65HBf5r87bNLjyzzH.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vMDlPPk52iBAvWWGB8azT5blr8z.jpg",
-    "generos": [
-      "GLOBOPLAY"
-    ],
-    "nota": 8,
-    "tmdbId": 321291,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/territorios-sob-o-dominio-do-crime.json"
-  },
-  {
-    "id": "territory",
-    "tipo": "serie",
-    "titulo": "Territory",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jPoNveBQWYwwWf2UnK27LEtWiqb.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dfRvmXp4sdMd052ZV9jYZkuLpc2.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 6.846,
-    "tmdbId": 243396,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/territory.json"
-  },
-  {
-    "id": "terrores-urbanos",
-    "tipo": "serie",
-    "titulo": "Terrores Urbanos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wNWfqkrD0dkSq8Lvk8Cw9pzc4JS.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rJ7ZAO4SPU2RtUfjuY1ihRsOxvO.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 9.2,
-    "tmdbId": 85442,
-    "totalTemporadas": 1,
-    "totalEpisodios": 5,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/terrores-urbanos.json"
-  },
-  {
-    "id": "tesouro-visto-do-espaco",
-    "tipo": "serie",
-    "titulo": "Tesouro Visto do Espaço",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/quyqXR4zo03EF3JnfvBRoRneWGK.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/w62G9kgRh8xC7etEc0PZ2KIJJjE.jpg",
-    "generos": [
-      "DISCOVERY+"
-    ],
-    "nota": 6.5,
-    "tmdbId": 71124,
-    "totalTemporadas": 2,
-    "totalEpisodios": 16,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/tesouro-visto-do-espaco.json"
-  },
-  {
-    "id": "tesouros-perdidos-de-roma",
-    "tipo": "serie",
-    "titulo": "Tesouros Perdidos de Roma",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mtsRzMmJWEGrEjKVK6fxv3WSzXD.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/h3MXhYh98k0qXJSaGJ3qfHeYSEk.jpg",
-    "generos": [
-      "DISNEY+"
-    ],
-    "nota": 7.222,
-    "tmdbId": 202359,
-    "totalTemporadas": 2,
-    "totalEpisodios": 7,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/tesouros-perdidos-de-roma.json"
   }
 ]

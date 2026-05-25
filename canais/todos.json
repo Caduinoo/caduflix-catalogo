@@ -16,100 +16,108 @@
     "xtreamId": 2318977
   },
   {
-    "id": "canal-11059732",
+    "id": "canal-11060780",
     "tipo": "canal",
-    "titulo": "11h30 Hull City X Middlesbrough (Espn 4)",
+    "titulo": "10h Parma X Sassuolo (X Sports)",
     "categoria": "JOGOS DO DIA",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
-    "xtreamId": 11059732
+    "xtreamId": 11060780
   },
   {
-    "id": "canal-11059733",
+    "id": "canal-11060781",
     "tipo": "canal",
-    "titulo": "13h Bologna X Inter de Milão (Espn 2)",
+    "titulo": "12h Crystal Palace X Arsenal (Espn 1)",
     "categoria": "JOGOS DO DIA",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
-    "xtreamId": 11059733
+    "xtreamId": 11060781
   },
   {
-    "id": "canal-11059734",
+    "id": "canal-11060783",
     "tipo": "canal",
-    "titulo": "15h Bayern X Stuttgart (Espn 2)",
+    "titulo": "12h Liverpool X Brentford (X Sports)",
     "categoria": "JOGOS DO DIA",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
-    "xtreamId": 11059734
+    "xtreamId": 11060783
   },
   {
-    "id": "canal-11059736",
+    "id": "canal-11060782",
     "tipo": "canal",
-    "titulo": "16h Celta de Vigo X Sevilla (Espn 3)",
+    "titulo": "12h Tottenham X Everton (Espn 3)",
     "categoria": "JOGOS DO DIA",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
-    "xtreamId": 11059736
+    "xtreamId": 11060782
   },
   {
-    "id": "canal-11059735",
+    "id": "canal-11060784",
     "tipo": "canal",
-    "titulo": "16h Novorizontino X Ceará (Espn 4)",
+    "titulo": "15h30 River Plate X Belgrano (Espn 1)",
     "categoria": "JOGOS DO DIA",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
-    "xtreamId": 11059735
+    "xtreamId": 11060784
   },
   {
-    "id": "canal-11059737",
+    "id": "canal-11060785",
     "tipo": "canal",
-    "titulo": "16h Real Madrid X Athletic Club (ESPN 1)",
+    "titulo": "15h40 Milan X Cagliari (Espn 3)",
     "categoria": "JOGOS DO DIA",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
-    "xtreamId": 11059737
+    "xtreamId": 11060785
   },
   {
-    "id": "canal-11059738",
+    "id": "canal-11060786",
     "tipo": "canal",
-    "titulo": "16h Valência X Barcelona (Disney)",
+    "titulo": "16h Cruzeiro X Chapecoense (Prime Video)",
     "categoria": "JOGOS DO DIA",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
-    "xtreamId": 11059738
+    "xtreamId": 11060786
   },
   {
-    "id": "canal-11059739",
+    "id": "canal-11060787",
     "tipo": "canal",
-    "titulo": "17h São Paulo X Botafogo (Globo SP)",
+    "titulo": "16h Remo X Athletico PR (Premiere 3)",
     "categoria": "JOGOS DO DIA",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
-    "xtreamId": 11059739
+    "xtreamId": 11060787
   },
   {
-    "id": "canal-11059740",
+    "id": "canal-11060788",
     "tipo": "canal",
-    "titulo": "17h Vitória X Internacional (Globo RBS Porto Alegre)",
+    "titulo": "16h30 CRB X Ponte Preta (X Sports)",
     "categoria": "JOGOS DO DIA",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
-    "xtreamId": 11059740
+    "xtreamId": 11060788
   },
   {
-    "id": "canal-11059741",
+    "id": "canal-11060790",
     "tipo": "canal",
-    "titulo": "19h Gremio X Santos (Premiere 3)",
+    "titulo": "18h30 América MG X Vila Nova (Espn 1)",
     "categoria": "JOGOS DO DIA",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
-    "xtreamId": 11059741
+    "xtreamId": 11060790
   },
   {
-    "id": "canal-11059742",
+    "id": "canal-11060789",
     "tipo": "canal",
-    "titulo": "19h Mirassol X Fluminense (Premiere 4)",
+    "titulo": "18h30 Corinthians X Atlético MG (Record SP)",
     "categoria": "JOGOS DO DIA",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
-    "xtreamId": 11059742
+    "xtreamId": 11060789
   },
   {
-    "id": "canal-11059743",
+    "id": "canal-11060791",
     "tipo": "canal",
-    "titulo": "21h Flamengo X Palmeiras (Sportv 1)",
+    "titulo": "19h Avai X Goiás (X Sports)",
     "categoria": "JOGOS DO DIA",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
-    "xtreamId": 11059743
+    "xtreamId": 11060791
+  },
+  {
+    "id": "canal-11060792",
+    "tipo": "canal",
+    "titulo": "20h30 Vasco X Bragantino (Sportv 1)",
+    "categoria": "JOGOS DO DIA",
+    "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
+    "xtreamId": 11060792
   },
   {
     "id": "canal-2330463",

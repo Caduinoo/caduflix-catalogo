@@ -1,5 +1,49 @@
 [
   {
+    "id": "gravida-e-perseguida",
+    "tipo": "filme",
+    "titulo": "Grávida e Perseguida",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lG40TpozpphDgLzUYyLRtF7075g.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1TSnAl2b4ktsMNvPA0XwaGaojXy.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 5.5,
+    "tmdbId": 764853,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/gravida-e-perseguida.json"
+  },
+  {
+    "id": "green-book-o-guia",
+    "tipo": "filme",
+    "titulo": "Green Book: O Guia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/u9dldwRwQjTZGlIxKaAtAPLAjOv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg",
+    "generos": [
+      "DRAMA",
+      "4K"
+    ],
+    "nota": 8.224,
+    "tmdbId": 490132,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/green-book-o-guia.json"
+  },
+  {
+    "id": "greta",
+    "tipo": "filme",
+    "titulo": "Obsessão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vnqzWNawJqHctllEXw6iEGd42rL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/n67gpLtNFXqpGkM2ZdQoPLjTnI.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.555,
+    "tmdbId": 471506,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/greta.json"
+  },
+  {
     "id": "grey-gardens-do-luxo-a-decadencia",
     "tipo": "filme",
     "titulo": "Grey Gardens: Do Luxo à Decadência",
@@ -4300,50 +4344,5 @@
     "nota": 6.5,
     "tmdbId": 1038263,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/maria-callas.json"
-  },
-  {
-    "id": "maria-montessori-ensinando-com-amor",
-    "tipo": "filme",
-    "titulo": "Maria Montessori - Ensinando com Amor",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/blMeGbby3GanSfJqDGwSiYtGUGY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sg2iCpfERyX4xyqZipfvNqSAHbx.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.995,
-    "tmdbId": 959395,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/maria-montessori-ensinando-com-amor.json"
-  },
-  {
-    "id": "marinette",
-    "tipo": "filme",
-    "titulo": "Marinette",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/aM7o55PKT45q630Qmma1fNu99Cd.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2RV5M80S4El2R5bmqpBJx6hpquT.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.473,
-    "tmdbId": 953735,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/marinette.json"
-  },
-  {
-    "id": "mario-e-leon-no-amor-e-no-jogo",
-    "tipo": "filme",
-    "titulo": "Mário e Leon: No Amor e no Jogo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/v7YILAHLXFPYJ5sm9Z6l5iP8XSF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gcFONl7qIeACgUPIxNyvrdnjanL.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 7.164,
-    "tmdbId": 500259,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mario-e-leon-no-amor-e-no-jogo.json"
   }
 ]

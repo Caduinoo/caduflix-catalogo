@@ -6,7 +6,8 @@
   "descricao": "Ao longo de uma noite de sexo e possibilidades, cinco histórias divertidas se entrelaçam. Nada sai como planejado, mas todos conseguem o que querem.",
   "generos": [
     "LEGENDADOS",
-    "4K"
+    "4K",
+    "COMÉDIA"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/hxJ1wFaUqOq5TmxA751VRJastGV.jpg",
   "banner": "https://image.tmdb.org/t/p/original/4v64DRdMtx8fQGUZ7hE1R2iChCr.jpg",
@@ -26,9 +27,16 @@
       "qualidade": "4K",
       "xtreamId": 10782933,
       "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11060837,
+      "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1773567068,
+  "dataCriacaoXtream": 1779613165,
   "tituloOriginal": "Donde caben dos",
   "dataLancamento": "2021-07-30"
 }

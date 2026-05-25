@@ -1,0 +1,26 @@
+{
+  "id": "criancas-da-noite",
+  "tipo": "filme",
+  "titulo": "Crianças da Noite",
+  "ano": null,
+  "descricao": "Drama baseado em fatos reais sobre uma graduada em sociologia Lois Lee, que começa a trabalhar com adolescentes prostitutas em Hollywood.",
+  "generos": [
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/q43BL7KbxCw8zdiYcoiwVDWVPC8.jpg",
+  "banner": null,
+  "tmdbId": 49177,
+  "nota": 6.25,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11060842,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1779613166,
+  "tituloOriginal": "Children of the Night",
+  "dataLancamento": "1985-10-25"
+}

@@ -1,5 +1,37 @@
 [
   {
+    "id": "marselha-em-perigo",
+    "tipo": "serie",
+    "titulo": "Marselha em Perigo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4xfZQ7cpwXpo5oWX5Gd0zu0SX2p.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vINfddqZKlEsOzDpDfnHrrEAaH1.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.4,
+    "tmdbId": 216985,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/marselha-em-perigo.json"
+  },
+  {
+    "id": "masha-e-o-urso",
+    "tipo": "serie",
+    "titulo": "Masha e o Urso",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ze2ocNwb3d2R3DLmzdL7kNFrx50.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mZmxNM7XMMT1QroznAQWmRf7duP.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.9,
+    "tmdbId": 46080,
+    "totalTemporadas": 5,
+    "totalEpisodios": 29,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/masha-e-o-urso.json"
+  },
+  {
     "id": "mask-girl",
     "tipo": "serie",
     "titulo": "Mask Girl",
@@ -30,6 +62,22 @@
     "totalTemporadas": 3,
     "totalEpisodios": 32,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/match-perfeito.json"
+  },
+  {
+    "id": "mating-season",
+    "tipo": "serie",
+    "titulo": "Mating Season",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dJjPnw3NQHmbGWGUXdlROqtTMuX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zaDTnGcq3F5LocdmHJLP3Mf0kII.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.1,
+    "tmdbId": 290295,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/mating-season.json"
   },
   {
     "id": "maverix",
@@ -4748,53 +4796,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 6,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/parasyte-the-grey.json"
-  },
-  {
-    "id": "parasyte-the-maxim",
-    "tipo": "serie",
-    "titulo": "Parasyte -the maxim-",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dC1rIfKScgrHjmZYdTpUgWpZF4h.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zfk6siC4KRXurG4jJzSXHy9szGQ.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 8.338,
-    "tmdbId": 61459,
-    "totalTemporadas": 1,
-    "totalEpisodios": 24,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/parasyte-the-maxim.json"
-  },
-  {
-    "id": "parede-de-gelo",
-    "tipo": "serie",
-    "titulo": "Parede de Gelo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/d03KBIFklbUjz3aHP77dqo9iagN.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 8.1,
-    "tmdbId": 283428,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/parede-de-gelo.json"
-  },
-  {
-    "id": "parenthood-minha-familia",
-    "tipo": "serie",
-    "titulo": "Parenthood - Minha Família",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/v9dbPtRxWYj6Ch9kPerhks0XoH7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/72zLfNDaL8JpfLDwmQ2b8DPbeHc.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.466,
-    "tmdbId": 21762,
-    "totalTemporadas": 6,
-    "totalEpisodios": 103,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/parenthood-minha-familia.json"
   }
 ]

@@ -1,5 +1,137 @@
 [
   {
+    "id": "o-segredo-do-abismo",
+    "tipo": "filme",
+    "titulo": "O Segredo do Abismo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iUmlHbK05F38QNnVDTDXa5qXFgF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mW6XzxelLY8T2oW2NjciG9LpZT5.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 7.35,
+    "tmdbId": 2756,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-segredo-do-abismo.json"
+  },
+  {
+    "id": "o-segredo-do-vale-da-lua",
+    "tipo": "filme",
+    "titulo": "O Segredo do Vale da Lua",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/apvQgHsJSEDytsECnTe3g7b7qLf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wdpebYdOMtUJpfYZsUei07wOfuB.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 6.584,
+    "tmdbId": 18032,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-segredo-do-vale-da-lua.json"
+  },
+  {
+    "id": "o-senhor-dos-aneis-a-sociedade-do-anel",
+    "tipo": "filme",
+    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tlvsNCwWEIgwAM23aNzTmMIcPEZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/a0lfia8tk8ifkrve0Tn8wkISUvs.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 8.434,
+    "tmdbId": 120,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-senhor-dos-aneis-a-sociedade-do-anel.json"
+  },
+  {
+    "id": "o-senhor-dos-aneis-as-duas-torres",
+    "tipo": "filme",
+    "titulo": "O Senhor dos Anéis: As Duas Torres",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mCs8vxvScCqVM3YFMQIdbrdFEhu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 8.418,
+    "tmdbId": 121,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-senhor-dos-aneis-as-duas-torres.json"
+  },
+  {
+    "id": "o-senhor-dos-aneis-o-retorno-do-rei",
+    "tipo": "filme",
+    "titulo": "O Senhor dos Anéis: O Retorno do Rei",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 8.498,
+    "tmdbId": 122,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-senhor-dos-aneis-o-retorno-do-rei.json"
+  },
+  {
+    "id": "o-sinal-frequencia-do-medo",
+    "tipo": "filme",
+    "titulo": "O Sinal: Frequência do Medo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zN49DwmmiSD6meurLcuy9SqrIgx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oxZh9qhkxfOczKmTang0j9a06Bx.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 6.019,
+    "tmdbId": 242095,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-sinal-frequencia-do-medo.json"
+  },
+  {
+    "id": "o-terceiro-olho",
+    "tipo": "filme",
+    "titulo": "O Terceiro Olho",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ao93AwmpC3PFPSflz6ckXVUju5N.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/reKKVrgeaKozpODdLCbhEQAhN0x.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 5.943,
+    "tmdbId": 11588,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-terceiro-olho.json"
+  },
+  {
+    "id": "o-triangulo-da-morte",
+    "tipo": "filme",
+    "titulo": "O Triângulo da Morte",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/it9D3yvCyAmNfqp6zz9lhh4dR97.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qJOVfk6snrK5tdc6FBcpBv6LJF1.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 3.3,
+    "tmdbId": 897018,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-triangulo-da-morte.json"
+  },
+  {
+    "id": "o-troll-da-montanha",
+    "tipo": "filme",
+    "titulo": "O Troll da Montanha 2",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4WOmwPpQ2NeACRm2FMDnVhevb7G.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 6.397,
+    "tmdbId": 1180831,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-troll-da-montanha.json"
+  },
+  {
     "id": "o-ultimo-cacador-de-bruxas",
     "tipo": "filme",
     "titulo": "O Último Caçador de Bruxas",
@@ -3376,6 +3508,20 @@
     "nota": 5.927,
     "tmdbId": 10357,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/volcano.json"
+  },
+  {
+    "id": "voldemort-a-origem-do-herdeiro",
+    "tipo": "filme",
+    "titulo": "Voldemort: A Origem do Herdeiro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2LilBeUffRfr1sRSvi32Axg3uGv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/arGzcDLLslcbgbLNyamYN4zteiM.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 10,
+    "tmdbId": 1673839,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/voldemort-a-origem-do-herdeiro.json"
   },
   {
     "id": "warning",

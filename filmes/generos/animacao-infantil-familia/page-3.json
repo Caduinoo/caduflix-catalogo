@@ -1,5 +1,19 @@
 [
   {
+    "id": "masha-e-o-urso-o-filme",
+    "tipo": "filme",
+    "titulo": "Masha e o Urso",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zZZDHukS9VOpicduVl8oR4imSSt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yiLwkPFJII97VOwuABAIninc9bJ.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.8,
+    "tmdbId": 427515,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/masha-e-o-urso-o-filme.json"
+  },
+  {
     "id": "master-kid-o-despertar-de-um-heroi",
     "tipo": "filme",
     "titulo": "Master Kid - O Despertar de um Herói",
@@ -1713,6 +1727,21 @@
     "nota": 6.7,
     "tmdbId": 5255,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-expresso-polar.json"
+  },
+  {
+    "id": "o-fantastico-halloween-do-tubacao",
+    "tipo": "filme",
+    "titulo": "O Fantástico Halloween do Tubacão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5gzWwHX8k3KtIzyRNDdwQONTlk2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/n9ikn33MeCpYyHN7apLj7QgQv0V.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 5.2,
+    "tmdbId": 878962,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-fantastico-halloween-do-tubacao.json"
   },
   {
     "id": "o-feriado-perfeito-da-moranguinho",
@@ -3927,6 +3956,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/patrulha-canina-o-filme.json"
   },
   {
+    "id": "patrulha-canina-resgate-de-dino",
+    "tipo": "filme",
+    "titulo": "Patrulha Canina: Resgate de Dino",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qgqYiiuomYGGqds6WP8q4c7pYNv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zZQXCmJYyZyYXFC9ZHLejUHBtcE.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 8.8,
+    "tmdbId": 774604,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/patrulha-canina-resgate-de-dino.json"
+  },
+  {
     "id": "patrulha-canina-super-filhotes",
     "tipo": "filme",
     "titulo": "Patrulha Canina: Super Filhotes",
@@ -4330,50 +4373,5 @@
     "nota": 7.109,
     "tmdbId": 10895,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pinoquio-1940.json"
-  },
-  {
-    "id": "pinoquio-3000",
-    "tipo": "filme",
-    "titulo": "Pinóquio 3000",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ipYHDeZQSm2NbGmtvxB587O8T3a.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9viXmNTZczTzVQbQpImNr1hUsxO.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 4.414,
-    "tmdbId": 23056,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pinoquio-3000.json"
-  },
-  {
-    "id": "pinoquio-por-guillermo-del-toro",
-    "tipo": "filme",
-    "titulo": "Pinóquio por Guillermo del Toro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/x3IkO2sW4rSSVluFDz8isr6YDm8.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qXOxYzPSPY9viZTgs7O6vNBOB7Y.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA",
-      "4K"
-    ],
-    "nota": 8,
-    "tmdbId": 555604,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pinoquio-por-guillermo-del-toro.json"
-  },
-  {
-    "id": "piper-descobrindo-o-mundo",
-    "tipo": "filme",
-    "titulo": "Piper: Descobrindo o Mundo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/45aUXGecIQKawGXfLchHJaYcF2F.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4GWYk5VP9qu1rNSeNAwNaBy9mwS.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 8.148,
-    "tmdbId": 399106,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/piper-descobrindo-o-mundo.json"
   }
 ]

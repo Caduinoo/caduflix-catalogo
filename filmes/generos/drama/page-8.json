@@ -1,5 +1,78 @@
 [
   {
+    "id": "o-ultimo-vermeer",
+    "tipo": "filme",
+    "titulo": "O Último Vermeer",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nIiUA3yaQbacUttJ5JN0JeSEvZf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nvrWMsbN8RyrRGPEYM3vlOrm8vV.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.5,
+    "tmdbId": 622977,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-ultimo-vermeer.json"
+  },
+  {
+    "id": "o-universo-de-oliver",
+    "tipo": "filme",
+    "titulo": "O Universo de Oliver",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oiMmOzeRh5miENfdxGmpdT8ZMai.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8Tzan9VsJ07dZEpqDYTWE96gDwb.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.9,
+    "tmdbId": 817951,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-universo-de-oliver.json"
+  },
+  {
+    "id": "o-vendedor-de-passados",
+    "tipo": "filme",
+    "titulo": "O Vendedor de Passados",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yEDegnyXrIDoTKCWHvqCuOhzgOB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jx76V3kXF8S97Y1xMsEnmZK5fOY.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 5.9,
+    "tmdbId": 248549,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-vendedor-de-passados.json"
+  },
+  {
+    "id": "o-vendedor-de-sonhos",
+    "tipo": "filme",
+    "titulo": "O Vendedor de Sonhos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hV6l4wOhPDbEflqM1A2047D4F0E.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lM7whuu1XTr5rEDqEbTTtWoue9.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.688,
+    "tmdbId": 418896,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-vendedor-de-sonhos.json"
+  },
+  {
+    "id": "o-veterano",
+    "tipo": "filme",
+    "titulo": "O Veterano",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fbVbk4vpZczsB52OqsQkmijFhXP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/y9m021FLQARGxoTyQdJk4C27zCS.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.9,
+    "tmdbId": 346646,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-veterano.json"
+  },
+  {
     "id": "o-vigia",
     "tipo": "filme",
     "titulo": "O Vigia",
@@ -4276,78 +4349,5 @@
     "nota": 6.483,
     "tmdbId": 456187,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rei-charles-iii.json"
-  },
-  {
-    "id": "rei-do-ringue-a-historia-de-jem-belcher",
-    "tipo": "filme",
-    "titulo": "Rei do Ringue: A História de Jem Belcher",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/vi6VoqcsfmrwD0uXzyxXRsjcwU5.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2Eewgp7o5AU1xCataDmiIL2nYxd.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.171,
-    "tmdbId": 943822,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rei-do-ringue-a-historia-de-jem-belcher.json"
-  },
-  {
-    "id": "rei-do-rio",
-    "tipo": "filme",
-    "titulo": "Rei do Rio",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wNopuJNWAHbOxWOt2xwyXMdZ1iO.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/o8hbTJqL1aUHOZbySGHTLFvurYb.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 5.5,
-    "tmdbId": 186100,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rei-do-rio.json"
-  },
-  {
-    "id": "rei-dos-ladroes",
-    "tipo": "filme",
-    "titulo": "Rei dos Ladrões",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hkI8oBMIOAnCEJFbgFgI7IZ302G.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/429x9ZU5IQY6L0HGshBGY1LQpjB.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 5.547,
-    "tmdbId": 520360,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rei-dos-ladroes.json"
-  },
-  {
-    "id": "reine-sobre-mim",
-    "tipo": "filme",
-    "titulo": "Reine Sobre Mim",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ql93FK6AdUdX5cPNmwaHdp7diey.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/inPupECvfe7cHuAwaEVBkDJjXZO.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 7.218,
-    "tmdbId": 2355,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/reine-sobre-mim.json"
-  },
-  {
-    "id": "relacao-em-risco",
-    "tipo": "filme",
-    "titulo": "Relação em Risco",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/968EbINo97rHeWDBkRPA5eYwofM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/hupSDY6YrkYu58NKrStQxXC2525.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.674,
-    "tmdbId": 97006,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/relacao-em-risco.json"
   }
 ]

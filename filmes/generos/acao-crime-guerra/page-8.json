@@ -1,5 +1,193 @@
 [
   {
+    "id": "roubando-mussolini",
+    "tipo": "filme",
+    "titulo": "Roubando Mussolini",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mo4JxW3rWsOF87XNeAoeewESrMY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jvulRWEbRnDpUx0UUBB42IuTe87.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.6,
+    "tmdbId": 873125,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/roubando-mussolini.json"
+  },
+  {
+    "id": "roubando-vidas",
+    "tipo": "filme",
+    "titulo": "Roubando Vidas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/k5Mto5es6bVC7Im8RGVJAs5uJ1r.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7IciAaJltRsOohcz2JlkupIF1s9.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.4,
+    "tmdbId": 11081,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/roubando-vidas.json"
+  },
+  {
+    "id": "roubo-entre-ladroes",
+    "tipo": "filme",
+    "titulo": "Roubo Entre Ladrões",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4BjZazpKwzrdTVrCRjZSUWJMHJo.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/s65RPy7DiBS4PXvUR3fiTw5f725.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.091,
+    "tmdbId": 972313,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/roubo-entre-ladroes.json"
+  },
+  {
+    "id": "roubo-nas-alturas",
+    "tipo": "filme",
+    "titulo": "Roubo nas Alturas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/suaEwH3iEn019iYkWFmx9fvvu46.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7BtEvieL4QRNW3j7OAw6Zv2CDap.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.116,
+    "tmdbId": 59108,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/roubo-nas-alturas.json"
+  },
+  {
+    "id": "roubo-pelos-ares",
+    "tipo": "filme",
+    "titulo": "Roubo pelos Ares",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9wbjshzUHdfFhvdqHoNraGXhpLY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vBmmJYv5asJpdJZsyPPc4MMpfBe.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 6.868,
+    "tmdbId": 1018228,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/roubo-pelos-ares.json"
+  },
+  {
+    "id": "rrr-revolta-rebeliao-revolucao",
+    "tipo": "filme",
+    "titulo": "RRR: Revolta, Rebelião, Revolução",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/eK4lWmaEMdBj9nkghRNmfvtRWbq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7.711,
+    "tmdbId": 579974,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rrr-revolta-rebeliao-revolucao.json"
+  },
+  {
+    "id": "ruas-em-guerra",
+    "tipo": "filme",
+    "titulo": "Ruas em Guerra",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jk5DpTJeksKfS6NN5xK4iNGCCvN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/srEsK6LPJSMd0LndDIzxtBEiKNS.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.789,
+    "tmdbId": 538207,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ruas-em-guerra.json"
+  },
+  {
+    "id": "ruas-sangrentas-o-acerto-final",
+    "tipo": "filme",
+    "titulo": "Ruas Sangrentas: O Acerto Final",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xBshLPA17Sbq1AJEACpkDLnRvPd.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kblkyMfm0E3qwMf9MIFz6YpMf1t.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.452,
+    "tmdbId": 9917,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ruas-sangrentas-o-acerto-final.json"
+  },
+  {
+    "id": "ruido-da-morte",
+    "tipo": "filme",
+    "titulo": "Ruído da Morte",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oEmSSzXxSMTX02TM15DzRB9HRsu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dbtGinhWWKgQLQ0hjZHMFWxBJcJ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.205,
+    "tmdbId": 1159518,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ruido-da-morte.json"
+  },
+  {
+    "id": "rumbos",
+    "tipo": "filme",
+    "titulo": "Rumbos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1rQ83hCGrwq2tpCjKKjeRlei9xN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xKFGhilxPVeFCUuXJY5ZDqIKQb5.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.1,
+    "tmdbId": 391618,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rumbos.json"
+  },
+  {
+    "id": "s-w-a-t",
+    "tipo": "filme",
+    "titulo": "S.W.A.T.: Comando Especial",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dmhNSdqp9guZwmDktqvfJZ5DVjt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dfSAFTqNLfB3YAs9Ppy13EUaNYI.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.2,
+    "tmdbId": 9257,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/s-w-a-t.json"
+  },
+  {
+    "id": "s-w-a-t-comando-especial-2",
+    "tipo": "filme",
+    "titulo": "S.W.A.T.: Comando Especial 2",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/d5f8VRJGP7X2XV3x9zAxDMO60oG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qZCBveX62G2yNJ9YHqEI2lKCdZN.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.697,
+    "tmdbId": 54445,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/s-w-a-t-comando-especial-2.json"
+  },
+  {
+    "id": "s-w-a-t-forca-letal",
+    "tipo": "filme",
+    "titulo": "S.W.A.T.: Força Letal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lr7fU8UsJio5sYFPeWy5OLgYsHT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kk3quv4ZcAVBS6GoP47KDTUv6yn.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7.351,
+    "tmdbId": 559937,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/s-w-a-t-forca-letal.json"
+  },
+  {
     "id": "s-w-a-t-operacao-escorpiao",
     "tipo": "filme",
     "titulo": "S.W.A.T.: Operação: Escorpião",
@@ -1879,6 +2067,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/street-fighter.json"
   },
   {
+    "id": "stuber-a-corrida-maluca",
+    "tipo": "filme",
+    "titulo": "Stuber: A Corrida Maluca",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bopJPyP68dJEjO7i0gUrYMYC0Eh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/Ad0O2lK5XHu1iBywSH039l5dGgA.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.607,
+    "tmdbId": 513045,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/stuber-a-corrida-maluca.json"
+  },
+  {
     "id": "sua-vida-me-pertence",
     "tipo": "filme",
     "titulo": "Sua Vida me Pertence",
@@ -2487,6 +2689,20 @@
     "nota": 5.8,
     "tmdbId": 504198,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/terror-na-siria.json"
+  },
+  {
+    "id": "testemunhas-silenciosas",
+    "tipo": "filme",
+    "titulo": "Testemunhas Silenciosas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/o31Mwup2EQAygdjCez21hOXN0ZG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ddDT35DEwlRfEEzgHym4vRb44nR.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.371,
+    "tmdbId": 531368,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/testemunhas-silenciosas.json"
   },
   {
     "id": "texas",
@@ -3927,6 +4143,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ufc-326-holloway-vs-oliveira-2-2026.json"
   },
   {
+    "id": "ufc-fight-night-276-allen-vs-costa-2026",
+    "tipo": "filme",
+    "titulo": "UFC Fight Night 276: Allen vs. Costa",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/cssaN9nb45lxwDrEw5XH1ZBgIMO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/usGQRmo8WpyydMlxvCEHnRvm0T1.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA",
+      "LANÇAMENTOS"
+    ],
+    "nota": null,
+    "tmdbId": 1696745,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ufc-fight-night-276-allen-vs-costa-2026.json"
+  },
+  {
     "id": "ultimo-alvo",
     "tipo": "filme",
     "titulo": "Último Alvo",
@@ -4157,237 +4388,5 @@
     "nota": 6.413,
     "tmdbId": 302699,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-espiao-e-meio.json"
-  },
-  {
-    "id": "um-estado-de-liberdade",
-    "tipo": "filme",
-    "titulo": "Um estado de Liberdade",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6PFXbrFejklRf2nW2d7DdGT0UKs.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/crVDxx9KgNW7Bm1wyXqBYpzG2TS.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.773,
-    "tmdbId": 316152,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-estado-de-liberdade.json"
-  },
-  {
-    "id": "um-gesto-de-esperanca",
-    "tipo": "filme",
-    "titulo": "Um Gesto de Esperança",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/j0LYIuYMqDbofwJQuHzxzYvcYkK.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rFqonOtsIlWoLjReQBx34SrrLNz.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.2,
-    "tmdbId": 872568,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-gesto-de-esperanca.json"
-  },
-  {
-    "id": "um-golpe-a-italiana",
-    "tipo": "filme",
-    "titulo": "Um Golpe à Italiana",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/2rfCQ5n02iY7fYgK0de6leq7LqP.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/yRjNAiLrZ7oZF6KA53ECTU0Hmse.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.94,
-    "tmdbId": 10536,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-golpe-a-italiana.json"
-  },
-  {
-    "id": "um-heroi-em-acao",
-    "tipo": "filme",
-    "titulo": "Jack Walker, Um Herói em Ação",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4pru9cSmnHDGFio5BX9n2j2cCVb.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gRfqWXhmN7xudLjG8rJhR2NAjSV.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7,
-    "tmdbId": 825657,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-heroi-em-acao.json"
-  },
-  {
-    "id": "um-homem-de-coragem",
-    "tipo": "filme",
-    "titulo": "Um Homem de Coragem",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iXU47OhXJFm9HUiAoCn82xMLwZE.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vHJGWNMp66JZ4tigV8ZyXbSXiIu.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.474,
-    "tmdbId": 1153166,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-homem-de-coragem.json"
-  },
-  {
-    "id": "um-homem-implacavel",
-    "tipo": "filme",
-    "titulo": "Um Homem Implacável",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/woL8DLY4NLJCg8qKiSrOF4QfMkz.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tB59fpPnQITgnfxPfMf2gxASTeC.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.627,
-    "tmdbId": 656156,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-homem-implacavel.json"
-  },
-  {
-    "id": "um-homem-misterioso",
-    "tipo": "filme",
-    "titulo": "Um Homem Misterioso",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hPdrnldwY8Ds7ToYz259zQONBzI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tjdjDn10yDK5R7b6HdwtTASqwmE.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6,
-    "tmdbId": 27579,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-homem-misterioso.json"
-  },
-  {
-    "id": "um-homem-morto-nao-pode-viver",
-    "tipo": "filme",
-    "titulo": "Um Homem Morto Não Pode Viver",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/osIrZDonx2oQw1xfok2hiPXh7f7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kmUR43ltGCecwybhXLFELwfrPxg.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 4.5,
-    "tmdbId": 793156,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-homem-morto-nao-pode-viver.json"
-  },
-  {
-    "id": "um-homem-sem-passado",
-    "tipo": "filme",
-    "titulo": "Um Homem sem Passado",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1lrPXPE6MFmjj2Anfv9aIDz9FnA.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8or4S9BPhkeYK0vlKsPFee4JVWI.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.463,
-    "tmdbId": 1315986,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-homem-sem-passado.json"
-  },
-  {
-    "id": "um-looop-eterno",
-    "tipo": "filme",
-    "titulo": "Um Looop Eterno",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/b0cR03jYbO2hTrKnLVKQNRP8r6y.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/pOEwPqwK4rfKaM1UJKU3eyWUtVF.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.1,
-    "tmdbId": 783461,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-looop-eterno.json"
-  },
-  {
-    "id": "um-lugar-solitario-para-morrer",
-    "tipo": "filme",
-    "titulo": "Um Lugar Solitário para Morrer",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/feYOjKSxz9UkxamVmjyMpc7bTHZ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3MWKCgI8dQGcWS1VL1fACItfWP5.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.176,
-    "tmdbId": 81390,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-lugar-solitario-para-morrer.json"
-  },
-  {
-    "id": "um-ninja-da-pesada",
-    "tipo": "filme",
-    "titulo": "Um Ninja da Pesada",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/eqEJ16k6h2w8eojrRbN1UX2mAIu.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8eX3x7BXwrkLw0hhiHuZ8E0TLmn.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.65,
-    "tmdbId": 9622,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-ninja-da-pesada.json"
-  },
-  {
-    "id": "um-novo-dia-para-lutar-2024",
-    "tipo": "filme",
-    "titulo": "Um Novo Dia para Lutar",
-    "ano": 2024,
-    "capa": "https://image.tmdb.org/t/p/w500/xtHHVT0yhF30UtVM6m7gmZqda7V.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/znMUHotZRTcyIFWFz2bvcpSx6YP.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.63,
-    "tmdbId": 1053008,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-novo-dia-para-lutar-2024.json"
-  },
-  {
-    "id": "um-paraiso-perigoso",
-    "tipo": "filme",
-    "titulo": "Um Paraíso Perigoso",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/izNJQM0DVSuzl8bx6euJtHaLbYT.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tm1kAqfiElwOgXLI8goHBqhIWIM.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.47,
-    "tmdbId": 829799,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-paraiso-perigoso.json"
-  },
-  {
-    "id": "um-passado-sombrio",
-    "tipo": "filme",
-    "titulo": "Um Passado Sombrio",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/v8ppQiNYXOtYYRiO143Hs0zdP1b.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/f1mkwzPX23sDQ1rFiBoJgfbbMj4.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.15,
-    "tmdbId": 258284,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-passado-sombrio.json"
-  },
-  {
-    "id": "um-pequeno-favor",
-    "tipo": "filme",
-    "titulo": "Um Pequeno Favor",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/bpsE44zo8tD3lMQlpPbrf0wHGAy.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ugDSJKMEexMt1d38uyzRnVFsDIh.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.641,
-    "tmdbId": 484247,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-pequeno-favor.json"
   }
 ]

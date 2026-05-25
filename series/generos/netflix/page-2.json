@@ -208,6 +208,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/captive-historias-sobre-refens.json"
   },
   {
+    "id": "carissima",
+    "tipo": "serie",
+    "titulo": "Caríssima",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6e4ivA7v8vlzardz4IXPXzqxRrE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/70CPFXIDYgpj6Q5q4l7bVk0iUcU.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.7,
+    "tmdbId": 321597,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/carissima.json"
+  },
+  {
     "id": "carlo",
     "tipo": "serie",
     "titulo": "Monte Carlo",
@@ -4779,21 +4795,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 9,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/familia-larva.json"
-  },
-  {
-    "id": "familia-upshaw",
-    "tipo": "serie",
-    "titulo": "Família Upshaw",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4nx4OywRxhXIZqAUddIBBis2bL0.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2etWIt4JMD4wHzJIZVi7YeI5UZa.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.61,
-    "tmdbId": 121509,
-    "totalTemporadas": 7,
-    "totalEpisodios": 60,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/familia-upshaw.json"
   }
 ]

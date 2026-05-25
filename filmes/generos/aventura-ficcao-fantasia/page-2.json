@@ -1,5 +1,109 @@
 [
   {
+    "id": "drones",
+    "tipo": "filme",
+    "titulo": "Drones",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cpCb1VdxYyo98b0eWfgHEi3qMUX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wuw89mXvGrtliNyKXUR7aaUkJRu.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 4.6,
+    "tmdbId": 228933,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/drones.json"
+  },
+  {
+    "id": "dual",
+    "tipo": "filme",
+    "titulo": "Dual",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wDEse2TQRiyfhdlusSXBdkDOQRj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3QrD6F2MKooZhlnMqrzknzcQp92.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 5.964,
+    "tmdbId": 698128,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dual.json"
+  },
+  {
+    "id": "dumbo",
+    "tipo": "filme",
+    "titulo": "Dumbo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nGvMq9dEQwYrIbZe2N9OvVMBVSL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eEKpOowAkVAF3sKJKqY2h4h12GV.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA",
+      "4K"
+    ],
+    "nota": 6.988,
+    "tmdbId": 11360,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dumbo.json"
+  },
+  {
+    "id": "dummie-a-mumia-e-a-tumba-de-achnetut",
+    "tipo": "filme",
+    "titulo": "Dummie A Múmia e a Tumba de Achnetut",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2obwJYn2N9teDclkgCgr79I5Y1R.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eZad0T9hhvP9prh2rH8tg9bDPMn.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 5.8,
+    "tmdbId": 476792,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dummie-a-mumia-e-a-tumba-de-achnetut.json"
+  },
+  {
+    "id": "duna-parte-dois",
+    "tipo": "filme",
+    "titulo": "Duna: Parte Dois",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA",
+      "OSCAR"
+    ],
+    "nota": 8.128,
+    "tmdbId": 693134,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/duna-parte-dois.json"
+  },
+  {
+    "id": "dungeons-e-dragons-honra-entre-rebeldes",
+    "tipo": "filme",
+    "titulo": "Dungeons & Dragons: Honra Entre Rebeldes",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tt23D7Mkg0dHhsWn3aN0hbslaFw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/AdBXP8e6K3FYdDrMx3Wr6WZqCYF.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA",
+      "4K"
+    ],
+    "nota": 7.342,
+    "tmdbId": 493529,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dungeons-e-dragons-honra-entre-rebeldes.json"
+  },
+  {
+    "id": "e-t-o-extraterrestre",
+    "tipo": "filme",
+    "titulo": "E.T.: O Extraterrestre",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8j5igb0iuV9TYudw9SuMV5GT9K9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 7.5,
+    "tmdbId": 601,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/e-t-o-extraterrestre.json"
+  },
+  {
     "id": "edward-maos-de-tesoura",
     "tipo": "filme",
     "titulo": "Edward Mãos de Tesoura",
@@ -1142,6 +1246,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/high-life-uma-nova-vida.json"
   },
   {
+    "id": "homem-de-ferro-a-batalha-contra-ezekiel-stane",
+    "tipo": "filme",
+    "titulo": "Homem de Ferro: A Batalha Contra Ezekiel Stane",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3vgn4p1gZ8RLk7ti4pYXVhiEfiE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dC69G4jSq3TkgPIrfgRqZDOxlh4.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 6.164,
+    "tmdbId": 169934,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/homem-de-ferro-a-batalha-contra-ezekiel-stane.json"
+  },
+  {
     "id": "homem-aranha-sem-volta-para-casa",
     "tipo": "filme",
     "titulo": "Homem-Aranha: Sem Volta Para Casa",
@@ -1643,6 +1761,20 @@
     "nota": null,
     "tmdbId": null,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jornada-nas-estrelas-11.json"
+  },
+  {
+    "id": "jornada-nas-estrelas-12",
+    "tipo": "filme",
+    "titulo": "Jornada Nas Estrelas 12",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQg1M46bIcqozNYfhYPJs93Dd2w.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jornada-nas-estrelas-12.json"
   },
   {
     "id": "jornada-nas-estrelas-13",
@@ -4252,137 +4384,5 @@
     "nota": 5.8,
     "tmdbId": 767852,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-segredo-de-mercator.json"
-  },
-  {
-    "id": "o-segredo-do-abismo",
-    "tipo": "filme",
-    "titulo": "O Segredo do Abismo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iUmlHbK05F38QNnVDTDXa5qXFgF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mW6XzxelLY8T2oW2NjciG9LpZT5.jpg",
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 7.35,
-    "tmdbId": 2756,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-segredo-do-abismo.json"
-  },
-  {
-    "id": "o-segredo-do-vale-da-lua",
-    "tipo": "filme",
-    "titulo": "O Segredo do Vale da Lua",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/apvQgHsJSEDytsECnTe3g7b7qLf.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wdpebYdOMtUJpfYZsUei07wOfuB.jpg",
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 6.584,
-    "tmdbId": 18032,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-segredo-do-vale-da-lua.json"
-  },
-  {
-    "id": "o-senhor-dos-aneis-a-sociedade-do-anel",
-    "tipo": "filme",
-    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tlvsNCwWEIgwAM23aNzTmMIcPEZ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/a0lfia8tk8ifkrve0Tn8wkISUvs.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 8.434,
-    "tmdbId": 120,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-senhor-dos-aneis-a-sociedade-do-anel.json"
-  },
-  {
-    "id": "o-senhor-dos-aneis-as-duas-torres",
-    "tipo": "filme",
-    "titulo": "O Senhor dos Anéis: As Duas Torres",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mCs8vxvScCqVM3YFMQIdbrdFEhu.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 8.418,
-    "tmdbId": 121,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-senhor-dos-aneis-as-duas-torres.json"
-  },
-  {
-    "id": "o-senhor-dos-aneis-o-retorno-do-rei",
-    "tipo": "filme",
-    "titulo": "O Senhor dos Anéis: O Retorno do Rei",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 8.498,
-    "tmdbId": 122,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-senhor-dos-aneis-o-retorno-do-rei.json"
-  },
-  {
-    "id": "o-sinal-frequencia-do-medo",
-    "tipo": "filme",
-    "titulo": "O Sinal: Frequência do Medo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zN49DwmmiSD6meurLcuy9SqrIgx.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/oxZh9qhkxfOczKmTang0j9a06Bx.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 6.019,
-    "tmdbId": 242095,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-sinal-frequencia-do-medo.json"
-  },
-  {
-    "id": "o-terceiro-olho",
-    "tipo": "filme",
-    "titulo": "O Terceiro Olho",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ao93AwmpC3PFPSflz6ckXVUju5N.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/reKKVrgeaKozpODdLCbhEQAhN0x.jpg",
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 5.943,
-    "tmdbId": 11588,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-terceiro-olho.json"
-  },
-  {
-    "id": "o-triangulo-da-morte",
-    "tipo": "filme",
-    "titulo": "O Triângulo da Morte",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/it9D3yvCyAmNfqp6zz9lhh4dR97.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qJOVfk6snrK5tdc6FBcpBv6LJF1.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 3.3,
-    "tmdbId": 897018,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-triangulo-da-morte.json"
-  },
-  {
-    "id": "o-troll-da-montanha",
-    "tipo": "filme",
-    "titulo": "O Troll da Montanha 2",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4WOmwPpQ2NeACRm2FMDnVhevb7G.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 6.397,
-    "tmdbId": 1180831,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-troll-da-montanha.json"
   }
 ]

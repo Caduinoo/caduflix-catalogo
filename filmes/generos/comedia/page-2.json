@@ -1,5 +1,50 @@
 [
   {
+    "id": "amor-em-little-italy",
+    "tipo": "filme",
+    "titulo": "Amor em Little Italy",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mOC25KOQYNeUnTurG66kBgfxGB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lrxsLj0ZYSiSmrNRr9m4UQV8TxQ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.61,
+    "tmdbId": 523773,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-little-italy.json"
+  },
+  {
+    "id": "amor-em-south-beach",
+    "tipo": "filme",
+    "titulo": "Amor em South Beach",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/h517jl5N8y6wHUdD4GUveLy58wI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sydy4nujE2hs6xF3VadL6ESvsXr.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.667,
+    "tmdbId": 860267,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-south-beach.json"
+  },
+  {
+    "id": "amor-em-soweto",
+    "tipo": "filme",
+    "titulo": "Amor em Soweto",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1XYiQqxCPzYTomOUg0otKYKAo8b.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2T2NU30YsXwk0Ir4Vi0IDTaGYGC.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 4.646,
+    "tmdbId": 1237835,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-soweto.json"
+  },
+  {
     "id": "amor-em-tempos-de-polarizacao",
     "tipo": "filme",
     "titulo": "Amor em Tempos de Polarização",
@@ -3157,6 +3202,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/chicago.json"
   },
   {
+    "id": "chief-daddy-2-going-for-broke",
+    "tipo": "filme",
+    "titulo": "Papai Poderoso 2: Tudo ou Nada",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/j0WSbme3zUOmo8dk0qJ97tDiF0M.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6Y014ckpxww11CGAIRL8uT4Pz5n.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6,
+    "tmdbId": 922017,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/chief-daddy-2-going-for-broke.json"
+  },
+  {
     "id": "chips",
     "tipo": "filme",
     "titulo": "CHiPs: O Filme",
@@ -4291,63 +4351,5 @@
     "nota": 6.7,
     "tmdbId": 1149920,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/crescer-nao-e-brincadeira-2.json"
-  },
-  {
-    "id": "criando-verdades",
-    "tipo": "filme",
-    "titulo": "Criando Verdades",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/q2xXZGR9kE2XmFReJS9BxW4h3DO.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1ExcUQTmzXhHNKAXpN0OxxfgG3s.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 5.3,
-    "tmdbId": 839564,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/criando-verdades.json"
-  },
-  {
-    "id": "cro-em-familia",
-    "tipo": "filme",
-    "titulo": "Crô em Família",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/i3hfC09ov7ozxAwbof8IwcahYUi.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/79Wyk2UW5TetH5XQ8JncVpVCP0r.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 4.7,
-    "tmdbId": 544946,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cro-em-familia.json"
-  },
-  {
-    "id": "crocodilo",
-    "tipo": "filme",
-    "titulo": "Crocodilo Dundee",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wYJj9QRGV0n6gQ9UqeLnOMDtIc4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fdyRR3R1urnk6oYiChCMu6bFaFb.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.445,
-    "tmdbId": 9671,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/crocodilo.json"
-  },
-  {
-    "id": "crocodilo-dundee",
-    "tipo": "filme",
-    "titulo": "Crocodilo Dundee",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wYJj9QRGV0n6gQ9UqeLnOMDtIc4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fdyRR3R1urnk6oYiChCMu6bFaFb.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.445,
-    "tmdbId": 9671,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/crocodilo-dundee.json"
   }
 ]

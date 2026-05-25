@@ -1,5 +1,19 @@
 [
   {
+    "id": "blow-the-man-down",
+    "tipo": "filme",
+    "titulo": "Afunde o Navio",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jWym6hb3avqbIGbAgd2UfT52BUf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fsM6AB85cptuiG142s6ZQS17mjr.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.232,
+    "tmdbId": 586451,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/blow-the-man-down.json"
+  },
+  {
     "id": "blue-bayou",
     "tipo": "filme",
     "titulo": "Blue Bayou",
@@ -577,6 +591,20 @@
     "nota": 7.09,
     "tmdbId": 14299,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cadillac-records.json"
+  },
+  {
+    "id": "cafarnaum",
+    "tipo": "filme",
+    "titulo": "Cafarnaum",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ReHOMkW1rVTo3Yslqe1xATl8c8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sEW8q9al73rtow257dXAusD9yS7.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 8.14,
+    "tmdbId": 517814,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cafarnaum.json"
   },
   {
     "id": "calculo-mortal",
@@ -1400,7 +1428,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/c7lzePlEU91R6tZUXpllwISZgXF.jpg",
     "banner": "https://image.tmdb.org/t/p/original/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
     "generos": [
-      "DRAMA"
+      "DRAMA",
+      "4K"
     ],
     "nota": 6.675,
     "tmdbId": 337167,
@@ -2756,6 +2785,20 @@
     "nota": 6.2,
     "tmdbId": 828434,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/crescer-e-muito-chato.json"
+  },
+  {
+    "id": "criancas-da-noite",
+    "tipo": "filme",
+    "titulo": "Crianças da Noite",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/q43BL7KbxCw8zdiYcoiwVDWVPC8.jpg",
+    "banner": null,
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.25,
+    "tmdbId": 49177,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/criancas-da-noite.json"
   },
   {
     "id": "criancas-de-valor",
@@ -4335,47 +4378,5 @@
     "nota": 5.506,
     "tmdbId": 254772,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dois-homens-contra-uma-cidade.json"
-  },
-  {
-    "id": "dois-lados-do-amor",
-    "tipo": "filme",
-    "titulo": "Dois Lados do Amor: Ele",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mFQjlSmLMgTH3HL40EQ3ogbyVwt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ucSAipPMsiDeXoTp0OQj3cf953g.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.681,
-    "tmdbId": 276401,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dois-lados-do-amor.json"
-  },
-  {
-    "id": "dois-papas",
-    "tipo": "filme",
-    "titulo": "Dois Papas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/lZmD4lMCgZydh8vAkx7JsykfqcW.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/bOPessdyd0dChHy70FM8Om7CgDg.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.486,
-    "tmdbId": 551332,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dois-papas.json"
-  },
-  {
-    "id": "domando-o-destino",
-    "tipo": "filme",
-    "titulo": "Domando o Destino",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/8ZEDUyCB64IpbJOwIfov4hM79a1.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/oaAyNmnqbB8Ad3O2t9iymZ2gEJa.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.263,
-    "tmdbId": 453278,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/domando-o-destino.json"
   }
 ]

@@ -1,5 +1,35 @@
 [
   {
+    "id": "a-batalha-de-kruty-1918",
+    "tipo": "filme",
+    "titulo": "A Batalha de Kruty",
+    "ano": 1918,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2N0eKs4OD4zM9dpdECZFVK6havp.jpg",
+    "banner": null,
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-batalha-de-kruty-1918.json"
+  },
+  {
+    "id": "a-batalha-de-natal",
+    "tipo": "filme",
+    "titulo": "A Batalha de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7xz7evAsp4wqwSBSZLnNd13wBZt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sp6egj5NHHRGmCMdIoTNdbLwACR.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO",
+      "4K"
+    ],
+    "nota": 5.938,
+    "tmdbId": 1022964,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-batalha-de-natal.json"
+  },
+  {
     "id": "a-batalha-de-riddick",
     "tipo": "filme",
     "titulo": "A Batalha de Riddick",
@@ -4324,35 +4354,5 @@
     "nota": 7.125,
     "tmdbId": 681303,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-fada-do-dente.json"
-  },
-  {
-    "id": "a-falha",
-    "tipo": "filme",
-    "titulo": "Terremoto: A Falha de San Andreas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wVp2zu88NMWpGluqW9eGQbwLWi.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zcySy6dnSmyqiichtDgO7AEeZoq.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.245,
-    "tmdbId": 254128,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-falha.json"
-  },
-  {
-    "id": "a-familia-addams",
-    "tipo": "filme",
-    "titulo": "A Família Addams",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/sFwaszCIbVXGnsJG6dg6WUY7d6P.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7OxGhxUYAdtuike29VMzEFxJx7y.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.066,
-    "tmdbId": 2907,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-familia-addams.json"
   }
 ]

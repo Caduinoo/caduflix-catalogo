@@ -1,5 +1,80 @@
 [
   {
+    "id": "apex",
+    "tipo": "filme",
+    "titulo": "O Jogo do Predador",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mBcYPIubRBPTnTwWdj8OuEC1NHJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oTE4lNs4PSG5iIWjqaTdCIFJ4Bs.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.674,
+    "tmdbId": 1318447,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/apex.json"
+  },
+  {
+    "id": "apocalipse",
+    "tipo": "filme",
+    "titulo": "Alerta Apocalipse",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3Ap6J9pYqgrxQaYWYdX2fyBYBWF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.8,
+    "tmdbId": 696393,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/apocalipse.json"
+  },
+  {
+    "id": "apocalypse-now",
+    "tipo": "filme",
+    "titulo": "Apocalypse Now",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/veXttPnNe8EZulvmeGTyDUrG9T4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/49fzLedFVKgGgFChLMuulDJBY1c.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 8.267,
+    "tmdbId": 28,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/apocalypse-now.json"
+  },
+  {
+    "id": "aprendiz-de-espia-na-cidade-eterna",
+    "tipo": "filme",
+    "titulo": "Aprendiz de Espiã: Na Cidade Eterna",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/CaJcAlbA4a2jzwWcWl4M8ojgit.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kutrMwSVEcGFn5F0fUJYYRPzuxn.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 6.5,
+    "tmdbId": 1048241,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/aprendiz-de-espia-na-cidade-eterna.json"
+  },
+  {
+    "id": "aquaman",
+    "tipo": "filme",
+    "titulo": "Aquaman",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wbo0CYG6SOFxFkoe9BiqvivLggN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9QusGjxcYvfPD1THg6oW3RLeNn7.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 6.867,
+    "tmdbId": 297802,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/aquaman.json"
+  },
+  {
     "id": "aquaman-2-o-reino-perdido",
     "tipo": "filme",
     "titulo": "Aquaman 2: O Reino Perdido",
@@ -3461,7 +3536,8 @@
     "banner": "https://image.tmdb.org/t/p/original/z1fzWsGB2ePLFrTJcsynLpP7hnB.jpg",
     "generos": [
       "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
+      "AÇÃO | CRIME | GUERRA",
+      "LANÇAMENTOS"
     ],
     "nota": 6.756,
     "tmdbId": 1305642,
@@ -4175,6 +4251,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/comando-imbativel.json"
   },
   {
+    "id": "comando-justiceiro-2019",
+    "tipo": "filme",
+    "titulo": "Comando Justiceiro",
+    "ano": 2019,
+    "capa": "https://image.tmdb.org/t/p/w500/5lEgytFiJhBMV7RhzZynNrtZWn8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/NbxUFZ7qwWrvVRjZ8dXSt2dOLI.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 3.882,
+    "tmdbId": 585311,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/comando-justiceiro-2019.json"
+  },
+  {
     "id": "comando-para-matar",
     "tipo": "filme",
     "titulo": "Comando para Matar",
@@ -4305,91 +4395,5 @@
     "nota": 6.805,
     "tmdbId": 9387,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/conan.json"
-  },
-  {
-    "id": "conan-1997",
-    "tipo": "filme",
-    "titulo": "Conan, o Bárbaro",
-    "ano": 1997,
-    "capa": "https://image.tmdb.org/t/p/w500/7pXoGVgYSLQpc4N3fGBcDzJHiL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4rICId8WQBhOIzl7iZCVvc0QoJW.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.805,
-    "tmdbId": 9387,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/conan-1997.json"
-  },
-  {
-    "id": "condenacao-brutal",
-    "tipo": "filme",
-    "titulo": "Condenação Brutal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fDyEClXTDc13iEXjEZaw6mNb4uy.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/eMlCmmgQUFIykBsf7AdTI1q0ZkL.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.804,
-    "tmdbId": 9972,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/condenacao-brutal.json"
-  },
-  {
-    "id": "conexao-jamaica",
-    "tipo": "filme",
-    "titulo": "Conexão Jamaica",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hYTJI6uGhCg6mDTHNOdHkKVr7At.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/yYSaRwOQsX033pxCCjgw04FP1YY.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.6,
-    "tmdbId": 13830,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/conexao-jamaica.json"
-  },
-  {
-    "id": "confissoes",
-    "tipo": "filme",
-    "titulo": "Confissões de Adolescente",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/w21eOmw5KwEyaPIsD8JmVtVXGrz.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8fp4NlQvBIms8E0E14MUJrBSWST.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.327,
-    "tmdbId": 228208,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/confissoes.json"
-  },
-  {
-    "id": "confronto-no-deserto",
-    "tipo": "filme",
-    "titulo": "Confronto no Deserto",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4rHdr2apDbnlHuzDfSg5L4uEuji.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/10TknfMWOONfJa8lcFLGLkEp1vX.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.5,
-    "tmdbId": 620632,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/confronto-no-deserto.json"
-  },
-  {
-    "id": "confronto-no-pavilhao-99",
-    "tipo": "filme",
-    "titulo": "Confronto no Pavilhão 99",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xY9KVsJf8mmrefdmaRZ9pJl2dpd.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ct2r3CqnA0KtMfib4AvfBU1W9M2.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7,
-    "tmdbId": 398175,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/confronto-no-pavilhao-99.json"
   }
 ]

@@ -1,5 +1,101 @@
 [
   {
+    "id": "metalder-o-homem-maquina",
+    "tipo": "serie",
+    "titulo": "Metalder, o Homem Máquina",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/A1hSmsKxmHiw7z8V12Hv3zYHKC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/c7FXKkvTrYzhZz19rXafZw2gzAC.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 8.4,
+    "tmdbId": 6243,
+    "totalTemporadas": 1,
+    "totalEpisodios": 40,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/metalder-o-homem-maquina.json"
+  },
+  {
+    "id": "metallic-rouge",
+    "tipo": "serie",
+    "titulo": "Metallic Rouge",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oLMLxZBmIFE6tWg5s8UwuYOWTVI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cQFytd14BhCywHnFqgw9uK3YYY8.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 7.207,
+    "tmdbId": 222787,
+    "totalTemporadas": 1,
+    "totalEpisodios": 13,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/metallic-rouge.json"
+  },
+  {
+    "id": "meu-amigo-bussunda",
+    "tipo": "serie",
+    "titulo": "Meu Amigo Bussunda",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2dTxtR9kUMfgTdTHc3nGphG24yQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/50fNA8XeVVLghIIUGYg5ManQ42V.jpg",
+    "generos": [
+      "GLOBOPLAY"
+    ],
+    "nota": 8,
+    "tmdbId": 127650,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/meu-amigo-bussunda.json"
+  },
+  {
+    "id": "meu-amor",
+    "tipo": "serie",
+    "titulo": "Meu Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1ekREG5IuSFrAMRDQpgq9js2ost.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nvxWprLpexi0rYanzt5E4Ne3Mrg.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": null,
+    "tmdbId": 35015,
+    "totalTemporadas": 1,
+    "totalEpisodios": 12,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/meu-amor.json"
+  },
+  {
+    "id": "meu-amor-seis-historias-de-amor-verdadeiro",
+    "tipo": "serie",
+    "titulo": "Meu Amor: Seis Histórias de Amor Verdadeiro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lzWNo5qRRvZ0SkmoFgnJ62EtMk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cYAKFkw8mQPkBSoU1pxdMrHQlFh.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 4.5,
+    "tmdbId": 50016,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/meu-amor-seis-historias-de-amor-verdadeiro.json"
+  },
+  {
+    "id": "meu-ayrton-por-adriane-galisteu",
+    "tipo": "serie",
+    "titulo": "Meu Ayrton, por Adriane Galisteu",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/g3F58RRJrhCX0Jgc7bctH05mAff.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kcaZR7JmYzHArmucFvgYBkOCKLA.jpg",
+    "generos": [
+      "HBO MAX"
+    ],
+    "nota": 9,
+    "tmdbId": 304309,
+    "totalTemporadas": 1,
+    "totalEpisodios": 2,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/meu-ayrton-por-adriane-galisteu.json"
+  },
+  {
     "id": "meu-caminho-e-te-amar",
     "tipo": "serie",
     "titulo": "Meu Caminho é Te Amar",
@@ -4693,101 +4789,5 @@
     "totalTemporadas": 2,
     "totalEpisodios": 23,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/nao-estou-morta.json"
-  },
-  {
-    "id": "nao-fale-com-estranhos",
-    "tipo": "serie",
-    "titulo": "Não Fale com Estranhos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/60ZucrnG1YkcxAKnIHQVbB6z1WY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/97pA0UjBqqgcZFbREQL3U1BQDgX.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.167,
-    "tmdbId": 96608,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/nao-fale-com-estranhos.json"
-  },
-  {
-    "id": "nao-foi-minha-culpa-brasil",
-    "tipo": "serie",
-    "titulo": "Não Foi Minha Culpa: Brasil",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/z5cE0WI9VQSvGDdW19AvIE1iwc6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/w7JzaR8Py8LIWQ68wTsKtdJdK7a.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 6,
-    "tmdbId": 128076,
-    "totalTemporadas": 1,
-    "totalEpisodios": 10,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/nao-foi-minha-culpa-brasil.json"
-  },
-  {
-    "id": "nao-foi-minha-culpa-mexico",
-    "tipo": "serie",
-    "titulo": "Não Foi Minha Culpa: México",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pAduljm45lOktb80fItRx1wuRbu.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9wRR5TQbwfntOONOjzuMEDDr9JX.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 7.7,
-    "tmdbId": 128067,
-    "totalTemporadas": 1,
-    "totalEpisodios": 10,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/nao-foi-minha-culpa-mexico.json"
-  },
-  {
-    "id": "nao-me-abandone-jamais",
-    "tipo": "serie",
-    "titulo": "Não Me Abandone Jamais",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/sGpqhD9kKiP3abxOrzYWRy05lV2.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lhLQWWtBtFhyOH2Iv9zSs9ohjiX.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 4.5,
-    "tmdbId": 72167,
-    "totalTemporadas": 1,
-    "totalEpisodios": 12,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/nao-me-abandone-jamais.json"
-  },
-  {
-    "id": "nao-me-chame-de-senhora",
-    "tipo": "serie",
-    "titulo": "Não Me Chame de Senhora",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/sfnV8SLYhrxA9zjWGLlUoj5qViU.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/A3pKMJrmz2R2QZmWRRihEoX5fkD.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 7,
-    "tmdbId": 294731,
-    "totalTemporadas": 1,
-    "totalEpisodios": 12,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/nao-me-chame-de-senhora.json"
-  },
-  {
-    "id": "nao-nos-calaremos",
-    "tipo": "serie",
-    "titulo": "Não nos Calaremos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/prFJX3WO5SRJRA3qE7fHn271D14.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ieiq46OoeTrLkjtclmhii6iRyzP.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.74,
-    "tmdbId": 242876,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/nao-nos-calaremos.json"
   }
 ]

@@ -12492,6 +12492,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/carinha-de-anjo.json"
   },
   {
+    "id": "carissima",
+    "tipo": "serie",
+    "titulo": "Caríssima",
+    "tituloNormalizado": "carissima",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6e4ivA7v8vlzardz4IXPXzqxRrE.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/carissima.json"
+  },
+  {
     "id": "carlo",
     "tipo": "serie",
     "titulo": "Monte Carlo",
@@ -20052,6 +20061,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/ed-stafford-o-sobrevivente.json"
   },
   {
+    "id": "ed-stafford-rituais-extremos",
+    "tipo": "serie",
+    "titulo": "Ed Stafford: Rituais Extremos",
+    "tituloNormalizado": "ed stafford: rituais extremos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xmRRM0qEJ5Zo5I0UKeoSsjpBlIc.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/ed-stafford-rituais-extremos.json"
+  },
+  {
     "id": "ed-stafford-rumo-ao-desconhecido",
     "tipo": "serie",
     "titulo": "Ed Stafford: Rumo ao Desconhecido",
@@ -23839,6 +23857,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/49mOgAEa4eKpPsoBH8UvvXwEMDT.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/future-man.json"
+  },
+  {
+    "id": "futuro-deserto",
+    "tipo": "serie",
+    "titulo": "Futuro Deserto",
+    "tituloNormalizado": "futuro deserto",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/seLCeeCuoK6vba3SRXdmaUkb5mL.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/futuro-deserto.json"
   },
   {
     "id": "fuuto-tantei",
@@ -28404,6 +28431,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/isso-e-um-bolo-vamos-celebrar.json"
   },
   {
+    "id": "isso-se-chama-amor",
+    "tipo": "serie",
+    "titulo": "Isso Se Chama Amor",
+    "tituloNormalizado": "isso se chama amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2XqXnm95f3qSqQXNJ3jd4Iz7Bjw.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/isso-se-chama-amor.json"
+  },
+  {
     "id": "isto-e-ciencia-com-mark-rober",
     "tipo": "serie",
     "titulo": "Isto é Ciência com Mark Rober",
@@ -30526,6 +30562,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/9AFPjVa1atY83aKZunHUgArbXl6.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/largados-e-pelados-brasil-a-tribo.json"
+  },
+  {
+    "id": "largados-e-pelados-campeoes-do-mundo",
+    "tipo": "serie",
+    "titulo": "Largados e Pelados: Campeões do Mundo",
+    "tituloNormalizado": "largados e pelados: campeoes do mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/reO7DifUKgkxMs0oSctxUmADTih.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/largados-e-pelados-campeoes-do-mundo.json"
   },
   {
     "id": "largados-e-pelados-espanha",
@@ -33496,6 +33541,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/mAbuZuS4CqlTI6lvWIxPRHppbVs.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/materia-escura.json"
+  },
+  {
+    "id": "mating-season",
+    "tipo": "serie",
+    "titulo": "Mating Season",
+    "tituloNormalizado": "mating season",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dJjPnw3NQHmbGWGUXdlROqtTMuX.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/mating-season.json"
   },
   {
     "id": "matlock-uma-advogada-improvavel",
@@ -37267,6 +37321,15 @@
     "ano": 2026,
     "capa": "https://image.tmdb.org/t/p/w500/vNvboIOnzxL3pkI11TQDn21grUY.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-dark-romance-2026.json"
+  },
+  {
+    "id": "the-double-game-2026",
+    "tipo": "serie",
+    "titulo": "颜不由心",
+    "tituloNormalizado": "颜不由心",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/oSzV0oaY7N1VsE9NOpDlYmwpQyZ.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-double-game-2026.json"
   },
   {
     "id": "the-epoch-of-miyu",

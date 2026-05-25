@@ -2349,6 +2349,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-mulher-faz-o-homem.json"
   },
   {
+    "id": "a-mulher-mais-rica-do-mundo",
+    "tipo": "filme",
+    "titulo": "A Mulher Mais Rica do Mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kYQ7nDESAkYR08RSz4PQe7J0YlO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fl36Z9J81DMOcmTW26UCmzr5LkY.jpg",
+    "generos": [
+      "COMÉDIA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.1,
+    "tmdbId": 1309725,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-mulher-mais-rica-do-mundo.json"
+  },
+  {
     "id": "a-namorada-do-meu-irmao",
     "tipo": "filme",
     "titulo": "A Namorada do Meu Irmão",
@@ -2419,6 +2434,20 @@
     "nota": 6.591,
     "tmdbId": 11247,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-nova-cinderela.json"
+  },
+  {
+    "id": "a-odisseia-dos-tontos",
+    "tipo": "filme",
+    "titulo": "A Odisseia dos Tontos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fEtGiZ6NEEo6z2wQGiiiAsmdxpL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1lVzpmCxVd7SNSswEIfFND4I2si.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 7.56,
+    "tmdbId": 596054,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-odisseia-dos-tontos.json"
   },
   {
     "id": "a-oportunidade-quase-perfeita",
@@ -2521,6 +2550,21 @@
     "nota": 4.7,
     "tmdbId": 574374,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-pequena-suica.json"
+  },
+  {
+    "id": "a-porrada-vai-comer",
+    "tipo": "filme",
+    "titulo": "A Porrada Vai Comer!",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2ujZDnUE0g309LxhLtQFIDQgGyM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uzXLCqPWYbsVzPU3pGz3oPqO4lE.jpg",
+    "generos": [
+      "COMÉDIA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.5,
+    "tmdbId": 1165441,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-porrada-vai-comer.json"
   },
   {
     "id": "a-poucos-passos-de-paris",
@@ -4315,50 +4359,5 @@
     "nota": 6.5,
     "tmdbId": 994052,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-grande-estilo.json"
-  },
-  {
-    "id": "amor-em-little-italy",
-    "tipo": "filme",
-    "titulo": "Amor em Little Italy",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mOC25KOQYNeUnTurG66kBgfxGB.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lrxsLj0ZYSiSmrNRr9m4UQV8TxQ.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.61,
-    "tmdbId": 523773,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-little-italy.json"
-  },
-  {
-    "id": "amor-em-south-beach",
-    "tipo": "filme",
-    "titulo": "Amor em South Beach",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/h517jl5N8y6wHUdD4GUveLy58wI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sydy4nujE2hs6xF3VadL6ESvsXr.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.667,
-    "tmdbId": 860267,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-south-beach.json"
-  },
-  {
-    "id": "amor-em-soweto",
-    "tipo": "filme",
-    "titulo": "Amor em Soweto",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1XYiQqxCPzYTomOUg0otKYKAo8b.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2T2NU30YsXwk0Ir4Vi0IDTaGYGC.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 4.646,
-    "tmdbId": 1237835,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-soweto.json"
   }
 ]

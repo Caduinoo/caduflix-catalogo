@@ -1,5 +1,324 @@
 [
   {
+    "id": "dora-e-a-busca-por-sol-dorado",
+    "tipo": "filme",
+    "titulo": "Dora e a Busca por Sol Dorado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3A0xtSvnwa7BikiWr55AQLPWMvs.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dora-e-a-busca-por-sol-dorado.json"
+  },
+  {
+    "id": "dora-e-a-cidade-perdida",
+    "tipo": "filme",
+    "titulo": "Dora e a Cidade Perdida",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zn6uvrCTymyl9dYkoU2XDODC8IC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ltt9yiCGmCQZunmxtkhtPxzmDzx.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 6.629,
+    "tmdbId": 499701,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dora-e-a-cidade-perdida.json"
+  },
+  {
+    "id": "dora-e-gabriel",
+    "tipo": "filme",
+    "titulo": "Dora e Gabriel",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nfy3ZYbIboTD10YyHDEykL3tmY9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kJJqCBRFxqSEG3nCKpVctTTYM8V.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 4,
+    "tmdbId": 719284,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dora-e-gabriel.json"
+  },
+  {
+    "id": "dormindo-com-as-outras-pessoas",
+    "tipo": "filme",
+    "titulo": "Dormindo com as Outras Pessoas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/thYomS3wTYDTRZaM98ADMfBiDxm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/40ZRzvdkuCPNCSbdcImc5o4JGdD.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.278,
+    "tmdbId": 288036,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dormindo-com-as-outras-pessoas.json"
+  },
+  {
+    "id": "dormindo-com-o-inimigo",
+    "tipo": "filme",
+    "titulo": "Dormindo com o Inimigo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/MDHMzwa1xkTZDhed68kviLIIj2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/apUbdi4nGrD5VGIaxErtpsn7ST8.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.505,
+    "tmdbId": 7442,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dormindo-com-o-inimigo.json"
+  },
+  {
+    "id": "dormindo-com-seu-idolo",
+    "tipo": "filme",
+    "titulo": "Dormindo com seu Ídolo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oB5DoPDrxnoLwoZTgbcTG62LQU4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/i2reWgXQ4bPH6APxZNcZXppSmYw.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 4.9,
+    "tmdbId": 1196366,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dormindo-com-seu-idolo.json"
+  },
+  {
+    "id": "dormindo-fora-de-casa",
+    "tipo": "filme",
+    "titulo": "Dormindo Fora de Casa",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8R4lpFHyMXY4A8CVc9WeLUO1IgB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6alQcAv7ofMudb3ABlJGPztTNJc.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.046,
+    "tmdbId": 9893,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dormindo-fora-de-casa.json"
+  },
+  {
+    "id": "dose-dupla",
+    "tipo": "filme",
+    "titulo": "Dose Dupla",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/u5X9qjUfIZDmlVJXJ7xJVyyHZFa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/swyPgOP2lffHfMjeZKNnNFR9P88.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.541,
+    "tmdbId": 136400,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dose-dupla.json"
+  },
+  {
+    "id": "double-blind",
+    "tipo": "filme",
+    "titulo": "Fique Acordado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/izPVZlS3FcfVjiQ4kjQKppIwja0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pcjWAV4Iw7sl3dpV1dfIoxbbTuu.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.102,
+    "tmdbId": 1140648,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/double-blind.json"
+  },
+  {
+    "id": "double-world",
+    "tipo": "filme",
+    "titulo": "Lego Jurassic World: Double Trouble",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4Z0UoPW7DudK6sbpBjUVPZugi1X.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/l05w9k1GFc8yTlwi9yMdcfmNvkF.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": null,
+    "tmdbId": 1575968,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/double-world.json"
+  },
+  {
+    "id": "doula",
+    "tipo": "filme",
+    "titulo": "Doula",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4v6zhPBZuuxuFGN2CwMu97Z8u3l.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9rEvJdEHb7WEOO0N3Hqpu653sCc.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 4.3,
+    "tmdbId": 956496,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/doula.json"
+  },
+  {
+    "id": "dounika-naru-hibi",
+    "tipo": "filme",
+    "titulo": "Dounika Naru Hibi",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8Zr6JJw3r0FiUd5rH3rK6YXFxwm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8GPpgj7Jg5w4TFeJF6JBeO87bDP.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 5.55,
+    "tmdbId": 649523,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dounika-naru-hibi.json"
+  },
+  {
+    "id": "doutor-estranho",
+    "tipo": "filme",
+    "titulo": "Doutor Estranho",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pb4clPWRJ5AKlSFu1HrrHdt5uAw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3zvZ699gMW2RhWc0GisIukzq0Ls.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 7.42,
+    "tmdbId": 284052,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/doutor-estranho.json"
+  },
+  {
+    "id": "doutor-estranho-no-multiverso-da-loucura",
+    "tipo": "filme",
+    "titulo": "Doutor Estranho no Multiverso da Loucura",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7pLIVfovuIf2KQOOvMsKx3Lanrg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/AdyJH8kDm8xT8IKTlgpEC15ny4u.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA",
+      "4K"
+    ],
+    "nota": 7.228,
+    "tmdbId": 453395,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/doutor-estranho-no-multiverso-da-loucura.json"
+  },
+  {
+    "id": "doutor-gama",
+    "tipo": "filme",
+    "titulo": "Doutor Gama",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sGAKqyhxuc3oJGCWzQtTnmHDDUi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/chkaVct7GVanzOIKjpfqn669KuF.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 8,
+    "tmdbId": 844532,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/doutor-gama.json"
+  },
+  {
+    "id": "doutor-jivago",
+    "tipo": "filme",
+    "titulo": "Doutor Jivago",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6oMm7FQPnGHhJKD6ztvh4mg5Trm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/y3sPNxqVBIt97EZX568OpAWBpcl.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 7.549,
+    "tmdbId": 907,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/doutor-jivago.json"
+  },
+  {
+    "id": "doutor-risadinha-especialista-em-obitos",
+    "tipo": "filme",
+    "titulo": "Doutor Risadinha - Especialista em Óbitos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kmQS3MYrCKknPhQbLQEuK0Ul6AM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lnv9JCsdMVdZJocPW52Zy70KNiK.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.537,
+    "tmdbId": 37527,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/doutor-risadinha-especialista-em-obitos.json"
+  },
+  {
+    "id": "doutor-sono",
+    "tipo": "filme",
+    "titulo": "Doutor Sono",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1Sp02vj2faWSF72OqIM9E7HuSG9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ap6Zc5NDOfbZaMhkRDyghbGeLf0.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 7.143,
+    "tmdbId": 501170,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/doutor-sono.json"
+  },
+  {
+    "id": "dovlatov",
+    "tipo": "filme",
+    "titulo": "Довлатов",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pTHjRkKNDD1O3pzXGf5YqCkNAHH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vCIcsaXTo2JFVC4Qevo3GeZOW5A.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 5.8,
+    "tmdbId": 493655,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dovlatov.json"
+  },
+  {
+    "id": "down-quixote",
+    "tipo": "filme",
+    "titulo": "Down Quixote",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hHluHFenJBDUzMvyYUYuXMP72U2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3XHTFoUHE2GKw5r3v6Z70ldBcDf.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 10,
+    "tmdbId": 1013133,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/down-quixote.json"
+  },
+  {
+    "id": "downhill",
+    "tipo": "filme",
+    "titulo": "Downhill",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ruLqLb2bfWKykckxVlVZayuBOgW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nvZuBYHUGbrFl3LmDnmbRgrQ8xa.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.237,
+    "tmdbId": 560391,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/downhill.json"
+  },
+  {
+    "id": "downton-abbey",
+    "tipo": "filme",
+    "titulo": "Downton Abbey - O Filme",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lXoUmgHslfmC6kIhy814unBhptx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lgQQ6n1vPw40buW7QGc1DxDzQS9.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "4K"
+    ],
+    "nota": 7.134,
+    "tmdbId": 535544,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/downton-abbey.json"
+  },
+  {
     "id": "downton-abbey-o-filme",
     "tipo": "filme",
     "titulo": "Downton Abbey - O Filme",
@@ -3000,6 +3319,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/el-robo-del-siglo.json"
   },
   {
+    "id": "el-salvador-o-dia-em-que-o-medo-mudou-de-lado",
+    "tipo": "filme",
+    "titulo": "El Salvador - O dia em que o medo mudou de lado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bg4KbU1M53QRFKGtoHOJPjFonbu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/o5WFZISFD8rW2K2WVOSiu73Lgf6.jpg",
+    "generos": [
+      "4K",
+      "NACIONAIS",
+      "LANÇAMENTOS"
+    ],
+    "nota": 8.5,
+    "tmdbId": 1699414,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/el-salvador-o-dia-em-que-o-medo-mudou-de-lado.json"
+  },
+  {
     "id": "el-secreto-del-orfebre",
     "tipo": "filme",
     "titulo": "O Segredo do Ourives",
@@ -3999,336 +4334,5 @@
     "nota": 6.369,
     "tmdbId": 30069,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-da-vitoria.json"
-  },
-  {
-    "id": "em-busca-da-vitoria-2019",
-    "tipo": "filme",
-    "titulo": "Em Busca da Vitória",
-    "ano": 2019,
-    "capa": "https://image.tmdb.org/t/p/w500/ywCopIdFKHSNMd7cf6CXqrY14zq.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/o5y3pqSo409eNUrj1bQQSGVw2DM.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.76,
-    "tmdbId": 608813,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-da-vitoria-2019.json"
-  },
-  {
-    "id": "em-busca-de-ohana",
-    "tipo": "filme",
-    "titulo": "Em Busca de 'Ohana",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/vcQY8T1owyMMRmp9dZiUTUQVxKW.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/yImmxRokQ48PD49ughXdpKTAsAU.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.241,
-    "tmdbId": 644092,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-de-ohana.json"
-  },
-  {
-    "id": "em-busca-de-mim",
-    "tipo": "filme",
-    "titulo": "Em Busca de Mim",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/liJ4HcdAl8oizjZ8maOJ9ddW9Fv.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/v7hAAjqypw9otTERMkIzZCq0fjz.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 5.233,
-    "tmdbId": 1034629,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-de-mim.json"
-  },
-  {
-    "id": "em-busca-de-redencao",
-    "tipo": "filme",
-    "titulo": "Em Busca de Redenção",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/15qh4CAO81aBrpMAJS9FGd0I0jR.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wHy1M9ZESEpIHxyobW0NfeXdbex.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.4,
-    "tmdbId": 27480,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-de-redencao.json"
-  },
-  {
-    "id": "em-busca-de-um-lar",
-    "tipo": "filme",
-    "titulo": "Em Busca de um Lar",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/2A7xvsyhofE0gPKzi4WYVo5507h.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/hTUveXKSPA7jWZ08MaXaHSvY6lO.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.6,
-    "tmdbId": 232175,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-de-um-lar.json"
-  },
-  {
-    "id": "em-busca-de-um-milagre",
-    "tipo": "filme",
-    "titulo": "Em Busca de um Milagre",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5jsSChPM8C3tkv6hT5fOolv1JB2.jpg",
-    "banner": null,
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.031,
-    "tmdbId": 82416,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-de-um-milagre.json"
-  },
-  {
-    "id": "em-busca-de-vinganca",
-    "tipo": "filme",
-    "titulo": "Colombiana: Em Busca de Vingança",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yfocdCwsdaJQNOpXacHet1S3QEN.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2PlRuZUjqC58bqm6MOjOAraEdFA.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.6,
-    "tmdbId": 62835,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-de-vinganca.json"
-  },
-  {
-    "id": "em-busca-de-zoe",
-    "tipo": "filme",
-    "titulo": "Em Busca de Zoe",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uqotnP1wZ7tn03cFmbzPFLRYx8O.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7tkspZXnSdgisaJOTTrj44WqexS.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.2,
-    "tmdbId": 602198,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-de-zoe.json"
-  },
-  {
-    "id": "em-busca-do-amor",
-    "tipo": "filme",
-    "titulo": "Corrida em Busca do Amor",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/enVylUfIkn5bJmiHrxu2x9bxgVN.jpg",
-    "banner": null,
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 9,
-    "tmdbId": 383117,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-do-amor.json"
-  },
-  {
-    "id": "em-busca-do-anel-perdido",
-    "tipo": "filme",
-    "titulo": "Em Busca do Anel Perdido",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ge3TbVIHZrnaWz2LKwtK5My7Flq.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/yKZgSg3nXTZ89qMmKVmuNo6GvBP.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 2,
-    "tmdbId": 911252,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-do-anel-perdido.json"
-  },
-  {
-    "id": "em-busca-do-barco-perdido",
-    "tipo": "filme",
-    "titulo": "Em Busca do Barco Perdido",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5tx9EVz5p7WAvqzCdY5VrgukX1v.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/f3aEq5JZzXEyatbVpwpQE2VeKNe.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 6.6,
-    "tmdbId": 731110,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-do-barco-perdido.json"
-  },
-  {
-    "id": "em-busca-do-bilhete-premiado",
-    "tipo": "filme",
-    "titulo": "Em Busca do Bilhete Premiado",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/x0FBgHdLW4PTEhybUTDrsWasahS.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wwWrBk889fVNH1Rdi0NRNJjGazA.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 6.714,
-    "tmdbId": 1034337,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-do-bilhete-premiado.json"
-  },
-  {
-    "id": "em-busca-do-calice-sagrado",
-    "tipo": "filme",
-    "titulo": "Monty Python em Busca do Cálice Sagrado",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7SHgyPFa2OhvkapxrEXLxtx5rhO.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1KgXxv6tHXOnakqYvMPvFwYKWiw.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.803,
-    "tmdbId": 762,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-do-calice-sagrado.json"
-  },
-  {
-    "id": "em-busca-do-enfermeiro-da-noite",
-    "tipo": "filme",
-    "titulo": "Em Busca do Enfermeiro da Noite",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1LyrqFX0yHVutUt1U5SsefF0i7A.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/buwTFD7YJY5FhbOcwtUhhouKzwg.jpg",
-    "generos": [
-      "4K"
-    ],
-    "nota": 6.487,
-    "tmdbId": 1018647,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-do-enfermeiro-da-noite.json"
-  },
-  {
-    "id": "em-busca-do-ouro",
-    "tipo": "filme",
-    "titulo": "Em busca do ouro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1CQ5Ux7pvqzpZemKVIzUsUylo1S.jpg",
-    "banner": null,
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": null,
-    "tmdbId": 1012764,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-do-ouro.json"
-  },
-  {
-    "id": "em-busca-do-paraiso",
-    "tipo": "filme",
-    "titulo": "Em Busca do Paraíso",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qpsjIxuGXRbiWPwRv0iDfOpXcwh.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2ynv4tUJy3CiHzmzgR4JRjpwI1r.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.23,
-    "tmdbId": 634244,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-do-paraiso.json"
-  },
-  {
-    "id": "em-busca-do-portal-magico",
-    "tipo": "filme",
-    "titulo": "Em Busca do Portal Mágico",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xskyvcKEvsGtv7FKavCIMEKw374.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sU1rBiCXqzYHZuMqaR8d3dt4zFd.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 5.1,
-    "tmdbId": 566364,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-do-portal-magico.json"
-  },
-  {
-    "id": "em-busca-do-vale-encantado-1",
-    "tipo": "filme",
-    "titulo": "Em Busca do Vale Encantado",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/AgdpO2FE5B1pqOa6e9PPaDeFl3U.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sXfQGa7juaTpZ5IF17Xa6hI53nx.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.148,
-    "tmdbId": 12144,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-do-vale-encantado-1.json"
-  },
-  {
-    "id": "em-busca-do-vale-encantado-2",
-    "tipo": "filme",
-    "titulo": "Em Busca do Vale Encantado II: A Grande Aventura do Vale",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/o8oBw8UCxsYVjj0pul0j1GGNJbk.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8Db2ogq0e4UepMMxwqdv79YJMNq.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.3,
-    "tmdbId": 15997,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-do-vale-encantado-2.json"
-  },
-  {
-    "id": "em-busca-do-vale-encantado-3",
-    "tipo": "filme",
-    "titulo": "Em Busca do Vale Encantado III: A Época da Grande Partilha",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/b0M9VrgfnTfCkYZXRYxKvrOWIWN.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/iH3w4JwrsslnDKkNi5kLtiNh7DN.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.2,
-    "tmdbId": 19004,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-do-vale-encantado-3.json"
-  },
-  {
-    "id": "em-busca-do-vale-encantado-4",
-    "tipo": "filme",
-    "titulo": "Em Busca do Vale Encantado IV: Viagem Através da Névoa",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pucOq39RqQitWcfLW6GQpLsMFmS.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ctzWJ7TALj46muJXWELhdmtIxTE.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.2,
-    "tmdbId": 19164,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-do-vale-encantado-4.json"
-  },
-  {
-    "id": "em-busca-do-vale-encantado-5",
-    "tipo": "filme",
-    "titulo": "Em Busca do Vale Encantado V: A Ilha Misteriosa",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5qO9Vow7VJSFn6pcrGt8s20lYb1.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1U2wQbsCqAydFB4jMC7fqs8Frs3.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.3,
-    "tmdbId": 19165,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-do-vale-encantado-5.json"
-  },
-  {
-    "id": "em-busca-do-vale-encantado-ii-a-grande-aventura-do-vale",
-    "tipo": "filme",
-    "titulo": "Em Busca do Vale Encantado II: A Grande Aventura do Vale",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/o8oBw8UCxsYVjj0pul0j1GGNJbk.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8Db2ogq0e4UepMMxwqdv79YJMNq.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.3,
-    "tmdbId": 15997,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-do-vale-encantado-ii-a-grande-aventura-do-vale.json"
   }
 ]

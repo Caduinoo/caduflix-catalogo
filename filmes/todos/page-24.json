@@ -1,5 +1,419 @@
 [
   {
+    "id": "hipnotico",
+    "tipo": "filme",
+    "titulo": "Hypnotic",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/miEj4kNc4efZ5WbPJqWl1UXWrvS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9CyFLGfeDOrOOPouHp446T5MSNi.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.012,
+    "tmdbId": 864873,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/hipnotico.json"
+  },
+  {
+    "id": "histeria",
+    "tipo": "filme",
+    "titulo": "Histeria",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ziWnXi2VyNDD9qPi5wmOuolOCIu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8DPxvLQGXXd96q59rd5mllgOqVo.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.68,
+    "tmdbId": 75802,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/histeria.json"
+  },
+  {
+    "id": "historia-de-amor-em-copenhague",
+    "tipo": "filme",
+    "titulo": "História de Amor em Copenhague",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/i4r2ZBYAlnaCLEnZn4dX867TusP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nmyWvnSgAjoKWupWypT2DI5b5dG.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE",
+      "4K"
+    ],
+    "nota": 6.389,
+    "tmdbId": 1426674,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/historia-de-amor-em-copenhague.json"
+  },
+  {
+    "id": "historia-de-amor-no-inverno",
+    "tipo": "filme",
+    "titulo": "História de Amor no Inverno",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/90JtlR3FP23A0Fssvn72YJEp9FY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jppYEauAkkZgTbPDr9kiWUA5N2Q.jpg",
+    "generos": [
+      "ROMANCE"
+    ],
+    "nota": 6.8,
+    "tmdbId": 570193,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/historia-de-amor-no-inverno.json"
+  },
+  {
+    "id": "historia-de-um-assassino",
+    "tipo": "filme",
+    "titulo": "Perfume: A História de um Assassino",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lDmIyNgu2n3lhwRXLCYSmbM8fdS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kvdy0Ijjo2r9qsnWV4Dzx07qwnc.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 7.365,
+    "tmdbId": 1427,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/historia-de-um-assassino.json"
+  },
+  {
+    "id": "historia-de-um-casamento",
+    "tipo": "filme",
+    "titulo": "História de um Casamento",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/LaZ5rwaMvVH20J8O2Nu9uuXGI5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wDwQXLDUuiEaaiuWIDBpbqnwYGX.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 7.733,
+    "tmdbId": 492188,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/historia-de-um-casamento.json"
+  },
+  {
+    "id": "historia-de-um-crime-o-cabeleireiro-das-estrelas",
+    "tipo": "filme",
+    "titulo": "História de um Crime: O Cabeleireiro das Estrelas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3nICXAVBBJzyVfNSF1QgPB8bGrx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uKjofEhLTRhcF2dTrutnkGol4w.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6,
+    "tmdbId": 1202841,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/historia-de-um-crime-o-cabeleireiro-das-estrelas.json"
+  },
+  {
+    "id": "historias-assustadoras-para-contar-no-escuro",
+    "tipo": "filme",
+    "titulo": "Histórias Assustadoras para Contar no Escuro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3ERMp3C8BEm4OAvgxfCr68otBCo.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/snll1zUi2oxIah9qifXOvbfjcrG.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.489,
+    "tmdbId": 417384,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/historias-assustadoras-para-contar-no-escuro.json"
+  },
+  {
+    "id": "historias-cruzadas",
+    "tipo": "filme",
+    "titulo": "Histórias Cruzadas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7iWfEm9VOeX8AAnC7F1ApxRDTfw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wyvUmyzqGOBDyqLHRSukGDjI7bH.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 8.2,
+    "tmdbId": 50014,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/historias-cruzadas.json"
+  },
+  {
+    "id": "historias-de-amor",
+    "tipo": "filme",
+    "titulo": "Histórias de amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dDsYaBazrYKg9bv8qgsEohZQMat.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/s3IfP462ibiQkfU767D4YcMbKTt.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 7.066,
+    "tmdbId": 11518,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/historias-de-amor.json"
+  },
+  {
+    "id": "historias-de-meninas",
+    "tipo": "filme",
+    "titulo": "Histórias de Meninas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/aGeud4Kor6RKhx2jXWyDo7Dyryy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/z0Vf0WAWOiDBdxj2h46E0MWkpSu.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.6,
+    "tmdbId": 619443,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/historias-de-meninas.json"
+  },
+  {
+    "id": "historias-de-terror-para-quem-odeia-o-natal",
+    "tipo": "filme",
+    "titulo": "Histórias de Terror Para Quem Odeia o Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1Ns7KU0NLJ80VioTeCYqERhuOgU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5JyhGnQVJSMw8MQIMDMHNBHAvhg.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5,
+    "tmdbId": 512474,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/historias-de-terror-para-quem-odeia-o-natal.json"
+  },
+  {
+    "id": "historias-do-coracao",
+    "tipo": "filme",
+    "titulo": "Histórias do Coração",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/j6fgZN06LlFioQuIHX2EFsmVODK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/22S7z08McJVzViZndp2SH1tGdWR.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 5.6,
+    "tmdbId": 828094,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/historias-do-coracao.json"
+  },
+  {
+    "id": "historias-estranhas",
+    "tipo": "filme",
+    "titulo": "Histórias Estranhas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fKWXVG22OxqNrRy3uZzIHpq1ni.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ym1xArmRC54Zqg2VHsaAJ050BUt.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.5,
+    "tmdbId": 604280,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/historias-estranhas.json"
+  },
+  {
+    "id": "historias-estranhas-2",
+    "tipo": "filme",
+    "titulo": "Histórias Estranhas 2",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iu5LaHCPNzo00Ciy03ssclomXVZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xp1aVOHQ5yKOZ5Ilqwnkgc3fArp.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": 1321107,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/historias-estranhas-2.json"
+  },
+  {
+    "id": "historias-incomuns",
+    "tipo": "filme",
+    "titulo": "Histórias Incomuns",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/v8H46MFMhUigwxv5pfgHNMOOVVr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lrE4Oed7CEDfYL61twc4Pe7kPsB.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.106,
+    "tmdbId": 802403,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/historias-incomuns.json"
+  },
+  {
+    "id": "historias-invisiveis",
+    "tipo": "filme",
+    "titulo": "Histórias Invisíveis",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/v4YIoskn5M1ZZbDn9kaFPtmJO4Z.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uIqIH5zr6iSTXSJYkDaMyGhTG30.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5,
+    "tmdbId": 866124,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/historias-invisiveis.json"
+  },
+  {
+    "id": "historias-que-nossas-babas-nao-contavam",
+    "tipo": "filme",
+    "titulo": "Histórias Que Nossas Babás Não Contavam",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rWGjFn9PkPYMLSjoHCRYMCZ7oCf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/37N7latovJSP5cZFuc4BBiF2VXv.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 5.5,
+    "tmdbId": 75268,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/historias-que-nossas-babas-nao-contavam.json"
+  },
+  {
+    "id": "historietas-assombradas-o-filme",
+    "tipo": "filme",
+    "titulo": "Historietas Assombradas: O Filme",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7Ko8bZMi9GFgGDkwIN9Gl6YetaI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2vU0HXXo9tuQmpZmwxoV46TAd26.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.9,
+    "tmdbId": 477807,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/historietas-assombradas-o-filme.json"
+  },
+  {
+    "id": "history-of-evil",
+    "tipo": "filme",
+    "titulo": "History of Evil",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/y21OxLwcmMrxiMRkAnritHDVwC7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dQ71RJ04x55vqZKtqZLIl64Trwi.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 4.38,
+    "tmdbId": 940045,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/history-of-evil.json"
+  },
+  {
+    "id": "hit-o-terceiro-caso",
+    "tipo": "filme",
+    "titulo": "HIT: O Terceiro Caso",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wT9tGyFol4RBwkjESXUWeBdnLJn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xzpXvyetmrdR3NSRN9uy0xO3lR1.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.798,
+    "tmdbId": 1060046,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/hit-o-terceiro-caso.json"
+  },
+  {
+    "id": "hitch-conselheiro-amoroso",
+    "tipo": "filme",
+    "titulo": "Hitch: Conselheiro Amoroso",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7a7DIl75TFwkTik69QfZ5798BsO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/a6tIX4fGgp60w2d9pqYRbFM91ne.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.581,
+    "tmdbId": 8488,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/hitch-conselheiro-amoroso.json"
+  },
+  {
+    "id": "hitler-guerra-no-deserto",
+    "tipo": "filme",
+    "titulo": "Hitler: Guerra no Deserto",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zWPWKpXdzA3SWJ2Vahb0yterNz6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mczc8T2jS0H88uBpGVKrtYXQcBQ.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.5,
+    "tmdbId": 988823,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/hitler-guerra-no-deserto.json"
+  },
+  {
+    "id": "hitman-assassino-47",
+    "tipo": "filme",
+    "titulo": "Hitman: Assassino 47",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3LsQzd1CAHuZIYbePt1k84w2mE7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9LMIoURuLvxEVKMib4DoVVcJJ5l.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.157,
+    "tmdbId": 1620,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/hitman-assassino-47.json"
+  },
+  {
+    "id": "hitman-agente-47",
+    "tipo": "filme",
+    "titulo": "Hitman: Agente 47",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/haw5Uz30g5nUJfHlzpJIhMQQE7q.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yRtZmZa2bmDYaOKygG7IaroSXwg.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.901,
+    "tmdbId": 249070,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/hitman-agente-47.json"
+  },
+  {
+    "id": "hitori-no-shita-the-outcast",
+    "tipo": "filme",
+    "titulo": "Hitori No Shita - The Outcast",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9Uyx5i5WFYnCJ5PPJtUDdPLsCy8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vXQqXGrh6v57n6mPPS9nbyG3BcJ.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 5.3,
+    "tmdbId": 1245103,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/hitori-no-shita-the-outcast.json"
+  },
+  {
+    "id": "hiv-a-pandemia-negligenciada",
+    "tipo": "filme",
+    "titulo": "HIV A Pandemia Negligenciada",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/hiv-a-pandemia-negligenciada.json"
+  },
+  {
+    "id": "hiver-a-sokcho",
+    "tipo": "filme",
+    "titulo": "Inverno em Sokcho",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wZY0Pe8GScjHgakgPHHfpVsCnd3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9c8AaLr1eeC6kGiyyWTUkQ6V0El.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.7,
+    "tmdbId": 1001010,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/hiver-a-sokcho.json"
+  },
+  {
+    "id": "hoax",
+    "tipo": "filme",
+    "titulo": "O Vigarista do Ano",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/77g9brTTt4As1C6irq1aK1WfoG8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zLJT6nCsTPpo8vKEUwdpqXcSBAB.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.288,
+    "tmdbId": 9903,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/hoax.json"
+  },
+  {
     "id": "hoje-consertamos-o-mundo",
     "tipo": "filme",
     "titulo": "Hoje Consertamos o Mundo",
@@ -204,6 +618,20 @@
     "nota": 6.932,
     "tmdbId": 68721,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/homem-de-ferro-3.json"
+  },
+  {
+    "id": "homem-de-ferro-a-batalha-contra-ezekiel-stane",
+    "tipo": "filme",
+    "titulo": "Homem de Ferro: A Batalha Contra Ezekiel Stane",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3vgn4p1gZ8RLk7ti4pYXVhiEfiE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dC69G4jSq3TkgPIrfgRqZDOxlh4.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 6.164,
+    "tmdbId": 169934,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/homem-de-ferro-a-batalha-contra-ezekiel-stane.json"
   },
   {
     "id": "homem-formiga-e-a-vespa",
@@ -3913,447 +4341,5 @@
     "nota": 6.691,
     "tmdbId": 2251,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/infidelidade.json"
-  },
-  {
-    "id": "infiltrada-golpe-de-vinganca",
-    "tipo": "filme",
-    "titulo": "Infiltrada: Golpe de Vingança",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qoiHW97hQTmFHwZYStMepK5rEzY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/noCgyITVoRxC3huC9zSOQq23sVr.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.345,
-    "tmdbId": 821420,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/infiltrada-golpe-de-vinganca.json"
-  },
-  {
-    "id": "infiltrada-no-natal",
-    "tipo": "filme",
-    "titulo": "Infiltrada no Natal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/e1DAk0YPuvFSgeFpaxUTPvqCaD0.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/yEki6hNUr4Jyu91uYfaGLGCB2CQ.jpg",
-    "generos": [
-      "NATALINO"
-    ],
-    "nota": 6.652,
-    "tmdbId": 627471,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/infiltrada-no-natal.json"
-  },
-  {
-    "id": "infiltrado",
-    "tipo": "filme",
-    "titulo": "Infiltrado",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rNz8wy63GAabztAUkO4xMGk3upx.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/70AV2Xx5FQYj20labp0EGdbjI6E.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 7.574,
-    "tmdbId": 637649,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/infiltrado.json"
-  },
-  {
-    "id": "infiltrado-na-klan",
-    "tipo": "filme",
-    "titulo": "Infiltrado Na Klan",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/an1uqCR7gF1DWlSaoTKo6KcnIJ5.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ot3eZ9XfOF42a3zFWluMPWkfCHB.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.492,
-    "tmdbId": 487558,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/infiltrado-na-klan.json"
-  },
-  {
-    "id": "infiltrado-na-mafia",
-    "tipo": "filme",
-    "titulo": "Infiltrado na Máfia",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oH7yZcpWf7MddYIhs1Xvdk7NUbz.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vVX3rJ9GKlAaWrxZeloPnKpKbIu.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.901,
-    "tmdbId": 1020662,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/infiltrado-na-mafia.json"
-  },
-  {
-    "id": "infiltrados-venezuela",
-    "tipo": "filme",
-    "titulo": "Infiltrados: Venezuela",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tch6Om8GiDF0d2fGdymbltctPrh.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nUU2AQzy6zojvfYtI3T8JL2GtJQ.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "4K"
-    ],
-    "nota": 9.5,
-    "tmdbId": 1150743,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/infiltrados-venezuela.json"
-  },
-  {
-    "id": "infinito",
-    "tipo": "filme",
-    "titulo": "Demon Slayer: Kimetsu no Yaiba Castelo Infinito",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/c55sXCaQBj3vuHqZe62tv90xCQS.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 7.717,
-    "tmdbId": 1311031,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/infinito.json"
-  },
-  {
-    "id": "influencer-de-mentira",
-    "tipo": "filme",
-    "titulo": "Influencer de Mentira",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dJKVZFS61uqFrTdyu0bo57ExX3Y.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vsHD4yu6eHTXfYBLyRRiuQIJmJe.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA",
-      "4K"
-    ],
-    "nota": 6.29,
-    "tmdbId": 838330,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/influencer-de-mentira.json"
-  },
-  {
-    "id": "influencer-do-mal-a-historia-de-jodi-hildebrandt",
-    "tipo": "filme",
-    "titulo": "Influencer do Mal: A História de Jodi Hildebrandt",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/m2i7fkeUwo6scfbeaZdS6lUs0Jy.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/5lZXIkRpOJICbWYJgImdbZ1vWx6.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.2,
-    "tmdbId": 1591516,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/influencer-do-mal-a-historia-de-jodi-hildebrandt.json"
-  },
-  {
-    "id": "influencers",
-    "tipo": "filme",
-    "titulo": "Influencers",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nRdjGDxBW60OhzjAtikLgQBwt3B.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/m63y5ozkIBpPr3LxjZUFH8vQKlk.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.435,
-    "tmdbId": 1476740,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/influencers.json"
-  },
-  {
-    "id": "influencia",
-    "tipo": "filme",
-    "titulo": "Má Influência",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dKp87mqKqNygSNiQH4pMfIFAcyJ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zXUxcXnBPHF1cD0IHi4KUpsNvF4.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.704,
-    "tmdbId": 1323784,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/influencia.json"
-  },
-  {
-    "id": "informante",
-    "tipo": "filme",
-    "titulo": "O Informante",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rCh7g3aAnVo0PjOmPpSvzICJyOx.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2GIr0LArTvO33HQVPEdp49FLdNV.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 7.5,
-    "tmdbId": 9008,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/informante.json"
-  },
-  {
-    "id": "ingresso-para-o-paraiso",
-    "tipo": "filme",
-    "titulo": "Ingresso Para o Paraíso",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kN3WwFUTvhYsLudncZlEgeh1fCu.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/n4elrbXCYyhBGHuw3YrUHbwmQBo.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA",
-      "4K"
-    ],
-    "nota": 6.423,
-    "tmdbId": 800939,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ingresso-para-o-paraiso.json"
-  },
-  {
-    "id": "inheritance",
-    "tipo": "filme",
-    "titulo": "Herança",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zXPjfu3ONgUMmN73Ot0d2RXLJbp.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/b8EeJnKkjatM3b0dvWpQOKNf0vN.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.343,
-    "tmdbId": 602147,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/inheritance.json"
-  },
-  {
-    "id": "iniciacao",
-    "tipo": "filme",
-    "titulo": "A Iniciação",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jp8LYiQzEoUuMqu2lGSZZ1A4Nsf.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4cd9YihTHx1j8oRdlwEa1emKiAl.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.072,
-    "tmdbId": 81774,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/iniciacao.json"
-  },
-  {
-    "id": "inimiga-perfeita",
-    "tipo": "filme",
-    "titulo": "Inimiga Perfeita",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dKfxH2y5CqzgxCycluqhWVovjXR.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/pGkBIeqtJKgZbiRYCvOHfgE5YiK.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.364,
-    "tmdbId": 655917,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/inimiga-perfeita.json"
-  },
-  {
-    "id": "inimigo-desconhecido",
-    "tipo": "filme",
-    "titulo": "Inimigo Desconhecido",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/q0UzQSvSJ8rfiRVNmA8UNeJWMQz.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1gLlIE8caZQ2IOIrL0Kp7l50B9P.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": null,
-    "tmdbId": 1585594,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/inimigo-desconhecido.json"
-  },
-  {
-    "id": "inimigo-do-estado",
-    "tipo": "filme",
-    "titulo": "Inimigo do Estado",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rP2GmnXqZHZHbM4HTbuHVA3i6DZ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dPVB14zM1KVLNtAhXxumJbHFXtg.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.062,
-    "tmdbId": 9798,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/inimigo-do-estado.json"
-  },
-  {
-    "id": "inimigo-intimo",
-    "tipo": "filme",
-    "titulo": "Inimigo Íntimo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/phJXOEoYdaOzJ5CaL3tb1zdUBCc.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/Bfsoyo6mai2KKhdL5tk85RIB8F.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.191,
-    "tmdbId": 4477,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/inimigo-intimo.json"
-  },
-  {
-    "id": "inimigo-invisivel",
-    "tipo": "filme",
-    "titulo": "Inimigo Invisível",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/znmFGF41VKALJIQx0coyjBXNWYm.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mkyW1cHIKmw3Qdj3Xfw40p3JTVo.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 4.9,
-    "tmdbId": 717042,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/inimigo-invisivel.json"
-  },
-  {
-    "id": "inimigo-mortal",
-    "tipo": "filme",
-    "titulo": "Inimigo Mortal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tzz1t8UvSvISZxDxBmEd531nIPg.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nfhMm5o8BiihmeXjuJAd3s0gqaq.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.973,
-    "tmdbId": 460648,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/inimigo-mortal.json"
-  },
-  {
-    "id": "inimigo-proximo",
-    "tipo": "filme",
-    "titulo": "Inimigo Próximo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jsHmaM6LFXvPGF1MsUHwxwreoaa.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qkHnOaWFSs7sOkraKeU1gY0DSFi.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.775,
-    "tmdbId": 560412,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/inimigo-proximo.json"
-  },
-  {
-    "id": "inimigo-publico-n-1",
-    "tipo": "filme",
-    "titulo": "Dillinger - Inimigo Público Nº 1",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/62nI7ftMyd5q9LhHPE0yltPcQKT.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/bcoGYfydURioZifRIONTaOBQNVc.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.584,
-    "tmdbId": 28110,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/inimigo-publico-n-1.json"
-  },
-  {
-    "id": "inimigo-publico-n-1-parte-2",
-    "tipo": "filme",
-    "titulo": "Inimigo Público nº 1: Parte 2",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/lR5itdDTPEaqjdWrVeY1Frvewt4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/czLjLCZTie8Oaf9Bz9ANhsD705i.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.275,
-    "tmdbId": 15362,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/inimigo-publico-n-1-parte-2.json"
-  },
-  {
-    "id": "inimigos-intimos",
-    "tipo": "filme",
-    "titulo": "Inimigos Íntimos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/8b63u6pfSUqZt0BXgYIxpPLw3SA.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/34RzeqR1RdWgDpX34hjuNHUyToi.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 5.883,
-    "tmdbId": 484901,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/inimigos-intimos.json"
-  },
-  {
-    "id": "inimigos-publicos",
-    "tipo": "filme",
-    "titulo": "Inimigos Públicos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rMWhTePeEYlcZ8NA3BA4IKsaACb.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rlKB2moKVOPasy4Dr19QluzbJgA.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.686,
-    "tmdbId": 11322,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/inimigos-publicos.json"
-  },
-  {
-    "id": "initial-third-stage",
-    "tipo": "filme",
-    "titulo": "Initial D Third Stage",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gywSZeEkyLcHwxECjqzFJ3Qlu6G.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vi1FKA8ntkEikvaxFZlzJvJ2wXP.jpg",
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": 6.9,
-    "tmdbId": 80741,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/initial-third-stage.json"
-  },
-  {
-    "id": "injustica-deuses-entre-nos",
-    "tipo": "filme",
-    "titulo": "Injustiça: Deuses Entre Nós",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uaFcuX1eeqEgh6TxVJ5WOb6HCg0.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4gWUlxECoziJ9TrGNfymNYxZf6Z.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA",
-      "4K"
-    ],
-    "nota": 7.332,
-    "tmdbId": 831405,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/injustica-deuses-entre-nos.json"
-  },
-  {
-    "id": "inocencia",
-    "tipo": "filme",
-    "titulo": "Inocência",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1wstotGdg6O8hsXX3b3ochErHZk.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qn4yFJIpZNah2VctSZnOThNScmV.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.2,
-    "tmdbId": 194856,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/inocencia.json"
-  },
-  {
-    "id": "inocente-ou-culpado",
-    "tipo": "filme",
-    "titulo": "Inocente ou Culpado?",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ilOOl2NoNXbUroR9Vtk7HvCAyWE.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9yNWi2G5c0CkbsqiTWUhAj41CGa.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 5.566,
-    "tmdbId": 41952,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/inocente-ou-culpado.json"
   }
 ]

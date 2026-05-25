@@ -1,5 +1,93 @@
 [
   {
+    "id": "planeta-dos-solteiros-aventura-na-grecia",
+    "tipo": "filme",
+    "titulo": "Planeta dos Solteiros: Aventura na Grécia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/l7V0EI8Pq3izRCoFmMlbg2YxHM0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uWx7AScgVcG8fdEju6oKgzAxXIl.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 5.283,
+    "tmdbId": 1468789,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/planeta-dos-solteiros-aventura-na-grecia.json"
+  },
+  {
+    "id": "plano-de-aposentadoria",
+    "tipo": "filme",
+    "titulo": "Plano de Aposentadoria",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gMhOPN5kl7R8hwdUAnFgDuGuM44.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tMi07ApKsBuyHPmbznWnBedWFmf.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 5.928,
+    "tmdbId": 866346,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/plano-de-aposentadoria.json"
+  },
+  {
+    "id": "plano-quase-perfeito",
+    "tipo": "filme",
+    "titulo": "Plano Quase Perfeito",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vIMTuViWlUGvmvAZSEOjz3n11NS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pO7RV2LBce9WOXt8YXPp1YPDnHO.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 5.662,
+    "tmdbId": 425716,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/plano-quase-perfeito.json"
+  },
+  {
+    "id": "players-club",
+    "tipo": "filme",
+    "titulo": "Players Club",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zq6D4HBRK6GMaJj4w5n5QsKXkLF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tlUudS5G6oZfDTjFgE7NHp2CRiC.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.352,
+    "tmdbId": 19848,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/players-club.json"
+  },
+  {
+    "id": "pluft-o-fantasminha",
+    "tipo": "filme",
+    "titulo": "Pluft, o Fantasminha",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/enCrJZ6UwLPlvyqkoMgh4EsFqPW.jpg",
+    "banner": null,
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 8,
+    "tmdbId": 385090,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pluft-o-fantasminha.json"
+  },
+  {
+    "id": "pode-ser-seu-proprio-heroi-ou-vilao",
+    "tipo": "filme",
+    "titulo": "Valentino, Pode Ser Seu Próprio Herói Ou Vilão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3YViYlgufUsJT61HE0qsKsdXmn6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/44uN89Zt0qXGUBw9R39DhOmJCIJ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 7.3,
+    "tmdbId": 841045,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pode-ser-seu-proprio-heroi-ou-vilao.json"
+  },
+  {
     "id": "podres-de-ricos",
     "tipo": "filme",
     "titulo": "Podres de Ricos",
@@ -372,6 +460,21 @@
     "nota": 7,
     "tmdbId": 240077,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/primeiro-ano.json"
+  },
+  {
+    "id": "primeiro-as-damas",
+    "tipo": "filme",
+    "titulo": "Primeiro as Damas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tW10rRdxMwJC4r1zldQzxcyzEUS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
+    "generos": [
+      "COMÉDIA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 5.744,
+    "tmdbId": 1368881,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/primeiro-as-damas.json"
   },
   {
     "id": "problemista",
@@ -2041,6 +2144,22 @@
     "nota": 6.571,
     "tmdbId": 14136,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-meu-fusca-falasse.json"
+  },
+  {
+    "id": "se-organizar-direitinho",
+    "tipo": "filme",
+    "titulo": "Se Organizar Direitinho…",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hxJ1wFaUqOq5TmxA751VRJastGV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4v64DRdMtx8fQGUZ7hE1R2iChCr.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "4K",
+      "COMÉDIA"
+    ],
+    "nota": 6.6,
+    "tmdbId": 763152,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-organizar-direitinho.json"
   },
   {
     "id": "secretaria",
@@ -4236,121 +4355,5 @@
     "nota": 6.095,
     "tmdbId": 538604,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/the-after-party.json"
-  },
-  {
-    "id": "the-banana-splits-movie",
-    "tipo": "filme",
-    "titulo": "Banana Splits - O Filme",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3ut1Ji6mEkO3bHW4xUEazNOb32W.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gEeM0ya0UDkdn7EgP5ivabZ754v.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.521,
-    "tmdbId": 608654,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/the-banana-splits-movie.json"
-  },
-  {
-    "id": "the-beach-bum-levando-a-vida-numa-boa",
-    "tipo": "filme",
-    "titulo": "The Beach Bum: Levando a Vida Numa Boa",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/l7FbH8CwVSpPa9qDMhBG1hBqsi2.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nVaNhGAnPW9dmTkRDfsSpdPeWdZ.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.652,
-    "tmdbId": 441384,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/the-beach-bum-levando-a-vida-numa-boa.json"
-  },
-  {
-    "id": "the-beanie-bubble-o-fenomeno-das-pelucias",
-    "tipo": "filme",
-    "titulo": "The Beanie Bubble - O Fenômeno das Pelúcias",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1ZYAF1qdwuM1LuXYvPjpRWDSRel.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zzbEAP5d1Ci0QKitpaA8PykHIj4.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA",
-      "4K"
-    ],
-    "nota": 6.412,
-    "tmdbId": 926008,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/the-beanie-bubble-o-fenomeno-das-pelucias.json"
-  },
-  {
-    "id": "the-blackout",
-    "tipo": "filme",
-    "titulo": "Blackout - Sentiu a Minha Falta?",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kBnqj8PNEwkIt2xjlm46TdD6G2w.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vyT3N9WnldkCfojnCnZzcfVl6ma.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 5.844,
-    "tmdbId": 25690,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/the-blackout.json"
-  },
-  {
-    "id": "the-cheetah-girls-um-mundo",
-    "tipo": "filme",
-    "titulo": "As Feras da Música 3: Um Mundo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pR7dcmH631XUZZJScGjoR7o5qtj.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/socMWFFL8f5j41tVQ9TO64QkSxB.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.114,
-    "tmdbId": 27621,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/the-cheetah-girls-um-mundo.json"
-  },
-  {
-    "id": "the-day-shall-come",
-    "tipo": "filme",
-    "titulo": "O Dia Vai Chegar",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kJNrM111zMDTTfe616AHYxOi3Jo.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/arx1tEJfvwa9NScO7pXWnuOHul5.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.721,
-    "tmdbId": 492190,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/the-day-shall-come.json"
-  },
-  {
-    "id": "the-drop-a-queda",
-    "tipo": "filme",
-    "titulo": "A Queda",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wXp7PVFBoBIJOzF6X2Hc3W51yuy.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lNda8djUuaSCFqAgULzgoDMRN08.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 4.3,
-    "tmdbId": 964822,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/the-drop-a-queda.json"
-  },
-  {
-    "id": "the-f-k-it-list",
-    "tipo": "filme",
-    "titulo": "The F**k-It List",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ba4AWzu7Kh5q7GnGWzFsiLk5HU.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dZnielh8Oi3pxoR4iiMay2UcjOV.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.047,
-    "tmdbId": 598133,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/the-f-k-it-list.json"
   }
 ]

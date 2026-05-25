@@ -1,5 +1,81 @@
 [
   {
+    "id": "mangue-negro",
+    "tipo": "filme",
+    "titulo": "Mangue Negro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kDNHKglCTXfiwzYgagwKVVep06h.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dcRzRmblEIhryijBCWe9jZvnykD.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.8,
+    "tmdbId": 135561,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mangue-negro.json"
+  },
+  {
+    "id": "manifest-west",
+    "tipo": "filme",
+    "titulo": "Natureza Humana",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8CVt1UnE6tvrOjyoQ2px4Zb60rO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9PYLudEMcU4WKdM2MfCm7MrdvcK.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.9,
+    "tmdbId": 762895,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/manifest-west.json"
+  },
+  {
+    "id": "manodrome",
+    "tipo": "filme",
+    "titulo": "Manodrome",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nSAqIzuCqCQAt3HFsHwiffFSj96.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oTmE2OqoNxpZwZOFBtQWxyZwKr0.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.065,
+    "tmdbId": 843942,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/manodrome.json"
+  },
+  {
+    "id": "mansao-mal-assombrada",
+    "tipo": "filme",
+    "titulo": "Mansão Mal-Assombrada",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3puybXuYPlZPRplIVSrExZnWibb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mzlZAMjE2yk2sW3f9HTeBM3B3jw.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "AVENTURA | FICÇÃO | FANTASIA",
+      "4K"
+    ],
+    "nota": 6.43,
+    "tmdbId": 616747,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mansao-mal-assombrada.json"
+  },
+  {
+    "id": "mar-ia",
+    "tipo": "filme",
+    "titulo": "Mar.IA",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hFDCZtNImFouWbA8NgyE7sTCbn6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jheQytrDFQGlXtnwWyHPXbP3swS.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.765,
+    "tmdbId": 912032,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mar-ia.json"
+  },
+  {
     "id": "maratona-da-morte",
     "tipo": "filme",
     "titulo": "Maratona da Morte",
@@ -2364,6 +2440,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/noturno.json"
   },
   {
+    "id": "nove-milhas-para-o-inferno",
+    "tipo": "filme",
+    "titulo": "Nove Milhas Para o Inferno",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hjciAFfi0J6UaU4MX7oVQSjfJ97.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3oqEHukB0ELkERw4QBBybgnTshQ.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.264,
+    "tmdbId": 26722,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/nove-milhas-para-o-inferno.json"
+  },
+  {
     "id": "novembro-paris-atacado",
     "tipo": "filme",
     "titulo": "Novembro: Paris Atacado",
@@ -4328,90 +4418,5 @@
     "nota": 4.7,
     "tmdbId": 1019967,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-feitico.json"
-  },
-  {
-    "id": "o-filho-de-chucky",
-    "tipo": "filme",
-    "titulo": "O Filho de Chucky",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pWGUTTUMrB0o3LL7ZSjgzNBVXHZ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/eZOt0qAmxwCXyJHLgEIEKdjQVM8.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.5,
-    "tmdbId": 11249,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-filho-de-chucky.json"
-  },
-  {
-    "id": "o-filho-protegido",
-    "tipo": "filme",
-    "titulo": "O Filho Protegido",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1YowNknm6XvRW72IyqPyGKeTCYu.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/90kZ8H7qScKHOzWTqWqYUGQfmxR.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.418,
-    "tmdbId": 600881,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-filho-protegido.json"
-  },
-  {
-    "id": "o-fio-da-suspeita",
-    "tipo": "filme",
-    "titulo": "O Fio da Suspeita",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/9YKjVEoejCRcvJS1UtwsYx2vRkS.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/oPQqAgvVLpvmQOalLHxXlRQtHYY.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.27,
-    "tmdbId": 12235,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-fio-da-suspeita.json"
-  },
-  {
-    "id": "o-garoto-da-casa-ao-lado",
-    "tipo": "filme",
-    "titulo": "O Garoto da Casa ao Lado",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mSe9JkjAgr8VfLnEoSlxLWxnKCo.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/96iXwJibeNW9RGEa58zYa0SQV6m.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 4.925,
-    "tmdbId": 241251,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-garoto-da-casa-ao-lado.json"
-  },
-  {
-    "id": "o-garoto-do-leito-6",
-    "tipo": "filme",
-    "titulo": "O Garoto do Leito 6",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/aB0WKO2P7nbePLszD5ztVzTgY1J.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/h9HbfB0RXBia3cMZKdikwnTDpBQ.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.2,
-    "tmdbId": 653258,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-garoto-do-leito-6.json"
-  },
-  {
-    "id": "o-genio-e-o-monstro",
-    "tipo": "filme",
-    "titulo": "O Gênio e o Monstro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yUwCjvZJBedTLJ6JQxHmyPEq24j.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kXZJea5MzsNAWRPh1YikHxSZygg.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.6,
-    "tmdbId": 524213,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-genio-e-o-monstro.json"
   }
 ]

@@ -1,5 +1,100 @@
 [
   {
+    "id": "o-gabinete-de-curiosidades-de-guillermo-del-toro",
+    "tipo": "serie",
+    "titulo": "O Gabinete de Curiosidades de Guillermo del Toro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sxMMOIuV99LOwcJICx1Wy4O8fgi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gM1diqqPFu5oRpEVsx84SPBYvV3.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.477,
+    "tmdbId": 83659,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/o-gabinete-de-curiosidades-de-guillermo-del-toro.json"
+  },
+  {
+    "id": "o-gambito-da-rainha",
+    "tipo": "serie",
+    "titulo": "O Gambito da Rainha",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ubWpLTkwcms5PfZJMFZkNXVYXqJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 8.435,
+    "tmdbId": 87739,
+    "totalTemporadas": 1,
+    "totalEpisodios": 7,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/o-gambito-da-rainha.json"
+  },
+  {
+    "id": "o-garoto-de-cada-dia",
+    "tipo": "serie",
+    "titulo": "O Garoto de Cada Dia",
+    "ano": null,
+    "capa": null,
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 0,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 7,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/o-garoto-de-cada-dia.json"
+  },
+  {
+    "id": "o-gerente-da-noite",
+    "tipo": "serie",
+    "titulo": "O Gerente da Noite",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/aRkZRJXSRrcWmK4Z6DyR3EZHkJm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2vAOdruqvx9GojXxKi3xVsZZvKU.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 7.729,
+    "tmdbId": 61859,
+    "totalTemporadas": 2,
+    "totalEpisodios": 12,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/o-gerente-da-noite.json"
+  },
+  {
+    "id": "o-gerente-noturno",
+    "tipo": "serie",
+    "titulo": "O Gerente da Noite",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/aRkZRJXSRrcWmK4Z6DyR3EZHkJm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2vAOdruqvx9GojXxKi3xVsZZvKU.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 7.729,
+    "tmdbId": 61859,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/o-gerente-noturno.json"
+  },
+  {
+    "id": "o-golpe-do-amor",
+    "tipo": "serie",
+    "titulo": "Dirty John: O Golpe do Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5QWYsyYuVIdfF7GmUPBZDshILKr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gPtcFV2JFabTowK3gORwv4sUNbw.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 6.846,
+    "tmdbId": 83251,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/o-golpe-do-amor.json"
+  },
+  {
     "id": "o-gorila",
     "tipo": "serie",
     "titulo": "Maguila, o Gorila",
@@ -4693,101 +4788,5 @@
     "totalTemporadas": 2,
     "totalEpisodios": 26,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/ola-meus-20-anos-2016.json"
-  },
-  {
-    "id": "ola-sou-eu",
-    "tipo": "serie",
-    "titulo": "Olá? Sou Eu!",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5dqEZ3PuUxJ8mtncgNYQ2R5EuPw.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ollH7DfG9E0iEX9MsnuGtZYFmvQ.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.4,
-    "tmdbId": 116045,
-    "totalTemporadas": 1,
-    "totalEpisodios": 16,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/ola-sou-eu.json"
-  },
-  {
-    "id": "old-fashion-cupcake",
-    "tipo": "serie",
-    "titulo": "Cupcake à Moda Antiga",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/14Zv44QlQm4Ln210lS6Qja2yZPI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/q9WmffEHcTB1c9rk4A4yjEyP5yP.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 7.453,
-    "tmdbId": 203990,
-    "totalTemporadas": 1,
-    "totalEpisodios": 5,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/old-fashion-cupcake.json"
-  },
-  {
-    "id": "olhar-indiscreto",
-    "tipo": "serie",
-    "titulo": "Olhar Indiscreto",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mA0Qx70TI7mubGkUx8ekrYfZFnz.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9Er52vtNYd5Mhwk81IdPQoCZxgV.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 6.7,
-    "tmdbId": 135814,
-    "totalTemporadas": 1,
-    "totalEpisodios": 10,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/olhar-indiscreto.json"
-  },
-  {
-    "id": "olhe-nos-meus-olhos",
-    "tipo": "serie",
-    "titulo": "Olhe nos Meus Olhos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pYR4PNiekGZTpzdf2RwX37YYGtn.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/onpZkZIKrcC3E7I1dmuK224wOYJ.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 7.667,
-    "tmdbId": 218538,
-    "totalTemporadas": 1,
-    "totalEpisodios": 12,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/olhe-nos-meus-olhos.json"
-  },
-  {
-    "id": "olhos-atentos",
-    "tipo": "serie",
-    "titulo": "Olhos Atentos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/a9oJMnwTBiBXwsuBnCfKvYIWmy4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dIzmxdN6pgTIfYUaOpmfbrMOjf0.jpg",
-    "generos": [
-      "DISNEY+"
-    ],
-    "nota": 6.63,
-    "tmdbId": 205440,
-    "totalTemporadas": 1,
-    "totalEpisodios": 10,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/olhos-atentos.json"
-  },
-  {
-    "id": "olhos-da-lei",
-    "tipo": "serie",
-    "titulo": "Olhos da Lei",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/s6eaJFS2DjwEg8rnNkYg7gA4jkz.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qiLux0KPiOC95TESoMjJAQV1lQ2.jpg",
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": 7.3,
-    "tmdbId": 232656,
-    "totalTemporadas": 2,
-    "totalEpisodios": 32,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/olhos-da-lei.json"
   }
 ]

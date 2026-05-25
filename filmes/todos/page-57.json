@@ -1,0 +1,423 @@
+[
+  {
+    "id": "zona-z",
+    "tipo": "filme",
+    "titulo": "Zona Z",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nS1u84WTIAnn7KPYg5Nd1xVVQew.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/19pr5CzgsBYs67FAJvke8GQxN4g.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.5,
+    "tmdbId": 1301650,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zona-z.json"
+  },
+  {
+    "id": "zone-414",
+    "tipo": "filme",
+    "titulo": "Zona 414",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/82JyOAFnlr8sCK49RisIZ0ooVi0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gxr3YtExqUPCJCj9GL1FXNcX9Fl.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 5.337,
+    "tmdbId": 675319,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zone-414.json"
+  },
+  {
+    "id": "zoo-uma-amizade-maior-que-a-vida",
+    "tipo": "filme",
+    "titulo": "Zoo: Uma Amizade Maior que a Vida",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cMcKGUEKXeNZwhJizfsmNcFp6F0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7b9YkqtVP8GWoksyzPgB08EcK5i.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.651,
+    "tmdbId": 472553,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zoo-uma-amizade-maior-que-a-vida.json"
+  },
+  {
+    "id": "zoolander",
+    "tipo": "filme",
+    "titulo": "Zoolander 2",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/n8AJzALlTPBwe9Tkv3tdxbiAr9i.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4ANhwN1jr5EGwHS0M13AH5Fs3NH.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 4.928,
+    "tmdbId": 329833,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zoolander.json"
+  },
+  {
+    "id": "zoolander-super-modelo",
+    "tipo": "filme",
+    "titulo": "Zoolander: Super Modelo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pljm3ffVJYjMPCpfM5TzKnNI2tc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rkaJipi0SBS2G0bGuOVx93g1RLU.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 4.6,
+    "tmdbId": 458777,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zoolander-super-modelo.json"
+  },
+  {
+    "id": "zoom",
+    "tipo": "filme",
+    "titulo": "Zoom: Academia de Super-Heróis",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/72jIErd8SMsEmqfhFqTadusECvL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/n3PvPAdpnh1eaGXzfkXDBzm9GaJ.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 5.303,
+    "tmdbId": 14113,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zoom.json"
+  },
+  {
+    "id": "zoom-academia-de-super-herois",
+    "tipo": "filme",
+    "titulo": "Zoom: Academia de Super-Heróis",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/72jIErd8SMsEmqfhFqTadusECvL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/n3PvPAdpnh1eaGXzfkXDBzm9GaJ.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 5.303,
+    "tmdbId": 14113,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zoom-academia-de-super-herois.json"
+  },
+  {
+    "id": "zoopocalipse-uma-aventura-animal",
+    "tipo": "filme",
+    "titulo": "Zoopocalipse - Uma Aventura Animal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3LebEv3p6sOA9HyLGlEISYagoPF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ArgBQPDD7sbhOdzfYPeIvEQMgDP.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.6,
+    "tmdbId": 1205229,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zoopocalipse-uma-aventura-animal.json"
+  },
+  {
+    "id": "zootopia-2",
+    "tipo": "filme",
+    "titulo": "Zootopia 2",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sOgzzmyHJ3uWjEU509AwrcXoE71.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA",
+      "4K"
+    ],
+    "nota": 7.637,
+    "tmdbId": 1084242,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zootopia-2.json"
+  },
+  {
+    "id": "zootopia-essa-cidade-e-o-bicho",
+    "tipo": "filme",
+    "titulo": "Zootopia: Essa Cidade é o Bicho",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/27Ko4be7CeFmq2hVN7lp7TWG1sd.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.76,
+    "tmdbId": 269149,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zootopia-essa-cidade-e-o-bicho.json"
+  },
+  {
+    "id": "zoya",
+    "tipo": "filme",
+    "titulo": "The Zoya Factor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ytLpoqycSAhMo5W7eHJyCXn8E2n.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oiJHjdpNI38iGku04FGgyFSTu93.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.534,
+    "tmdbId": 604195,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zoya.json"
+  },
+  {
+    "id": "zumbilandia",
+    "tipo": "filme",
+    "titulo": "Zumbilândia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mXuFhb5U2FgVq8uu4k3luQVRwLK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oihWVx3imvRKujnGmSDYhfG1gI5.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 7.26,
+    "tmdbId": 19908,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zumbilandia.json"
+  },
+  {
+    "id": "zumbilandia-atire-duas-vezes",
+    "tipo": "filme",
+    "titulo": "Zumbilândia: Atire Duas Vezes",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/x8T7xy6usNhTWphfQTH7vmr4tOC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/e7tMI0zVKJB2TS74TaBifIZIkCp.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 6.901,
+    "tmdbId": 338967,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zumbilandia-atire-duas-vezes.json"
+  },
+  {
+    "id": "zumbilenio-o-parque-dos-monstros",
+    "tipo": "filme",
+    "titulo": "Zumbilênio: O Parque dos Monstros",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/w2HamcBWs8Uv2Xgt2nNPlOtyczU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/688EDSOOC2WR2kwjvmbmjmMIMxd.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7,
+    "tmdbId": 454549,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zumbilenio-o-parque-dos-monstros.json"
+  },
+  {
+    "id": "zumbis-e-robos",
+    "tipo": "filme",
+    "titulo": "Zumbis e Robôs",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/csdYAmDnEATx0itAuLxgwGOyxZp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kvDJrJ9A7duUJL8oMrm8dNu7QSS.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 4.5,
+    "tmdbId": 185471,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zumbis-e-robos.json"
+  },
+  {
+    "id": "zuzu-angel",
+    "tipo": "filme",
+    "titulo": "Zuzu Angel",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zqeNZIMZN7xNUn0h46LLthH1s5R.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mhYAQHBEcd5pwqLWdS0GVj7JkzD.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 6.858,
+    "tmdbId": 73169,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zuzu-angel.json"
+  },
+  {
+    "id": "zuzubalandia-o-filme",
+    "tipo": "filme",
+    "titulo": "Zuzubalândia: O Filme",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tbLoEmylIzeiD2RUehfMhTnZloW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qsATc22kjQr56gyKZfF8UggffKn.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7,
+    "tmdbId": 1321476,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zuzubalandia-o-filme.json"
+  },
+  {
+    "id": "2-the-rule",
+    "tipo": "filme",
+    "titulo": "పుష్పా 2 - The Rule",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/759mIIerY4Njb8uPoj7AIXGSNh3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/keC82cQ8q0ZHthrbvzWq04kGnbv.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.285,
+    "tmdbId": 857598,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/2-the-rule.json"
+  },
+  {
+    "id": "",
+    "tipo": "filme",
+    "titulo": "Mass Jathara",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qvSyQdI2Mlpa5X7dRDBmIi30oHT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9jiqrAgC9DoWKte8qc5gis0fWem.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "AÇÃO | CRIME | GUERRA",
+      "ANIMES",
+      "AVENTURA | FICÇÃO | FANTASIA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 4.3,
+    "tmdbId": 1381405,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/.json"
+  },
+  {
+    "id": "2",
+    "tipo": "filme",
+    "titulo": "うる星やつら2 ビューティフル・ドリーマー",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/m7CFGcwc5HLbHkSlK3JBkayFBGV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cBL5ImXZKPzYoohKUGdrJEqKys1.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 7.285,
+    "tmdbId": 43967,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/2.json"
+  },
+  {
+    "id": "3",
+    "tipo": "filme",
+    "titulo": "うる星やつら3 リメンバー・マイ・ラヴ",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/glvQmPIM0qslSc6lbsbUvp0XXAj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/c0lwUDv80Ksunt69p53CmMRdhmb.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 5.604,
+    "tmdbId": 150024,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/3.json"
+  },
+  {
+    "id": "4",
+    "tipo": "filme",
+    "titulo": "うる星やつら4 ラム・ザ・フォーエバー",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fyBQfsAF6DgwKzIFsuW4NY9NFuQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tAvMS6SdGsRzFaJYKoB6dKqvjFn.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 5.789,
+    "tmdbId": 150026,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/4.json"
+  },
+  {
+    "id": "pretty-days",
+    "tipo": "filme",
+    "titulo": "きんいろモザイク Pretty Days",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1EXPuFc5qPywvfFWrTuKJSHLFpC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2HJe8RMqvP0w1d5khstgUnZbnuF.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 6.2,
+    "tmdbId": 445475,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pretty-days.json"
+  },
+  {
+    "id": "the-animation-episode-01-sord",
+    "tipo": "filme",
+    "titulo": "グリザイア：ファントムトリガー THE ANIMATION EPISODE 01 SORD",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nK09ZpzeDLEz8QXHZcCanrTL3dk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8WWs3txjUQR9EwbLqIRSpCmFCKb.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 2,
+    "tmdbId": 1437756,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/the-animation-episode-01-sord.json"
+  },
+  {
+    "id": "tri-5",
+    "tipo": "filme",
+    "titulo": "デジモンアドベンチャー tri. 第5章「共生」",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/AkZckvYklifPYbX3ptnHWe2Bp7r.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rptgge0GoZ9RHk55n2A4ojjNYWL.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 7.386,
+    "tmdbId": 461758,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tri-5.json"
+  },
+  {
+    "id": "bleach-fade-to-black",
+    "tipo": "filme",
+    "titulo": "劇場版 BLEACH Fade to Black 君の名を呼ぶ",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/14VhFcofaLd1tKJ6831jf8i3mLO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4RnhZgXAwvPR1P3MYj3rLfW3kts.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 7.137,
+    "tmdbId": 17165,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/bleach-fade-to-black.json"
+  },
+  {
+    "id": "bleach-memories-of-nobody",
+    "tipo": "filme",
+    "titulo": "劇場版 BLEACH MEMORIES OF NOBODY",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zRD0KfrIEyIneKUfumgsPl9fjo0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5VhdliaIS5Y4QQRDT0jpxfJQdfM.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 6.9,
+    "tmdbId": 15575,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/bleach-memories-of-nobody.json"
+  },
+  {
+    "id": "bleach-the-diamonddust-rebellion",
+    "tipo": "filme",
+    "titulo": "劇場版 BLEACH The DiamondDust Rebellion もう一つの氷輪丸",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/o0RPLurVbRI1iJZLXSAo4u1ZgdZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vmuvk8DSUyk6IUyrvgyxZAAITmP.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 6.773,
+    "tmdbId": 17101,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/bleach-the-diamonddust-rebellion.json"
+  },
+  {
+    "id": "365",
+    "tipo": "filme",
+    "titulo": "劇場版「暗殺教室」365日の時間",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/v5waYdxdV6oMBdXufNtSk1hidWZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vbzV4SdWURDHvl8o0ZfrxvaTzc7.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 6.5,
+    "tmdbId": 431808,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/365.json"
+  }
+]

@@ -1,5 +1,89 @@
 [
   {
+    "id": "mazzaropi-betao-ronca-ferro",
+    "tipo": "filme",
+    "titulo": "Mazzaropi - Betao Ronca Ferro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hjz8BhdKCzTEaLsa4G92oZ1U7a.jpg",
+    "banner": null,
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mazzaropi-betao-ronca-ferro.json"
+  },
+  {
+    "id": "mazzaropi-candinho",
+    "tipo": "filme",
+    "titulo": "Mazzaropi - Candinho",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mazzaropi-candinho.json"
+  },
+  {
+    "id": "mazzaropi-casinha-pequenina",
+    "tipo": "filme",
+    "titulo": "Mazzaropi - Casinha Pequenina",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mazzaropi-casinha-pequenina.json"
+  },
+  {
+    "id": "mazzaropi-chico-fumaca",
+    "tipo": "filme",
+    "titulo": "Mazzaropi - Chico Fumaca",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mazzaropi-chico-fumaca.json"
+  },
+  {
+    "id": "mazzaropi-chofer-de-praca",
+    "tipo": "filme",
+    "titulo": "Mazzaropi - Chofer de Praca",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mazzaropi-chofer-de-praca.json"
+  },
+  {
+    "id": "mazzaropi-fuzileiro-do-amor",
+    "tipo": "filme",
+    "titulo": "Mazzaropi - Fuzileiro Do Amor",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mazzaropi-fuzileiro-do-amor.json"
+  },
+  {
     "id": "mazzaropi-gato-de-madame",
     "tipo": "filme",
     "titulo": "Mazzaropi - Gato de Madame",
@@ -4267,90 +4351,5 @@
     "nota": 7.92,
     "tmdbId": 194,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-fabuloso-destino-de-amelie-poulain.json"
-  },
-  {
-    "id": "o-fada-do-dente",
-    "tipo": "filme",
-    "titulo": "O Fada do Dente",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hk67XO1Fa1TVU3hmdCMqsnil1Ox.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dfeCwxegv4rting4xftkHxmIdyu.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.482,
-    "tmdbId": 23023,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-fada-do-dente.json"
-  },
-  {
-    "id": "o-filho-da-noiva",
-    "tipo": "filme",
-    "titulo": "O Filho da Noiva",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/2Em1WXYGSf2yfH7bWye4UQ9Uzgd.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kPRHoq1g68O5qawcnrB1c4LeO4I.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 7.475,
-    "tmdbId": 19460,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-filho-da-noiva.json"
-  },
-  {
-    "id": "o-filho-do-ace-ventura",
-    "tipo": "filme",
-    "titulo": "O Filho do Ace Ventura",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/68peVUQJWAq2JGuhWSMorcewVoP.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sT8XPGZ0rsL2r52pFotGcAzKAi9.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 3.382,
-    "tmdbId": 15338,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-filho-do-ace-ventura.json"
-  },
-  {
-    "id": "o-filho-do-maskara",
-    "tipo": "filme",
-    "titulo": "O Filho do Máskara",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dYiQoSOtnKqdlpIqNGr3JS7xKBx.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zbGteYxh9dMJAKPyZY9AWzzHR5I.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 4.203,
-    "tmdbId": 10214,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-filho-do-maskara.json"
-  },
-  {
-    "id": "o-filho-do-noivo",
-    "tipo": "filme",
-    "titulo": "O Filho do Noivo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5X8srQiZo4f9V4HdqTiCfdqxAAH.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uZZSGBtOkz2n3PT2gS0oUy8avId.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.8,
-    "tmdbId": 511789,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-filho-do-noivo.json"
-  },
-  {
-    "id": "o-filme-mais-idiota-do-mundo",
-    "tipo": "filme",
-    "titulo": "O Filme Mais Idiota do Mundo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tlakU3uwNiUgd7aOlb2RoAsGTnY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/hXD4z5xykt9G7SLXstUB96RFflh.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.55,
-    "tmdbId": 3065,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-filme-mais-idiota-do-mundo.json"
   }
 ]

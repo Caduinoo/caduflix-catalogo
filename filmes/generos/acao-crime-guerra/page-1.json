@@ -29,6 +29,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/007-o-amanha-nunca-morre.json"
   },
   {
+    "id": "007-o-mundo-nao-e-o-bastante",
+    "tipo": "filme",
+    "titulo": "007: O Mundo Não é o Bastante",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9SrYvEKF3w7Qb4TF5pdDZHJKlp2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gJfg43Pl1ZeWDEGzG3nIu9P92zK.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.287,
+    "tmdbId": 36643,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/007-o-mundo-nao-e-o-bastante.json"
+  },
+  {
     "id": "007-permissao-para-matar",
     "tipo": "filme",
     "titulo": "007 - Permissão para Matar",
@@ -503,6 +517,20 @@
     "nota": 6.385,
     "tmdbId": 15357,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/13-distrito-ultimato.json"
+  },
+  {
+    "id": "13-distrito",
+    "tipo": "filme",
+    "titulo": "B13 - 13º Distrito",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/m3CkWymzFl269Pjmc3eTPkvtdRl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dSbXXdDcnQFimUf1mhkPk5dkQU3.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.814,
+    "tmdbId": 10045,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/13-distrito.json"
   },
   {
     "id": "15-minutos",
@@ -1757,6 +1785,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-justiceira.json"
   },
   {
+    "id": "a-lei-das-ruas",
+    "tipo": "filme",
+    "titulo": "A Lei das Ruas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6wmE7rJ0YvGcDe5wBb3on7zludk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oAfSZDhBYyzs7wjcZ83iUTWgACE.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.202,
+    "tmdbId": 492449,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lei-das-ruas.json"
+  },
+  {
     "id": "a-lenda-de-billie-jean",
     "tipo": "filme",
     "titulo": "A Lenda de Billie Jean",
@@ -2005,6 +2047,20 @@
     "nota": 6.582,
     "tmdbId": 9342,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-mascara-do-zorro.json"
+  },
+  {
+    "id": "a-mexicana",
+    "tipo": "filme",
+    "titulo": "A Mexicana",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gp81OzJEQb0OHrrcQPvGJajAKTr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/etJYRzgMpZQQaXmlJ2q0EwbjuZi.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.956,
+    "tmdbId": 6073,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-mexicana.json"
   },
   {
     "id": "a-missao",
@@ -3515,6 +3571,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/alem-da-escuridao.json"
   },
   {
+    "id": "alem-das-profundezas",
+    "tipo": "filme",
+    "titulo": "Além das Profundezas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/moC7rQG3AQ1sGR1gJUEQydE3N3g.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mBijGSEEkIVt24ruvTxFuQWRKJm.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.693,
+    "tmdbId": 616803,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/alem-das-profundezas.json"
+  },
+  {
     "id": "alem-do-dever",
     "tipo": "filme",
     "titulo": "Além do Dever",
@@ -4304,80 +4374,5 @@
     "nota": 6.933,
     "tmdbId": 1007734,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/anonimo-2.json"
-  },
-  {
-    "id": "apex",
-    "tipo": "filme",
-    "titulo": "O Jogo do Predador",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mBcYPIubRBPTnTwWdj8OuEC1NHJ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/oTE4lNs4PSG5iIWjqaTdCIFJ4Bs.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.674,
-    "tmdbId": 1318447,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/apex.json"
-  },
-  {
-    "id": "apocalipse",
-    "tipo": "filme",
-    "titulo": "Alerta Apocalipse",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3Ap6J9pYqgrxQaYWYdX2fyBYBWF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.8,
-    "tmdbId": 696393,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/apocalipse.json"
-  },
-  {
-    "id": "apocalypse-now",
-    "tipo": "filme",
-    "titulo": "Apocalypse Now",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/veXttPnNe8EZulvmeGTyDUrG9T4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/49fzLedFVKgGgFChLMuulDJBY1c.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 8.267,
-    "tmdbId": 28,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/apocalypse-now.json"
-  },
-  {
-    "id": "aprendiz-de-espia-na-cidade-eterna",
-    "tipo": "filme",
-    "titulo": "Aprendiz de Espiã: Na Cidade Eterna",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/CaJcAlbA4a2jzwWcWl4M8ojgit.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kutrMwSVEcGFn5F0fUJYYRPzuxn.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 6.5,
-    "tmdbId": 1048241,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/aprendiz-de-espia-na-cidade-eterna.json"
-  },
-  {
-    "id": "aquaman",
-    "tipo": "filme",
-    "titulo": "Aquaman",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wbo0CYG6SOFxFkoe9BiqvivLggN.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9QusGjxcYvfPD1THg6oW3RLeNn7.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 6.867,
-    "tmdbId": 297802,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/aquaman.json"
   }
 ]

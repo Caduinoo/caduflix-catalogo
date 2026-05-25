@@ -1,5 +1,101 @@
 [
   {
+    "id": "nao-fale-com-estranhos",
+    "tipo": "serie",
+    "titulo": "Não Fale com Estranhos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/60ZucrnG1YkcxAKnIHQVbB6z1WY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/97pA0UjBqqgcZFbREQL3U1BQDgX.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.167,
+    "tmdbId": 96608,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/nao-fale-com-estranhos.json"
+  },
+  {
+    "id": "nao-foi-minha-culpa-brasil",
+    "tipo": "serie",
+    "titulo": "Não Foi Minha Culpa: Brasil",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/z5cE0WI9VQSvGDdW19AvIE1iwc6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/w7JzaR8Py8LIWQ68wTsKtdJdK7a.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 6,
+    "tmdbId": 128076,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/nao-foi-minha-culpa-brasil.json"
+  },
+  {
+    "id": "nao-foi-minha-culpa-mexico",
+    "tipo": "serie",
+    "titulo": "Não Foi Minha Culpa: México",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pAduljm45lOktb80fItRx1wuRbu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9wRR5TQbwfntOONOjzuMEDDr9JX.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 7.7,
+    "tmdbId": 128067,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/nao-foi-minha-culpa-mexico.json"
+  },
+  {
+    "id": "nao-me-abandone-jamais",
+    "tipo": "serie",
+    "titulo": "Não Me Abandone Jamais",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sGpqhD9kKiP3abxOrzYWRy05lV2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lhLQWWtBtFhyOH2Iv9zSs9ohjiX.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 4.5,
+    "tmdbId": 72167,
+    "totalTemporadas": 1,
+    "totalEpisodios": 12,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/nao-me-abandone-jamais.json"
+  },
+  {
+    "id": "nao-me-chame-de-senhora",
+    "tipo": "serie",
+    "titulo": "Não Me Chame de Senhora",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sfnV8SLYhrxA9zjWGLlUoj5qViU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/A3pKMJrmz2R2QZmWRRihEoX5fkD.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 7,
+    "tmdbId": 294731,
+    "totalTemporadas": 1,
+    "totalEpisodios": 12,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/nao-me-chame-de-senhora.json"
+  },
+  {
+    "id": "nao-nos-calaremos",
+    "tipo": "serie",
+    "titulo": "Não nos Calaremos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/prFJX3WO5SRJRA3qE7fHn271D14.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ieiq46OoeTrLkjtclmhii6iRyzP.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.74,
+    "tmdbId": 242876,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/nao-nos-calaremos.json"
+  },
+  {
     "id": "nao-provoque",
     "tipo": "serie",
     "titulo": "Não Provoque",
@@ -4698,100 +4794,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 5,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/o-futuro-de-bill-gates.json"
-  },
-  {
-    "id": "o-gabinete-de-curiosidades-de-guillermo-del-toro",
-    "tipo": "serie",
-    "titulo": "O Gabinete de Curiosidades de Guillermo del Toro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/sxMMOIuV99LOwcJICx1Wy4O8fgi.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gM1diqqPFu5oRpEVsx84SPBYvV3.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.477,
-    "tmdbId": 83659,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/o-gabinete-de-curiosidades-de-guillermo-del-toro.json"
-  },
-  {
-    "id": "o-gambito-da-rainha",
-    "tipo": "serie",
-    "titulo": "O Gambito da Rainha",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ubWpLTkwcms5PfZJMFZkNXVYXqJ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 8.435,
-    "tmdbId": 87739,
-    "totalTemporadas": 1,
-    "totalEpisodios": 7,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/o-gambito-da-rainha.json"
-  },
-  {
-    "id": "o-garoto-de-cada-dia",
-    "tipo": "serie",
-    "titulo": "O Garoto de Cada Dia",
-    "ano": null,
-    "capa": null,
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 0,
-    "tmdbId": null,
-    "totalTemporadas": 1,
-    "totalEpisodios": 7,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/o-garoto-de-cada-dia.json"
-  },
-  {
-    "id": "o-gerente-da-noite",
-    "tipo": "serie",
-    "titulo": "O Gerente da Noite",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/aRkZRJXSRrcWmK4Z6DyR3EZHkJm.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2vAOdruqvx9GojXxKi3xVsZZvKU.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 7.729,
-    "tmdbId": 61859,
-    "totalTemporadas": 2,
-    "totalEpisodios": 12,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/o-gerente-da-noite.json"
-  },
-  {
-    "id": "o-gerente-noturno",
-    "tipo": "serie",
-    "titulo": "O Gerente da Noite",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/aRkZRJXSRrcWmK4Z6DyR3EZHkJm.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2vAOdruqvx9GojXxKi3xVsZZvKU.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 7.729,
-    "tmdbId": 61859,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/o-gerente-noturno.json"
-  },
-  {
-    "id": "o-golpe-do-amor",
-    "tipo": "serie",
-    "titulo": "Dirty John: O Golpe do Amor",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5QWYsyYuVIdfF7GmUPBZDshILKr.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gPtcFV2JFabTowK3gORwv4sUNbw.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 6.846,
-    "tmdbId": 83251,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/o-golpe-do-amor.json"
   }
 ]

@@ -1074,6 +1074,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/voce-e-o-proximo.json"
   },
   {
+    "id": "voldemort-a-origem-do-herdeiro",
+    "tipo": "filme",
+    "titulo": "Voldemort: A Origem do Herdeiro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2LilBeUffRfr1sRSvi32Axg3uGv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/arGzcDLLslcbgbLNyamYN4zteiM.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 10,
+    "tmdbId": 1673839,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/voldemort-a-origem-do-herdeiro.json"
+  },
+  {
     "id": "yorimata",
     "tipo": "filme",
     "titulo": "Yorimatã",
@@ -1130,19 +1144,5 @@
     "nota": 9.667,
     "tmdbId": 290519,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-terceiro-verso.json"
-  },
-  {
-    "id": "enaldinho-e-o-misterio-da-lagoa",
-    "tipo": "filme",
-    "titulo": "Enaldinho e o Mistério da Lagoa",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mRnthkrCp0hbsTY06Wa5u9LWyxS.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4cfC7iUeoy2OtA9TaXnZufrpF1K.jpg",
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": 9.6,
-    "tmdbId": 1076868,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/enaldinho-e-o-misterio-da-lagoa.json"
   }
 ]

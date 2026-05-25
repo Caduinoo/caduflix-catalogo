@@ -1,5 +1,143 @@
 [
   {
+    "id": "o-jogo-da-viuva-dv",
+    "tipo": "filme",
+    "titulo": "O Jogo da Viúva [DV]",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/txiHphuGlemWdD9Lv4FfkJU4uS9.jpg",
+    "banner": null,
+    "generos": [
+      "4K"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-jogo-da-viuva-dv.json"
+  },
+  {
+    "id": "o-jogo-de-amor-odio",
+    "tipo": "filme",
+    "titulo": "O Jogo de Amor – \"Odio\"",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nWTeXUGWsSDoDLC4UucMeM07gA5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lghWedsBBl3lPlIs4EpZpP64mUT.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE",
+      "4K"
+    ],
+    "nota": 7.271,
+    "tmdbId": 603661,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-jogo-de-amor-odio.json"
+  },
+  {
+    "id": "o-jogo-do-assassino",
+    "tipo": "filme",
+    "titulo": "O Jogo do Assassino",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pPmxLP2eMJEFiY7KZ3WkSFQ1b20.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zGLQmrmIB56kMZPnzqReIOBay1B.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 6.417,
+    "tmdbId": 507241,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-jogo-do-assassino.json"
+  },
+  {
+    "id": "o-jogo-do-disfarce",
+    "tipo": "filme",
+    "titulo": "O Jogo do Disfarce",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/d9O2dIxU1X8Qc8s8kf9RFiiDMMB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/a6brwNObG0sFNtZVOstOXpTkpMu.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 5.98,
+    "tmdbId": 848187,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-jogo-do-disfarce.json"
+  },
+  {
+    "id": "o-jogo-do-predador-dv",
+    "tipo": "filme",
+    "titulo": "O Jogo do Predador [DV]",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0ub7FDXEyu8DqGcHKQpaOSem49.jpg",
+    "banner": null,
+    "generos": [
+      "4K"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-jogo-do-predador-dv.json"
+  },
+  {
+    "id": "o-justiceiro-uma-ultima-morte",
+    "tipo": "filme",
+    "titulo": "O Justiceiro: Uma Última Morte",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "LANÇAMENTOS",
+      "4K"
+    ],
+    "nota": 8.483,
+    "tmdbId": 1439930,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-justiceiro-uma-ultima-morte.json"
+  },
+  {
+    "id": "o-justiceiro-uma-ultima-morte-dv",
+    "tipo": "filme",
+    "titulo": "O Justiceiro Uma Última Morte [DV]",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",
+    "banner": null,
+    "generos": [
+      "4K"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-justiceiro-uma-ultima-morte-dv.json"
+  },
+  {
+    "id": "o-lendario-cao-guerreiro",
+    "tipo": "filme",
+    "titulo": "O Lendário Cão Guerreiro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zwS6boYHEUOgQUMVrAFAPk9J0zF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/92PJmMopfy64VYjd0HvIQaHGZX0.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA",
+      "4K"
+    ],
+    "nota": 6.631,
+    "tmdbId": 366672,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-lendario-cao-guerreiro.json"
+  },
+  {
+    "id": "o-limite-da-traicao",
+    "tipo": "filme",
+    "titulo": "O Limite da Traição",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uQqmFcKOSg7RVtaIKOTtv1vWQPx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qeoAcUAw1xNYJ9PP7m1Wc7kKZZQ.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 6.996,
+    "tmdbId": 651070,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-limite-da-traicao.json"
+  },
+  {
     "id": "o-livro-de-clarence",
     "tipo": "filme",
     "titulo": "O Livro de Clarence",
@@ -2453,7 +2591,8 @@
     "banner": "https://image.tmdb.org/t/p/original/yXybBEC45p84D0Ky7GmQQYrclVr.jpg",
     "generos": [
       "LEGENDADOS",
-      "4K"
+      "4K",
+      "AÇÃO | CRIME | GUERRA"
     ],
     "nota": 6.906,
     "tmdbId": 447404,
@@ -2898,6 +3037,21 @@
     "nota": 6.7,
     "tmdbId": 787781,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/quiz-lady.json"
+  },
+  {
+    "id": "rampage-destruicao-total",
+    "tipo": "filme",
+    "titulo": "Rampage - Destruição Total",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7bhqCvl771uepyt6wbzEiryxEoc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vm8mhrjk5nQ562UQ0KbUzi0yOHr.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 6.447,
+    "tmdbId": 427641,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rampage-destruicao-total.json"
   },
   {
     "id": "ray-donovan-o-filme",
@@ -3601,7 +3755,8 @@
     "banner": "https://image.tmdb.org/t/p/original/4v64DRdMtx8fQGUZ7hE1R2iChCr.jpg",
     "generos": [
       "LEGENDADOS",
-      "4K"
+      "4K",
+      "COMÉDIA"
     ],
     "nota": 6.6,
     "tmdbId": 763152,
@@ -4470,6 +4625,23 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/super-mario-bros-o-filme.json"
   },
   {
+    "id": "super-mario-galaxy-o-filme",
+    "tipo": "filme",
+    "titulo": "Super Mario Galaxy: O Filme",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/b3WeTp42eJSRuE4UZfyPCOJW4c.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "TOP 10",
+      "LANÇAMENTOS",
+      "4K"
+    ],
+    "nota": 7.652,
+    "tmdbId": 1226863,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/super-mario-galaxy-o-filme.json"
+  },
+  {
     "id": "superacao-o-milagre-da-fe",
     "tipo": "filme",
     "titulo": "Superação: O Milagre da Fé",
@@ -4548,179 +4720,5 @@
     "nota": 5.75,
     "tmdbId": 999890,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sweethearts.json"
-  },
-  {
-    "id": "tar",
-    "tipo": "filme",
-    "titulo": "TÁR",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/84XcRwKHAw4VXdKOYTSW5ARxFEt.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "4K"
-    ],
-    "nota": 7.1,
-    "tmdbId": 817758,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tar.json"
-  },
-  {
-    "id": "te-peguei",
-    "tipo": "filme",
-    "titulo": "Te Peguei!",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gI6zwlVk1Bu3FnkcDkCYYHsBhTz.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/n8UzZ7gd3lmsBeYAH539pfnwGwu.jpg",
-    "generos": [
-      "COMÉDIA",
-      "4K"
-    ],
-    "nota": 6.707,
-    "tmdbId": 455980,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/te-peguei.json"
-  },
-  {
-    "id": "teen-wolf-o-filme",
-    "tipo": "filme",
-    "titulo": "Teen Wolf: O Filme",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/e4M1YCKc07PeBoUs7ST2QgCiZFB.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/96SADhPnkXnVN3KaRKsDeBovLcm.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA",
-      "4K"
-    ],
-    "nota": 7.472,
-    "tmdbId": 877703,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/teen-wolf-o-filme.json"
-  },
-  {
-    "id": "tem-algo-de-errado-com-as-criancas",
-    "tipo": "filme",
-    "titulo": "Tem Algo de Errado com as Crianças",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/8ZFb1xE1D3HZl41dlpCfRZrXNdU.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/hjYwsQQiOZJ3VO5ybqjaxafpbRB.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER",
-      "4K"
-    ],
-    "nota": 5.684,
-    "tmdbId": 899579,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tem-algo-de-errado-com-as-criancas.json"
-  },
-  {
-    "id": "tempo",
-    "tipo": "filme",
-    "titulo": "Tempo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/czVBkHRaZu8rOnCNTd0t7EHYj97.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/32yqxyLlWcO81UCx51Jfq9aeJdA.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER",
-      "4K"
-    ],
-    "nota": 6.321,
-    "tmdbId": 631843,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tempo.json"
-  },
-  {
-    "id": "tempo-de-guerra",
-    "tipo": "filme",
-    "titulo": "Tempo de Guerra",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/223TDJjnhuQV6cTUlvn6e39s0GA.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 7.081,
-    "tmdbId": 1241436,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tempo-de-guerra.json"
-  },
-  {
-    "id": "tenet",
-    "tipo": "filme",
-    "titulo": "Tenet",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/Ae0pbv4E6YfqfN3UjKWIfQSzP9v.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7BYtnXUfweV6EryNYDpZFeS31Ia.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 7.176,
-    "tmdbId": 577922,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tenet.json"
-  },
-  {
-    "id": "tequilas-e-algumas-mentiras",
-    "tipo": "filme",
-    "titulo": "Tangos, Tequilas e Algumas Mentiras",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/y3z6H8oOS2y3dQY9dEKkxQiLWPn.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uJAR8HJCNgedmgMz0G8EzGCoZAE.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA",
-      "4K"
-    ],
-    "nota": 7.1,
-    "tmdbId": 1098239,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tequilas-e-algumas-mentiras.json"
-  },
-  {
-    "id": "terremoto-em-lisboa",
-    "tipo": "filme",
-    "titulo": "Terremoto em Lisboa",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fjrjLxfruP3dxFP2Oc6OGJab5bM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/73Cngth9FzV4UvvQ1ChyovSnDy0.jpg",
-    "generos": [
-      "4K"
-    ],
-    "nota": 7,
-    "tmdbId": 1297784,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/terremoto-em-lisboa.json"
-  },
-  {
-    "id": "terror-em-silent-hill-regresso-para-o-inferno",
-    "tipo": "filme",
-    "titulo": "Terror em Silent Hill: Regresso Para o Inferno",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5ZDqTM0ZP3ypmFivTeAnHslV6mY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER",
-      "TOP 10",
-      "4K",
-      "LANÇAMENTOS"
-    ],
-    "nota": 5.339,
-    "tmdbId": 680493,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/terror-em-silent-hill-regresso-para-o-inferno.json"
-  },
-  {
-    "id": "terror-no-estudio-666",
-    "tipo": "filme",
-    "titulo": "Terror no Estúdio 666",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tcsnV2L6SZY9hvuGLEbZddTylPa.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ppNyhrKHCeEgASliV4QN03bp6QR.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER",
-      "4K"
-    ],
-    "nota": 5.887,
-    "tmdbId": 895744,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/terror-no-estudio-666.json"
   }
 ]

@@ -1,5 +1,75 @@
 [
   {
+    "id": "fascinacao-mortal-a-vinganca-4",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.4",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-4.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-5",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.5",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-5.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-6",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.6",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-6.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-7",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.7",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-7.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-8",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.8",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-8.json"
+  },
+  {
     "id": "fascinacao-mortal-a-vinganca-9",
     "tipo": "filme",
     "titulo": "Fascinacao Mortal A Vinganca.9",
@@ -4349,81 +4419,5 @@
     "nota": null,
     "tmdbId": 719043,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mamae.json"
-  },
-  {
-    "id": "mangue-negro",
-    "tipo": "filme",
-    "titulo": "Mangue Negro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kDNHKglCTXfiwzYgagwKVVep06h.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dcRzRmblEIhryijBCWe9jZvnykD.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.8,
-    "tmdbId": 135561,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mangue-negro.json"
-  },
-  {
-    "id": "manifest-west",
-    "tipo": "filme",
-    "titulo": "Natureza Humana",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/8CVt1UnE6tvrOjyoQ2px4Zb60rO.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9PYLudEMcU4WKdM2MfCm7MrdvcK.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.9,
-    "tmdbId": 762895,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/manifest-west.json"
-  },
-  {
-    "id": "manodrome",
-    "tipo": "filme",
-    "titulo": "Manodrome",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nSAqIzuCqCQAt3HFsHwiffFSj96.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/oTmE2OqoNxpZwZOFBtQWxyZwKr0.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.065,
-    "tmdbId": 843942,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/manodrome.json"
-  },
-  {
-    "id": "mansao-mal-assombrada",
-    "tipo": "filme",
-    "titulo": "Mansão Mal-Assombrada",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3puybXuYPlZPRplIVSrExZnWibb.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mzlZAMjE2yk2sW3f9HTeBM3B3jw.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER",
-      "AVENTURA | FICÇÃO | FANTASIA",
-      "4K"
-    ],
-    "nota": 6.43,
-    "tmdbId": 616747,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mansao-mal-assombrada.json"
-  },
-  {
-    "id": "mar-ia",
-    "tipo": "filme",
-    "titulo": "Mar.IA",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hFDCZtNImFouWbA8NgyE7sTCbn6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jheQytrDFQGlXtnwWyHPXbP3swS.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.765,
-    "tmdbId": 912032,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mar-ia.json"
   }
 ]

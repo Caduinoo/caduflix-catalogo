@@ -1,5 +1,78 @@
 [
   {
+    "id": "rei-do-ringue-a-historia-de-jem-belcher",
+    "tipo": "filme",
+    "titulo": "Rei do Ringue: A História de Jem Belcher",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vi6VoqcsfmrwD0uXzyxXRsjcwU5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2Eewgp7o5AU1xCataDmiIL2nYxd.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.171,
+    "tmdbId": 943822,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rei-do-ringue-a-historia-de-jem-belcher.json"
+  },
+  {
+    "id": "rei-do-rio",
+    "tipo": "filme",
+    "titulo": "Rei do Rio",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wNopuJNWAHbOxWOt2xwyXMdZ1iO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/o8hbTJqL1aUHOZbySGHTLFvurYb.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 5.5,
+    "tmdbId": 186100,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rei-do-rio.json"
+  },
+  {
+    "id": "rei-dos-ladroes",
+    "tipo": "filme",
+    "titulo": "Rei dos Ladrões",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hkI8oBMIOAnCEJFbgFgI7IZ302G.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/429x9ZU5IQY6L0HGshBGY1LQpjB.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 5.547,
+    "tmdbId": 520360,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rei-dos-ladroes.json"
+  },
+  {
+    "id": "reine-sobre-mim",
+    "tipo": "filme",
+    "titulo": "Reine Sobre Mim",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ql93FK6AdUdX5cPNmwaHdp7diey.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/inPupECvfe7cHuAwaEVBkDJjXZO.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 7.218,
+    "tmdbId": 2355,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/reine-sobre-mim.json"
+  },
+  {
+    "id": "relacao-em-risco",
+    "tipo": "filme",
+    "titulo": "Relação em Risco",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/968EbINo97rHeWDBkRPA5eYwofM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hupSDY6YrkYu58NKrStQxXC2525.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.674,
+    "tmdbId": 97006,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/relacao-em-risco.json"
+  },
+  {
     "id": "relacionamento-aberto",
     "tipo": "filme",
     "titulo": "Relacionamento Aberto",
@@ -2405,7 +2478,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/zRtwTGqMbgv2PaTSAMg0R3qfUO4.jpg",
     "banner": "https://image.tmdb.org/t/p/original/8dlna8rRcf5gDCRzEsjtHizpj1X.jpg",
     "generos": [
-      "DRAMA"
+      "DRAMA",
+      "ROMANCE"
     ],
     "nota": 7.4,
     "tmdbId": 1371185,
@@ -4282,79 +4356,5 @@
     "nota": 7.666,
     "tmdbId": 1633,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tomates-verdes-fritos.json"
-  },
-  {
-    "id": "toque-de-recolher",
-    "tipo": "filme",
-    "titulo": "Toque de Recolher",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6f4qOrzSMUqSc0iAODL6wnwJ7km.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cO4SylBQSkFuMfU7lfCzQVNCwmw.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.77,
-    "tmdbId": 10627,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/toque-de-recolher.json"
-  },
-  {
-    "id": "touro-indomavel",
-    "tipo": "filme",
-    "titulo": "Touro Indomável",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/lLeWJU33HgfWTnrOcaNBR5fUcF1.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 7.903,
-    "tmdbId": 1578,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/touro-indomavel.json"
-  },
-  {
-    "id": "trafico-de-mulheres",
-    "tipo": "filme",
-    "titulo": "Tráfico de Mulheres",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/8aK2J9k73gUw0DcbO6RiCh3vHVE.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vye5OeedDJloz6wx58TXdUCO7yO.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.6,
-    "tmdbId": 464733,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/trafico-de-mulheres.json"
-  },
-  {
-    "id": "traidor",
-    "tipo": "filme",
-    "titulo": "O Traidor",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yMTLHzhaAwlQePPw0b4bbqdLQXe.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dmIKpN5Pkgp9eZDBF7OyM5106Oy.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.648,
-    "tmdbId": 13291,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/traidor.json"
-  },
-  {
-    "id": "traidora-americana-o-julgamento-de-axis-sally",
-    "tipo": "filme",
-    "titulo": "Traidora Americana: O Julgamento de Axis Sally",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fzP5J0fapBMm4WqOeevAUndql1B.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/eSofxsFJ4XASQGUffytwX6tWXZr.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 5.524,
-    "tmdbId": 603603,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/traidora-americana-o-julgamento-de-axis-sally.json"
   }
 ]

@@ -1,5 +1,477 @@
 [
   {
+    "id": "kung-fu-panda-2",
+    "tipo": "filme",
+    "titulo": "Kung Fu Panda 2",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dSF0v3XPCzKb30zv3fLeuoJuTRv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7BdxZXbSkUiVeCRXKD3hi9KYeWm.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.061,
+    "tmdbId": 49444,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kung-fu-panda-2.json"
+  },
+  {
+    "id": "kung-fu-panda-3",
+    "tipo": "filme",
+    "titulo": "Kung Fu Panda 3",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uo4T7PDDYGCxK9uO68gJygLR8VT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/s3FiHTdpQVpqIqdBxLLiy40wGut.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.925,
+    "tmdbId": 140300,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kung-fu-panda-3.json"
+  },
+  {
+    "id": "kung-fu-panda-4",
+    "tipo": "filme",
+    "titulo": "Kung Fu Panda 4",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3ffPx9jqg0yj9y1KWeagT7D20CB.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA",
+      "4K"
+    ],
+    "nota": 6.999,
+    "tmdbId": 1011985,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kung-fu-panda-4.json"
+  },
+  {
+    "id": "kung-fu-panda-especial-de-natal",
+    "tipo": "filme",
+    "titulo": "Kung Fu Panda: Especial de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fAAkf4cPAOk7XNRgfxmK72Awzdp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cMR6Mpo8N6JVKbEuxet6N0p1NMA.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7,
+    "tmdbId": 50393,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kung-fu-panda-especial-de-natal.json"
+  },
+  {
+    "id": "kung-fu-yoga",
+    "tipo": "filme",
+    "titulo": "Kung Fu Yoga",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rvUMGvHc0roYX8MSoIN0Kw8XZ3V.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/usGRxcuvOCXiI5kQm0H3EKSmTxb.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.869,
+    "tmdbId": 383785,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kung-fu-yoga.json"
+  },
+  {
+    "id": "kung-pow-o-mestre-da-kung-fu-sao",
+    "tipo": "filme",
+    "titulo": "Kung Pow: O Mestre da Kung-Fu-São",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/diSXwwNfePB5AX6fxfpzA8uDYLt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zvIhFx35lXEIO2OsVnrpReEH747.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.412,
+    "tmdbId": 11891,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kung-pow-o-mestre-da-kung-fu-sao.json"
+  },
+  {
+    "id": "kung-fusao",
+    "tipo": "filme",
+    "titulo": "Kung-Fusão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vTs5wUu3Wi6TwIyFmM7PxBQU60P.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9XhZhoSnFJ3AjpfzdIiZVHLQIS4.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 7.494,
+    "tmdbId": 9470,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kung-fusao.json"
+  },
+  {
+    "id": "kuroko-s-basketball-movie-1-winter-cup-highlights-shadow-and-light",
+    "tipo": "filme",
+    "titulo": "Kuroko's Basketball Movie 1: Winter Cup Highlights - Shadow and Light",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bLII4hik4aOOokGdhQXuJ35sPze.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/taQagjaSMrAAJL66uu18yUBxPPd.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 6.9,
+    "tmdbId": 401043,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kuroko-s-basketball-movie-1-winter-cup-highlights-shadow-and-light.json"
+  },
+  {
+    "id": "kuroko-s-basketball-movie-2-winter-cup-highlights-beyond-the-tears",
+    "tipo": "filme",
+    "titulo": "Kuroko's Basketball Movie 2: Winter Cup Highlights - Beyond the Tears",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jBwDdlDdLQ0iesPxeFmi8O4szZx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tgtspWtEsoWMAjWYEzp7bYX7Cya.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 7.5,
+    "tmdbId": 448967,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kuroko-s-basketball-movie-2-winter-cup-highlights-beyond-the-tears.json"
+  },
+  {
+    "id": "kuroko-s-basketball-movie-3-winter-cup-highlights-crossing-the-door",
+    "tipo": "filme",
+    "titulo": "Kuroko's Basketball Movie 3: Winter Cup Highlights - Crossing the Door",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9uTBFD3TJrWUnsJbHhpGwvSnWuG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/f2kvNggYPRRu93ptDX4pG4N0tC3.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 7.4,
+    "tmdbId": 448969,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kuroko-s-basketball-movie-3-winter-cup-highlights-crossing-the-door.json"
+  },
+  {
+    "id": "kuroko-s-basketball-o-ultimo-jogo",
+    "tipo": "filme",
+    "titulo": "Kuroko's Basketball: O Último Jogo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/84ek6gLtJC73zA4ufy09B8Pxe9E.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xMsn2d2MfoMqtUrR2mMlfchKzOF.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 7.637,
+    "tmdbId": 428707,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kuroko-s-basketball-o-ultimo-jogo.json"
+  },
+  {
+    "id": "kursk-a-ultima-missao",
+    "tipo": "filme",
+    "titulo": "Kursk: A Última Missão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/e2IfN9oSfu7n1raLplXx4hjRdUc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tpn4FbxL6oeZh8YtanV1a0k7dLB.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.644,
+    "tmdbId": 401200,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kursk-a-ultima-missao.json"
+  },
+  {
+    "id": "kuwaresma",
+    "tipo": "filme",
+    "titulo": "A Entidade",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oCnfdWnOvEXHsm4d3V2Y5bjo512.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/26gF3NCIc4yWMC07m8yFuNthqwm.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.3,
+    "tmdbId": 601343,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kuwaresma.json"
+  },
+  {
+    "id": "kv1-almas-de-ferro",
+    "tipo": "filme",
+    "titulo": "Indestrutível",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4SmW73foiBY45fZfK8Zjk0Uxh6N.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eFV2sefPWsY3DXj98oUvvbnmMxA.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.48,
+    "tmdbId": 556018,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kv1-almas-de-ferro.json"
+  },
+  {
+    "id": "kyochuu-rettou-movie",
+    "tipo": "filme",
+    "titulo": "Kyochuu Rettou Movie",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sf0lHt1uG6LdgxG56VE0Aw6PCVH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2qccXVVWXZo3nnNFC22giCGmgnN.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 4.552,
+    "tmdbId": 658558,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kyochuu-rettou-movie.json"
+  },
+  {
+    "id": "kyoukai-no-kanata-movie-i-ll-be-here-kako-hen",
+    "tipo": "filme",
+    "titulo": "Beyond the Boundary: I'll Be Here – Past",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/az9l2WrzS79Ga6v6zK9TBsgeaWf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eST8x9SrX3UyPycTDzh3CE0TIj1.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 6.862,
+    "tmdbId": 311056,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kyoukai-no-kanata-movie-i-ll-be-here-kako-hen.json"
+  },
+  {
+    "id": "kyoukai-no-kanata-movie-i-ll-be-here-mirai-hen",
+    "tipo": "filme",
+    "titulo": "Beyond the Boundary: I'll Be Here – Future",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3qiVGW3Nsk4EUIFVcbGuB36rvMZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cRtFsijFloplP2tjvP8ndlqFiqC.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 7.433,
+    "tmdbId": 333622,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kyoukai-no-kanata-movie-i-ll-be-here-mirai-hen.json"
+  },
+  {
+    "id": "l-o-c-a",
+    "tipo": "filme",
+    "titulo": "L.O.C.A. – Liga das Obsessivas Compulsivas por Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nWdTBg9mugmDJPepAnTXrNe1aUx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hghdvKjTtnVxPI5vySwdvixA3Ba.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 7.8,
+    "tmdbId": 678941,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/l-o-c-a.json"
+  },
+  {
+    "id": "l-s-lowry-retratos-de-uma-paixao",
+    "tipo": "filme",
+    "titulo": "L.S. Lowry – Retratos de Uma Paixão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sByaTDqKKfWeLnfjxBG3ivraQ0e.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nDM4TdOfKbc3Iwo7aEAJC9CistG.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.4,
+    "tmdbId": 604298,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/l-s-lowry-retratos-de-uma-paixao.json"
+  },
+  {
+    "id": "l-amour-ouf",
+    "tipo": "filme",
+    "titulo": "Corações Partidos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6akNNv4KyrguZUiG4uemfV6toVq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lBcXozUeABairkTavz3X3ZAtOL0.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.186,
+    "tmdbId": 959604,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/l-amour-ouf.json"
+  },
+  {
+    "id": "l-attentat-de-la-secte-aum",
+    "tipo": "filme",
+    "titulo": "Haruki Murakami, de Underground à 1Q84 — L'attentat de la secte Aum",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1b5lHH2TfN7wE6PATMeKAxn1sW1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bjB7UbBIBYku3CXB0JNkLgAPE0T.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": null,
+    "tmdbId": 1403153,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/l-attentat-de-la-secte-aum.json"
+  },
+  {
+    "id": "l-ete-dernier",
+    "tipo": "filme",
+    "titulo": "Culpa e Desejo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8fa2IDcT0UGTArTee5BXZ63b5UM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wVg8Fndzwq3ts3zedhW3Vn9aC4B.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.091,
+    "tmdbId": 812037,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/l-ete-dernier.json"
+  },
+  {
+    "id": "la-bamba",
+    "tipo": "filme",
+    "titulo": "La Bamba",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gv63mGIHYiIp7RpauZ4A3q9WR5V.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jXDanAOPM6gmypt72WlkZwrPuK0.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 7.258,
+    "tmdbId": 16620,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/la-bamba.json"
+  },
+  {
+    "id": "la-boda-de-mi-mejor-amigo",
+    "tipo": "filme",
+    "titulo": "Meu Melhor Amigo Vai Casar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4WuxbxcQzL7AXY4aSeFoyRA4sb2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cEBixhdpivXI2Br6PerpL7xUby4.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7,
+    "tmdbId": 555801,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/la-boda-de-mi-mejor-amigo.json"
+  },
+  {
+    "id": "la-bonga",
+    "tipo": "filme",
+    "titulo": "La Bonga",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tAGq2lSUbtxtWUq4ZagQyqW0Kfv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8no7ivf9a3oy1XPgMFxGgglHE5T.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 2,
+    "tmdbId": 1084665,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/la-bonga.json"
+  },
+  {
+    "id": "la-chimera",
+    "tipo": "filme",
+    "titulo": "La Chimera",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ijqc39mmsWOt95DxGLPlkk0Ivjl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3g7UEsF99oRSmywLfDcCJLIP4fX.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.3,
+    "tmdbId": 837335,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/la-chimera.json"
+  },
+  {
+    "id": "la-coda-del-diavolo",
+    "tipo": "filme",
+    "titulo": "La coda del diavolo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6vSlLfUpzpWf6vvMDMFLGC6gt01.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/la635NHQVYcWzyTgzTPa283Eho7.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6,
+    "tmdbId": 360567,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/la-coda-del-diavolo.json"
+  },
+  {
+    "id": "la-dolce-villa",
+    "tipo": "filme",
+    "titulo": "La Dolce Villa",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/y3GXsdVfxIMA5IVQ2KNnBzDi1RM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/s1ge9SG2zfJdMeZ69VMEbxeKuAE.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 6.309,
+    "tmdbId": 1252377,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/la-dolce-villa.json"
+  },
+  {
+    "id": "la-fianza",
+    "tipo": "filme",
+    "titulo": "A Fiança",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gKmWfB4uhepUuQgr1MuQXIhOkQY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vAtVOFVkBehvuNEKxh869VMFHpY.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.5,
+    "tmdbId": 1386128,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/la-fianza.json"
+  },
+  {
+    "id": "la-fora",
+    "tipo": "filme",
+    "titulo": "Lá Fora",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2mRpZ01DFVmZARJBEKPa1RMCKn2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/AeGgtElKvBQY9f9350fztaGLAvH.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.138,
+    "tmdbId": 1306764,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/la-fora.json"
+  },
+  {
+    "id": "la-grande-noirceur",
+    "tipo": "filme",
+    "titulo": "La grande noirceur",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xVz1dASnIIQdJhYKe9ZcHEuQY9z.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gsQUbiEBYtKTZYoniD7I4Hfy15D.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 5.3,
+    "tmdbId": 539825,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/la-grande-noirceur.json"
+  },
+  {
+    "id": "la-huella-de-unos-labios",
+    "tipo": "filme",
+    "titulo": "O Traço dos seus Lábios",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/i0nUi81v14czJ48IiKBfoQYOIYn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8YDA0AIz93nfOUw5glehfy79TM8.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 5.3,
+    "tmdbId": 1089791,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/la-huella-de-unos-labios.json"
+  },
+  {
+    "id": "la-la-land-cantando-estacoes",
+    "tipo": "filme",
+    "titulo": "La La Land: Cantando Estações",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/AvMietG6xuobpSSdmVnKuTjv4bL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 7.9,
+    "tmdbId": 313369,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/la-la-land-cantando-estacoes.json"
+  },
+  {
     "id": "la-lutte-des-classes",
     "tipo": "filme",
     "titulo": "A Luta de Classes",
@@ -3873,477 +4345,5 @@
     "nota": 6.36,
     "tmdbId": 10715,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/looney-tunes-de-volta-a-acao.json"
-  },
-  {
-    "id": "loop",
-    "tipo": "filme",
-    "titulo": "Loop",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zGFkJT5CHuCLy35G4aC5u56b2wh.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sbcZlnYOZ8vy1PYvyWmVhawNXsM.jpg",
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 7.8,
-    "tmdbId": 610203,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/loop.json"
-  },
-  {
-    "id": "loop-infinito",
-    "tipo": "filme",
-    "titulo": "Loop Infinito",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hXXKlr7GZnPG6yr1QraAMGyhsQG.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dSRFLFbykiSndcPzweMcD2ToohT.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 5.91,
-    "tmdbId": 1143128,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/loop-infinito.json"
-  },
-  {
-    "id": "looper-assassinos-do-futuro",
-    "tipo": "filme",
-    "titulo": "Looper: Assassinos do Futuro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qi3aMCoFbnfpbd0XBLznLUn99xQ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/upn0RluNTL4oUIgASbEkbbwVNKI.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.909,
-    "tmdbId": 59967,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/looper-assassinos-do-futuro.json"
-  },
-  {
-    "id": "lord-a-lenda-da-dinastia",
-    "tipo": "filme",
-    "titulo": "Duelo De Dinastias",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3YEXjiC4Fu6m86eSXwlCkahq1E.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3OzLnECBANMTBtw16QDMcXcw0b7.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.038,
-    "tmdbId": 369552,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/lord-a-lenda-da-dinastia.json"
-  },
-  {
-    "id": "lorelei-amores-do-passado",
-    "tipo": "filme",
-    "titulo": "Lorelei - Amores do Passado",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/L7IfaA6XpmB22lgU6f2cTGc3Zd.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4WheZtibiG35ejDCkWcHbxar5Z6.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 5.947,
-    "tmdbId": 692989,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/lorelei-amores-do-passado.json"
-  },
-  {
-    "id": "los-angeles-cidade-proibida",
-    "tipo": "filme",
-    "titulo": "Los Angeles: Cidade Proibida",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yCzn6ZNhYjCBIin58TePBco64rC.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/hUn13Hom8OWMYpR1ay0diwswwdP.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.801,
-    "tmdbId": 2118,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/los-angeles-cidade-proibida.json"
-  },
-  {
-    "id": "los-bandoleros",
-    "tipo": "filme",
-    "titulo": "Los Bandoleros",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oAV6YTJKrhCQatv3pwqRblcMa0u.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/j3QoxniqZOfMSoNadNLjH6Jueah.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.154,
-    "tmdbId": 253835,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/los-bandoleros.json"
-  },
-  {
-    "id": "los-lobos",
-    "tipo": "filme",
-    "titulo": "Os Lobos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7XRbBZXuTHD01SkUqwM42KbLul4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/iM44QKZklRsfcZdOGBWHNKGRXMz.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7.297,
-    "tmdbId": 586351,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/los-lobos.json"
-  },
-  {
-    "id": "los-nobles-quando-os-ricos-quebram-a-cara",
-    "tipo": "filme",
-    "titulo": "Los Nobles: Quando os Ricos Quebram a Cara",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kZRKkJwz8DFQW9OYOeCmCDAifJI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/37x8deGuuEiMBEIoe28ulrFsoNn.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 7.947,
-    "tmdbId": 180147,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/los-nobles-quando-os-ricos-quebram-a-cara.json"
-  },
-  {
-    "id": "los-tortuga",
-    "tipo": "filme",
-    "titulo": "Los Tortuga",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/phJgLFEPACo3cyEqC3c5BoBEjrE.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qDaRIclvlufD285kDOx9QhabLO1.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.583,
-    "tmdbId": 800090,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/los-tortuga.json"
-  },
-  {
-    "id": "lost-girls-and-love-hotels",
-    "tipo": "filme",
-    "titulo": "Desejos Passageiros",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/vRC6KFyHboWTtcorlr6SK6D5fOP.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mIu95QezXe20KYKI1u7DjzisAUj.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.398,
-    "tmdbId": 479259,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/lost-girls-and-love-hotels.json"
-  },
-  {
-    "id": "lost-girls-os-crimes-de-long-island",
-    "tipo": "filme",
-    "titulo": "Lost Girls: Os Crimes de Long Island",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pDas4DwURlRzjD9xEhSdtkcl1ZV.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vwkJChYb9dBcuds98Se4oHIcbnw.jpg",
-    "generos": [
-      "4K"
-    ],
-    "nota": 6.1,
-    "tmdbId": 567970,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/lost-girls-os-crimes-de-long-island.json"
-  },
-  {
-    "id": "lost-on-a-mountain-in-maine",
-    "tipo": "filme",
-    "titulo": "Perdido na Montanha",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/620FhRxTk7e9GBXwtYv8Wk3DRJf.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/q8blBwffuaexW9QMNC2Pa3wqgqM.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.89,
-    "tmdbId": 1197619,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/lost-on-a-mountain-in-maine.json"
-  },
-  {
-    "id": "loteria-fatal",
-    "tipo": "filme",
-    "titulo": "Loteria Fatal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3zwqemYFrYiWISWeC64OumJW95v.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rkmjKERkVIqG3DhwY4mcRYH1RFf.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6,
-    "tmdbId": 923993,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/loteria-fatal.json"
-  },
-  {
-    "id": "lou",
-    "tipo": "filme",
-    "titulo": "Lou",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4l9wSwvabTefMJ3TkXnh9evzmVV.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/f13RF99zjorGVJnSSsOqyj5dzYh.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.5,
-    "tmdbId": 433471,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/lou.json"
-  },
-  {
-    "id": "loucademia-de-policia",
-    "tipo": "filme",
-    "titulo": "Loucademia de Polícia",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/vZUNkWNoqogFqhlgl8L517xeQSL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6qAYgsvnH4wUS9fAcrxUvUtCM6x.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.703,
-    "tmdbId": 9336,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/loucademia-de-policia.json"
-  },
-  {
-    "id": "loucademia-de-policia-2-a-primeira-missao",
-    "tipo": "filme",
-    "titulo": "Loucademia de Polícia 2: A Primeira Missão",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jCLtgtj4Vr28ODC4Fr0H06HBDt9.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2xpxgucXMQRfzlkumna1DXsxFPk.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.08,
-    "tmdbId": 10157,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/loucademia-de-policia-2-a-primeira-missao.json"
-  },
-  {
-    "id": "loucademia-de-policia-3-de-volta-ao-treinamento",
-    "tipo": "filme",
-    "titulo": "Loucademia de Polícia 3: De Volta ao Treinamento",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rw0w3a6Ql2kngXRdFNvdgAbfiql.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zIp8rPr0UzL2QhB5JCU04DqPeHQ.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.808,
-    "tmdbId": 12118,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/loucademia-de-policia-3-de-volta-ao-treinamento.json"
-  },
-  {
-    "id": "loucademia-de-policia-4-o-cidadao-se-defende",
-    "tipo": "filme",
-    "titulo": "Loucademia de Polícia 4: O Cidadão se Defende",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/lBkIktnJGKHIQLHRa8V7ByKJscA.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9KzNVjbXdt7qufCpRObIkERCE0M.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.51,
-    "tmdbId": 10587,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/loucademia-de-policia-4-o-cidadao-se-defende.json"
-  },
-  {
-    "id": "loucademia-de-policia-5-missao-miami-beach",
-    "tipo": "filme",
-    "titulo": "Loucademia de Polícia 5: Missão Miami Beach",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fITAJXdFohdmhSNHcg328DeLDQg.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/pmQ4DsQ4x6iSA0iOIArRpGt8lT3.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.214,
-    "tmdbId": 11825,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/loucademia-de-policia-5-missao-miami-beach.json"
-  },
-  {
-    "id": "loucademia-de-policia-6-cidade-em-estado-de-sitio",
-    "tipo": "filme",
-    "titulo": "Loucademia de Polícia 6: Cidade em Estado de Sítio",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/bjWmXHqEshFUCS2LwyPp9PI4XjO.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fVuhshAl0izxOaWSqNOHLQUcoPM.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.133,
-    "tmdbId": 11895,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/loucademia-de-policia-6-cidade-em-estado-de-sitio.json"
-  },
-  {
-    "id": "loucademia-de-policia-7-missao-moscou",
-    "tipo": "filme",
-    "titulo": "Loucademia de Polícia 7: Missão Moscou",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mbb8zAQaSrvlorO2MmzNWJjuBsS.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/Y8b33EkncHL9mLRVvSPSB2SQol.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 4.585,
-    "tmdbId": 11546,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/loucademia-de-policia-7-missao-moscou.json"
-  },
-  {
-    "id": "loucas-aventuras-em-punjab",
-    "tipo": "filme",
-    "titulo": "Loucas Aventuras em Punjab",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/roGgIw4W7C5lTGwLctnPSlqrLWm.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zldmp4sCWa8A54aQKOjOiidLJud.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.5,
-    "tmdbId": 1252455,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/loucas-aventuras-em-punjab.json"
-  },
-  {
-    "id": "loucas-em-apuros",
-    "tipo": "filme",
-    "titulo": "Loucas em Apuros",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kjFuCcTiTTmFbaNWIMcwrnZpMpr.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sbKeYtlQkvC0prXkMXJpYoOfwVU.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.495,
-    "tmdbId": 864168,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/loucas-em-apuros.json"
-  },
-  {
-    "id": "loucas-pra-casar",
-    "tipo": "filme",
-    "titulo": "Loucas pra Casar",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/a85dJjBuHVmWTByJYml525i5U4l.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/e5y2VvL2U2owubQMwKIMf8ZApMA.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.357,
-    "tmdbId": 261461,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/loucas-pra-casar.json"
-  },
-  {
-    "id": "louco-por-elas",
-    "tipo": "filme",
-    "titulo": "Louco por Elas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oK63C3dGUDKC1TPFLlgJx8RrHX0.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/Txzcr6Iqdam6WufVLlGEVz6N70.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.919,
-    "tmdbId": 9582,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/louco-por-elas.json"
-  },
-  {
-    "id": "louco-por-voce",
-    "tipo": "filme",
-    "titulo": "Sou Louco Por Você",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/l9rWQkr58PNOjYjhgZ6VoXT9tQt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/e74H6yfw9qh8uEJP3yVUfWlMvxe.jpg",
-    "generos": [
-      "ROMANCE"
-    ],
-    "nota": 7.45,
-    "tmdbId": 109689,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/louco-por-voce.json"
-  },
-  {
-    "id": "loucos-e-rebeldes",
-    "tipo": "filme",
-    "titulo": "Jovens, Loucos e Rebeldes",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xOJDGjtNfm8kmDqIUvN9NrlXJeM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mhYQOazZVBAPtKDw3TXybDtMJgK.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 7.314,
-    "tmdbId": 9571,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/loucos-e-rebeldes.json"
-  },
-  {
-    "id": "loucos-por-justica",
-    "tipo": "filme",
-    "titulo": "Loucos por Justiça",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6IHzwdwI9hjg4whXjRzf15s5arz.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7XZsVVnqTsMJXg3J4CHzeV2Lro9.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.271,
-    "tmdbId": 663870,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/loucos-por-justica.json"
-  },
-  {
-    "id": "loucos-por-mouser",
-    "tipo": "filme",
-    "titulo": "Loucos por Mouser",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4EvO8g1Mx2qOHkNpW27lSBKujH9.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/iz8YQQjY5hrIeO1ru8V0F26kt6G.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5,
-    "tmdbId": 266718,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/loucos-por-mouser.json"
-  },
-  {
-    "id": "loucura-de-amor",
-    "tipo": "filme",
-    "titulo": "Loucura de Amor",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/28g5rvH7PlYB3CmilKWW20GcQkp.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/hyHpPzBFLpqlUixtSggSrHcjXdU.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 7.202,
-    "tmdbId": 778730,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/loucura-de-amor.json"
-  },
-  {
-    "id": "loucura-do-tempo",
-    "tipo": "filme",
-    "titulo": "Loucura do Tempo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4XXc9fapIqFytmhxA3HxALfhi4j.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/il036klfxddKrHHZPpxvWc0L5Kr.jpg",
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 6.685,
-    "tmdbId": 451925,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/loucura-do-tempo.json"
-  },
-  {
-    "id": "loucuras-de-carnaval",
-    "tipo": "filme",
-    "titulo": "Loucuras de Carnaval",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zRWca3SIwA8fhqypFiamteP4b7m.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uUogHb46ykdT5GdvjrTIKdyoYb4.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.6,
-    "tmdbId": 58231,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/loucuras-de-carnaval.json"
   }
 ]

@@ -1,5 +1,85 @@
 [
   {
+    "id": "the-oa",
+    "tipo": "serie",
+    "titulo": "The OA",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rueY4slMeKtTGitm0raFUJvgaa5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hsSFJ7WyVTNU87c06KFVesntrUQ.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.51,
+    "tmdbId": 69061,
+    "totalTemporadas": 2,
+    "totalEpisodios": 16,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-oa.json"
+  },
+  {
+    "id": "the-one",
+    "tipo": "serie",
+    "titulo": "The One Show",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7QpzCej3Lwrsnx5A8FePYsUCIzf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/69TLqW1BeyP3bAPf18GpGqjTb00.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 4.4,
+    "tmdbId": 1514,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-one.json"
+  },
+  {
+    "id": "the-rain",
+    "tipo": "serie",
+    "titulo": "The Rain",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qGNfbDHjHN4zDZQlQiByPhU5oAr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rfK7BGBUoqXc2EiKGbKuzaeSDjW.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.227,
+    "tmdbId": 76719,
+    "totalTemporadas": 3,
+    "totalEpisodios": 20,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-rain.json"
+  },
+  {
+    "id": "the-sandman",
+    "tipo": "serie",
+    "titulo": "Sandman",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5k1PlMiep3mg1BwIc7P4RZlu3WI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/i8taDLjpF8cCbp53N8kOFt1LSkW.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.873,
+    "tmdbId": 90802,
+    "totalTemporadas": 2,
+    "totalEpisodios": 23,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-sandman.json"
+  },
+  {
+    "id": "the-seven-deadly-sins-os-quatro-cavaleiros-do-apocalipse",
+    "tipo": "serie",
+    "titulo": "The Seven Deadly Sins: Os Quatro Cavaleiros do Apocalipse",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/aJnmS9S3m6BsSnzMNEnF0KPl9PC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dd1tEbUU9NLLo3drq39NknpHQ6v.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 8.11,
+    "tmdbId": 218843,
+    "totalTemporadas": 2,
+    "totalEpisodios": 36,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-seven-deadly-sins-os-quatro-cavaleiros-do-apocalipse.json"
+  },
+  {
     "id": "the-sinner",
     "tipo": "serie",
     "titulo": "The Sinner",

@@ -1,5 +1,529 @@
 [
   {
+    "id": "miraculous-world-toquio-forca-estelar",
+    "tipo": "filme",
+    "titulo": "Miraculous World: Tóquio - Força Estelar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/A1SPRIOteeOxvZfO171dbycpXQD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3kps0wiGFMRVkSXxbebbAUeWrN3.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 8.314,
+    "tmdbId": 1147411,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/miraculous-world-toquio-forca-estelar.json"
+  },
+  {
+    "id": "mirador",
+    "tipo": "filme",
+    "titulo": "Mirador",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ijl8Lj8lvDLQrzGHjOp9e4jlDeA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iZOgFy3oZ4Sxft2BO9AHtIyoGkw.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 10,
+    "tmdbId": 456360,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mirador.json"
+  },
+  {
+    "id": "mirai",
+    "tipo": "filme",
+    "titulo": "Mirai",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/koz5dqWUfXnapmwgko6o8caZn4b.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/53H7JtbElETTstolwTnTDxcG5So.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMES"
+    ],
+    "nota": 7.15,
+    "tmdbId": 475215,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mirai.json"
+  },
+  {
+    "id": "miroirs-no-3",
+    "tipo": "filme",
+    "titulo": "Miroirs No. 3",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hlqyA1FsDKSjgA12RMNKlmX797m.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sBmk1aaiepcBfC3l5NpEsdEoawP.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.5,
+    "tmdbId": 1178602,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/miroirs-no-3.json"
+  },
+  {
+    "id": "misaki-no-mayoiga",
+    "tipo": "filme",
+    "titulo": "Misaki no Mayoiga",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yMbz4CTumgoVK6dCC7v1Xltl1qo.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rNv9HavmAaJdMjFaq0xJ1oP1J9I.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 6.6,
+    "tmdbId": 760758,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/misaki-no-mayoiga.json"
+  },
+  {
+    "id": "misericordia",
+    "tipo": "filme",
+    "titulo": "Misericordia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yt63ZiYbA7N2QkUgbCCcNh8v0QD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xtGQ8XlPa9RStGqFzeQd4UThiHJ.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.6,
+    "tmdbId": 1123902,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/misericordia.json"
+  },
+  {
+    "id": "miss",
+    "tipo": "filme",
+    "titulo": "Miss Simpatia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9oae5r1ATLwVY7yJyTXhMaZSGGq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bTpjn4OEeoLEJYjRvEvkPfPQZdb.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA",
+      "NACIONAIS"
+    ],
+    "nota": 6.523,
+    "tmdbId": 1493,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/miss.json"
+  },
+  {
+    "id": "miss-bala",
+    "tipo": "filme",
+    "titulo": "Miss Bala",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ae9yrSAS7nLZPbbkOm61pSuIqeo.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5OoR3aVpxXluSCe9P5mhqOa36Gb.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.359,
+    "tmdbId": 500852,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/miss-bala.json"
+  },
+  {
+    "id": "miss-fisher-and-the-crypt-of-tears",
+    "tipo": "filme",
+    "titulo": "Miss Fisher e a Cripta das Lágrimas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pGhbw9hVsDIO70QhQAYG9quTqKF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vbw8AQva0bxhLnypTQDeODBgWs4.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.091,
+    "tmdbId": 518978,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/miss-fisher-and-the-crypt-of-tears.json"
+  },
+  {
+    "id": "miss-italia-nao-pode-morrer",
+    "tipo": "filme",
+    "titulo": "Miss Itália Não Pode Morrer",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lJbYnDgeNzDkBnNfLjJi66mTdhx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4uRVAQUgOOePIkEj7D0CPDVSQXr.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.676,
+    "tmdbId": 1422877,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/miss-italia-nao-pode-morrer.json"
+  },
+  {
+    "id": "miss-kobayashis-dragon-maid-a-lonely-dragon-wants-to-be-loved",
+    "tipo": "filme",
+    "titulo": "Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to Be Loved",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/udnoedTfNkI01LEZYmU50HJKy2R.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nBKrBDxNx10SuAKPLRtBXoRku5y.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 8.512,
+    "tmdbId": 1359607,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/miss-kobayashis-dragon-maid-a-lonely-dragon-wants-to-be-loved.json"
+  },
+  {
+    "id": "miss-potter",
+    "tipo": "filme",
+    "titulo": "Miss Potter",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fecGKwGABfZdMbiH1WQN9zMcOkS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/heXvhrTFCF8j84iFQtpXEKCFwGL.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.6,
+    "tmdbId": 13967,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/miss-potter.json"
+  },
+  {
+    "id": "miss-revolucao",
+    "tipo": "filme",
+    "titulo": "Miss Revolução",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/aTGC7rQR3YuTmBPDkxAS67q7unO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pfgIFToEcoXkOg83Cpx5lUct3qV.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.377,
+    "tmdbId": 567965,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/miss-revolucao.json"
+  },
+  {
+    "id": "miss-simpatia",
+    "tipo": "filme",
+    "titulo": "Miss Simpatia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9oae5r1ATLwVY7yJyTXhMaZSGGq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bTpjn4OEeoLEJYjRvEvkPfPQZdb.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.523,
+    "tmdbId": 1493,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/miss-simpatia.json"
+  },
+  {
+    "id": "miss-simpatia-2-armada-e-poderosa",
+    "tipo": "filme",
+    "titulo": "Miss Simpatia 2: Armada e Poderosa",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lT0IQTGioZ026n2fmhbvmvCCZQ0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2UYxVugjbaPHH5f3cEQveufe75Y.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 5.744,
+    "tmdbId": 10040,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/miss-simpatia-2-armada-e-poderosa.json"
+  },
+  {
+    "id": "miss-violence",
+    "tipo": "filme",
+    "titulo": "Miss Violence",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/39lWrMhjHMfemVq6d318OomTl0H.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5ILaorq0A4cuE7wRc6ZJ5rq3r4b.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.909,
+    "tmdbId": 211052,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/miss-violence.json"
+  },
+  {
+    "id": "missao-antena-uma-aventura-intergalactica",
+    "tipo": "filme",
+    "titulo": "Missão Antena: Uma Aventura Intergaláctica",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ishu8UT71z7YNWCRuYvdKcDhf9r.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uNk6g6ZkCJtdkbXeyTpLvAG9ANq.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.9,
+    "tmdbId": 885021,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-antena-uma-aventura-intergalactica.json"
+  },
+  {
+    "id": "missao-ataque",
+    "tipo": "filme",
+    "titulo": "Missão Ataque",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1jutkqkWfuds2mem3ku9rCXRqUR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/AaYfsgRcgU00n0MNVsn1604bfcu.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 6.8,
+    "tmdbId": 799155,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-ataque.json"
+  },
+  {
+    "id": "missao-baile-de-natal",
+    "tipo": "filme",
+    "titulo": "Missão Baile de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3BbAPhAZm1iUqQUYqwu92aEG309.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dQOpfSesO9bDsACU0eB7i1pMptD.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6,
+    "tmdbId": 832128,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-baile-de-natal.json"
+  },
+  {
+    "id": "missao-clandestina",
+    "tipo": "filme",
+    "titulo": "Missão Clandestina",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4SD3g1emJlCGpAJ6yaVQHAh37To.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uNK5dHo6HJpwk1BPcDHHyvX7ZLz.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.549,
+    "tmdbId": 983768,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-clandestina.json"
+  },
+  {
+    "id": "missao-condor",
+    "tipo": "filme",
+    "titulo": "Missão do Condor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hhb1oOZeetvpQ3h8PrO25mgoICa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uawFUFB0nYkPgRH0bTdRyY3qnJa.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.2,
+    "tmdbId": 401081,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-condor.json"
+  },
+  {
+    "id": "missao-cruzada",
+    "tipo": "filme",
+    "titulo": "Missão Cruzada",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/aJee3ZpITDSS1EB0HfLM5SSHWr7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eq24kKsd5S1NCZDrQ2fBkKDkWle.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.981,
+    "tmdbId": 1002088,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-cruzada.json"
+  },
+  {
+    "id": "missao-cupido",
+    "tipo": "filme",
+    "titulo": "Missão Cupido",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/d3VfXfQWSVuw4FbOldN9O6TX9F4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/27BhhiG8XKIWRRKc8gi1yA9qFST.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 6.1,
+    "tmdbId": 837970,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-cupido.json"
+  },
+  {
+    "id": "missao-de-honra",
+    "tipo": "filme",
+    "titulo": "Missão de Honra",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3lQAAu6WZ7l0Cn4KW3igVGIMPXl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wNqytPDXc9DULFbklchOg01tclm.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 5.9,
+    "tmdbId": 506863,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-de-honra.json"
+  },
+  {
+    "id": "missao-de-sobrevivencia",
+    "tipo": "filme",
+    "titulo": "Missão de Sobrevivência",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xsmNNU5UbnurOnCOdUHbpv2XyFI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8TLkiYAUwEXInVCJ3cQVyZXChyZ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 6.771,
+    "tmdbId": 717930,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-de-sobrevivencia.json"
+  },
+  {
+    "id": "missao-despedida-de-solteira",
+    "tipo": "filme",
+    "titulo": "Missão Despedida de Solteira",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3u8wB2GbfwLfmsN0Ihta7YZdb9T.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lx3qLjA0lW7dZGIk7xBEJaBeKDN.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 5.5,
+    "tmdbId": 771502,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-despedida-de-solteira.json"
+  },
+  {
+    "id": "missao-dragao-sua-historia",
+    "tipo": "filme",
+    "titulo": "Missão Dragão - Sua História",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-dragao-sua-historia.json"
+  },
+  {
+    "id": "missao-especial",
+    "tipo": "filme",
+    "titulo": "Missão Especial",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/baANa3HUBGqtsZmNVINhN2EOXTQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hQeziDlIu7WbAiV69FIuvvu3AbP.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 7.6,
+    "tmdbId": 58591,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-especial.json"
+  },
+  {
+    "id": "missao-extraordinaria",
+    "tipo": "filme",
+    "titulo": "Missão Extraordinária",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1rNCdSGUIB4UV8B653KsvN0U4ux.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/g0CkmVYQzGcquK5Y2Uo62UrUjbu.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.46,
+    "tmdbId": 445224,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-extraordinaria.json"
+  },
+  {
+    "id": "missao-extrema",
+    "tipo": "filme",
+    "titulo": "Hardcore: Missão Extrema",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hWhH3rD0rzh9L1S9FMeHZkiChU9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/agxzi8QIXWnZgLxwHck8wdjfYk7.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.4,
+    "tmdbId": 325348,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-extrema.json"
+  },
+  {
+    "id": "missao-final",
+    "tipo": "filme",
+    "titulo": "Missão: Impossível - O Acerto Final",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yKQjrwgEkPOGel3JKT2neJzu0jh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xPNDRM50a58uvv1il2GVZrtWjkZ.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7.161,
+    "tmdbId": 575265,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-final.json"
+  },
+  {
+    "id": "missao-impossivel",
+    "tipo": "filme",
+    "titulo": "Missão: Impossível",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/umMK2yDMbBeIAOR480WqnShmF1L.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eDtsTxALld2gPw9lO1hQIJXqMHu.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7.025,
+    "tmdbId": 954,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-impossivel.json"
+  },
+  {
+    "id": "missao-impossivel-acerto-de-contas-parte-1",
+    "tipo": "filme",
+    "titulo": "Missão: Impossível - Acerto de Contas Parte 1",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hBKxN5Z8gRo2am0whMeQlPv19K4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/628Dep6AxEtDxjZoGP78TsOxYbK.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 7.501,
+    "tmdbId": 575264,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-impossivel-acerto-de-contas-parte-1.json"
+  },
+  {
+    "id": "missao-impossivel-efeito-fallout",
+    "tipo": "filme",
+    "titulo": "Missão: Impossível - Efeito Fallout",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dheywKL0VNkd0kmRvUlTxVaHul1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5jnoAA74Qwb5w6B9FMvnc20n6Ie.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7.449,
+    "tmdbId": 353081,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-impossivel-efeito-fallout.json"
+  },
+  {
+    "id": "missao-impossivel-nacao-secreta",
+    "tipo": "filme",
+    "titulo": "Missão: Impossível - Nação Secreta",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3TlPBSjixffI0eu0xElK9cM8krO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vYIUN5rrCncHFY8WvcuXQlM4hk5.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7.223,
+    "tmdbId": 177677,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-impossivel-nacao-secreta.json"
+  },
+  {
+    "id": "missao-impossivel-o-acerto-final",
+    "tipo": "filme",
+    "titulo": "Missão: Impossível - O Acerto Final",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yKQjrwgEkPOGel3JKT2neJzu0jh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xPNDRM50a58uvv1il2GVZrtWjkZ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 7.161,
+    "tmdbId": 575265,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-impossivel-o-acerto-final.json"
+  },
+  {
     "id": "missao-impossivel-protocolo-fantasma",
     "tipo": "filme",
     "titulo": "Missão: Impossível - Protocolo Fantasma",
@@ -3837,528 +4361,5 @@
     "nota": 7.2,
     "tmdbId": 1213898,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-fronteira-2.json"
-  },
-  {
-    "id": "na-hora-da-virada",
-    "tipo": "filme",
-    "titulo": "Na Hora da Virada",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jbAoqJUA6mOJTKhVbJXaqNPmW6Z.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ytdxIeeZWP2BUgTRDaSOc2bg1EI.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 5.839,
-    "tmdbId": 655322,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-hora-da-virada.json"
-  },
-  {
-    "id": "na-linha-de-fogo",
-    "tipo": "filme",
-    "titulo": "Na Linha de Fogo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/i2yZp1YJOkhyHcUW8JX5b0CZcre.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zYM9IbF08gB1Ip3Qee19HPvNY8T.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.972,
-    "tmdbId": 9386,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-linha-de-fogo.json"
-  },
-  {
-    "id": "na-linha-de-frente",
-    "tipo": "filme",
-    "titulo": "Na Linha de Frente",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/flMRy43ua8UQOkp555xZAQ9fYQn.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/w9hg4nxfWRBPzNKZkaL0RpgPnbW.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.32,
-    "tmdbId": 733989,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-linha-de-frente.json"
-  },
-  {
-    "id": "na-mente-de-um-assassino-em-serie",
-    "tipo": "filme",
-    "titulo": "Na Mente de um Assassino em Série",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/q3ow2nKdtZyVyzqUL09XqbnDxWL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sTOBeWipCzZvdXYaZjWdtJ6Kmvl.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.5,
-    "tmdbId": 964873,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-mente-de-um-assassino-em-serie.json"
-  },
-  {
-    "id": "na-mente-do-demonio",
-    "tipo": "filme",
-    "titulo": "Na Mente do Demônio",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rKRra8tFuUKjed2JEpNRXrPkimi.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tFBVXnqmsmoSFR3rbltTfdGIMgV.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 4.842,
-    "tmdbId": 774021,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-mente-do-demonio.json"
-  },
-  {
-    "id": "na-mesma-onda",
-    "tipo": "filme",
-    "titulo": "Na Mesma Onda",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5xEFSRiGwxD9QY78nN5y1Mf2kF7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gzycjJWGw04DF6C7IYOA1F0cWhc.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.586,
-    "tmdbId": 694256,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-mesma-onda.json"
-  },
-  {
-    "id": "na-mira",
-    "tipo": "filme",
-    "titulo": "007: Na Mira dos Assassinos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/c9pkjwGBLCcpWpdafqjqoGvPhAm.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/hvGWyyC8wER1I8ExSXNtFBs7Mgd.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.247,
-    "tmdbId": 707,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-mira.json"
-  },
-  {
-    "id": "na-mira-do-atirador",
-    "tipo": "filme",
-    "titulo": "Na Mira do Atirador",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gRbvXParI3ZdEtsFxlGOQNaQBUQ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/eDw3ydtUpCE541mBFnEnSHyYuaH.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.405,
-    "tmdbId": 405775,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-mira-do-atirador.json"
-  },
-  {
-    "id": "na-mira-do-chefe",
-    "tipo": "filme",
-    "titulo": "Na Mira do Chefe",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/sbiE2zV3RipiEaWX6mUEYMEvK01.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dtGxDOcFssdUUTYBr6M6INXTI1e.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 7.501,
-    "tmdbId": 8321,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-mira-do-chefe.json"
-  },
-  {
-    "id": "na-mira-do-inimigo",
-    "tipo": "filme",
-    "titulo": "Greyhound - Na Mira do Inimigo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5l1DwjqjZVJzv4ecE2yPnXIIU3C.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xXBnM6uSTk6qqCf0SRZKXcga9Ba.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.414,
-    "tmdbId": 516486,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-mira-do-inimigo.json"
-  },
-  {
-    "id": "na-mira-do-perigo",
-    "tipo": "filme",
-    "titulo": "Na Mira do Perigo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/vW2My12kmNQ6P4877alchnQHTp8.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/5Zv5KmgZzdIvXz2KC3n0MyecSNL.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.8,
-    "tmdbId": 634528,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-mira-do-perigo.json"
-  },
-  {
-    "id": "na-mira-dos-assassinos",
-    "tipo": "filme",
-    "titulo": "007: Na Mira dos Assassinos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/c9pkjwGBLCcpWpdafqjqoGvPhAm.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/hvGWyyC8wER1I8ExSXNtFBs7Mgd.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.2,
-    "tmdbId": 707,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-mira-dos-assassinos.json"
-  },
-  {
-    "id": "na-mira-dos-mercenarios",
-    "tipo": "filme",
-    "titulo": "Na Mira dos Mercenários",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1Pak3gqLpv4JjadaEqnn37Q2XdL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gTydwZInr9ncMVFdYUzTcXtiTiT.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 8.113,
-    "tmdbId": 1134055,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-mira-dos-mercenarios.json"
-  },
-  {
-    "id": "na-natureza-selvagem",
-    "tipo": "filme",
-    "titulo": "Na Natureza Selvagem",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/lik7qbo2k5uslDFssFFMG88oTWW.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/87tmTU1NSR5EUGTKsF5rhLwZtZc.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.796,
-    "tmdbId": 5915,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-natureza-selvagem.json"
-  },
-  {
-    "id": "na-onda-do-ie-ie-ie",
-    "tipo": "filme",
-    "titulo": "Na Onda do Iê-Iê-Iê",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/i0toLdUJf0UwwLBdFuALX4aC34V.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/c5PIJZqREXAXo11KeuSDczipSuU.jpg",
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": 6.9,
-    "tmdbId": 143544,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-onda-do-ie-ie-ie.json"
-  },
-  {
-    "id": "na-palma-da-mao",
-    "tipo": "filme",
-    "titulo": "Na Palma da Mão",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/w6mwigYytOx5ksy1NLnEuq0mUAM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mLnbZF4B2ZUYkrbGZL5RGkfe0n4.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 7.304,
-    "tmdbId": 740441,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-palma-da-mao.json"
-  },
-  {
-    "id": "na-ponta-da-bala",
-    "tipo": "filme",
-    "titulo": "Na Ponta da Bala",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tPL0QsYAa00BzeNkJz2TGwElEug.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/v0dXDmenDx5ElQZvI5VhzdGamRP.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.4,
-    "tmdbId": 611562,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-ponta-da-bala.json"
-  },
-  {
-    "id": "na-ponta-dos-dedos",
-    "tipo": "filme",
-    "titulo": "Na Ponta dos Dedos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/udXBZy3UQAIA8IDSXMFHm6DPdsm.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wsMuEaqX5Sks209lnjWEChCdv3C.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE",
-      "4K"
-    ],
-    "nota": 5.924,
-    "tmdbId": 790459,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-ponta-dos-dedos.json"
-  },
-  {
-    "id": "na-praia-de-chesil",
-    "tipo": "filme",
-    "titulo": "Na Praia de Chesil",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3Coh2WI7VMkfcZlioyhlle9NN5Z.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lX3ag7lRucBnplL2nQiYkOyssbj.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.136,
-    "tmdbId": 391714,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-praia-de-chesil.json"
-  },
-  {
-    "id": "na-quebrada",
-    "tipo": "filme",
-    "titulo": "Na Quebrada",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6d6HIauSSQvybsmBkAXx0JPrqAG.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xblLMVyoua1ByLzX5y3WiooGY0K.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 5.3,
-    "tmdbId": 297278,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-quebrada.json"
-  },
-  {
-    "id": "na-redea-curta",
-    "tipo": "filme",
-    "titulo": "Na Rédea Curta",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rkGIrww1XY61uKVHi3jPW3HCSN8.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/knEXA4Yd0UeFdWjr4Fiy5pQ3Vhk.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.9,
-    "tmdbId": 1038810,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-redea-curta.json"
-  },
-  {
-    "id": "na-riqueza-e-na-pobreza",
-    "tipo": "filme",
-    "titulo": "Na Riqueza e na Pobreza",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xk5IZIBmLjmZIDmYC6XVImX8Hvn.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/19pPgJa9c3zxDGIcyoTH0IvWU2n.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.018,
-    "tmdbId": 10371,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-riqueza-e-na-pobreza.json"
-  },
-  {
-    "id": "na-selva",
-    "tipo": "filme",
-    "titulo": "Na Selva",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ztVMXVNCIYK0CgXOjEmJlWupn95.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tav8VVa6H6KooK5rFhAG2jT5ZNx.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.647,
-    "tmdbId": 390062,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-selva.json"
-  },
-  {
-    "id": "na-sinfonia-do-coracao",
-    "tipo": "filme",
-    "titulo": "Na Sinfonia do Coração",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/cmnU2u5WJjl8R6Q0JX2eBN7RpGY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/45zyokriFFgS2GpkBeLQiiLpqvI.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 6.6,
-    "tmdbId": 1001692,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-sinfonia-do-coracao.json"
-  },
-  {
-    "id": "na-solidao-da-noite",
-    "tipo": "filme",
-    "titulo": "Na Solidão da Noite",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6bpPtLRMbfSkH0k6sLdJRIcEeq3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9usqa6XNwQIduTwWh55F1xx0FLE.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.203,
-    "tmdbId": 13581,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-solidao-da-noite.json"
-  },
-  {
-    "id": "na-solidao-da-noite-assassinatos-na-mansao-bansal",
-    "tipo": "filme",
-    "titulo": "Na Solidão da Noite: Assassinatos na Mansão Bansal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/9bZc7kigr1L9UDlDBELH0OXvC42.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tql3kTLmF2FFeSVIlafFJiZfcfk.jpg",
-    "generos": [
-      "4K"
-    ],
-    "nota": 6.227,
-    "tmdbId": 1415974,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-solidao-da-noite-assassinatos-na-mansao-bansal.json"
-  },
-  {
-    "id": "na-sua-casa-ou-na-minha",
-    "tipo": "filme",
-    "titulo": "Na Sua Casa ou na Minha?",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/m7OCBWL0CngPMwe4b0iEsGxrlYg.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1phS20ufmCOtT8kPBm3izGo6omk.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE",
-      "4K"
-    ],
-    "nota": 6.25,
-    "tmdbId": 703451,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-sua-casa-ou-na-minha.json"
-  },
-  {
-    "id": "na-sua-pele-a-serie-marked-men",
-    "tipo": "filme",
-    "titulo": "Na Sua Pele - A Série Marked Men",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/o3fTmIZdIEJH9VM25QkJCxokWPz.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9qYD7pAOEdYBoQblv5VAMMSVAC8.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.66,
-    "tmdbId": 1078600,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-sua-pele-a-serie-marked-men.json"
-  },
-  {
-    "id": "na-teia-da-conspiracao",
-    "tipo": "filme",
-    "titulo": "Na Teia da Conspiração",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pjuhUetFtUh8xUgHED4hKGUBHz6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sVbglpaiJKbijVKgE9I0wg7BN41.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 3.6,
-    "tmdbId": 634452,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-teia-da-conspiracao.json"
-  },
-  {
-    "id": "na-teia-do-predador",
-    "tipo": "filme",
-    "titulo": "Na Teia do Predador",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kM2vBYPQJTQ3e4J1zIaHul4YUQR.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/o3iwTciERqcUEgaaqMidx8xrZkE.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": null,
-    "tmdbId": 860239,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-teia-do-predador.json"
-  },
-  {
-    "id": "na-terra-de-santos-e-pecadores",
-    "tipo": "filme",
-    "titulo": "Na Terra de Santos e Pecadores",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/eHEDQZcA5bl9EGk9lY0KymCZdkt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4kmNLwmVeT3xMciSRefE6SCi2hX.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.464,
-    "tmdbId": 1027073,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-terra-de-santos-e-pecadores.json"
-  },
-  {
-    "id": "na-toca-do-tigre",
-    "tipo": "filme",
-    "titulo": "Na Toca do Tigre",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/heqehuEfbg2283Z9hFmsVuv3UE3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6hCYCEJFAbKMb2plBDsu4jeVhcX.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.481,
-    "tmdbId": 341077,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-toca-do-tigre.json"
-  },
-  {
-    "id": "na-trilha-da-vinganca",
-    "tipo": "filme",
-    "titulo": "Na Trilha da Vingança",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wUIlv31rlnOM7YJUfTSdEGuQelb.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wl018wL6qEAplrorbgaLGDL9PPg.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 4.4,
-    "tmdbId": 150229,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-trilha-da-vinganca.json"
-  },
-  {
-    "id": "na-trilha-do-perigo",
-    "tipo": "filme",
-    "titulo": "Na Trilha do Perigo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oS8i40c2srBdb3hDcq3U8KjhzVe.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tpZgKe2NrNAjbyuKCSODuPw31ua.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.4,
-    "tmdbId": 972619,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/na-trilha-do-perigo.json"
-  },
-  {
-    "id": "nada-a-esconder",
-    "tipo": "filme",
-    "titulo": "Nada a Esconder",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1juJkwaqoJShq5NhdC7q7sBGApa.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vbQiBFEAffZOjuwF1xe11LPJMl9.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.58,
-    "tmdbId": 487476,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/nada-a-esconder.json"
-  },
-  {
-    "id": "nada-a-perder",
-    "tipo": "filme",
-    "titulo": "Nada a Perder",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yRWweQgRvTBZznCp7CI3PwGLY3X.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cgtS0zwX5FLxmpYDipoMXfVNiKD.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.241,
-    "tmdbId": 502581,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/nada-a-perder.json"
   }
 ]

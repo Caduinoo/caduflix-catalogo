@@ -1,5 +1,47 @@
 [
   {
+    "id": "dois-lados-do-amor",
+    "tipo": "filme",
+    "titulo": "Dois Lados do Amor: Ele",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mFQjlSmLMgTH3HL40EQ3ogbyVwt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ucSAipPMsiDeXoTp0OQj3cf953g.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.681,
+    "tmdbId": 276401,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dois-lados-do-amor.json"
+  },
+  {
+    "id": "dois-papas",
+    "tipo": "filme",
+    "titulo": "Dois Papas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lZmD4lMCgZydh8vAkx7JsykfqcW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bOPessdyd0dChHy70FM8Om7CgDg.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 7.486,
+    "tmdbId": 551332,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dois-papas.json"
+  },
+  {
+    "id": "domando-o-destino",
+    "tipo": "filme",
+    "titulo": "Domando o Destino",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8ZEDUyCB64IpbJOwIfov4hM79a1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oaAyNmnqbB8Ad3O2t9iymZ2gEJa.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 7.263,
+    "tmdbId": 453278,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/domando-o-destino.json"
+  },
+  {
     "id": "don-t-tell-a-soul",
     "tipo": "filme",
     "titulo": "Segredos Ocultos",
@@ -4348,49 +4390,5 @@
     "nota": 6.6,
     "tmdbId": 9410,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/grandes-esperancas.json"
-  },
-  {
-    "id": "gravida-e-perseguida",
-    "tipo": "filme",
-    "titulo": "Grávida e Perseguida",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/lG40TpozpphDgLzUYyLRtF7075g.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1TSnAl2b4ktsMNvPA0XwaGaojXy.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 5.5,
-    "tmdbId": 764853,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/gravida-e-perseguida.json"
-  },
-  {
-    "id": "green-book-o-guia",
-    "tipo": "filme",
-    "titulo": "Green Book: O Guia",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/u9dldwRwQjTZGlIxKaAtAPLAjOv.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg",
-    "generos": [
-      "DRAMA",
-      "4K"
-    ],
-    "nota": 8.224,
-    "tmdbId": 490132,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/green-book-o-guia.json"
-  },
-  {
-    "id": "greta",
-    "tipo": "filme",
-    "titulo": "Obsessão",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/vnqzWNawJqHctllEXw6iEGd42rL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/n67gpLtNFXqpGkM2ZdQoPLjTnI.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.555,
-    "tmdbId": 471506,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/greta.json"
   }
 ]

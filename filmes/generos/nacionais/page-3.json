@@ -1,5 +1,119 @@
 [
   {
+    "id": "s-o-s-mulheres-ao-mar",
+    "tipo": "filme",
+    "titulo": "S.O.S.: Mulheres ao Mar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3cB6m75oYbbuRI9K1Tgi2DBKhw9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aSb8UvibFfN2xG53dRkJabjALYF.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 6.674,
+    "tmdbId": 227961,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/s-o-s-mulheres-ao-mar.json"
+  },
+  {
+    "id": "sai-de-baixo-o-filme",
+    "tipo": "filme",
+    "titulo": "Sai de Baixo: O Filme",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6ugyCJOhnaWRnUdVI8cxXzehay2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/joTUWstWGdbQsx4k9J5v6upGd43.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 5.4,
+    "tmdbId": 573660,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sai-de-baixo-o-filme.json"
+  },
+  {
+    "id": "saideira",
+    "tipo": "filme",
+    "titulo": "Saideira",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xjhvoNtJaihX6CiRpGD9oPsLehu.jpg",
+    "banner": null,
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 3.8,
+    "tmdbId": 256109,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/saideira.json"
+  },
+  {
+    "id": "sala-escura",
+    "tipo": "filme",
+    "titulo": "Sala Escura",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cFWf7khqYRxHI9vLdf9XQKBPoYw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/meR8EiSwTZDlZDzPokNkDmJ3Hu3.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 3.4,
+    "tmdbId": 1302903,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sala-escura.json"
+  },
+  {
+    "id": "salomao",
+    "tipo": "filme",
+    "titulo": "Salomão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/eLPa8D0Xe0IOaO0MRZc1SeU0KNJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/c5VscpqTKbXD9iuTJDTvvEkupbT.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": null,
+    "tmdbId": 533853,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/salomao.json"
+  },
+  {
+    "id": "salve-geral-irmandade",
+    "tipo": "filme",
+    "titulo": "Salve Geral: Irmandade",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5AAzx2bcorTZUVe4Sk6yqhMBq1s.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1Xdsq7U7bvJJd2X7Jg4qNaKVkYO.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 5.681,
+    "tmdbId": 1426964,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/salve-geral-irmandade.json"
+  },
+  {
+    "id": "sangria",
+    "tipo": "filme",
+    "titulo": "Sangria",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7ncHFIGYMYfHGWEVdnKdLPGOIRD.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "NACIONAIS",
+      "LANÇAMENTOS"
+    ],
+    "nota": null,
+    "tmdbId": 1263028,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sangria.json"
+  },
+  {
+    "id": "sao-ateu",
+    "tipo": "filme",
+    "titulo": "São Ateu",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2vC15N8ImxpaqtImyXpgDnx1ogc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vJfZkTQuUXCCYO3BEP1HZV7A6uv.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": null,
+    "tmdbId": 1008554,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sao-ateu.json"
+  },
+  {
     "id": "sargento-getulio",
     "tipo": "filme",
     "titulo": "Sargento Getúlio",
@@ -804,6 +918,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/trash-a-esperanca-vem-do-lixo.json"
   },
   {
+    "id": "tristeza-do-jeca",
+    "tipo": "filme",
+    "titulo": "Tristeza do Jeca",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vjCBeW5tJGX1CdO7jlePqSN7u0b.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/At0sJurXhHUrCRsxdhcxuXNcwCG.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 5.857,
+    "tmdbId": 192915,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tristeza-do-jeca.json"
+  },
+  {
     "id": "tropa-de-elite",
     "tipo": "filme",
     "titulo": "Tropa de Elite",
@@ -858,6 +986,21 @@
     "nota": 5.143,
     "tmdbId": 217796,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tudo-isto-e-fado.json"
+  },
+  {
+    "id": "tudo-o-que-voce-podia-ser",
+    "tipo": "filme",
+    "titulo": "Tudo O Que Você Podia Ser",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xYxdFw8mPLAbFetKwx477bd4LGE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ih2ROLNLxN4NkCWGBvLO7Zt5X8V.jpg",
+    "generos": [
+      "NACIONAIS",
+      "LANÇAMENTOS"
+    ],
+    "nota": 7.5,
+    "tmdbId": 1142867,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tudo-o-que-voce-podia-ser.json"
   },
   {
     "id": "tudo-por-um-pop-star",

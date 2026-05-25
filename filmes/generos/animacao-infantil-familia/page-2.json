@@ -3218,6 +3218,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kaiju-no-8-missao-de-reconhecimento.json"
   },
   {
+    "id": "kart-nervoso",
+    "tipo": "filme",
+    "titulo": "Kart Nervoso",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fMFh6ESVe4m1iHQilNybOpScjYB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hRgQVdKh65nFiy2l7KhfWo7DHof.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.8,
+    "tmdbId": 520765,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kart-nervoso.json"
+  },
+  {
     "id": "kayara-a-princesa-inca",
     "tipo": "filme",
     "titulo": "Kayara - A Princesa Inca",
@@ -4350,19 +4364,5 @@
     "nota": 7.8,
     "tmdbId": 1238307,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/masameer-junior.json"
-  },
-  {
-    "id": "masha-e-o-urso-o-filme",
-    "tipo": "filme",
-    "titulo": "Masha e o Urso",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zZZDHukS9VOpicduVl8oR4imSSt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/yiLwkPFJII97VOwuABAIninc9bJ.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.8,
-    "tmdbId": 427515,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/masha-e-o-urso-o-filme.json"
   }
 ]

@@ -1,5 +1,197 @@
 [
   {
+    "id": "todas-as-mulheres-do-mundo",
+    "tipo": "serie",
+    "titulo": "Todas as Mulheres do Mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/37yfOQT3sKvjuds90N0umo7MhCJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qwTX47yKPamDYxXiN7rfaHQWoRf.jpg",
+    "generos": [
+      "GLOBOPLAY"
+    ],
+    "nota": 6,
+    "tmdbId": 102596,
+    "totalTemporadas": 1,
+    "totalEpisodios": 12,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todas-as-mulheres-do-mundo.json"
+  },
+  {
+    "id": "todo-dia-a-mesma-noite",
+    "tipo": "serie",
+    "titulo": "Todo Dia a Mesma Noite",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8yoy1yhOoZYa4LPxTUV9ujn6GMq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1F810lXCtZfIC0ILrgSqjXObTz2.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.573,
+    "tmdbId": 139396,
+    "totalTemporadas": 1,
+    "totalEpisodios": 5,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todo-dia-a-mesma-noite.json"
+  },
+  {
+    "id": "todo-mundo-adora-o-raymond",
+    "tipo": "serie",
+    "titulo": "Raymond e Companhia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7GAzXwyluc4Ti6RSknclxjRwzv6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zPyVcPi5vFjjHbZsYYbbIG1I0oL.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 6.817,
+    "tmdbId": 2140,
+    "totalTemporadas": 9,
+    "totalEpisodios": 212,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todo-mundo-adora-o-raymond.json"
+  },
+  {
+    "id": "todo-mundo-ainda-odeia-o-chris",
+    "tipo": "serie",
+    "titulo": "Todo Mundo Ainda Odeia o Chris",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zsYJDmGhwMNpqWIfyLSeXWHV2r5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sQW1zQChtQcGt33gNTytcBMfcKm.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 7.7,
+    "tmdbId": 207318,
+    "totalTemporadas": 1,
+    "totalEpisodios": 20,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todo-mundo-ainda-odeia-o-chris.json"
+  },
+  {
+    "id": "todo-mundo-me-ama-2024",
+    "tipo": "serie",
+    "titulo": "Todo Mundo Me Ama",
+    "ano": 2024,
+    "capa": "https://image.tmdb.org/t/p/w500/e5oAqbWQj5XJXepEYRg54xWFgvR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cT0BHScPLuvpWywZ04gLxF7q3K5.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 8,
+    "tmdbId": 247453,
+    "totalTemporadas": 1,
+    "totalEpisodios": 24,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todo-mundo-me-ama-2024.json"
+  },
+  {
+    "id": "todo-mundo-odeia-o-chris",
+    "tipo": "serie",
+    "titulo": "Todo Mundo Odeia o Chris",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dXyy1e3TJ5ut6DRCrQQT3TcsrGU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qji729gwCW88RpIIWidlaLTul3V.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 8.067,
+    "tmdbId": 252,
+    "totalTemporadas": 4,
+    "totalEpisodios": 88,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todo-mundo-odeia-o-chris.json"
+  },
+  {
+    "id": "todo-o-sangue",
+    "tipo": "serie",
+    "titulo": "Todo o Sangue",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zT92V2rxlWgpjjKlGnDdGFd6YMm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/khf56ZsusRO6lkc0dour50toaIg.jpg",
+    "generos": [
+      "GLOBOPLAY"
+    ],
+    "nota": 7.355,
+    "tmdbId": 207269,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todo-o-sangue.json"
+  },
+  {
+    "id": "todo-tempo-do-mundo",
+    "tipo": "serie",
+    "titulo": "Todo o Tempo do Mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hmmvaQ24fzP7NbAuAYte3ZL9CFg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nhqK6U30RH8ajERuai55wFRN2PB.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 7,
+    "tmdbId": 205160,
+    "totalTemporadas": 1,
+    "totalEpisodios": 12,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todo-tempo-do-mundo.json"
+  },
+  {
+    "id": "todo-va-a-estar-bien",
+    "tipo": "serie",
+    "titulo": "Todo va a estar bien",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pfyJTDOXJ5uo8bCXH6OonphxhQ3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pKqFl6dOCx9AHx8uBCOuPaSSyPI.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.8,
+    "tmdbId": 129675,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todo-va-a-estar-bien.json"
+  },
+  {
+    "id": "todos-amam-diamantes",
+    "tipo": "serie",
+    "titulo": "Todos Amam Diamantes",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/g1yime0F2LBsIed6DLheEU9Sizy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/WkeHNJtgEPf57yzw5vsfrL2JvZ.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 6.1,
+    "tmdbId": 229183,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todos-amam-diamantes.json"
+  },
+  {
+    "id": "todos-mentem",
+    "tipo": "serie",
+    "titulo": "Todos Mentem",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/A46oE1NLnEZO3tNS0KUswDVfwso.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dfPDlU4G1QJ9ZzgwfZl60e1azVr.jpg",
+    "generos": [
+      "HBO MAX"
+    ],
+    "nota": 5.8,
+    "tmdbId": 124902,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todos-mentem.json"
+  },
+  {
+    "id": "todos-os-crimes-da-louva-a-deus",
+    "tipo": "serie",
+    "titulo": "Todos os Crimes da Louva-a-Deus",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kX0vZSMsdSibAMFkwn9EJZjXrTD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4A5TEvk99fCg8WSgImYJ6dqqe8Y.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 7.54,
+    "tmdbId": 243248,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todos-os-crimes-da-louva-a-deus.json"
+  },
+  {
     "id": "todos-os-tubaroes-do-mundo",
     "tipo": "serie",
     "titulo": "Todos os Tubarões do Mundo",
@@ -4603,197 +4795,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 4,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vamos-curtir.json"
-  },
-  {
-    "id": "vamos-ficar-bem",
-    "tipo": "serie",
-    "titulo": "Vamos Ficar Bem",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/58QebCJChV8FWXOEucf7PWsHyVz.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/njuKYfHtXdCcrHCqkPlrNTD4S5g.jpg",
-    "generos": [
-      "DISNEY+"
-    ],
-    "nota": 6.667,
-    "tmdbId": 314172,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vamos-ficar-bem.json"
-  },
-  {
-    "id": "vamos-rodar-com-otis",
-    "tipo": "serie",
-    "titulo": "Vamos rodar com Otis",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qVU5yu9kgXeiKKdts0mfAaZQMn7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rHLs2Q9JWMFbEORqwKbFv278XL7.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 6.6,
-    "tmdbId": 133152,
-    "totalTemporadas": 2,
-    "totalEpisodios": 18,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vamos-rodar-com-otis.json"
-  },
-  {
-    "id": "vamos-volei-de-praia-feminino",
-    "tipo": "serie",
-    "titulo": "Vamos! Vôlei de Praia Feminino",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iL3et3wmG11NRuTCCAw437aso8G.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/pcA8Pk0Va1CPr6EKqZSnAdvHk0e.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 9,
-    "tmdbId": 259902,
-    "totalTemporadas": 1,
-    "totalEpisodios": 56,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vamos-volei-de-praia-feminino.json"
-  },
-  {
-    "id": "vamp",
-    "tipo": "serie",
-    "titulo": "Vamp",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uIU87AvtHQI8tr3kNvO8aegtQRI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lHZH2fL364idYF3ivBBZ4ugjbej.jpg",
-    "generos": [
-      "NOVELAS"
-    ],
-    "nota": 8.1,
-    "tmdbId": 36951,
-    "totalTemporadas": 1,
-    "totalEpisodios": 179,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vamp.json"
-  },
-  {
-    "id": "vampirina",
-    "tipo": "serie",
-    "titulo": "Vampirina",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wGlzmtf0ae9vAFIthuU2CLNAUEL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lXU4HMoNmrgPEO2meDmlv5kY8OG.jpg",
-    "generos": [
-      "DISNEY+"
-    ],
-    "nota": 6.65,
-    "tmdbId": 74323,
-    "totalTemporadas": 2,
-    "totalEpisodios": 48,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vampirina.json"
-  },
-  {
-    "id": "vampirina-o-show-das-sinistras",
-    "tipo": "serie",
-    "titulo": "Vampirina: O Show das Sinistras",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ylQHVh8K3IEjQxfQfqw0JheTH02.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xPvewjncQ8B8YsoTwmHdNLKLVhh.jpg",
-    "generos": [
-      "DISNEY+"
-    ],
-    "nota": 4,
-    "tmdbId": 84587,
-    "totalTemporadas": 1,
-    "totalEpisodios": 7,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vampirina-o-show-das-sinistras.json"
-  },
-  {
-    "id": "vampirina-uma-vampirinha-adolescente",
-    "tipo": "serie",
-    "titulo": "Vampirina: Uma Vampirinha Adolescente",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xcdQeAsCfv8JkkUpTWvF96snppo.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/m54fpF9Enq74G3liicywY1CzY2x.jpg",
-    "generos": [
-      "DISNEY+"
-    ],
-    "nota": 6.75,
-    "tmdbId": 275722,
-    "totalTemporadas": 1,
-    "totalEpisodios": 16,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vampirina-uma-vampirinha-adolescente.json"
-  },
-  {
-    "id": "vampiros",
-    "tipo": "serie",
-    "titulo": "Buffy: A Caça-Vampiros",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kptDNMjnrZl4DnF4OdpqovsYdea.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lBmlLro9ZfY815ZXE5NKhYNxPRQ.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 8.106,
-    "tmdbId": 95,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vampiros.json"
-  },
-  {
-    "id": "van-helsing",
-    "tipo": "serie",
-    "titulo": "Van Helsing",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/r8ODGmfNbZQlNhiJl2xQENE2jsk.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/5VltHQJXdmbSD6gEJw3R8R1Kbmc.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.045,
-    "tmdbId": 65820,
-    "totalTemporadas": 5,
-    "totalEpisodios": 64,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/van-helsing.json"
-  },
-  {
-    "id": "vanda",
-    "tipo": "serie",
-    "titulo": "Vanda",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/aNsPraDR9Yq7xeK5K4jkPc6gnis.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/77IhZGuDoyqVvZfbaubO8GPgZ9Z.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 7.1,
-    "tmdbId": 126889,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vanda.json"
-  },
-  {
-    "id": "vanderpump-villa-luxos-e-segredos",
-    "tipo": "serie",
-    "titulo": "Vanderpump Villa Luxos e Segredos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XpldoypVrt0lRleeB3Wng0Qv1i.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nwmrANFW0D7PV9nca9FvghclxFa.jpg",
-    "generos": [
-      "STAR+"
-    ],
-    "nota": 6,
-    "tmdbId": null,
-    "totalTemporadas": 2,
-    "totalEpisodios": 20,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vanderpump-villa-luxos-e-segredos.json"
-  },
-  {
-    "id": "vanished",
-    "tipo": "serie",
-    "titulo": "Vanished",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6Htrg4SobTHu9aYaYLGZaNLJvLX.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qI2pX6IWQojvh2kaLv6M233Iwqb.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 6.6,
-    "tmdbId": 287231,
-    "totalTemporadas": 1,
-    "totalEpisodios": 3,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vanished.json"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "total": 7159,
+  "total": 7172,
   "paginas": 24,
   "tamanhoPagina": 300,
   "todos": {
@@ -23,7 +23,7 @@
     {
       "slug": "apple",
       "nome": "APPLE+",
-      "total": 251,
+      "total": 252,
       "paginas": 1,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/apple/page-1.json"
     },
@@ -51,7 +51,7 @@
     {
       "slug": "doramas",
       "nome": "DORAMAS",
-      "total": 853,
+      "total": 857,
       "paginas": 3,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/doramas/page-1.json"
     },
@@ -65,21 +65,21 @@
     {
       "slug": "hbo-max",
       "nome": "HBO MAX",
-      "total": 549,
+      "total": 551,
       "paginas": 2,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/hbo-max/page-1.json"
     },
     {
       "slug": "netflix",
       "nome": "NETFLIX",
-      "total": 1630,
+      "total": 1635,
       "paginas": 6,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/netflix/page-1.json"
     },
     {
       "slug": "novelas",
       "nome": "NOVELAS",
-      "total": 244,
+      "total": 245,
       "paginas": 1,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/novelas/page-1.json"
     },

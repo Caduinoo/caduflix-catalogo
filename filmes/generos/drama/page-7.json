@@ -1,5 +1,78 @@
 [
   {
+    "id": "o-dia-que-mudou-o-mundo",
+    "tipo": "filme",
+    "titulo": "O Dia que Mudou o Mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/n1Uw2cMlQr9oz6sbekuEcCs4e9U.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pigQBEI6xpamTs8ItzXW3z77rtd.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.6,
+    "tmdbId": 655379,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-dia-que-mudou-o-mundo.json"
+  },
+  {
+    "id": "o-diabo-de-cada-dia",
+    "tipo": "filme",
+    "titulo": "O Diabo de Cada Dia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/spqWjgLWvWlluIodXFn1SsNtISC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gWPz2ucZxzbnbTQCJHADDCcGi9o.jpg",
+    "generos": [
+      "DRAMA",
+      "4K"
+    ],
+    "nota": 7.2,
+    "tmdbId": 499932,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-diabo-de-cada-dia.json"
+  },
+  {
+    "id": "o-diario-de-anne-frank",
+    "tipo": "filme",
+    "titulo": "O Diário de Anne Frank",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/i7kUdUAF9eTxQG7GdR6lKUK96En.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/t5rUpe1MwGP0JwMLbfaMJvAfUsG.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 7.176,
+    "tmdbId": 2576,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-diario-de-anne-frank.json"
+  },
+  {
+    "id": "o-diario-de-uma-adolescente",
+    "tipo": "filme",
+    "titulo": "O Diário de Uma Adolescente",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dmaO958Hq0EP2LxqRXxWrWwnSnD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jUiH4T53kBjyflRgzVuD6aB8hQi.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.578,
+    "tmdbId": 250124,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-diario-de-uma-adolescente.json"
+  },
+  {
+    "id": "o-direito-de-viver",
+    "tipo": "filme",
+    "titulo": "O Direito de Viver",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/prC4sNzMAyxgK53po7IxJ4xKqVk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zSIM1UOHCAsPWTJOCkoEWVdtas5.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.6,
+    "tmdbId": 565470,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-direito-de-viver.json"
+  },
+  {
     "id": "o-discurso-do-rei",
     "tipo": "filme",
     "titulo": "O Discurso do Rei",
@@ -4277,78 +4350,5 @@
     "nota": 5,
     "tmdbId": 416071,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-ultimo-vagao.json"
-  },
-  {
-    "id": "o-ultimo-vermeer",
-    "tipo": "filme",
-    "titulo": "O Último Vermeer",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nIiUA3yaQbacUttJ5JN0JeSEvZf.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nvrWMsbN8RyrRGPEYM3vlOrm8vV.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.5,
-    "tmdbId": 622977,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-ultimo-vermeer.json"
-  },
-  {
-    "id": "o-universo-de-oliver",
-    "tipo": "filme",
-    "titulo": "O Universo de Oliver",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oiMmOzeRh5miENfdxGmpdT8ZMai.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8Tzan9VsJ07dZEpqDYTWE96gDwb.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 5.9,
-    "tmdbId": 817951,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-universo-de-oliver.json"
-  },
-  {
-    "id": "o-vendedor-de-passados",
-    "tipo": "filme",
-    "titulo": "O Vendedor de Passados",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yEDegnyXrIDoTKCWHvqCuOhzgOB.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jx76V3kXF8S97Y1xMsEnmZK5fOY.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 5.9,
-    "tmdbId": 248549,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-vendedor-de-passados.json"
-  },
-  {
-    "id": "o-vendedor-de-sonhos",
-    "tipo": "filme",
-    "titulo": "O Vendedor de Sonhos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hV6l4wOhPDbEflqM1A2047D4F0E.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lM7whuu1XTr5rEDqEbTTtWoue9.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.688,
-    "tmdbId": 418896,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-vendedor-de-sonhos.json"
-  },
-  {
-    "id": "o-veterano",
-    "tipo": "filme",
-    "titulo": "O Veterano",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fbVbk4vpZczsB52OqsQkmijFhXP.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/y9m021FLQARGxoTyQdJk4C27zCS.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.9,
-    "tmdbId": 346646,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-veterano.json"
   }
 ]

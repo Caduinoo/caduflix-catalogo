@@ -1,5 +1,49 @@
 [
   {
+    "id": "a-lenda-de-billie-jean",
+    "tipo": "filme",
+    "titulo": "A Lenda de Billie Jean",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iK8IKYB6r4sJkh4JtI4yrgUxf9q.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/d6fvHVaOia07EACi5RmZmV05u85.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.6,
+    "tmdbId": 15982,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lenda-de-billie-jean.json"
+  },
+  {
+    "id": "a-lenda-de-candyman",
+    "tipo": "filme",
+    "titulo": "A Lenda de Candyman",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3HCrzTPjnPM8vJ882weWK3w9Clt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/g1cMEQnEptUJ7Sv8SRjWBTTHyMv.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6,
+    "tmdbId": 565028,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lenda-de-candyman.json"
+  },
+  {
+    "id": "a-lenda-de-golem",
+    "tipo": "filme",
+    "titulo": "A Lenda de Golem",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rQ8Nk709kWuMMk0IMQmbJbZe7pa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uFccsJMb7a4DuU9Y8wiG7TUlRsc.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.7,
+    "tmdbId": 532635,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lenda-de-golem.json"
+  },
+  {
     "id": "a-lenda-de-grendel",
     "tipo": "filme",
     "titulo": "A Lenda de Grendel",
@@ -2478,6 +2522,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-metade-negra.json"
   },
   {
+    "id": "a-mexicana",
+    "tipo": "filme",
+    "titulo": "A Mexicana",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gp81OzJEQb0OHrrcQPvGJajAKTr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/etJYRzgMpZQQaXmlJ2q0EwbjuZi.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.956,
+    "tmdbId": 6073,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-mexicana.json"
+  },
+  {
     "id": "a-milhoes-de-quilometros",
     "tipo": "filme",
     "titulo": "A Milhões de Quilômetros",
@@ -3057,6 +3115,21 @@
     "nota": 7,
     "tmdbId": 1057856,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-mulher-mais-bonita-de-saigon.json"
+  },
+  {
+    "id": "a-mulher-mais-rica-do-mundo",
+    "tipo": "filme",
+    "titulo": "A Mulher Mais Rica do Mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kYQ7nDESAkYR08RSz4PQe7J0YlO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fl36Z9J81DMOcmTW26UCmzr5LkY.jpg",
+    "generos": [
+      "COMÉDIA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.1,
+    "tmdbId": 1309725,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-mulher-mais-rica-do-mundo.json"
   },
   {
     "id": "a-mulher-milagrosa",
@@ -3915,6 +3988,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-odisseia-de-jacques.json"
   },
   {
+    "id": "a-odisseia-dos-tontos",
+    "tipo": "filme",
+    "titulo": "A Odisseia dos Tontos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fEtGiZ6NEEo6z2wQGiiiAsmdxpL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1lVzpmCxVd7SNSswEIfFND4I2si.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 7.56,
+    "tmdbId": 596054,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-odisseia-dos-tontos.json"
+  },
+  {
     "id": "a-oitava-clausula",
     "tipo": "filme",
     "titulo": "A Oitava Cláusula",
@@ -4289,91 +4376,5 @@
     "nota": 7.54,
     "tmdbId": 615,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-paixao-de-cristo.json"
-  },
-  {
-    "id": "a-paixao-segundo-g-h",
-    "tipo": "filme",
-    "titulo": "A Paixão Segundo G.H.",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/cuXbKwUO4y4swgKvbyy58MOUXhV.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/m3wARXek8GToFKQPSpX0rOIyl5k.jpg",
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": 6.5,
-    "tmdbId": 566268,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-paixao-segundo-g-h.json"
-  },
-  {
-    "id": "a-palavra",
-    "tipo": "filme",
-    "titulo": "A Palavra",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/sSFtJytLcrQp21jaLDi845e8Ecs.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mp0LuXFSAV2Ze02xHHFxVJ2Hn4E.jpg",
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": 6,
-    "tmdbId": 286255,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-palavra.json"
-  },
-  {
-    "id": "a-palavra-de-pablo",
-    "tipo": "filme",
-    "titulo": "A Palavra de Pablo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4fSD3wa1FNDIwBwAXjlUImjk7dq.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6kbUwkGVYkZzOQUXsU60MYblSod.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.3,
-    "tmdbId": 427427,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-palavra-de-pablo.json"
-  },
-  {
-    "id": "a-pandemia-da-agua",
-    "tipo": "filme",
-    "titulo": "A Pandemia da Água",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fPpr2Smzj8HzvgjJ2hvXZ7dvVFx.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nOaLgER55rOF3lo7yJd2MR1CK59.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 4.5,
-    "tmdbId": 940100,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-pandemia-da-agua.json"
-  },
-  {
-    "id": "a-pantera-cor-de-rosa",
-    "tipo": "filme",
-    "titulo": "A Pantera Cor-de-Rosa",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/vsA6L6kNdkr3Zhi03u3PFxUSWz1.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3jiNJ4lyAmdSidvbFTFIL2GQGBu.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.864,
-    "tmdbId": 12096,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-pantera-cor-de-rosa.json"
-  },
-  {
-    "id": "a-paranoia-de-lulu",
-    "tipo": "filme",
-    "titulo": "A Paranoia de Lulu",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pZtTmf67sxOyYBSjX9TGIZXQpeD.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/y4ddQhHT9NRAoDG165RA7Sp6DXr.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 4.2,
-    "tmdbId": 1119197,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-paranoia-de-lulu.json"
   }
 ]

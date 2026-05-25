@@ -1,5 +1,21 @@
 [
   {
+    "id": "familia-upshaw",
+    "tipo": "serie",
+    "titulo": "Família Upshaw",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4nx4OywRxhXIZqAUddIBBis2bL0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2etWIt4JMD4wHzJIZVi7YeI5UZa.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.61,
+    "tmdbId": 121509,
+    "totalTemporadas": 7,
+    "totalEpisodios": 60,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/familia-upshaw.json"
+  },
+  {
     "id": "farejando-novos-mundos",
     "tipo": "serie",
     "titulo": "Farejando Novos Mundos",
@@ -652,6 +668,22 @@
     "totalTemporadas": 1,
     "totalEpisodios": 3,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/fundamentos-do-prazer.json"
+  },
+  {
+    "id": "futuro-deserto",
+    "tipo": "serie",
+    "titulo": "Futuro Deserto",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/seLCeeCuoK6vba3SRXdmaUkb5mL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wjg2I9SPAuRQV7cCVIjgQK62Hqi.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6,
+    "tmdbId": 321594,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/futuro-deserto.json"
   },
   {
     "id": "gamera-o-renascimento",
@@ -4762,37 +4794,5 @@
     "totalTemporadas": 2,
     "totalEpisodios": 20,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/marlon.json"
-  },
-  {
-    "id": "marselha-em-perigo",
-    "tipo": "serie",
-    "titulo": "Marselha em Perigo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4xfZQ7cpwXpo5oWX5Gd0zu0SX2p.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vINfddqZKlEsOzDpDfnHrrEAaH1.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.4,
-    "tmdbId": 216985,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/marselha-em-perigo.json"
-  },
-  {
-    "id": "masha-e-o-urso",
-    "tipo": "serie",
-    "titulo": "Masha e o Urso",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ze2ocNwb3d2R3DLmzdL7kNFrx50.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mZmxNM7XMMT1QroznAQWmRf7duP.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 6.9,
-    "tmdbId": 46080,
-    "totalTemporadas": 5,
-    "totalEpisodios": 29,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/masha-e-o-urso.json"
   }
 ]

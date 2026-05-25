@@ -1,5 +1,69 @@
 [
   {
+    "id": "jogos-invictus-veteranos-no-topo",
+    "tipo": "serie",
+    "titulo": "Jogos Invictus: Veteranos no Topo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5kmNhrZ7mwc0J4Cqyp3oARub1zT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ff9AurSrpTD87sKvJjHRxWwmxA5.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.375,
+    "tmdbId": 232745,
+    "totalTemporadas": 1,
+    "totalEpisodios": 5,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/jogos-invictus-veteranos-no-topo.json"
+  },
+  {
+    "id": "jogos-sagrados",
+    "tipo": "serie",
+    "titulo": "Jogos Sagrados",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/v68l72g8ycIt4t2sAfoUEoyvjJr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qtac9X9lSLqZFbxS71347N8MiID.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.801,
+    "tmdbId": 79352,
+    "totalTemporadas": 2,
+    "totalEpisodios": 16,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/jogos-sagrados.json"
+  },
+  {
+    "id": "john-wayne-gacy-palhaco-assassino",
+    "tipo": "serie",
+    "titulo": "John Wayne Gacy: Palhaço Assassino",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ya629sWgAos3whZRYRiAwsLWNiD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tvt0tNVUdQLZoabP5B7n4VRGrWf.jpg",
+    "generos": [
+      "GLOBOPLAY"
+    ],
+    "nota": 6.98,
+    "tmdbId": 121718,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/john-wayne-gacy-palhaco-assassino.json"
+  },
+  {
+    "id": "johnny-depp-x-amber-heard",
+    "tipo": "serie",
+    "titulo": "Johnny Depp x Amber Heard",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cuQSOW4bPJHysDWjiMkKkM4IiST.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/s7FuyFlBwsLXwKN6yq9IrwJsxKz.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 5.883,
+    "tmdbId": 227381,
+    "totalTemporadas": 1,
+    "totalEpisodios": 3,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/johnny-depp-x-amber-heard.json"
+  },
+  {
     "id": "johnny-test",
     "tipo": "serie",
     "titulo": "Johnny Test",
@@ -2668,6 +2732,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/largados-e-pelados-brasil-a-tribo.json"
   },
   {
+    "id": "largados-e-pelados-campeoes-do-mundo",
+    "tipo": "serie",
+    "titulo": "Largados e Pelados: Campeões do Mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/reO7DifUKgkxMs0oSctxUmADTih.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/h6qTrmhUkeLOXWnGTkBlwjZg2jr.jpg",
+    "generos": [
+      "HBO MAX"
+    ],
+    "nota": null,
+    "tmdbId": 322536,
+    "totalTemporadas": 1,
+    "totalEpisodios": 1,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/largados-e-pelados-campeoes-do-mundo.json"
+  },
+  {
     "id": "largados-e-pelados-espanha",
     "tipo": "serie",
     "titulo": "Largados e Pelados: Espanha",
@@ -4709,84 +4789,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 16,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/love-all-play.json"
-  },
-  {
-    "id": "love-beyond-dreams-2026",
-    "tipo": "serie",
-    "titulo": "Love Beyond Dreams",
-    "ano": 2026,
-    "capa": "https://image.tmdb.org/t/p/w500/dq6Q7HOyH9wT1cq5qwUzgOg5XPt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2EWZVQsvx7d5wKbDLjNN7SGuCrw.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": null,
-    "tmdbId": 308254,
-    "totalTemporadas": 1,
-    "totalEpisodios": 2,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/love-beyond-dreams-2026.json"
-  },
-  {
-    "id": "love-e-translation",
-    "tipo": "serie",
-    "titulo": "Love e Translation",
-    "ano": null,
-    "capa": null,
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": 0,
-    "tmdbId": null,
-    "totalTemporadas": 1,
-    "totalEpisodios": 7,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/love-e-translation.json"
-  },
-  {
-    "id": "love-in-the-moonlight",
-    "tipo": "serie",
-    "titulo": "Love in the Moonlight",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tUgHEXrYPjkzpY4aUCDg7YZh7uF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/5IvFyqglPR501Bvk4NX60mzlVKM.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 7,
-    "tmdbId": 66256,
-    "totalTemporadas": 1,
-    "totalEpisodios": 18,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/love-in-the-moonlight.json"
-  },
-  {
-    "id": "love-in-the-time-of-corona",
-    "tipo": "serie",
-    "titulo": "Love in the Time of Corona",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kJ79Ha5ySFQ67yslYdtyeR7ni4J.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jGOc70lsObezZDJGIJv0a9ZCu8T.jpg",
-    "generos": [
-      "STAR+"
-    ],
-    "nota": 4.2,
-    "tmdbId": 106567,
-    "totalTemporadas": 1,
-    "totalEpisodios": 4,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/love-in-the-time-of-corona.json"
-  },
-  {
-    "id": "love-is-like-a-cat",
-    "tipo": "serie",
-    "titulo": "O Amor é Como um Gato",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/lw9sUEhS982bq6crgPFrNS8gLBh.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2hhpK3Yp4xIcAF57wMmlyTANFIH.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 6.444,
-    "tmdbId": 240052,
-    "totalTemporadas": 1,
-    "totalEpisodios": 12,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/love-is-like-a-cat.json"
   }
 ]

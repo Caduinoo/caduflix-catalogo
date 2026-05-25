@@ -3012,6 +3012,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/enquanto-voce-dorme.json"
   },
   {
+    "id": "enterrando-os-mortos",
+    "tipo": "filme",
+    "titulo": "Enterrando os Mortos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/x6H4DtBRIfwTcOIK64R8pSXNpvN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vbkW4KerpshPZnP84w9qwSfYrhu.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER",
+      "LANÇAMENTOS"
+    ],
+    "nota": 5.966,
+    "tmdbId": 1198984,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/enterrando-os-mortos.json"
+  },
+  {
     "id": "entre-mentiras-e-segredos",
     "tipo": "filme",
     "titulo": "Entre Segredos e Mentiras",
@@ -4317,6 +4332,62 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-24.json"
   },
   {
+    "id": "fascinacao-mortal-a-vinganca-25",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.25",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-25.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-26",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.26",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-26.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-27",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.27",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-27.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-28",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.28",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-28.json"
+  },
+  {
     "id": "fascinacao-mortal-a-vinganca-3",
     "tipo": "filme",
     "titulo": "Fascinacao Mortal A Vinganca.3",
@@ -4329,75 +4400,5 @@
     "nota": null,
     "tmdbId": null,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-3.json"
-  },
-  {
-    "id": "fascinacao-mortal-a-vinganca-4",
-    "tipo": "filme",
-    "titulo": "Fascinacao Mortal A Vinganca.4",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
-    "banner": null,
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-4.json"
-  },
-  {
-    "id": "fascinacao-mortal-a-vinganca-5",
-    "tipo": "filme",
-    "titulo": "Fascinacao Mortal A Vinganca.5",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
-    "banner": null,
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-5.json"
-  },
-  {
-    "id": "fascinacao-mortal-a-vinganca-6",
-    "tipo": "filme",
-    "titulo": "Fascinacao Mortal A Vinganca.6",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
-    "banner": null,
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-6.json"
-  },
-  {
-    "id": "fascinacao-mortal-a-vinganca-7",
-    "tipo": "filme",
-    "titulo": "Fascinacao Mortal A Vinganca.7",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
-    "banner": null,
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-7.json"
-  },
-  {
-    "id": "fascinacao-mortal-a-vinganca-8",
-    "tipo": "filme",
-    "titulo": "Fascinacao Mortal A Vinganca.8",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
-    "banner": null,
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-8.json"
   }
 ]

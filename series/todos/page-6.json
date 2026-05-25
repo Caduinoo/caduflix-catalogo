@@ -1,5 +1,21 @@
 [
   {
+    "id": "cecilia",
+    "tipo": "serie",
+    "titulo": "Cecilia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yc5Ikrd6HclkOk1AtpckKTW9ING.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rdLfM9xPiY6CbzMCm2K4MS2zSBq.jpg",
+    "generos": [
+      "PARAMOUNT+"
+    ],
+    "nota": 7.6,
+    "tmdbId": 154117,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/cecilia.json"
+  },
+  {
     "id": "cela-211",
     "tipo": "serie",
     "titulo": "Cela 211",
@@ -4777,21 +4793,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 10,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/cosme-e-damiao-quase-santos.json"
-  },
-  {
-    "id": "cosmo-o-cosmonauta",
-    "tipo": "serie",
-    "titulo": "Cosmo - O Cosmonauta",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/AvRz9Gf1Pk9LBorLE9hgjQ0yavv.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vMnEVtd8NJ6zWtSQ5pYpl2VxW4B.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": null,
-    "tmdbId": 257068,
-    "totalTemporadas": 1,
-    "totalEpisodios": 13,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/cosmo-o-cosmonauta.json"
   }
 ]

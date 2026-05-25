@@ -2153,7 +2153,8 @@
     "banner": "https://image.tmdb.org/t/p/original/z1fzWsGB2ePLFrTJcsynLpP7hnB.jpg",
     "generos": [
       "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
+      "AÇÃO | CRIME | GUERRA",
+      "LANÇAMENTOS"
     ],
     "nota": 6.756,
     "tmdbId": 1305642,
@@ -2630,7 +2631,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/j0WSbme3zUOmo8dk0qJ97tDiF0M.jpg",
     "banner": "https://image.tmdb.org/t/p/original/6Y014ckpxww11CGAIRL8uT4Pz5n.jpg",
     "generos": [
-      "LEGENDADOS"
+      "LEGENDADOS",
+      "COMÉDIA"
     ],
     "nota": 6,
     "tmdbId": 922017,

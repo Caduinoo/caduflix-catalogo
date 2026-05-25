@@ -1,5 +1,100 @@
 [
   {
+    "id": "patinando-no-amor",
+    "tipo": "serie",
+    "titulo": "Patinando no Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hJIKzGBqsx35XDNOJah7IqERXlN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3aeYYriPQN7886in9bIGKnbC5eQ.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.521,
+    "tmdbId": 281401,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/patinando-no-amor.json"
+  },
+  {
+    "id": "patria",
+    "tipo": "serie",
+    "titulo": "Pátria Minha",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/m3EJtyMPsByG5AfFNDCwIuGvjqP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hKdZ1OvOAFcd0TwMj5ANA1aoZnf.jpg",
+    "generos": [
+      "HBO MAX"
+    ],
+    "nota": 8.1,
+    "tmdbId": 80096,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/patria.json"
+  },
+  {
+    "id": "patria-educadora",
+    "tipo": "serie",
+    "titulo": "Pátria Educadora",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/v4JTl6g4IzRoH3qOeW6JHGTQEPu.jpg",
+    "generos": [
+      "BRASIL PARALELO"
+    ],
+    "nota": 1,
+    "tmdbId": 214036,
+    "totalTemporadas": 1,
+    "totalEpisodios": 3,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/patria-educadora.json"
+  },
+  {
+    "id": "patria-minha",
+    "tipo": "serie",
+    "titulo": "Pátria Minha",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/m3EJtyMPsByG5AfFNDCwIuGvjqP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hKdZ1OvOAFcd0TwMj5ANA1aoZnf.jpg",
+    "generos": [
+      "NOVELAS"
+    ],
+    "nota": 8.1,
+    "tmdbId": 80096,
+    "totalTemporadas": 1,
+    "totalEpisodios": 394,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/patria-minha.json"
+  },
+  {
+    "id": "patrick-melrose",
+    "tipo": "serie",
+    "titulo": "Patrick Melrose",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/t6ubZ1Bpu0elTzA8tT2mxkrfpxA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/u2D2NlCGWi5HwNOJqDMdsvxT2ud.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 7.541,
+    "tmdbId": 72787,
+    "totalTemporadas": 1,
+    "totalEpisodios": 5,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/patrick-melrose.json"
+  },
+  {
+    "id": "patrulha-canina",
+    "tipo": "serie",
+    "titulo": "Patrulha Canina",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pQ0bBHR9Q3wurjNMjnqal0gJaYo.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.988,
+    "tmdbId": 57532,
+    "totalTemporadas": 11,
+    "totalEpisodios": 380,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/patrulha-canina.json"
+  },
+  {
     "id": "patrulha-do-destino",
     "tipo": "serie",
     "titulo": "Patrulha do Destino",
@@ -3225,6 +3320,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/pra-sempre-paquitas.json"
   },
   {
+    "id": "prazer-maximo-garantido",
+    "tipo": "serie",
+    "titulo": "Prazer Máximo Garantido",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/b5mDbXQoTs6SPjbBjoWfvWOpGhc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9mZlvYlGA4jblCvAvOpinrgn6hr.jpg",
+    "generos": [
+      "APPLE+"
+    ],
+    "nota": 5.2,
+    "tmdbId": 285404,
+    "totalTemporadas": 1,
+    "totalEpisodios": 2,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/prazer-maximo-garantido.json"
+  },
+  {
     "id": "preacher",
     "tipo": "serie",
     "titulo": "Preacher",
@@ -4678,117 +4789,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 12,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/que-bicho-te-mordeu.json"
-  },
-  {
-    "id": "que-chegue-a-voce-kimi-ni-todoke",
-    "tipo": "serie",
-    "titulo": "Que Chegue a Você: Kimi ni Todoke",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/swGezgkBg5kQDoc2i3i5PhLqQyM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nh0BS0sLXozmkTpOe1Ve33MyxlK.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 8.4,
-    "tmdbId": 68854,
-    "totalTemporadas": 1,
-    "totalEpisodios": 12,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/que-chegue-a-voce-kimi-ni-todoke.json"
-  },
-  {
-    "id": "que-cilada",
-    "tipo": "serie",
-    "titulo": "Que Cilada!",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dwL7AnlTgIHlVdFsIAyfNAG3KeH.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zs0PRb6t85moW4XxdyKkU4YoVc7.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7,
-    "tmdbId": 154535,
-    "totalTemporadas": 2,
-    "totalEpisodios": 12,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/que-cilada.json"
-  },
-  {
-    "id": "que-falta-voce-me-faz",
-    "tipo": "serie",
-    "titulo": "Que Falta Você Me Faz",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dPAKujqmx2QMWpvro1EGezSJ8SC.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/iC92jNOuhxSIGTFoMmAjtyaNOGV.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 6.089,
-    "tmdbId": 244243,
-    "totalTemporadas": 1,
-    "totalEpisodios": 5,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/que-falta-voce-me-faz.json"
-  },
-  {
-    "id": "que-legal-scooby-doo",
-    "tipo": "serie",
-    "titulo": "Que Legal, Scooby-Doo!",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/f3BcfmJdmPWJ6PrdKIe9GosjAQ1.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cbX2t9bg9rhpmABQYI5tLbxT3xD.jpg",
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": 8,
-    "tmdbId": 64228,
-    "totalTemporadas": 2,
-    "totalEpisodios": 50,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/que-legal-scooby-doo.json"
-  },
-  {
-    "id": "que-mundo-e-esse",
-    "tipo": "serie",
-    "titulo": "Que Mundo é Esse?",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ufOmPWHvHSNaKCTviUXUm0rmQVr.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/26Co56KeQLF8DmvihbylKCq8hxm.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 8,
-    "tmdbId": 224012,
-    "totalTemporadas": 10,
-    "totalEpisodios": 45,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/que-mundo-e-esse.json"
-  },
-  {
-    "id": "que-rei-sou-eu",
-    "tipo": "serie",
-    "titulo": "Que Rei Sou Eu?",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hOBWBacfgBuWVCWgrSeOTuxZw0G.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dMG5cMO2xDO3mwYd009Afm7ZrK3.jpg",
-    "generos": [
-      "NOVELAS"
-    ],
-    "nota": 7.3,
-    "tmdbId": 46122,
-    "totalTemporadas": 1,
-    "totalEpisodios": 185,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/que-rei-sou-eu.json"
-  },
-  {
-    "id": "que-seja-doce",
-    "tipo": "serie",
-    "titulo": "Que Seja Doce",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3QOx2n0fYO8zI7QSXCr2ZzY3sQG.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vRueLwIIP0CQiQ73SOzYspqw8kG.jpg",
-    "generos": [
-      "GLOBOPLAY"
-    ],
-    "nota": 10,
-    "tmdbId": 201297,
-    "totalTemporadas": 10,
-    "totalEpisodios": 404,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/que-seja-doce.json"
   }
 ]

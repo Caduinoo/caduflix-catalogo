@@ -3406,6 +3406,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/carinha-de-anjo.json"
   },
   {
+    "id": "carissima",
+    "tipo": "serie",
+    "titulo": "Caríssima",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6e4ivA7v8vlzardz4IXPXzqxRrE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/70CPFXIDYgpj6Q5q4l7bVk0iUcU.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.7,
+    "tmdbId": 321597,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/carissima.json"
+  },
+  {
     "id": "carlo",
     "tipo": "serie",
     "titulo": "Monte Carlo",
@@ -4778,21 +4794,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 5,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/cazalbe-o-herdeiro-da-graca.json"
-  },
-  {
-    "id": "cecilia",
-    "tipo": "serie",
-    "titulo": "Cecilia",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yc5Ikrd6HclkOk1AtpckKTW9ING.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rdLfM9xPiY6CbzMCm2K4MS2zSBq.jpg",
-    "generos": [
-      "PARAMOUNT+"
-    ],
-    "nota": 7.6,
-    "tmdbId": 154117,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/cecilia.json"
   }
 ]

@@ -1,5 +1,117 @@
 [
   {
+    "id": "que-chegue-a-voce-kimi-ni-todoke",
+    "tipo": "serie",
+    "titulo": "Que Chegue a Você: Kimi ni Todoke",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/swGezgkBg5kQDoc2i3i5PhLqQyM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nh0BS0sLXozmkTpOe1Ve33MyxlK.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 8.4,
+    "tmdbId": 68854,
+    "totalTemporadas": 1,
+    "totalEpisodios": 12,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/que-chegue-a-voce-kimi-ni-todoke.json"
+  },
+  {
+    "id": "que-cilada",
+    "tipo": "serie",
+    "titulo": "Que Cilada!",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dwL7AnlTgIHlVdFsIAyfNAG3KeH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zs0PRb6t85moW4XxdyKkU4YoVc7.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7,
+    "tmdbId": 154535,
+    "totalTemporadas": 2,
+    "totalEpisodios": 12,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/que-cilada.json"
+  },
+  {
+    "id": "que-falta-voce-me-faz",
+    "tipo": "serie",
+    "titulo": "Que Falta Você Me Faz",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dPAKujqmx2QMWpvro1EGezSJ8SC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iC92jNOuhxSIGTFoMmAjtyaNOGV.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.089,
+    "tmdbId": 244243,
+    "totalTemporadas": 1,
+    "totalEpisodios": 5,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/que-falta-voce-me-faz.json"
+  },
+  {
+    "id": "que-legal-scooby-doo",
+    "tipo": "serie",
+    "titulo": "Que Legal, Scooby-Doo!",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/f3BcfmJdmPWJ6PrdKIe9GosjAQ1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cbX2t9bg9rhpmABQYI5tLbxT3xD.jpg",
+    "generos": [
+      "HBO MAX"
+    ],
+    "nota": 8,
+    "tmdbId": 64228,
+    "totalTemporadas": 2,
+    "totalEpisodios": 50,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/que-legal-scooby-doo.json"
+  },
+  {
+    "id": "que-mundo-e-esse",
+    "tipo": "serie",
+    "titulo": "Que Mundo é Esse?",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ufOmPWHvHSNaKCTviUXUm0rmQVr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/26Co56KeQLF8DmvihbylKCq8hxm.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 8,
+    "tmdbId": 224012,
+    "totalTemporadas": 10,
+    "totalEpisodios": 45,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/que-mundo-e-esse.json"
+  },
+  {
+    "id": "que-rei-sou-eu",
+    "tipo": "serie",
+    "titulo": "Que Rei Sou Eu?",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hOBWBacfgBuWVCWgrSeOTuxZw0G.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dMG5cMO2xDO3mwYd009Afm7ZrK3.jpg",
+    "generos": [
+      "NOVELAS"
+    ],
+    "nota": 7.3,
+    "tmdbId": 46122,
+    "totalTemporadas": 1,
+    "totalEpisodios": 185,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/que-rei-sou-eu.json"
+  },
+  {
+    "id": "que-seja-doce",
+    "tipo": "serie",
+    "titulo": "Que Seja Doce",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3QOx2n0fYO8zI7QSXCr2ZzY3sQG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vRueLwIIP0CQiQ73SOzYspqw8kG.jpg",
+    "generos": [
+      "GLOBOPLAY"
+    ],
+    "nota": 10,
+    "tmdbId": 201297,
+    "totalTemporadas": 10,
+    "totalEpisodios": 404,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/que-seja-doce.json"
+  },
+  {
     "id": "quebra-cabeca-criminal",
     "tipo": "serie",
     "titulo": "Quebra-cabeça Criminal",
@@ -174,6 +286,22 @@
     "totalTemporadas": 1,
     "totalEpisodios": 6,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/queer-eye-brasil.json"
+  },
+  {
+    "id": "quem-ama-cuida",
+    "tipo": "serie",
+    "titulo": "Quem Ama Cuida",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lzLkCVaN1l0RBYYDClZ983l4ZOz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/usn2hDX2RIPjvHQE72sSLLHjoDM.jpg",
+    "generos": [
+      "NOVELAS"
+    ],
+    "nota": 7.5,
+    "tmdbId": 306956,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/quem-ama-cuida.json"
   },
   {
     "id": "quem-contratou-o-assassino",
@@ -4664,133 +4792,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 20,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/ruyi.json"
-  },
-  {
-    "id": "s-m-a-s-h-acampamento-de-super-herois",
-    "tipo": "serie",
-    "titulo": "S.M.A.S.H.! Acampamento de Super-Heróis",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jR2I7EsBfBIYI0Yb3SIjmFAV1Za.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xXzCIbD2UWIzRHDfsgxr8Rg78kz.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 1.5,
-    "tmdbId": 208759,
-    "totalTemporadas": 1,
-    "totalEpisodios": 13,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/s-m-a-s-h-acampamento-de-super-herois.json"
-  },
-  {
-    "id": "s-w-a-t-forca-de-intervencao",
-    "tipo": "serie",
-    "titulo": "S.W.A.T.: Força de Intervenção",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/byFarhK0Wxmf9mSOOR9ZQ31sShJ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7j4ug9B6JXVeh5HhQjjPScrdj4Z.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 8,
-    "tmdbId": 71790,
-    "totalTemporadas": 8,
-    "totalEpisodios": 163,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/s-w-a-t-forca-de-intervencao.json"
-  },
-  {
-    "id": "sabadou-com-virginia",
-    "tipo": "serie",
-    "titulo": "Sabadou com Virginia",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/p0BoG6JfPaIHWMRH3E5RW7IW6NQ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tPsTC65vSu3kUOGRSbod6yeshY8.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": null,
-    "tmdbId": 251680,
-    "totalTemporadas": 1,
-    "totalEpisodios": 28,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sabadou-com-virginia.json"
-  },
-  {
-    "id": "saber-marionette-j",
-    "tipo": "serie",
-    "titulo": "Garotas Marionetes J",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/n3LApkobOxCK7z1jjfTAWiHiTpz.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rSQ14CqSVOvtHA3vnR3YJjzNLCz.jpg",
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": 6.818,
-    "tmdbId": 25850,
-    "totalTemporadas": 1,
-    "totalEpisodios": 27,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/saber-marionette-j.json"
-  },
-  {
-    "id": "sabikui-bisco",
-    "tipo": "serie",
-    "titulo": "SABIKUI BISCO",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hT9DTlUZxyq96Kuo0b9yEGYZrj9.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1PjeMinKDUgHaWyFdlkCXKlDZnb.jpg",
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": 6.37,
-    "tmdbId": 120142,
-    "totalTemporadas": 1,
-    "totalEpisodios": 12,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sabikui-bisco.json"
-  },
-  {
-    "id": "sabor-caseiro-com-antoni-porowski",
-    "tipo": "serie",
-    "titulo": "Sabor Caseiro com Antoni Porowski",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/koqiIz3e783rmNdDjli8jDnwitn.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tIlE57Vk1QKeZil5zGfNyHCkWwX.jpg",
-    "generos": [
-      "DISNEY+"
-    ],
-    "nota": 4.1,
-    "tmdbId": 282756,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sabor-caseiro-com-antoni-porowski.json"
-  },
-  {
-    "id": "sabores-da-fazenda-com-molly",
-    "tipo": "serie",
-    "titulo": "Sabores da Fazenda com Molly",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6z4xAt1ApAg0ZflX3h3lAySJ1jk.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uckFeUGfgVDd3WuOoJ6nvqA951m.jpg",
-    "generos": [
-      "DISCOVERY+"
-    ],
-    "nota": 4,
-    "tmdbId": 80714,
-    "totalTemporadas": 7,
-    "totalEpisodios": 77,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sabores-da-fazenda-com-molly.json"
-  },
-  {
-    "id": "safe",
-    "tipo": "serie",
-    "titulo": "Safe",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/lrA2SSoWp3zzb0MBdjWKCVN0qEF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ctvZVrJBRjOgLeQtLaNEbg9w0y8.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 6.893,
-    "tmdbId": 72792,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/safe.json"
   }
 ]

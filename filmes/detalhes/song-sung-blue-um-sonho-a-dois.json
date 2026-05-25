@@ -5,7 +5,8 @@
   "ano": null,
   "descricao": "Mike e Claire Sardina, um casal azarado de Milwaukee, compartilham o sonho de se tornarem músicos de sucesso. Ambos com grandes aspirações, a dupla decide mudar radicalmente o rumo de suas carreiras: eles formam uma banda de tributo a Neil Diamond. Essa decisão inesperada transforma a vida dos dois artistas, que rapidamente se tornam um ícone local, lidando com a fama e as consequências dessa guinada profissional e pessoal.",
   "generos": [
-    "DRAMA"
+    "DRAMA",
+    "ROMANCE"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/zRtwTGqMbgv2PaTSAMg0R3qfUO4.jpg",
   "banner": "https://image.tmdb.org/t/p/original/8dlna8rRcf5gDCRzEsjtHizpj1X.jpg",
@@ -18,9 +19,16 @@
       "qualidade": "Não informado",
       "xtreamId": 11032899,
       "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11060888,
+      "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1774615371,
+  "dataCriacaoXtream": 1779613182,
   "tituloOriginal": "Song Sung Blue",
   "dataLancamento": "2025-12-25"
 }

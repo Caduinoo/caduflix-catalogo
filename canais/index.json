@@ -1,5 +1,5 @@
 {
-  "total": 1770,
+  "total": 1771,
   "todos": "https://caduinoo.github.io/caduflix-catalogo/canais/todos.json",
   "categorias": [
     {
@@ -125,7 +125,7 @@
     {
       "slug": "jogos-do-dia",
       "nome": "JOGOS DO DIA",
-      "total": 13,
+      "total": 14,
       "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/jogos-do-dia.json"
     },
     {

@@ -18,112 +18,121 @@
     "xtreamId": 2318977
   },
   {
-    "id": "canal-11059732",
+    "id": "canal-11060780",
     "tipo": "canal",
-    "titulo": "11h30 Hull City X Middlesbrough (Espn 4)",
-    "tituloNormalizado": "11h30 hull city x middlesbrough (espn 4)",
+    "titulo": "10h Parma X Sassuolo (X Sports)",
+    "tituloNormalizado": "10h parma x sassuolo (x sports)",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11059732
+    "xtreamId": 11060780
   },
   {
-    "id": "canal-11059733",
+    "id": "canal-11060781",
     "tipo": "canal",
-    "titulo": "13h Bologna X Inter de Milão (Espn 2)",
-    "tituloNormalizado": "13h bologna x inter de milao (espn 2)",
+    "titulo": "12h Crystal Palace X Arsenal (Espn 1)",
+    "tituloNormalizado": "12h crystal palace x arsenal (espn 1)",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11059733
+    "xtreamId": 11060781
   },
   {
-    "id": "canal-11059734",
+    "id": "canal-11060783",
     "tipo": "canal",
-    "titulo": "15h Bayern X Stuttgart (Espn 2)",
-    "tituloNormalizado": "15h bayern x stuttgart (espn 2)",
+    "titulo": "12h Liverpool X Brentford (X Sports)",
+    "tituloNormalizado": "12h liverpool x brentford (x sports)",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11059734
+    "xtreamId": 11060783
   },
   {
-    "id": "canal-11059736",
+    "id": "canal-11060782",
     "tipo": "canal",
-    "titulo": "16h Celta de Vigo X Sevilla (Espn 3)",
-    "tituloNormalizado": "16h celta de vigo x sevilla (espn 3)",
+    "titulo": "12h Tottenham X Everton (Espn 3)",
+    "tituloNormalizado": "12h tottenham x everton (espn 3)",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11059736
+    "xtreamId": 11060782
   },
   {
-    "id": "canal-11059735",
+    "id": "canal-11060784",
     "tipo": "canal",
-    "titulo": "16h Novorizontino X Ceará (Espn 4)",
-    "tituloNormalizado": "16h novorizontino x ceara (espn 4)",
+    "titulo": "15h30 River Plate X Belgrano (Espn 1)",
+    "tituloNormalizado": "15h30 river plate x belgrano (espn 1)",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11059735
+    "xtreamId": 11060784
   },
   {
-    "id": "canal-11059737",
+    "id": "canal-11060785",
     "tipo": "canal",
-    "titulo": "16h Real Madrid X Athletic Club (ESPN 1)",
-    "tituloNormalizado": "16h real madrid x athletic club (espn 1)",
+    "titulo": "15h40 Milan X Cagliari (Espn 3)",
+    "tituloNormalizado": "15h40 milan x cagliari (espn 3)",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11059737
+    "xtreamId": 11060785
   },
   {
-    "id": "canal-11059738",
+    "id": "canal-11060786",
     "tipo": "canal",
-    "titulo": "16h Valência X Barcelona (Disney)",
-    "tituloNormalizado": "16h valencia x barcelona (disney)",
+    "titulo": "16h Cruzeiro X Chapecoense (Prime Video)",
+    "tituloNormalizado": "16h cruzeiro x chapecoense (prime video)",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11059738
+    "xtreamId": 11060786
   },
   {
-    "id": "canal-11059739",
+    "id": "canal-11060787",
     "tipo": "canal",
-    "titulo": "17h São Paulo X Botafogo (Globo SP)",
-    "tituloNormalizado": "17h sao paulo x botafogo (globo sp)",
+    "titulo": "16h Remo X Athletico PR (Premiere 3)",
+    "tituloNormalizado": "16h remo x athletico pr (premiere 3)",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11059739
+    "xtreamId": 11060787
   },
   {
-    "id": "canal-11059740",
+    "id": "canal-11060788",
     "tipo": "canal",
-    "titulo": "17h Vitória X Internacional (Globo RBS Porto Alegre)",
-    "tituloNormalizado": "17h vitoria x internacional (globo rbs porto alegre)",
+    "titulo": "16h30 CRB X Ponte Preta (X Sports)",
+    "tituloNormalizado": "16h30 crb x ponte preta (x sports)",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11059740
+    "xtreamId": 11060788
   },
   {
-    "id": "canal-11059741",
+    "id": "canal-11060790",
     "tipo": "canal",
-    "titulo": "19h Gremio X Santos (Premiere 3)",
-    "tituloNormalizado": "19h gremio x santos (premiere 3)",
+    "titulo": "18h30 América MG X Vila Nova (Espn 1)",
+    "tituloNormalizado": "18h30 america mg x vila nova (espn 1)",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11059741
+    "xtreamId": 11060790
   },
   {
-    "id": "canal-11059742",
+    "id": "canal-11060789",
     "tipo": "canal",
-    "titulo": "19h Mirassol X Fluminense (Premiere 4)",
-    "tituloNormalizado": "19h mirassol x fluminense (premiere 4)",
+    "titulo": "18h30 Corinthians X Atlético MG (Record SP)",
+    "tituloNormalizado": "18h30 corinthians x atletico mg (record sp)",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11059742
+    "xtreamId": 11060789
   },
   {
-    "id": "canal-11059743",
+    "id": "canal-11060791",
     "tipo": "canal",
-    "titulo": "21h Flamengo X Palmeiras (Sportv 1)",
-    "tituloNormalizado": "21h flamengo x palmeiras (sportv 1)",
+    "titulo": "19h Avai X Goiás (X Sports)",
+    "tituloNormalizado": "19h avai x goias (x sports)",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11059743
+    "xtreamId": 11060791
+  },
+  {
+    "id": "canal-11060792",
+    "tipo": "canal",
+    "titulo": "20h30 Vasco X Bragantino (Sportv 1)",
+    "tituloNormalizado": "20h30 vasco x bragantino (sportv 1)",
+    "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
+    "categoria": "JOGOS DO DIA",
+    "xtreamId": 11060792
   },
   {
     "id": "canal-2330463",

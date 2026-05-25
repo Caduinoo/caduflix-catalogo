@@ -7,7 +7,8 @@
   "generos": [
     "LEGENDADOS",
     "AÇÃO | CRIME | GUERRA",
-    "LANÇAMENTOS"
+    "LANÇAMENTOS",
+    "4K"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",
   "banner": "https://image.tmdb.org/t/p/original/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
@@ -34,9 +35,16 @@
       "qualidade": "Não informado",
       "xtreamId": 11050050,
       "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 11060803,
+      "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1778864786,
+  "dataCriacaoXtream": 1779613152,
   "tituloOriginal": "The Punisher: One Last Kill",
   "dataLancamento": "2026-05-12"
 }

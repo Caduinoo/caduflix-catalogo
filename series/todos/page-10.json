@@ -1,5 +1,37 @@
 [
   {
+    "id": "funk-doc-popular-e-proibido",
+    "tipo": "serie",
+    "titulo": "Funk.Doc: Popular & Proibido",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/a1XizO958bYhDeLX9N5xcqxXeNN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jV4blHRyVosDVas91a2jZSD2WSI.jpg",
+    "generos": [
+      "HBO MAX"
+    ],
+    "nota": 2,
+    "tmdbId": 208853,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/funk-doc-popular-e-proibido.json"
+  },
+  {
+    "id": "funkbol",
+    "tipo": "serie",
+    "titulo": "Funkbol",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5Uivwkw514vNQJp5YjZeTYmnFKA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8HkeA8BJCA47cR3s5Ix6hvUABAj.jpg",
+    "generos": [
+      "PARAMOUNT+"
+    ],
+    "nota": null,
+    "tmdbId": 211243,
+    "totalTemporadas": 1,
+    "totalEpisodios": 5,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/funkbol.json"
+  },
+  {
     "id": "furia-no-transito",
     "tipo": "serie",
     "titulo": "Fúria no Trânsito",
@@ -78,6 +110,22 @@
     "totalTemporadas": 3,
     "totalEpisodios": 34,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/future-man.json"
+  },
+  {
+    "id": "futuro-deserto",
+    "tipo": "serie",
+    "titulo": "Futuro Deserto",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/seLCeeCuoK6vba3SRXdmaUkb5mL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wjg2I9SPAuRQV7cCVIjgQK62Hqi.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6,
+    "tmdbId": 321594,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/futuro-deserto.json"
   },
   {
     "id": "fuuto-tantei",
@@ -4743,53 +4791,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/historias-para-vestir.json"
-  },
-  {
-    "id": "historias-paranormais",
-    "tipo": "serie",
-    "titulo": "Histórias Paranormais",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gQ0cbdm0aMiliZIyoAnEqBR5eqE.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gohKKnUEyYeedT0iuxIixUSeDGY.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 7.6,
-    "tmdbId": 136649,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/historias-paranormais.json"
-  },
-  {
-    "id": "historias-quase-verdadeiras",
-    "tipo": "serie",
-    "titulo": "Histórias Quase Verdadeiras",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/sr0yYbldpFPWrjKWQz6bhbUv8Z.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9mYIlkioHU3is4jOebFBjOtmlX5.jpg",
-    "generos": [
-      "GLOBOPLAY"
-    ],
-    "nota": 3.5,
-    "tmdbId": 217082,
-    "totalTemporadas": 1,
-    "totalEpisodios": 4,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/historias-quase-verdadeiras.json"
-  },
-  {
-    "id": "historico-criminal",
-    "tipo": "serie",
-    "titulo": "Histórico Criminal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1cFttwi8XM9LgvSOReapPY5qscO.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/Q9FMVA1UvX8cnNImaZc0dlpMdB.jpg",
-    "generos": [
-      "APPLE+"
-    ],
-    "nota": 6.6,
-    "tmdbId": 204490,
-    "totalTemporadas": 2,
-    "totalEpisodios": 12,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/historico-criminal.json"
   }
 ]

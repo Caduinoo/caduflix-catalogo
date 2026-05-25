@@ -1,5 +1,695 @@
 [
   {
+    "id": "rambo-3",
+    "tipo": "filme",
+    "titulo": "Rambo III",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/c3bdFa5aFeFYU02Tpdm66ZaLHpg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.201,
+    "tmdbId": 1370,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rambo-3.json"
+  },
+  {
+    "id": "rambo-4",
+    "tipo": "filme",
+    "titulo": "Rambo IV",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2NbmBzgG1chI3fS31HHfZEEsApw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wzfTG1obTazlGXiIcfRIviBZ1QU.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.695,
+    "tmdbId": 7555,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rambo-4.json"
+  },
+  {
+    "id": "rambo-ate-o-fim",
+    "tipo": "filme",
+    "titulo": "Rambo: Até o Fim",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9gf35jSBJmvavQDRZlpjpLzax1b.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.527,
+    "tmdbId": 522938,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rambo-ate-o-fim.json"
+  },
+  {
+    "id": "rambo-last-blood",
+    "tipo": "filme",
+    "titulo": "Rambo: Até o Fim",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9gf35jSBJmvavQDRZlpjpLzax1b.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.527,
+    "tmdbId": 522938,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rambo-last-blood.json"
+  },
+  {
+    "id": "ramona",
+    "tipo": "filme",
+    "titulo": "Ramona e Beezus",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fZfj166LV0d12ynxlOEhl5GNl7f.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2iMiJaNF0azeIvS1vxNA4uIyKbP.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.553,
+    "tmdbId": 38843,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ramona.json"
+  },
+  {
+    "id": "rampage-destruicao-total",
+    "tipo": "filme",
+    "titulo": "Rampage - Destruição Total",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7bhqCvl771uepyt6wbzEiryxEoc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vm8mhrjk5nQ562UQ0KbUzi0yOHr.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 6.447,
+    "tmdbId": 427641,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rampage-destruicao-total.json"
+  },
+  {
+    "id": "ran",
+    "tipo": "filme",
+    "titulo": "Ran",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gWw6iyVEoWtYLRNeyS9nv6sgXlx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3ssNAWypRl47iriwBFNx7RUEUub.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 8,
+    "tmdbId": 11645,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ran.json"
+  },
+  {
+    "id": "rango",
+    "tipo": "filme",
+    "titulo": "Rango",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vPbGgAvsIOpxmZNFMommYLwW5p3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mOtKQlXdL5J4lwqcSFlkZmgmFeZ.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.9,
+    "tmdbId": 44896,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rango.json"
+  },
+  {
+    "id": "rapida-e-mortal",
+    "tipo": "filme",
+    "titulo": "Rápida e Mortal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lBQmZPxS6y9U4j6cs78DUd8QuYQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wwdzmWC1Ra9SqPBrtCyRNJ4oYUO.jpg",
+    "generos": [
+      "FAROESTE"
+    ],
+    "nota": 6.544,
+    "tmdbId": 12106,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rapida-e-mortal.json"
+  },
+  {
+    "id": "rapida-vinganca",
+    "tipo": "filme",
+    "titulo": "Rápida Vingança",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/x4anws7fUn61e3Imq18ZrflXDdA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jItFLAs2urRwwQ5rmc61LTd1les.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.355,
+    "tmdbId": 41283,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rapida-vinganca.json"
+  },
+  {
+    "id": "rapidos-e-perigosos",
+    "tipo": "filme",
+    "titulo": "Rápidos e Perigosos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8RaoK2PVUWucLXpsE3FGzR81Z4g.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3cWLsIHku2MNDwaqmsQVTZg1YJi.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.4,
+    "tmdbId": 284279,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rapidos-e-perigosos.json"
+  },
+  {
+    "id": "rapidos-e-perigosos-2",
+    "tipo": "filme",
+    "titulo": "Rápidos e Perigosos 2",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oFKltxozxKLegd6NSX0fp0G2g0L.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/74sVVy7XKPx74JplMszhtZ78fbj.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.31,
+    "tmdbId": 417503,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rapidos-e-perigosos-2.json"
+  },
+  {
+    "id": "raposa-de-fogo",
+    "tipo": "filme",
+    "titulo": "Raposa de Fogo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hG8cvRON30sWwiCUibcv2TboQ9A.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3mOZ5ZpU3TeibDjFkUV7NkqfX4q.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.063,
+    "tmdbId": 10724,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/raposa-de-fogo.json"
+  },
+  {
+    "id": "rapunzel-enrolados",
+    "tipo": "filme",
+    "titulo": "Enrolados",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wZzVkdnc0kw20lSJc13ZmgTPah3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.611,
+    "tmdbId": 38757,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rapunzel-enrolados.json"
+  },
+  {
+    "id": "raquel-11",
+    "tipo": "filme",
+    "titulo": "Raquel 1:1",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/numZOhSuBd3qzJyjQ49wlBNOqce.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hOhDrgCh4aHwbNYDPieDGFARPlZ.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 4.9,
+    "tmdbId": 789602,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/raquel-11.json"
+  },
+  {
+    "id": "rascal-does-not-dream-of-a-knapsack-kid",
+    "tipo": "filme",
+    "titulo": "Rascal Does Not Dream of a Knapsack Kid",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/AOaGSpVbo4fl325aq7xKxUInPj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wdbrAbyYucapX2EZnb0YkbA5GJd.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.724,
+    "tmdbId": 1086591,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rascal-does-not-dream-of-a-knapsack-kid.json"
+  },
+  {
+    "id": "rascal-does-not-dream-of-a-sister-venturing-out",
+    "tipo": "filme",
+    "titulo": "Rascal Does Not Dream of a Sister Venturing Out",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/paTSxRphNiIhi25g2v290FtpX22.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sdh76YtGseZHPk4WiOJjMzKKFSB.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMES"
+    ],
+    "nota": 7.707,
+    "tmdbId": 1056803,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rascal-does-not-dream-of-a-sister-venturing-out.json"
+  },
+  {
+    "id": "rasga-coracao",
+    "tipo": "filme",
+    "titulo": "Rasga Coração",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/21TGdSdl4zPtggfmhNyNgPpFzfN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/FdxdR35Idc5KYBBXgmz3ifJ9Tu.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 7.2,
+    "tmdbId": 555590,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rasga-coracao.json"
+  },
+  {
+    "id": "rastos-de-sangue",
+    "tipo": "filme",
+    "titulo": "Rastos de Sangue",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yHwi0rNp3tCJp4Nd30fed8k6vC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mFupZZnpjv1vyusFBw5U32J2SvB.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.7,
+    "tmdbId": 1081055,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rastos-de-sangue.json"
+  },
+  {
+    "id": "rastro-de-maldade",
+    "tipo": "filme",
+    "titulo": "Rastro de Maldade",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oyRk9uMgBxRm0ABo7Xne68GOwlm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/orXMq2jZy8wFmePv7zXS2Kor7Ug.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.88,
+    "tmdbId": 294963,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rastro-de-maldade.json"
+  },
+  {
+    "id": "rastro-de-violencia",
+    "tipo": "filme",
+    "titulo": "Rastro de Violência",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rNT546tDBkIMJU2c3ETEJ82822j.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/46O8mr0YUhr3RM1tpWbatuzl1uu.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 1.5,
+    "tmdbId": 526964,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rastro-de-violencia.json"
+  },
+  {
+    "id": "rastro-do-ouro",
+    "tipo": "filme",
+    "titulo": "Rastro do Ouro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/or8efRgDO5SRNCcpi3DYESF0D0K.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/j4tRkotaHwbhv06CqoKWdYxgD6s.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.789,
+    "tmdbId": 1669929,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rastro-do-ouro.json"
+  },
+  {
+    "id": "rastro-mortal",
+    "tipo": "filme",
+    "titulo": "Rastro Mortal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qci9am94Atnlqwm0BlMqbme1bbB.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": null,
+    "tmdbId": 1202816,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rastro-mortal.json"
+  },
+  {
+    "id": "rastros-da-violencia",
+    "tipo": "filme",
+    "titulo": "Rastros da Violência",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zlj2aTbNi0eNXyPeQ5NxpjROBYI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lXV99D0vbh6h13sL5L18tKrpjLo.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.246,
+    "tmdbId": 100544,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rastros-da-violencia.json"
+  },
+  {
+    "id": "rastros-de-odio",
+    "tipo": "filme",
+    "titulo": "Rastros de Ódio",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/eYeu5zK5OKYymE4mGv3o5Ov0eSB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fik1HN9kxpD4CtEOXA4WUruwsg1.jpg",
+    "generos": [
+      "FAROESTE"
+    ],
+    "nota": 7.694,
+    "tmdbId": 3114,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rastros-de-odio.json"
+  },
+  {
+    "id": "rastros-de-um-crime",
+    "tipo": "filme",
+    "titulo": "Rastros de um Crime",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bT90ikAfeBHDkijtNbtLA7vq6st.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qhPPEveBOh9IAY6ITNd71vR8jPN.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.5,
+    "tmdbId": 876024,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rastros-de-um-crime.json"
+  },
+  {
+    "id": "rastros-de-um-sequestro",
+    "tipo": "filme",
+    "titulo": "Rastros de um Sequestro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/XpQer8IH6zl2xN2qiTpkPWzYng.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tGFII2hY0O0qXPAPGE1fBDOONQJ.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 7.886,
+    "tmdbId": 488623,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rastros-de-um-sequestro.json"
+  },
+  {
+    "id": "rastros-de-vinganca",
+    "tipo": "filme",
+    "titulo": "Rastros de Vingança",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bWVXytEPn7KZsDgz4QNhcgR0L1w.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/he3tSbGMewQLt92dPcJruwc3ctk.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.263,
+    "tmdbId": 13200,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rastros-de-vinganca.json"
+  },
+  {
+    "id": "rastros-do-alem",
+    "tipo": "filme",
+    "titulo": "Rastros do Além",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5ksGsTE5oarWjqpk4jM4RA1n1Ie.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eQVNZF8KC5C5qjetpnphCDAb6n1.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.458,
+    "tmdbId": 448095,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rastros-do-alem.json"
+  },
+  {
+    "id": "ratatouille",
+    "tipo": "filme",
+    "titulo": "Ratatouille",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/41Co0TRUJNyvjr2vHBEcAKAEFpX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.841,
+    "tmdbId": 2062,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ratatouille.json"
+  },
+  {
+    "id": "ratos-e-homens",
+    "tipo": "filme",
+    "titulo": "Ratos e Homens",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lnecIARJi0C2n5VuDOcVNZmU38.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5HVwz8cImMEwcV2z1SMFyJHY51q.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 7.257,
+    "tmdbId": 9609,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ratos-e-homens.json"
+  },
+  {
+    "id": "raven-o-nome-da-vinganca",
+    "tipo": "filme",
+    "titulo": "Raven: O Nome da Vingança",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lTrXeXEUvMsLVIQpZV5UJGxgD2Z.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qn2MtqJjaSD7TH33lcVLlx5ShJB.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": null,
+    "tmdbId": 1425653,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/raven-o-nome-da-vinganca.json"
+  },
+  {
+    "id": "ravens",
+    "tipo": "filme",
+    "titulo": "Ravens",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnwPqxjE2HjYScNsr4tp2hdxNMn.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": null,
+    "tmdbId": 932568,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ravens.json"
+  },
+  {
+    "id": "ray",
+    "tipo": "filme",
+    "titulo": "Ray",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xPefp7xbKR44SnuAXJJODN4a8z.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/umtxTkop7Ec9UFynjB7Z53lmkX1.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 7.45,
+    "tmdbId": 1677,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ray.json"
+  },
+  {
+    "id": "ray-and-liz",
+    "tipo": "filme",
+    "titulo": "Ray & Liz",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ld0XmIdvHFuq4bGJIrSsHzAlLKk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xun01wWCAFyHvo8rQhGuMXFvKe7.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.7,
+    "tmdbId": 500438,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ray-and-liz.json"
+  },
+  {
+    "id": "ray-donovan-o-filme",
+    "tipo": "filme",
+    "titulo": "Ray Donovan: O Filme",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5sw1EvOeXMGRZGWr18R4EiZs036.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tUYotMWdNGXtH22cs7p3a7c19PS.jpg",
+    "generos": [
+      "DRAMA",
+      "4K"
+    ],
+    "nota": 6.803,
+    "tmdbId": 800425,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ray-donovan-o-filme.json"
+  },
+  {
+    "id": "raya-e-o-ultimo-dragao",
+    "tipo": "filme",
+    "titulo": "Raya e o Último Dragão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/w3fnXZoHK9aFuvC9566SAtZuhAp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zmX7ObPaRfiCmY6LMalUb1bJDKj.jpg",
+    "generos": [
+      "4K",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.803,
+    "tmdbId": 527774,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/raya-e-o-ultimo-dragao.json"
+  },
+  {
+    "id": "raymond-e-ray",
+    "tipo": "filme",
+    "titulo": "Raymond & Ray",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fdKZmSQHD17JjGUYkluhpttgJRi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mifoXrO18fyEBPYn9UqNduunod9.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA",
+      "4K"
+    ],
+    "nota": 6.207,
+    "tmdbId": 869025,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/raymond-e-ray.json"
+  },
+  {
+    "id": "razao-e-sensibilidade",
+    "tipo": "filme",
+    "titulo": "Razão e Sensibilidade",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/avfV8Se2eTfmFAZf0aAPOdq2WcV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cFnyfWHL6HjOOVal6lp8e5gqibK.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 7.42,
+    "tmdbId": 4584,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/razao-e-sensibilidade.json"
+  },
+  {
+    "id": "re-animator-fase-terminal",
+    "tipo": "filme",
+    "titulo": "Re-Animator: Fase Terminal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bsveBwfKkQsSccIoBABe3LRciUz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1eJt8dcoraOUKGH2DOFiBCvEK3f.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 5.941,
+    "tmdbId": 11429,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/re-animator-fase-terminal.json"
+  },
+  {
+    "id": "re-member-the-last-night",
+    "tipo": "filme",
+    "titulo": "Re/Member: A Última Noite",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iaKNGPfkfzS6xmNR5Y1bWJe2FXS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gmu4liRCTk5nKSiGL6XHFbsJvD8.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 5.067,
+    "tmdbId": 1451398,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/re-member-the-last-night.json"
+  },
+  {
+    "id": "re-zero-kara-hajimeru-isekai-seikatsu-memory-snow",
+    "tipo": "filme",
+    "titulo": "Re:ZERO -Starting Life in Another World- Memory Snow",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/f0GwJaRh1nErj26n53NDJ5fRj7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/t9ifVuOtSZBvtieF9L83pnHnOcC.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 7.2,
+    "tmdbId": 532321,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/re-zero-kara-hajimeru-isekai-seikatsu-memory-snow.json"
+  },
+  {
+    "id": "re-zero-starting-life-in-another-world-lacos-congelados",
+    "tipo": "filme",
+    "titulo": "Re:ZERO -Starting Life in Another World- Laços Congelados",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/brQCjRa6swAKehKbviT02vJvEIt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9K1zhrS8jZ3NFZwzc5RgtwxskLT.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 7.328,
+    "tmdbId": 566451,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/re-zero-starting-life-in-another-world-lacos-congelados.json"
+  },
+  {
+    "id": "re-animator-a-hora-dos-mortos-vivos",
+    "tipo": "filme",
+    "titulo": "Re-Animator: A Hora dos Mortos-Vivos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1ZHGvj6OgnNExAxMUx2GW5eiicY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ogojPeWqjHBVUGCPGhfMxyQJLZ7.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 7.053,
+    "tmdbId": 1694,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/re-animator-a-hora-dos-mortos-vivos.json"
+  },
+  {
+    "id": "re-born",
+    "tipo": "filme",
+    "titulo": "Re:Born",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fkIsBtjuf8q8hDQ9mxMEPzOYgPc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lXPV1eael4RXaVBnlBG0faihldJ.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.186,
+    "tmdbId": 408866,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/re-born.json"
+  },
+  {
+    "id": "reacao-em-cadeia",
+    "tipo": "filme",
+    "titulo": "Reação em Cadeia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ugdjCDRcM3ABif313FF0y14SXwR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8coSVxxbsV69T81nMILkiPdUKrP.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.802,
+    "tmdbId": 12123,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/reacao-em-cadeia.json"
+  },
+  {
+    "id": "reading-lolita-in-tehran",
+    "tipo": "filme",
+    "titulo": "Lendo Lolita em Teerã",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/d6uFt2hlXsCLReShf6SPkBBL7mT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7VaR9bGnX9PSgtiAPl6D5TchWeW.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 7.242,
+    "tmdbId": 1096846,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/reading-lolita-in-tehran.json"
+  },
+  {
+    "id": "ready-or-not",
+    "tipo": "filme",
+    "titulo": "Casamento Sangrento: A Viúva",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/l08o8b3NAPxDzJca9ZF0fdQvbaz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9dMp9t0d0nIGhiil8TyqChwiNwA.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.647,
+    "tmdbId": 1266127,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ready-or-not.json"
+  },
+  {
     "id": "reagan",
     "tipo": "filme",
     "titulo": "Reagan",
@@ -1508,6 +2198,20 @@
     "nota": 6.811,
     "tmdbId": 316042,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/relatos-de-guerra.json"
+  },
+  {
+    "id": "relatos-do-mundo",
+    "tipo": "filme",
+    "titulo": "Relatos do Mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cLqg9BjcecdzYGqURSdWgBUO3rX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/57dG6BzU2RcPtLgoA3oyHUIb2rI.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.9,
+    "tmdbId": 581032,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/relatos-do-mundo.json"
   },
   {
     "id": "relatos-selvagens",
@@ -3102,6 +3806,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rio-2.json"
   },
   {
+    "id": "rio-babilonia",
+    "tipo": "filme",
+    "titulo": "Rio Babilônia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oEKmpE8E1fQDISKWnWVnyNeZqn0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aPVNJNqPFcCIPRmcM1kyL2n2RDT.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 5.333,
+    "tmdbId": 152242,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rio-babilonia.json"
+  },
+  {
     "id": "rio-de-janeiro-paraiso-em-chamas",
     "tipo": "filme",
     "titulo": "Rio de Janeiro: Paraíso em Chamas",
@@ -3639,719 +4357,5 @@
     "nota": 7.861,
     "tmdbId": 493100,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/robin-williams-entre-na-minha-mente.json"
-  },
-  {
-    "id": "robo",
-    "tipo": "filme",
-    "titulo": "Robô Selvagem",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gAHNIZKG8fmK7njOTpMmLKJXiag.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 8.308,
-    "tmdbId": 1184918,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/robo.json"
-  },
-  {
-    "id": "robo-selvagem",
-    "tipo": "filme",
-    "titulo": "Robô Selvagem",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gAHNIZKG8fmK7njOTpMmLKJXiag.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA",
-      "4K"
-    ],
-    "nota": 8.308,
-    "tmdbId": 1184918,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/robo-selvagem.json"
-  },
-  {
-    "id": "robocop",
-    "tipo": "filme",
-    "titulo": "RoboCop - O Policial do Futuro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uZ27cWusfoGFh7sOiUsIENxW48S.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vMGkly71Jm2KwHN407mxheMGUYR.jpg",
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 7.357,
-    "tmdbId": 5548,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/robocop.json"
-  },
-  {
-    "id": "robocop-2",
-    "tipo": "filme",
-    "titulo": "RoboCop 2",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nhqBxhOJXUJeFsyLxTFkctH9H5F.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cT0YCYCtAQC8wi56VWK1JRGgk3a.jpg",
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 6.038,
-    "tmdbId": 5549,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/robocop-2.json"
-  },
-  {
-    "id": "robocop-3",
-    "tipo": "filme",
-    "titulo": "RoboCop 3",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/btzDBL1kaxk7vI8TVbSPaSrkTTv.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/5IevASZ9agBjA8SDDZLbBgFDbsP.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 4.908,
-    "tmdbId": 5550,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/robocop-3.json"
-  },
-  {
-    "id": "robocop-o-policial-do-futuro",
-    "tipo": "filme",
-    "titulo": "RoboCop - O Policial do Futuro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uZ27cWusfoGFh7sOiUsIENxW48S.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vMGkly71Jm2KwHN407mxheMGUYR.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.357,
-    "tmdbId": 5548,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/robocop-o-policial-do-futuro.json"
-  },
-  {
-    "id": "robos",
-    "tipo": "filme",
-    "titulo": "Robôs",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tC9hcesF7QpMFuB6MvQg900VUyX.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8p4gCdDT55PMY3UMDvo6ybzMrai.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.5,
-    "tmdbId": 9928,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/robos.json"
-  },
-  {
-    "id": "rock-n-roll-ringo-ruim",
-    "tipo": "filme",
-    "titulo": "Rock ‘n’ Roll Ringo RUIM",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hX6yMQY1qhZ3kweAh88EEgp7yhQ.jpg",
-    "banner": null,
-    "generos": [
-      "CINEMA | RUIM | CAM | PROPAGANDA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rock-n-roll-ringo-ruim.json"
-  },
-  {
-    "id": "rock-dog-uma-estrela-renasce",
-    "tipo": "filme",
-    "titulo": "Rock Dog:  Uma Estrela Renasce",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6fivZtb1GpmIopcBGn3HZt9rqAh.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uMPJwWDojedB36iowSl3HTLmTjW.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.623,
-    "tmdbId": 812204,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rock-dog-uma-estrela-renasce.json"
-  },
-  {
-    "id": "rock-dog-no-faro-do-sucesso",
-    "tipo": "filme",
-    "titulo": "Rock Dog: No Faro do Sucesso",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/i4nlodIlKF5IGyc3OfIgiPDfKVt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vHiTIgoIoF1rjnjeC4n3qYaZ7Ua.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.25,
-    "tmdbId": 333667,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rock-dog-no-faro-do-sucesso.json"
-  },
-  {
-    "id": "rock-dog-uma-batida-animal",
-    "tipo": "filme",
-    "titulo": "Rock Dog: Uma Batida Animal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/q69N7l4ioEqs5Tlz7lH61DL01eh.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/j1Ky2M85dz6T5Hx7th8UJ3O0c0p.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.067,
-    "tmdbId": 1054972,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rock-dog-uma-batida-animal.json"
-  },
-  {
-    "id": "rock-my-heart",
-    "tipo": "filme",
-    "titulo": "Rock My Heart",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mFl6xsdaDNzM4KxhJOIJkq9wXBp.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/10h1b1SMPjsJSrSVMPZG6vCGX2E.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.2,
-    "tmdbId": 432870,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rock-my-heart.json"
-  },
-  {
-    "id": "rock-n-roll-vivendo-no-limite",
-    "tipo": "filme",
-    "titulo": "Rock N' Roll:  Vivendo no Limite",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yCcjsaluNc1p55q5xphKpJ3jvH2.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/bylL6XIKe0eFe289ZjnBGMU2yTV.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6,
-    "tmdbId": 759893,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rock-n-roll-vivendo-no-limite.json"
-  },
-  {
-    "id": "rock-of-ages-o-filme",
-    "tipo": "filme",
-    "titulo": "Rock of Ages: O Filme",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/cHSbmimdxYcm5x6BQMX8y1G9YGO.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9b1KGgzmZsUl7g3p1bjjpMRxANe.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.197,
-    "tmdbId": 80585,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rock-of-ages-o-filme.json"
-  },
-  {
-    "id": "rock-star",
-    "tipo": "filme",
-    "titulo": "Rock Star",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/8pRMweo9WA1MvYOLsD2hWyFpZ1V.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/oImvpyBfpXQgFevXWrh1adswdOn.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.7,
-    "tmdbId": 12508,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rock-star.json"
-  },
-  {
-    "id": "rocketeer",
-    "tipo": "filme",
-    "titulo": "Rocketeer",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iN3I8XDaoGKAMgGidGzJOCnfh8i.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/glLgVtOI4njeUlwtYCtVi8OR1qr.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.476,
-    "tmdbId": 10249,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rocketeer.json"
-  },
-  {
-    "id": "rocketman",
-    "tipo": "filme",
-    "titulo": "Rocketman",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rW02IHgEMKuZWi7jW111lFXMCvW.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/isnJGDrfR9dIrHMsPTvHtJaGEpc.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 7.309,
-    "tmdbId": 504608,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rocketman.json"
-  },
-  {
-    "id": "rocknrolla-a-grande-roubada",
-    "tipo": "filme",
-    "titulo": "Rock'N'Rolla: A Grande Roubada",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1r0rKBB7LIVGS9S2xDgO7W5Sfsd.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/11V6JMreBokxvTZTsxmSQsibaRb.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.951,
-    "tmdbId": 13809,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rocknrolla-a-grande-roubada.json"
-  },
-  {
-    "id": "rockstar-duki-desde-el-fin-del-mundo",
-    "tipo": "filme",
-    "titulo": "Rockstar: DUKI desde el fin del mundo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/9CSTzX1pUrNLD7lsJ8h9hRFJtLQ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jtlah7LCCo2ZBOxNCvjUfWXzazg.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 8.147,
-    "tmdbId": 1546933,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rockstar-duki-desde-el-fin-del-mundo.json"
-  },
-  {
-    "id": "rocky-balboa",
-    "tipo": "filme",
-    "titulo": "Rocky Balboa",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/74fsV2oCO5fpv4kXgxXQCiRzyAU.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/q57IZEpDaxQcgmwFcZkg7AsTbg9.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.879,
-    "tmdbId": 1246,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rocky-balboa.json"
-  },
-  {
-    "id": "rocky-ii-a-revanche",
-    "tipo": "filme",
-    "titulo": "Rocky II: A Revanche",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pkZ7uAeA37bLS5cos8w8uEF8K5b.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/5aZ2PDpNhjTdk77uSAIDzrpsAUr.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.294,
-    "tmdbId": 1367,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rocky-ii-a-revanche.json"
-  },
-  {
-    "id": "rocky-iii-o-desafio-supremo",
-    "tipo": "filme",
-    "titulo": "Rocky III: O Desafio Supremo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yBNk3DDAEqPXEdDl6XlLEE3U4RR.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ljOHSIyTbxdkQFjcJyWKfGm2i2r.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.901,
-    "tmdbId": 1371,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rocky-iii-o-desafio-supremo.json"
-  },
-  {
-    "id": "rocky-iv",
-    "tipo": "filme",
-    "titulo": "Rocky IV",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7c6IPmQAepfdTGdroQeb0iuVuUf.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7Xvz1fjhaGh6AF33R76dwoDrfkH.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.088,
-    "tmdbId": 1374,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rocky-iv.json"
-  },
-  {
-    "id": "rocky-um-lutador",
-    "tipo": "filme",
-    "titulo": "Rocky: Um Lutador",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/b9B1DXcPNsJfTtc4x2LKA3bykoJ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.797,
-    "tmdbId": 1366,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rocky-um-lutador.json"
-  },
-  {
-    "id": "rocky-v",
-    "tipo": "filme",
-    "titulo": "Rocky V",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hMAdgsZd50sARk7EpSRaL34hoMc.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/80qHgvevLohFO7fTDf0olnQuyyQ.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 5.777,
-    "tmdbId": 1375,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rocky-v.json"
-  },
-  {
-    "id": "roda-de-fogo",
-    "tipo": "filme",
-    "titulo": "Roda de Fogo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/aw2yvnfqwTumWzvFO78hWUhDcwE.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/c5cQcRKPjKrRRHmlN3cgDh8sHXd.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.977,
-    "tmdbId": 56087,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/roda-de-fogo.json"
-  },
-  {
-    "id": "roda-gigante",
-    "tipo": "filme",
-    "titulo": "Roda Gigante",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xkfebRm9rO6rQmIelznLIybPTHi.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sSlL9NfqN5gBhPkHE1TOBXqBoew.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.376,
-    "tmdbId": 429189,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/roda-gigante.json"
-  },
-  {
-    "id": "rodada-final",
-    "tipo": "filme",
-    "titulo": "Rodada Final",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/diqhpn8T5Dz0XlD6Vy7kh5hJm3s.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/eWyN32N2Ebr7wHFLyTR5LUifFdw.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 7.2,
-    "tmdbId": 484972,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rodada-final.json"
-  },
-  {
-    "id": "rodeio-rock",
-    "tipo": "filme",
-    "titulo": "Rodeio Rock",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yF6DYBbShJuKbUShdU8UFVquk8i.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/AgYQOgvtryEtQuBjfRNghFmhDfk.jpg",
-    "generos": [
-      "ROMANCE"
-    ],
-    "nota": 6.435,
-    "tmdbId": 999501,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rodeio-rock.json"
-  },
-  {
-    "id": "rodrigo-marques-o-inimigo-do-nivel",
-    "tipo": "filme",
-    "titulo": "Rodrigo Marques: O Inimigo do Nível",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/miA6VI6fUANcvlQ4avvM7mCCldT.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/5HyLIBZqEzvueEnKxm8N1oaHuFd.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.9,
-    "tmdbId": 1011570,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rodrigo-marques-o-inimigo-do-nivel.json"
-  },
-  {
-    "id": "rogai-por-nos",
-    "tipo": "filme",
-    "titulo": "Rogai por Nós",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zduyzcjyahZtP4fGZE6789h04IM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jw6ASGRT2gi8EjCImpGtbiJ9NQ9.jpg",
-    "generos": [
-      "4K",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.557,
-    "tmdbId": 632357,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rogai-por-nos.json"
-  },
-  {
-    "id": "rogue",
-    "tipo": "filme",
-    "titulo": "Rogue, o Assassino",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uD82pHlfi7qhNh1DFCTueMeXifP.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/b5IB4VGjR818tTNcCLHQCIFwQmW.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.398,
-    "tmdbId": 10431,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rogue.json"
-  },
-  {
-    "id": "rogue-hostage",
-    "tipo": "filme",
-    "titulo": "Refém Rebelde",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/r4H9c7FjgC951PUIoie45FR7FjG.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uZDE9VnKFnIPmWriMjnp82bH9S8.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.6,
-    "tmdbId": 825997,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rogue-hostage.json"
-  },
-  {
-    "id": "rogue-o-assassino",
-    "tipo": "filme",
-    "titulo": "Rogue, o Assassino",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uD82pHlfi7qhNh1DFCTueMeXifP.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/b5IB4VGjR818tTNcCLHQCIFwQmW.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.398,
-    "tmdbId": 10431,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rogue-o-assassino.json"
-  },
-  {
-    "id": "rogue-one-uma-historia-star-wars",
-    "tipo": "filme",
-    "titulo": "Rogue One: Uma História Star Wars",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/74C2YX0NLWnozVMRS56d5CKDdEv.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.506,
-    "tmdbId": 330459,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rogue-one-uma-historia-star-wars.json"
-  },
-  {
-    "id": "rogue-warfare-2-a-cacada",
-    "tipo": "filme",
-    "titulo": "Rogue Warfare 2: A Caçada",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yE1hErf9R2ocoijr26IIM1vFNVa.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uXsHEOPsMXsxQtrJ8MiDCXkHtUY.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.633,
-    "tmdbId": 635776,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rogue-warfare-2-a-cacada.json"
-  },
-  {
-    "id": "rogue-warfare-3-a-morte-de-uma-nacao",
-    "tipo": "filme",
-    "titulo": "Rogue Warfare 3: A Morte de uma Nação",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/8GVpIEBqlRBvx28G0LfEX0U8D2k.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/iQxJuPqCGOO4Iy3uFbMWCIGHkwE.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.221,
-    "tmdbId": 635780,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rogue-warfare-3-a-morte-de-uma-nacao.json"
-  },
-  {
-    "id": "rogue-warfare-ameaca-global",
-    "tipo": "filme",
-    "titulo": "Rogue Warfare: Ameaça Global",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jZEAAW1W6mNxLZ87Aur79DjXdPv.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sQENipE4TjyTnY8xBZvPKzi23jo.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.632,
-    "tmdbId": 627879,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rogue-warfare-ameaca-global.json"
-  },
-  {
-    "id": "rojo",
-    "tipo": "filme",
-    "titulo": "Rojo amanecer",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/e64pw9gmbQJik2H6C4buiX1ilB7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/k0tWymmZyaTxnkenSe6576awvuM.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 8.19,
-    "tmdbId": 47916,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rojo.json"
-  },
-  {
-    "id": "roland-doe-a-verdadeira-historia-de-o-exorcista",
-    "tipo": "filme",
-    "titulo": "Roland Doe: A Verdadeira História de O Exorcista",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5dHeon4cc4PeDo2NXpgrTBgieMh.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zg3Emz0ECpOugyBgW2WqhZz6E0m.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.8,
-    "tmdbId": 803381,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/roland-doe-a-verdadeira-historia-de-o-exorcista.json"
-  },
-  {
-    "id": "roman-j-israel",
-    "tipo": "filme",
-    "titulo": "Roman J. Israel",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ciq2V1G4dj3GLFBfQGY1gqvPcbK.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/w2pGoOHNVESZwlSI3xYk4OdEb91.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.348,
-    "tmdbId": 413362,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/roman-j-israel.json"
-  },
-  {
-    "id": "romance",
-    "tipo": "filme",
-    "titulo": "Amor à Queima-Roupa",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6blj0i7LbjMtpYW0UlqYILk5Gj.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1Uh8yuXlFcMDpVHWZJidjanT06e.jpg",
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": 7.537,
-    "tmdbId": 319,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/romance.json"
-  },
-  {
-    "id": "romance-a-la-carte",
-    "tipo": "filme",
-    "titulo": "Romance à la Carte",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/9CBiUy6Kt94Yxh9M11Pw3rGnuwW.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2uUxzE7II3verbbXyirh48VQpoz.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 6.9,
-    "tmdbId": 728204,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/romance-a-la-carte.json"
-  },
-  {
-    "id": "romance-da-empregada",
-    "tipo": "filme",
-    "titulo": "Romance da Empregada",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rdV3keDDn8NYZNMxGxuuQ0udCMo.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/aDQrcALbhznc7FSmN1DNpIKaJ1N.jpg",
-    "generos": [
-      "ROMANCE"
-    ],
-    "nota": 6.5,
-    "tmdbId": 258979,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/romance-da-empregada.json"
-  },
-  {
-    "id": "romance-de-formacao",
-    "tipo": "filme",
-    "titulo": "Romance de Formação",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/eb0fkrd6hZAWZYZFJ6idbxL9kF5.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/g2X69p6B4XBznFG3wnJ5Dehxsrj.jpg",
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": null,
-    "tmdbId": 296406,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/romance-de-formacao.json"
-  },
-  {
-    "id": "romance-e-cigarros",
-    "tipo": "filme",
-    "titulo": "Romance e Cigarros",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/phSntD46jD5IfYAa2lSoU6xJDJ6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4RbxxPAUushqUYNO8EW09GSluBt.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.011,
-    "tmdbId": 13994,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/romance-e-cigarros.json"
-  },
-  {
-    "id": "romance-na-ficcao",
-    "tipo": "filme",
-    "titulo": "Romance na Ficção",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rW96Ww9iPJouXlKsQL4Hcrn3gDL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lraNqLz3Ioxz4sA6g8J66ryR8xN.jpg",
-    "generos": [
-      "ROMANCE"
-    ],
-    "nota": 5.9,
-    "tmdbId": 1085648,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/romance-na-ficcao.json"
-  },
-  {
-    "id": "romance-nas-alturas",
-    "tipo": "filme",
-    "titulo": "Romance nas Alturas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/a6iv7xx0nbIqUzTFJwqHMB4xFXd.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/exbK1FVlNVEDU1TrqcIfLX4SgI4.jpg",
-    "generos": [
-      "ROMANCE"
-    ],
-    "nota": 6.1,
-    "tmdbId": 723266,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/romance-nas-alturas.json"
-  },
-  {
-    "id": "romance-no-ar-uma-garota-apaixonada",
-    "tipo": "filme",
-    "titulo": "Romance no Ar: Uma Garota Apaixonada",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/A0vnz6yL39gzdLEEJfKwMm5UrNM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lrApdPptTXiypoENNYsJ7nPN6P1.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 7.413,
-    "tmdbId": 1371540,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/romance-no-ar-uma-garota-apaixonada.json"
-  },
-  {
-    "id": "romance-real-na-estrada",
-    "tipo": "filme",
-    "titulo": "Romance Real na Estrada",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/s6S1AJt7SfOCgjw8zO0QJoipOzV.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jZUyZe7EMDSSxLTlnQIFUMJcn0H.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 7.269,
-    "tmdbId": 944946,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/romance-real-na-estrada.json"
   }
 ]

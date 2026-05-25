@@ -1,5 +1,165 @@
 [
   {
+    "id": "terra-incognita",
+    "tipo": "serie",
+    "titulo": "Terra Incógnita",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bKIECPk2MlYKtFtVuS91xnRKpVb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hOElpHx1LLRzAlwjarCzvjhctW.jpg",
+    "generos": [
+      "DISNEY+"
+    ],
+    "nota": 7.2,
+    "tmdbId": 128384,
+    "totalTemporadas": 2,
+    "totalEpisodios": 16,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/terra-incognita.json"
+  },
+  {
+    "id": "terra-indomavel",
+    "tipo": "serie",
+    "titulo": "Terra Indomável",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4uHGMf2ifvcNLI3LouDuO41E1Dq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1FxG2lmDYsCM1svJf7H79HNNwu2.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.655,
+    "tmdbId": 215866,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/terra-indomavel.json"
+  },
+  {
+    "id": "terra-nostra",
+    "tipo": "serie",
+    "titulo": "Terra Nostra",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/thkRCi1qRJq5scAGg4luO8k1C18.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mHMnnMhG3rJQMETfe5L0GpYvjA0.jpg",
+    "generos": [
+      "NOVELAS"
+    ],
+    "nota": 6.688,
+    "tmdbId": 12895,
+    "totalTemporadas": 1,
+    "totalEpisodios": 150,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/terra-nostra.json"
+  },
+  {
+    "id": "terra-nova",
+    "tipo": "serie",
+    "titulo": "Terra Nova",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/y8dFONeUSXhMHiFecqFoaGI7S6y.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3kz0Hp1sO7JnHFX8BzTokdxTuwY.jpg",
+    "generos": [
+      "APPLE+"
+    ],
+    "nota": 6.767,
+    "tmdbId": 32754,
+    "totalTemporadas": 1,
+    "totalEpisodios": 11,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/terra-nova.json"
+  },
+  {
+    "id": "terra-tempestuosa",
+    "tipo": "serie",
+    "titulo": "Terra Tempestuosa",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kfquSOmQxKS1c9ROj9kKiOwCLq4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8W7lcxN51SiubiwXvCOYTyG4IoZ.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.1,
+    "tmdbId": 211942,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/terra-tempestuosa.json"
+  },
+  {
+    "id": "territorios-sob-o-dominio-do-crime",
+    "tipo": "serie",
+    "titulo": "Territórios - Sob o Domínio do Crime",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/r4ClDl5sYE65HBf5r87bNLjyzzH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vMDlPPk52iBAvWWGB8azT5blr8z.jpg",
+    "generos": [
+      "GLOBOPLAY"
+    ],
+    "nota": 8,
+    "tmdbId": 321291,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/territorios-sob-o-dominio-do-crime.json"
+  },
+  {
+    "id": "territory",
+    "tipo": "serie",
+    "titulo": "Territory",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jPoNveBQWYwwWf2UnK27LEtWiqb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dfRvmXp4sdMd052ZV9jYZkuLpc2.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.846,
+    "tmdbId": 243396,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/territory.json"
+  },
+  {
+    "id": "terrores-urbanos",
+    "tipo": "serie",
+    "titulo": "Terrores Urbanos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wNWfqkrD0dkSq8Lvk8Cw9pzc4JS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rJ7ZAO4SPU2RtUfjuY1ihRsOxvO.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 9.2,
+    "tmdbId": 85442,
+    "totalTemporadas": 1,
+    "totalEpisodios": 5,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/terrores-urbanos.json"
+  },
+  {
+    "id": "tesouro-visto-do-espaco",
+    "tipo": "serie",
+    "titulo": "Tesouro Visto do Espaço",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/quyqXR4zo03EF3JnfvBRoRneWGK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/w62G9kgRh8xC7etEc0PZ2KIJJjE.jpg",
+    "generos": [
+      "DISCOVERY+"
+    ],
+    "nota": 6.5,
+    "tmdbId": 71124,
+    "totalTemporadas": 2,
+    "totalEpisodios": 16,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/tesouro-visto-do-espaco.json"
+  },
+  {
+    "id": "tesouros-perdidos-de-roma",
+    "tipo": "serie",
+    "titulo": "Tesouros Perdidos de Roma",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mtsRzMmJWEGrEjKVK6fxv3WSzXD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/h3MXhYh98k0qXJSaGJ3qfHeYSEk.jpg",
+    "generos": [
+      "DISNEY+"
+    ],
+    "nota": 7.222,
+    "tmdbId": 202359,
+    "totalTemporadas": 2,
+    "totalEpisodios": 7,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/tesouros-perdidos-de-roma.json"
+  },
+  {
     "id": "testamento-a-historia-de-moises",
     "tipo": "serie",
     "titulo": "Testamento: A História de Moisés",
@@ -494,6 +654,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-boondocks.json"
   },
   {
+    "id": "the-boroughs",
+    "tipo": "serie",
+    "titulo": "The Boroughs",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iftYIh1OjJb99EOTHIrDcx59zWb.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.578,
+    "tmdbId": 224941,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-boroughs.json"
+  },
+  {
     "id": "the-boys",
     "tipo": "serie",
     "titulo": "The Boys",
@@ -924,6 +1100,22 @@
     "totalTemporadas": 1,
     "totalEpisodios": 6,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-disappearance.json"
+  },
+  {
+    "id": "the-double-game-2026",
+    "tipo": "serie",
+    "titulo": "颜不由心",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/oSzV0oaY7N1VsE9NOpDlYmwpQyZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wXuEroejnOB74uENEFAjfrty0Nd.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": null,
+    "tmdbId": 316675,
+    "totalTemporadas": 1,
+    "totalEpisodios": 19,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-double-game-2026.json"
   },
   {
     "id": "the-dreamer-memorias-de-uma-escritora",
@@ -4602,197 +4794,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 85,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todas-as-flores.json"
-  },
-  {
-    "id": "todas-as-mulheres-do-mundo",
-    "tipo": "serie",
-    "titulo": "Todas as Mulheres do Mundo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/37yfOQT3sKvjuds90N0umo7MhCJ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qwTX47yKPamDYxXiN7rfaHQWoRf.jpg",
-    "generos": [
-      "GLOBOPLAY"
-    ],
-    "nota": 6,
-    "tmdbId": 102596,
-    "totalTemporadas": 1,
-    "totalEpisodios": 12,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todas-as-mulheres-do-mundo.json"
-  },
-  {
-    "id": "todo-dia-a-mesma-noite",
-    "tipo": "serie",
-    "titulo": "Todo Dia a Mesma Noite",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/8yoy1yhOoZYa4LPxTUV9ujn6GMq.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1F810lXCtZfIC0ILrgSqjXObTz2.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.573,
-    "tmdbId": 139396,
-    "totalTemporadas": 1,
-    "totalEpisodios": 5,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todo-dia-a-mesma-noite.json"
-  },
-  {
-    "id": "todo-mundo-adora-o-raymond",
-    "tipo": "serie",
-    "titulo": "Raymond e Companhia",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7GAzXwyluc4Ti6RSknclxjRwzv6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zPyVcPi5vFjjHbZsYYbbIG1I0oL.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 6.817,
-    "tmdbId": 2140,
-    "totalTemporadas": 9,
-    "totalEpisodios": 212,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todo-mundo-adora-o-raymond.json"
-  },
-  {
-    "id": "todo-mundo-ainda-odeia-o-chris",
-    "tipo": "serie",
-    "titulo": "Todo Mundo Ainda Odeia o Chris",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zsYJDmGhwMNpqWIfyLSeXWHV2r5.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sQW1zQChtQcGt33gNTytcBMfcKm.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 7.7,
-    "tmdbId": 207318,
-    "totalTemporadas": 1,
-    "totalEpisodios": 20,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todo-mundo-ainda-odeia-o-chris.json"
-  },
-  {
-    "id": "todo-mundo-me-ama-2024",
-    "tipo": "serie",
-    "titulo": "Todo Mundo Me Ama",
-    "ano": 2024,
-    "capa": "https://image.tmdb.org/t/p/w500/e5oAqbWQj5XJXepEYRg54xWFgvR.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cT0BHScPLuvpWywZ04gLxF7q3K5.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 8,
-    "tmdbId": 247453,
-    "totalTemporadas": 1,
-    "totalEpisodios": 24,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todo-mundo-me-ama-2024.json"
-  },
-  {
-    "id": "todo-mundo-odeia-o-chris",
-    "tipo": "serie",
-    "titulo": "Todo Mundo Odeia o Chris",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dXyy1e3TJ5ut6DRCrQQT3TcsrGU.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qji729gwCW88RpIIWidlaLTul3V.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 8.067,
-    "tmdbId": 252,
-    "totalTemporadas": 4,
-    "totalEpisodios": 88,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todo-mundo-odeia-o-chris.json"
-  },
-  {
-    "id": "todo-o-sangue",
-    "tipo": "serie",
-    "titulo": "Todo o Sangue",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zT92V2rxlWgpjjKlGnDdGFd6YMm.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/khf56ZsusRO6lkc0dour50toaIg.jpg",
-    "generos": [
-      "GLOBOPLAY"
-    ],
-    "nota": 7.355,
-    "tmdbId": 207269,
-    "totalTemporadas": 1,
-    "totalEpisodios": 10,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todo-o-sangue.json"
-  },
-  {
-    "id": "todo-tempo-do-mundo",
-    "tipo": "serie",
-    "titulo": "Todo o Tempo do Mundo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hmmvaQ24fzP7NbAuAYte3ZL9CFg.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nhqK6U30RH8ajERuai55wFRN2PB.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 7,
-    "tmdbId": 205160,
-    "totalTemporadas": 1,
-    "totalEpisodios": 12,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todo-tempo-do-mundo.json"
-  },
-  {
-    "id": "todo-va-a-estar-bien",
-    "tipo": "serie",
-    "titulo": "Todo va a estar bien",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pfyJTDOXJ5uo8bCXH6OonphxhQ3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/pKqFl6dOCx9AHx8uBCOuPaSSyPI.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 6.8,
-    "tmdbId": 129675,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todo-va-a-estar-bien.json"
-  },
-  {
-    "id": "todos-amam-diamantes",
-    "tipo": "serie",
-    "titulo": "Todos Amam Diamantes",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/g1yime0F2LBsIed6DLheEU9Sizy.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/WkeHNJtgEPf57yzw5vsfrL2JvZ.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 6.1,
-    "tmdbId": 229183,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todos-amam-diamantes.json"
-  },
-  {
-    "id": "todos-mentem",
-    "tipo": "serie",
-    "titulo": "Todos Mentem",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/A46oE1NLnEZO3tNS0KUswDVfwso.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dfPDlU4G1QJ9ZzgwfZl60e1azVr.jpg",
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": 5.8,
-    "tmdbId": 124902,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todos-mentem.json"
-  },
-  {
-    "id": "todos-os-crimes-da-louva-a-deus",
-    "tipo": "serie",
-    "titulo": "Todos os Crimes da Louva-a-Deus",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kX0vZSMsdSibAMFkwn9EJZjXrTD.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4A5TEvk99fCg8WSgImYJ6dqqe8Y.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 7.54,
-    "tmdbId": 243248,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/todos-os-crimes-da-louva-a-deus.json"
   }
 ]

@@ -1,5 +1,79 @@
 [
   {
+    "id": "toque-de-recolher",
+    "tipo": "filme",
+    "titulo": "Toque de Recolher",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6f4qOrzSMUqSc0iAODL6wnwJ7km.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cO4SylBQSkFuMfU7lfCzQVNCwmw.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.77,
+    "tmdbId": 10627,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/toque-de-recolher.json"
+  },
+  {
+    "id": "touro-indomavel",
+    "tipo": "filme",
+    "titulo": "Touro Indomável",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lLeWJU33HgfWTnrOcaNBR5fUcF1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 7.903,
+    "tmdbId": 1578,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/touro-indomavel.json"
+  },
+  {
+    "id": "trafico-de-mulheres",
+    "tipo": "filme",
+    "titulo": "Tráfico de Mulheres",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8aK2J9k73gUw0DcbO6RiCh3vHVE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vye5OeedDJloz6wx58TXdUCO7yO.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.6,
+    "tmdbId": 464733,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/trafico-de-mulheres.json"
+  },
+  {
+    "id": "traidor",
+    "tipo": "filme",
+    "titulo": "O Traidor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yMTLHzhaAwlQePPw0b4bbqdLQXe.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dmIKpN5Pkgp9eZDBF7OyM5106Oy.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.648,
+    "tmdbId": 13291,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/traidor.json"
+  },
+  {
+    "id": "traidora-americana-o-julgamento-de-axis-sally",
+    "tipo": "filme",
+    "titulo": "Traidora Americana: O Julgamento de Axis Sally",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fzP5J0fapBMm4WqOeevAUndql1B.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eSofxsFJ4XASQGUffytwX6tWXZr.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.524,
+    "tmdbId": 603603,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/traidora-americana-o-julgamento-de-axis-sally.json"
+  },
+  {
     "id": "trainspotting-sem-limites",
     "tipo": "filme",
     "titulo": "Trainspotting: Sem Limites",
@@ -1372,6 +1446,20 @@
     "nota": 10,
     "tmdbId": 1215033,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-por-todos.json"
+  },
+  {
+    "id": "um-pouco-de-caos",
+    "tipo": "filme",
+    "titulo": "Um Pouco de Caos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iXRYX6v5K8Vb9dXQqifTSQaMwZz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4ANK5uSBMQxEdHSYqSqs4YMY0Ed.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.309,
+    "tmdbId": 283227,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-pouco-de-caos.json"
   },
   {
     "id": "um-refugio",

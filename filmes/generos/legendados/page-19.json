@@ -1465,7 +1465,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/5gzWwHX8k3KtIzyRNDdwQONTlk2.jpg",
     "banner": "https://image.tmdb.org/t/p/original/n9ikn33MeCpYyHN7apLj7QgQv0V.jpg",
     "generos": [
-      "LEGENDADOS"
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
     ],
     "nota": 5.2,
     "tmdbId": 878962,
@@ -3363,7 +3364,8 @@
     "generos": [
       "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA",
-      "LANÇAMENTOS"
+      "LANÇAMENTOS",
+      "4K"
     ],
     "nota": 8.483,
     "tmdbId": 1439930,
@@ -3663,7 +3665,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/2c0mcPVyWQM92vjys5pZsrmLjJv.jpg",
     "banner": "https://image.tmdb.org/t/p/original/3FhqdmY25ajBgrGOuIMRe0brOci.jpg",
     "generos": [
-      "LEGENDADOS"
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
     ],
     "nota": 7.358,
     "tmdbId": 15255,

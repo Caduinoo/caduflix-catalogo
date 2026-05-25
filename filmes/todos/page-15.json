@@ -1,5 +1,294 @@
 [
   {
+    "id": "conversando-com-deus",
+    "tipo": "filme",
+    "titulo": "Conversando com Deus",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wMbwr95E7f0ammcKjvcQlhe7XY2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lQgr7iVIJ1H7RPDFkfw204kGwgp.jpg",
+    "generos": [
+      "RELIGIOSOS"
+    ],
+    "nota": 6.843,
+    "tmdbId": 24590,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/conversando-com-deus.json"
+  },
+  {
+    "id": "conversando-sobre-round-6",
+    "tipo": "filme",
+    "titulo": "Conversando sobre Round 6",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7RrpuI4KAbwUw8XpCYvsMoMQzVG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hLpuo585mwOWKVco2RPZjgu8RnA.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 8.333,
+    "tmdbId": 1504735,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/conversando-sobre-round-6.json"
+  },
+  {
+    "id": "convidado-vitalicio",
+    "tipo": "filme",
+    "titulo": "Convidado Vitalício",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xbNcScxV33nMrc0MprmvOpk4WsC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sjLo8RbshOyglJK2NLGqIfdzPCp.jpg",
+    "generos": [
+      "ROMANCE"
+    ],
+    "nota": 6.84,
+    "tmdbId": 508101,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/convidado-vitalicio.json"
+  },
+  {
+    "id": "convidados-de-honra",
+    "tipo": "filme",
+    "titulo": "Convidados de Honra",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6T7JYJsaAOU5DIGKFU1WnT3r7Z5.jpg",
+    "banner": null,
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/convidados-de-honra.json"
+  },
+  {
+    "id": "convite-maldito",
+    "tipo": "filme",
+    "titulo": "Convite Maldito",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2JdYO1vmuDcqVgZD3nPEpdX7GvI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wqlwSAATTZTYA60OSeTKsj4ChZh.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.992,
+    "tmdbId": 830788,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/convite-maldito.json"
+  },
+  {
+    "id": "convite-perigoso",
+    "tipo": "filme",
+    "titulo": "Convite Perigoso",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hAAC304Kwb81GHuS7T4Tv6IAdgW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6SuTVWadQoVf07Aejxpqf9Qsy6l.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 2,
+    "tmdbId": 1247353,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/convite-perigoso.json"
+  },
+  {
+    "id": "cop-land",
+    "tipo": "filme",
+    "titulo": "Cop Land: Zona Exclusiva",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wr7CqiTL8mIxu93jPkNNJELihHt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cnD5ygO97xFY8wQPwLP5v9saus7.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.808,
+    "tmdbId": 2142,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cop-land.json"
+  },
+  {
+    "id": "cop-land-zona-exclusiva",
+    "tipo": "filme",
+    "titulo": "Cop Land: Zona Exclusiva",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wr7CqiTL8mIxu93jPkNNJELihHt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cnD5ygO97xFY8wQPwLP5v9saus7.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.808,
+    "tmdbId": 2142,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cop-land-zona-exclusiva.json"
+  },
+  {
+    "id": "copa-de-elite",
+    "tipo": "filme",
+    "titulo": "Copa de Elite",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yKpmi4dotMAENGVRB4yutItNKxQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hWzet8Ff8uF0PNbQpHCEpxHjkaC.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 4.333,
+    "tmdbId": 243451,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/copa-de-elite.json"
+  },
+  {
+    "id": "copa-do-mundo-fifa-qatar-cerimonia-de-abertura",
+    "tipo": "filme",
+    "titulo": "Copa do Mundo FIFA Qatar - Cerimonia de Abertura",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/copa-do-mundo-fifa-qatar-cerimonia-de-abertura.json"
+  },
+  {
+    "id": "copenhagen",
+    "tipo": "filme",
+    "titulo": "Copenhagen",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1MSFfjvgf9auNANWcaGTvzf1TcW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/j5jPqb3h9wMGaXZtWwGfIMH5ykg.jpg",
+    "generos": [
+      "ROMANCE"
+    ],
+    "nota": 6.584,
+    "tmdbId": 251232,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/copenhagen.json"
+  },
+  {
+    "id": "copenhagen-cowboy-confissoes-de-nicolas-winding-refn",
+    "tipo": "filme",
+    "titulo": "Copenhagen Cowboy: Confissões de Nicolas Winding Refn",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7UWPWjz3w3WuNkLkFViqllnh5nJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yPMTs7ISAzH1On1ByCn0ZNpMR7w.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.4,
+    "tmdbId": 1078856,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/copenhagen-cowboy-confissoes-de-nicolas-winding-refn.json"
+  },
+  {
+    "id": "copia-de-seguranca",
+    "tipo": "filme",
+    "titulo": "Cópia de Segurança",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5T63M2WCguXz4DKcqN0a83jGNov.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oWuBO8jsY7Pw6cxFUudoCfBPJjo.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 6.035,
+    "tmdbId": 1071815,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/copia-de-seguranca.json"
+  },
+  {
+    "id": "copias-de-volta-a-vida",
+    "tipo": "filme",
+    "titulo": "Cópias: De Volta à Vida",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/s2R1xCxt6b1lkeEk33u86hqQDe6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dKFTYg8vWj5ZpsR4SVmueAssyZH.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 6.043,
+    "tmdbId": 300681,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/copias-de-volta-a-vida.json"
+  },
+  {
+    "id": "copperman",
+    "tipo": "filme",
+    "titulo": "Copperman - Um Herói Especial",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qgyTgQ6xoeuqHLcTLOIV0ZfCtYO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/waCMW6MjmbofvFnbgyqjGpZ4mTf.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 5.6,
+    "tmdbId": 568165,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/copperman.json"
+  },
+  {
+    "id": "copperman-um-heroi-especial",
+    "tipo": "filme",
+    "titulo": "Copperman - Um Herói Especial",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qgyTgQ6xoeuqHLcTLOIV0ZfCtYO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/waCMW6MjmbofvFnbgyqjGpZ4mTf.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.6,
+    "tmdbId": 568165,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/copperman-um-heroi-especial.json"
+  },
+  {
+    "id": "copycat-a-vida-imita-a-morte",
+    "tipo": "filme",
+    "titulo": "Copycat - A Vida Imita a Morte",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4jf2ZtreVJjog3b8zNkjvGVitv3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/f0wTYitK1lELuGygXslG7SQpY0E.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.474,
+    "tmdbId": 1710,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/copycat-a-vida-imita-a-morte.json"
+  },
+  {
+    "id": "coquetel-explosivo",
+    "tipo": "filme",
+    "titulo": "Coquetel Explosivo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fOo0jPG6FICGA7mzoKgYNCFzNaU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7OxkZIH9dkDQlXhwWggyCSrXmwd.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.271,
+    "tmdbId": 574060,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/coquetel-explosivo.json"
+  },
+  {
+    "id": "cora-bora",
+    "tipo": "filme",
+    "titulo": "Bora, Cora!",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1mgkzclLgz9sDft8Wuf5cW6f7OX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7p80p2EcTpZohos8FFYpbIuxOGl.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 4.7,
+    "tmdbId": 976226,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cora-bora.json"
+  },
+  {
+    "id": "cora-o-ultimo-suspiro",
+    "tipo": "filme",
+    "titulo": "Cora: O Último Suspiro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/odyyYypYCrNjO7z57oSemdFbgaE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5i4go3D075xhHR0RIyPfzBbOd3u.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 5.417,
+    "tmdbId": 1086867,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cora-o-ultimo-suspiro.json"
+  },
+  {
     "id": "coracao-de-cacador",
     "tipo": "filme",
     "titulo": "Coração de Caçador",
@@ -1287,6 +1576,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/coutures-ruim.json"
   },
   {
+    "id": "covil",
+    "tipo": "filme",
+    "titulo": "Covil",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yYXv9dF3hfb6xvXJkSdENf6h6Qf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zPNOtPlRrHpev1nJc9lP682uIl0.jpg",
+    "generos": [
+      "4K"
+    ],
+    "nota": null,
+    "tmdbId": 1405945,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/covil.json"
+  },
+  {
     "id": "covil-de-ladroes",
     "tipo": "filme",
     "titulo": "Covil de Ladrões",
@@ -1708,6 +2011,20 @@
     "nota": 7.1,
     "tmdbId": 856289,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/criacao-dos-deuses-i-reino-das-tempestades.json"
+  },
+  {
+    "id": "criancas-da-noite",
+    "tipo": "filme",
+    "titulo": "Crianças da Noite",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/q43BL7KbxCw8zdiYcoiwVDWVPC8.jpg",
+    "banner": null,
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.25,
+    "tmdbId": 49177,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/criancas-da-noite.json"
   },
   {
     "id": "criancas-de-valor",
@@ -4028,324 +4345,5 @@
     "nota": 6.963,
     "tmdbId": 801526,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/darlings.json"
-  },
-  {
-    "id": "darrow-e-darrow-assossiados-vestigios-de-um-crime",
-    "tipo": "filme",
-    "titulo": "Darrow & Darrow Assossiados Vestígios de Um Crime",
-    "ano": null,
-    "capa": null,
-    "banner": null,
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/darrow-e-darrow-assossiados-vestigios-de-um-crime.json"
-  },
-  {
-    "id": "das-lehrerzimmer",
-    "tipo": "filme",
-    "titulo": "A Sala dos Professores",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ueqXmajLe9Ocz41Yvd5NGAbVo2Q.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7RxhC2ntrglVl1nkKjAgNoO0XP.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7.22,
-    "tmdbId": 998022,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/das-lehrerzimmer.json"
-  },
-  {
-    "id": "das-profundezas",
-    "tipo": "filme",
-    "titulo": "Das Profundezas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zQV49UfifW5xhg17uACTmRDqA4d.jpg",
-    "banner": null,
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": null,
-    "tmdbId": 527579,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/das-profundezas.json"
-  },
-  {
-    "id": "das-verschwinden-des-josef-mengele",
-    "tipo": "filme",
-    "titulo": "O Desaparecimento de Josef Mengele",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tFaU7LpfbWiLs9rt0igjuBaDEOX.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9Eh7ajfQWv3KTk0ynr99Layg30B.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.6,
-    "tmdbId": 1037264,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/das-verschwinden-des-josef-mengele.json"
-  },
-  {
-    "id": "dataland",
-    "tipo": "filme",
-    "titulo": "DataLand",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/r8DlVk0t0FI9SPc2jI3hr0nYmJj.jpg",
-    "banner": null,
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7,
-    "tmdbId": 823211,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dataland.json"
-  },
-  {
-    "id": "date-a-bullet-nightmare-or-queen",
-    "tipo": "filme",
-    "titulo": "Date A Bullet: Nightmare or Queen",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hr44tfBcVp3Eh1PS2dGgpe2da5y.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3GZxrU5MH45zaRu2SlDACIumLBT.jpg",
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": 7.7,
-    "tmdbId": 723343,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/date-a-bullet-nightmare-or-queen.json"
-  },
-  {
-    "id": "date-a-bullet-dead-or-bullet",
-    "tipo": "filme",
-    "titulo": "Date A Bullet: Dead or Bullet",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7xFcuSTxJhkaACU3cSgDOas5v6I.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/5UahgzPgL4F8LXd7cfX3ch1zh7j.jpg",
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": 6.938,
-    "tmdbId": 685099,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/date-a-bullet-dead-or-bullet.json"
-  },
-  {
-    "id": "date-a-live-movie-mayuri-judgment",
-    "tipo": "filme",
-    "titulo": "Date A Live Movie: Mayuri Judgment",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wPLtLeopvyg2HgndnhwvmZsF3VO.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/f1HQKRYOuXyLi4HQKppbtR79BBl.jpg",
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": 7.247,
-    "tmdbId": 331061,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/date-a-live-movie-mayuri-judgment.json"
-  },
-  {
-    "id": "dates-de-formatura",
-    "tipo": "filme",
-    "titulo": "Dates de Formatura",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kPsne0NJ3pS3QdAh4T0h2z0i56u.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/57IDXM3ULgE1BvpS3stJhTaytjq.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.372,
-    "tmdbId": 1227780,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dates-de-formatura.json"
-  },
-  {
-    "id": "dave-chappelle-sonhador",
-    "tipo": "filme",
-    "titulo": "Dave Chappelle: Sonhador",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/AfRIwykHu9taHgq9DHktdwVLmWC.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7cFqrkl1CGOGYyGntgPRqQqbafn.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.903,
-    "tmdbId": 1215439,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dave-chappelle-sonhador.json"
-  },
-  {
-    "id": "davi",
-    "tipo": "filme",
-    "titulo": "Davi: Nasce Um Rei",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kr5Owq7ixs2gsOMZm1MferN8qZX.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mZ6J2g6HCV2gj3iuCdSxcyBXq9c.jpg",
-    "generos": [
-      "RELIGIOSOS"
-    ],
-    "nota": 8.071,
-    "tmdbId": 1167307,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/davi.json"
-  },
-  {
-    "id": "davi-nasce-um-rei",
-    "tipo": "filme",
-    "titulo": "Davi: Nasce Um Rei",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kr5Owq7ixs2gsOMZm1MferN8qZX.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mZ6J2g6HCV2gj3iuCdSxcyBXq9c.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA",
-      "4K"
-    ],
-    "nota": 8.058,
-    "tmdbId": 1167307,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/davi-nasce-um-rei.json"
-  },
-  {
-    "id": "david-contra-os-bancos",
-    "tipo": "filme",
-    "titulo": "David contra os Bancos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nYM7ooxIqyMcywcC1QDanyc9Hh8.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wcka0WH6otb1xueWk62Rpxqh3nm.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.8,
-    "tmdbId": 937220,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/david-contra-os-bancos.json"
-  },
-  {
-    "id": "david-e-os-duendes-de-natal",
-    "tipo": "filme",
-    "titulo": "David e os Duendes de Natal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/bGAkhpLoDsNddSRybFsrNM6kfAF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/13MNZaAKNoSZpOs5HULVNQwZYjB.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 6.1,
-    "tmdbId": 882093,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/david-e-os-duendes-de-natal.json"
-  },
-  {
-    "id": "david-vs-golias-a-batalha-da-fe",
-    "tipo": "filme",
-    "titulo": "Davi vs. Golias: A Batalha Da Fé",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7g0x8sdh0ZN6zBbt1CpUi9VMHmU.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/pHSzKRv7ZNarakFqteDNhYkUpwR.jpg",
-    "generos": [
-      "RELIGIOSOS"
-    ],
-    "nota": 4.2,
-    "tmdbId": 398218,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/david-vs-golias-a-batalha-da-fe.json"
-  },
-  {
-    "id": "dc-liga-dos-superpets",
-    "tipo": "filme",
-    "titulo": "DC Liga dos Superpets",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/k7WPHoOczduva8rI0UPnnrOTRXH.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xfNHRI2f5kHGvogxLd0C5sB90L7.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA",
-      "4K"
-    ],
-    "nota": 7.156,
-    "tmdbId": 539681,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dc-liga-dos-superpets.json"
-  },
-  {
-    "id": "dc-showcase-superman-e-shazam-o-retorno-do-adao-negro",
-    "tipo": "filme",
-    "titulo": "DC Showcase: Superman & Shazam! - O Retorno do Adão Negro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4KL9OHLaXtWkymC8ib5fhDR5ITQ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kLgVWIK20xWWcIubbHqqLeuxSzY.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.05,
-    "tmdbId": 43641,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dc-showcase-superman-e-shazam-o-retorno-do-adao-negro.json"
-  },
-  {
-    "id": "dc-showcase-the-phantom-stranger",
-    "tipo": "filme",
-    "titulo": "DC Showcase: Vingador Fantasma",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/akauuYAyzR07bIYtZzFAqzguhp6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vQkGZ0u9E8PgBbjg8vo61KHxQDc.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.73,
-    "tmdbId": 618352,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dc-showcase-the-phantom-stranger.json"
-  },
-  {
-    "id": "de-agora-em-diante",
-    "tipo": "filme",
-    "titulo": "De Agora Em Diante",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/sl7uXQhX8IM5rdiHbRWHdv4pKKB.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/q2gBEVJmmUZjnGYO0afNGPi5Pxm.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.2,
-    "tmdbId": 779548,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-agora-em-diante.json"
-  },
-  {
-    "id": "de-cabelos-em-pe",
-    "tipo": "filme",
-    "titulo": "De Cabelos em Pé",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/efBqrNubCcWbL6qeZj41KB2c0gj.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/t3zwpukBDm3URvXXiPg0wfMkrtV.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 5.906,
-    "tmdbId": 17203,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-cabelos-em-pe.json"
-  },
-  {
-    "id": "de-carona-com-o-perigo",
-    "tipo": "filme",
-    "titulo": "De Carona com o Perigo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rXR7NnlT4XLpJ1HnrpJzNZbit3b.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/bk9XwFgsRrheh8bZbjZD4wdH3kA.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 4.9,
-    "tmdbId": 539797,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-carona-com-o-perigo.json"
-  },
-  {
-    "id": "de-carona-para-o-amor",
-    "tipo": "filme",
-    "titulo": "De Carona para o Amor",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yAlNDE3bdS3CmpdO7UoJr9y7ScE.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/f5GsxbAgEDl0kHUkxrl0da7QVta.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.515,
-    "tmdbId": 458534,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-carona-para-o-amor.json"
   }
 ]

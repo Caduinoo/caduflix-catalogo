@@ -1,5 +1,84 @@
 [
   {
+    "id": "love-beyond-dreams-2026",
+    "tipo": "serie",
+    "titulo": "Love Beyond Dreams",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/dq6Q7HOyH9wT1cq5qwUzgOg5XPt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2EWZVQsvx7d5wKbDLjNN7SGuCrw.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": null,
+    "tmdbId": 308254,
+    "totalTemporadas": 1,
+    "totalEpisodios": 2,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/love-beyond-dreams-2026.json"
+  },
+  {
+    "id": "love-e-translation",
+    "tipo": "serie",
+    "titulo": "Love e Translation",
+    "ano": null,
+    "capa": null,
+    "generos": [
+      "HBO MAX"
+    ],
+    "nota": 0,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 7,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/love-e-translation.json"
+  },
+  {
+    "id": "love-in-the-moonlight",
+    "tipo": "serie",
+    "titulo": "Love in the Moonlight",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tUgHEXrYPjkzpY4aUCDg7YZh7uF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5IvFyqglPR501Bvk4NX60mzlVKM.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 7,
+    "tmdbId": 66256,
+    "totalTemporadas": 1,
+    "totalEpisodios": 18,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/love-in-the-moonlight.json"
+  },
+  {
+    "id": "love-in-the-time-of-corona",
+    "tipo": "serie",
+    "titulo": "Love in the Time of Corona",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kJ79Ha5ySFQ67yslYdtyeR7ni4J.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jGOc70lsObezZDJGIJv0a9ZCu8T.jpg",
+    "generos": [
+      "STAR+"
+    ],
+    "nota": 4.2,
+    "tmdbId": 106567,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/love-in-the-time-of-corona.json"
+  },
+  {
+    "id": "love-is-like-a-cat",
+    "tipo": "serie",
+    "titulo": "O Amor é Como um Gato",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lw9sUEhS982bq6crgPFrNS8gLBh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2hhpK3Yp4xIcAF57wMmlyTANFIH.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 6.444,
+    "tmdbId": 240052,
+    "totalTemporadas": 1,
+    "totalEpisodios": 12,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/love-is-like-a-cat.json"
+  },
+  {
     "id": "love-life",
     "tipo": "serie",
     "titulo": "Love Life",
@@ -3359,6 +3438,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/matices.json"
   },
   {
+    "id": "mating-season",
+    "tipo": "serie",
+    "titulo": "Mating Season",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dJjPnw3NQHmbGWGUXdlROqtTMuX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zaDTnGcq3F5LocdmHJLP3Mf0kII.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.1,
+    "tmdbId": 290295,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/mating-season.json"
+  },
+  {
     "id": "matlock-uma-advogada-improvavel",
     "tipo": "serie",
     "titulo": "Matlock: Uma Advogada Improvável",
@@ -4701,101 +4796,5 @@
     "totalTemporadas": 2,
     "totalEpisodios": 10,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/mestres-do-universo-salvando-eternia.json"
-  },
-  {
-    "id": "metalder-o-homem-maquina",
-    "tipo": "serie",
-    "titulo": "Metalder, o Homem Máquina",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/A1hSmsKxmHiw7z8V12Hv3zYHKC.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/c7FXKkvTrYzhZz19rXafZw2gzAC.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 8.4,
-    "tmdbId": 6243,
-    "totalTemporadas": 1,
-    "totalEpisodios": 40,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/metalder-o-homem-maquina.json"
-  },
-  {
-    "id": "metallic-rouge",
-    "tipo": "serie",
-    "titulo": "Metallic Rouge",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oLMLxZBmIFE6tWg5s8UwuYOWTVI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cQFytd14BhCywHnFqgw9uK3YYY8.jpg",
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": 7.207,
-    "tmdbId": 222787,
-    "totalTemporadas": 1,
-    "totalEpisodios": 13,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/metallic-rouge.json"
-  },
-  {
-    "id": "meu-amigo-bussunda",
-    "tipo": "serie",
-    "titulo": "Meu Amigo Bussunda",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/2dTxtR9kUMfgTdTHc3nGphG24yQ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/50fNA8XeVVLghIIUGYg5ManQ42V.jpg",
-    "generos": [
-      "GLOBOPLAY"
-    ],
-    "nota": 8,
-    "tmdbId": 127650,
-    "totalTemporadas": 1,
-    "totalEpisodios": 4,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/meu-amigo-bussunda.json"
-  },
-  {
-    "id": "meu-amor",
-    "tipo": "serie",
-    "titulo": "Meu Amor",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1ekREG5IuSFrAMRDQpgq9js2ost.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nvxWprLpexi0rYanzt5E4Ne3Mrg.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": null,
-    "tmdbId": 35015,
-    "totalTemporadas": 1,
-    "totalEpisodios": 12,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/meu-amor.json"
-  },
-  {
-    "id": "meu-amor-seis-historias-de-amor-verdadeiro",
-    "tipo": "serie",
-    "titulo": "Meu Amor: Seis Histórias de Amor Verdadeiro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/lzWNo5qRRvZ0SkmoFgnJ62EtMk.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cYAKFkw8mQPkBSoU1pxdMrHQlFh.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 4.5,
-    "tmdbId": 50016,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/meu-amor-seis-historias-de-amor-verdadeiro.json"
-  },
-  {
-    "id": "meu-ayrton-por-adriane-galisteu",
-    "tipo": "serie",
-    "titulo": "Meu Ayrton, por Adriane Galisteu",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/g3F58RRJrhCX0Jgc7bctH05mAff.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kcaZR7JmYzHArmucFvgYBkOCKLA.jpg",
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": 9,
-    "tmdbId": 304309,
-    "totalTemporadas": 1,
-    "totalEpisodios": 2,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/meu-ayrton-por-adriane-galisteu.json"
   }
 ]

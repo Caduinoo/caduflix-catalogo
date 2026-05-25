@@ -1,5 +1,109 @@
 [
   {
+    "id": "skinamarink-cancao-de-ninar",
+    "tipo": "filme",
+    "titulo": "Skinamarink: Canção de Ninar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yYI9HBPxVzPZosQBJOXV2QGdcZK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tjPpoTWBZOSUudnDyCYAqGcXBAS.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.344,
+    "tmdbId": 994143,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/skinamarink-cancao-de-ninar.json"
+  },
+  {
+    "id": "skull-a-mascara-de-anhanga",
+    "tipo": "filme",
+    "titulo": "Skull: A Máscara de Anhangá",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qkJvFqovL847zqKL7kWx17xNXAJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/VGkkTS8Z1BOFJEIFK7xwo2ugi2.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.365,
+    "tmdbId": 704269,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/skull-a-mascara-de-anhanga.json"
+  },
+  {
+    "id": "slaughterhouse-2",
+    "tipo": "filme",
+    "titulo": "Matadouro 2: Death Metal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2Qlxv51KwChVV4TpGkZrG5rv9FA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vJ1z82bLSfg71sQcJ370N4TpWqf.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.3,
+    "tmdbId": 1438030,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/slaughterhouse-2.json"
+  },
+  {
+    "id": "sleep-o-mal-nunca-dorme",
+    "tipo": "filme",
+    "titulo": "Sleep: O Mal Nunca Dorme",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hPkKVF1txOCiYvhx0PZkQADvX3P.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/Al5dGk1hBHvnDlRwwDdzrbO3ApI.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.651,
+    "tmdbId": 964592,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sleep-o-mal-nunca-dorme.json"
+  },
+  {
+    "id": "slender-man",
+    "tipo": "filme",
+    "titulo": "Slender Man: Pesadelo Sem Rosto",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8yW5eiLg7Ww8g4DpP7NVnTkR6TA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tQPDwl1jNZi59KoFT2oxDDnlqhG.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 4.297,
+    "tmdbId": 439015,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/slender-man.json"
+  },
+  {
+    "id": "sob-a-lua-cheia",
+    "tipo": "filme",
+    "titulo": "Sob a Lua Cheia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/70c3R1p2OL0vtplOSNUOjWk9NwC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ouPSklDn0h18yz1KtBIIGnxFkCb.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.091,
+    "tmdbId": 1549457,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sob-a-lua-cheia.json"
+  },
+  {
+    "id": "sob-as-aguas-do-sena",
+    "tipo": "filme",
+    "titulo": "Sob as Águas do Sena",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/njsyAXtUcPjLCjOfGvtNLH4DHL2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iwkWvcXcP8M4r9HLglhVEhgGyVu.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 5.909,
+    "tmdbId": 1001311,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sob-as-aguas-do-sena.json"
+  },
+  {
     "id": "sob-custodia",
     "tipo": "filme",
     "titulo": "Sob Custódia",

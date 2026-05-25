@@ -1,43 +1,43 @@
 {
-  "geradoEm": "2026-05-23T09:59:02.835Z",
+  "geradoEm": "2026-05-25T05:37:06.962Z",
   "entrada": {
-    "filmesXtream": 29100,
-    "seriesXtream": 7414,
-    "canaisXtream": 1871
+    "filmesXtream": 29214,
+    "seriesXtream": 7427,
+    "canaisXtream": 1872
   },
   "saida": {
-    "filmesFinais": 16771,
-    "seriesFinais": 7159,
-    "canaisFinais": 1770
+    "filmesFinais": 16829,
+    "seriesFinais": 7172,
+    "canaisFinais": 1771
   },
   "semLimite": {
-    "filmesAgrupados": 16771,
-    "seriesAgrupadas": 7159,
-    "canais": 1770
+    "filmesAgrupados": 16829,
+    "seriesAgrupadas": 7172,
+    "canais": 1771
   },
   "filtros": {
-    "filmesBloqueados": 3875,
+    "filmesBloqueados": 3902,
     "seriesBloqueadas": 0,
     "canaisBloqueados": 101
   },
   "agrupamento": {
     "limiteFilmesAtivo": false,
-    "filmesAgrupadosComoDuplicados": 8454,
-    "filmesComMaisDeUmaOpcao": 7121
+    "filmesAgrupadosComoDuplicados": 8483,
+    "filmesComMaisDeUmaOpcao": 7140
   },
   "episodios": {
-    "totalEpisodios": 229479,
+    "totalEpisodios": 229572,
     "seriesSemEpisodios": 0
   },
   "capas": {
-    "filmesSemCapa": 219,
-    "filmesSemBanner": 947,
+    "filmesSemCapa": 220,
+    "filmesSemBanner": 965,
     "seriesSemCapa": 109,
     "seriesSemBanner": 171,
     "canaisSemCapa": 0
   },
   "tmdb": {
-    "filmesNaoEncontrados": 414,
+    "filmesNaoEncontrados": 429,
     "seriesNaoEncontradas": 137
   }
 }

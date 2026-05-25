@@ -1,5 +1,151 @@
 [
   {
+    "id": "o-vingador-do-futuro",
+    "tipo": "filme",
+    "titulo": "O Vingador do Futuro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cCaj2DvRVnzkb3T4rkwyY56UGNR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/x2wOlXuK4NzPDQ0OBZiJjNNOp6Y.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7.3,
+    "tmdbId": 861,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-vingador-do-futuro.json"
+  },
+  {
+    "id": "o-voo-da-fenix-v2",
+    "tipo": "filme",
+    "titulo": "O Voo da Fênix v2",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-voo-da-fenix-v2.json"
+  },
+  {
+    "id": "o-voo-do-dragao",
+    "tipo": "filme",
+    "titulo": "O Voo do Dragão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ntoWVqH3ZRa5XW2U1PpmjaLBb76.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hQaYzVQGwLK04TgTiQkJB9lHmY8.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7.4,
+    "tmdbId": 9462,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-voo-do-dragao.json"
+  },
+  {
+    "id": "o-voo-do-falcao",
+    "tipo": "filme",
+    "titulo": "O Voo do Falcão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rewaDG5F3oGdAY2AEV6IgXKWfL6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sxI7nxy18fapiE1XNBuiQaIQhlS.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.862,
+    "tmdbId": 468816,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-voo-do-falcao.json"
+  },
+  {
+    "id": "obcecada",
+    "tipo": "filme",
+    "titulo": "Obcecada",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oQoHoVNJZAHKpUabMjiIvyFLahN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2EEc1R6K0n5URwji5gsXZPZVwVY.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.1,
+    "tmdbId": 761190,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/obcecada.json"
+  },
+  {
+    "id": "observadores",
+    "tipo": "filme",
+    "titulo": "Observadores",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bOFs0xHCOSTvIUYL0LDd5qcuuDB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5KGrBXvE0cYDwqfEaymvNBVspkJ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 6.526,
+    "tmdbId": 645710,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/observadores.json"
+  },
+  {
+    "id": "octonautas-e-o-circulo-de-fogo",
+    "tipo": "filme",
+    "titulo": "Octonautas e o Círculo de Fogo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/aGFtQaLlhpQ2zmmx9dcx8dNYLuI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gXNXD1eou71RWNUQx37bUbjbPmA.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.3,
+    "tmdbId": 765684,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/octonautas-e-o-circulo-de-fogo.json"
+  },
+  {
+    "id": "oldboy-dias-de-vinganca",
+    "tipo": "filme",
+    "titulo": "Oldboy: Dias de Vingança",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vLbmmqa3Ys03biY6kkzMEHdIGBD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yl9waUJoMTp1NnraBn4KWHuUSsx.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.931,
+    "tmdbId": 87516,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/oldboy-dias-de-vinganca.json"
+  },
+  {
+    "id": "olhos-de-dragao",
+    "tipo": "filme",
+    "titulo": "Olhos de Dragão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/z8HPitvWwl7P2v1doWJsAkaOsSU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3BmQJjDUGoVuBrYoqLfCWr2pF01.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.283,
+    "tmdbId": 100683,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/olhos-de-dragao.json"
+  },
+  {
+    "id": "olhos-frios",
+    "tipo": "filme",
+    "titulo": "Olhos Frios",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7UjwV9QvXV3OYq044yjHUIASYDb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bE4XWNy9CZD4TbJoFlRejbjI71X.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7.522,
+    "tmdbId": 204553,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/olhos-frios.json"
+  },
+  {
     "id": "onda-de-choque",
     "tipo": "filme",
     "titulo": "Onda de Choque",
@@ -596,6 +742,20 @@
     "nota": 7.013,
     "tmdbId": 508935,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-800.json"
+  },
+  {
+    "id": "os-aldeoes",
+    "tipo": "filme",
+    "titulo": "Os Aldeões",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yqkeaEllNPCBVvVchlzbRzwqKx5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vRl2GlAx1MWdnTYf3VGCKnbDx6i.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7.519,
+    "tmdbId": 549590,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-aldeoes.json"
   },
   {
     "id": "os-assassinatos-de-buckingham",
@@ -2292,6 +2452,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/poder-e-corrupcao.json"
   },
   {
+    "id": "pokemon-detective-pikachu",
+    "tipo": "filme",
+    "titulo": "Pokémon: Detetive Pikachu",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/p72utWsmz5ZAmvVQPUhovq0jFK3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yXybBEC45p84D0Ky7GmQQYrclVr.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "4K",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.906,
+    "tmdbId": 447404,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pokemon-detective-pikachu.json"
+  },
+  {
     "id": "pokemon-mewtwo-contra-ataca-evolucao",
     "tipo": "filme",
     "titulo": "Pokémon, o Filme: Mewtwo Contra-Ataca - Evolução",
@@ -3022,7 +3198,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/7bhqCvl771uepyt6wbzEiryxEoc.jpg",
     "banner": "https://image.tmdb.org/t/p/original/vm8mhrjk5nQ562UQ0KbUzi0yOHr.jpg",
     "generos": [
-      "AÇÃO | CRIME | GUERRA"
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
     ],
     "nota": 6.447,
     "tmdbId": 427641,
@@ -3535,6 +3712,20 @@
     "nota": 6.811,
     "tmdbId": 316042,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/relatos-de-guerra.json"
+  },
+  {
+    "id": "relatos-do-mundo",
+    "tipo": "filme",
+    "titulo": "Relatos do Mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cLqg9BjcecdzYGqURSdWgBUO3rX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/57dG6BzU2RcPtLgoA3oyHUIb2rI.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.9,
+    "tmdbId": 581032,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/relatos-do-mundo.json"
   },
   {
     "id": "render-se-jamais",
@@ -4176,193 +4367,5 @@
     "nota": 6.6,
     "tmdbId": 1039690,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rota-sem-saida.json"
-  },
-  {
-    "id": "roubando-mussolini",
-    "tipo": "filme",
-    "titulo": "Roubando Mussolini",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mo4JxW3rWsOF87XNeAoeewESrMY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jvulRWEbRnDpUx0UUBB42IuTe87.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.6,
-    "tmdbId": 873125,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/roubando-mussolini.json"
-  },
-  {
-    "id": "roubando-vidas",
-    "tipo": "filme",
-    "titulo": "Roubando Vidas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/k5Mto5es6bVC7Im8RGVJAs5uJ1r.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7IciAaJltRsOohcz2JlkupIF1s9.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.4,
-    "tmdbId": 11081,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/roubando-vidas.json"
-  },
-  {
-    "id": "roubo-entre-ladroes",
-    "tipo": "filme",
-    "titulo": "Roubo Entre Ladrões",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4BjZazpKwzrdTVrCRjZSUWJMHJo.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/s65RPy7DiBS4PXvUR3fiTw5f725.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.091,
-    "tmdbId": 972313,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/roubo-entre-ladroes.json"
-  },
-  {
-    "id": "roubo-nas-alturas",
-    "tipo": "filme",
-    "titulo": "Roubo nas Alturas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/suaEwH3iEn019iYkWFmx9fvvu46.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7BtEvieL4QRNW3j7OAw6Zv2CDap.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.116,
-    "tmdbId": 59108,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/roubo-nas-alturas.json"
-  },
-  {
-    "id": "roubo-pelos-ares",
-    "tipo": "filme",
-    "titulo": "Roubo pelos Ares",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/9wbjshzUHdfFhvdqHoNraGXhpLY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vBmmJYv5asJpdJZsyPPc4MMpfBe.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 6.868,
-    "tmdbId": 1018228,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/roubo-pelos-ares.json"
-  },
-  {
-    "id": "rrr-revolta-rebeliao-revolucao",
-    "tipo": "filme",
-    "titulo": "RRR: Revolta, Rebelião, Revolução",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/eK4lWmaEMdBj9nkghRNmfvtRWbq.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.711,
-    "tmdbId": 579974,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rrr-revolta-rebeliao-revolucao.json"
-  },
-  {
-    "id": "ruas-em-guerra",
-    "tipo": "filme",
-    "titulo": "Ruas em Guerra",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jk5DpTJeksKfS6NN5xK4iNGCCvN.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/srEsK6LPJSMd0LndDIzxtBEiKNS.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.789,
-    "tmdbId": 538207,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ruas-em-guerra.json"
-  },
-  {
-    "id": "ruas-sangrentas-o-acerto-final",
-    "tipo": "filme",
-    "titulo": "Ruas Sangrentas: O Acerto Final",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xBshLPA17Sbq1AJEACpkDLnRvPd.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kblkyMfm0E3qwMf9MIFz6YpMf1t.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.452,
-    "tmdbId": 9917,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ruas-sangrentas-o-acerto-final.json"
-  },
-  {
-    "id": "ruido-da-morte",
-    "tipo": "filme",
-    "titulo": "Ruído da Morte",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oEmSSzXxSMTX02TM15DzRB9HRsu.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dbtGinhWWKgQLQ0hjZHMFWxBJcJ.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.205,
-    "tmdbId": 1159518,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ruido-da-morte.json"
-  },
-  {
-    "id": "rumbos",
-    "tipo": "filme",
-    "titulo": "Rumbos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1rQ83hCGrwq2tpCjKKjeRlei9xN.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xKFGhilxPVeFCUuXJY5ZDqIKQb5.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.1,
-    "tmdbId": 391618,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rumbos.json"
-  },
-  {
-    "id": "s-w-a-t",
-    "tipo": "filme",
-    "titulo": "S.W.A.T.: Comando Especial",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dmhNSdqp9guZwmDktqvfJZ5DVjt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dfSAFTqNLfB3YAs9Ppy13EUaNYI.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.2,
-    "tmdbId": 9257,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/s-w-a-t.json"
-  },
-  {
-    "id": "s-w-a-t-comando-especial-2",
-    "tipo": "filme",
-    "titulo": "S.W.A.T.: Comando Especial 2",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/d5f8VRJGP7X2XV3x9zAxDMO60oG.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qZCBveX62G2yNJ9YHqEI2lKCdZN.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.697,
-    "tmdbId": 54445,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/s-w-a-t-comando-especial-2.json"
-  },
-  {
-    "id": "s-w-a-t-forca-letal",
-    "tipo": "filme",
-    "titulo": "S.W.A.T.: Força Letal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/lr7fU8UsJio5sYFPeWy5OLgYsHT.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kk3quv4ZcAVBS6GoP47KDTUv6yn.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.351,
-    "tmdbId": 559937,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/s-w-a-t-forca-letal.json"
   }
 ]

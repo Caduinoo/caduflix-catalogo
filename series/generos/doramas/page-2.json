@@ -559,6 +559,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/investimento-de-risco.json"
   },
   {
+    "id": "isso-se-chama-amor",
+    "tipo": "serie",
+    "titulo": "Isso Se Chama Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2XqXnm95f3qSqQXNJ3jd4Iz7Bjw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6Yi0rIMX6jdst39Wk0jaUzrIxuZ.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 8.2,
+    "tmdbId": 215471,
+    "totalTemporadas": 1,
+    "totalEpisodios": 16,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/isso-se-chama-amor.json"
+  },
+  {
     "id": "jack-e-joker-voce-roubou-meu-coracao",
     "tipo": "serie",
     "titulo": "Jack e Joker Voce Roubou Meu Coracao",
@@ -4780,21 +4796,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 20,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/pinoquio.json"
-  },
-  {
-    "id": "pit-babe",
-    "tipo": "serie",
-    "titulo": "Pit Stop do Coração",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qYOc2wXriD98soT8KhEj9sRDjAl.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tgPkYUUcOWUpocPkt8KIfJMvEbf.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 7.846,
-    "tmdbId": 235199,
-    "totalTemporadas": 1,
-    "totalEpisodios": 13,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/pit-babe.json"
   }
 ]

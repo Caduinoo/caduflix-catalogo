@@ -1,5 +1,69 @@
 [
   {
+    "id": "hotel-artemis",
+    "tipo": "filme",
+    "titulo": "Hotel Artemis",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lDj5AEPO121NJIMZBFXrMs7Y06A.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9E4mLJY4ZiQDPi2KR8cWr7mHF8o.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA",
+      "4K"
+    ],
+    "nota": 6.071,
+    "tmdbId": 406761,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/hotel-artemis.json"
+  },
+  {
+    "id": "how-to-have-sex",
+    "tipo": "filme",
+    "titulo": "How to Have Sex",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yQyoFCBLGJH5HXESmJAzaiXw9zU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/akvlTeB0LiNzw9U9YCAB8wwb5Qo.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA",
+      "4K"
+    ],
+    "nota": 6.236,
+    "tmdbId": 1075175,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/how-to-have-sex.json"
+  },
+  {
+    "id": "humane-ate-onde-o-ser-humano-pode-chegar",
+    "tipo": "filme",
+    "titulo": "Humane: Até Onde o Ser Humano Pode Chegar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sngVFA61zXSYo3jOjMdwbx66yoq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mwI1OarF7BVWwn5O1Ng73UhyctP.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "4K",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.454,
+    "tmdbId": 914215,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/humane-ate-onde-o-ser-humano-pode-chegar.json"
+  },
+  {
+    "id": "hurry-up-tomorrow-alem-dos-holofotes",
+    "tipo": "filme",
+    "titulo": "Hurry Up Tomorrow: Além dos Holofotes",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/651x5Q1RIuVLdliwZSHi5B8NrWh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iqQSRP52a8q7CNViVyXz6nC5CJP.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 5.096,
+    "tmdbId": 1093237,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/hurry-up-tomorrow-alem-dos-holofotes.json"
+  },
+  {
     "id": "hypnotic",
     "tipo": "filme",
     "titulo": "Hypnotic: Ameaça Invisível",
@@ -510,6 +574,35 @@
     "nota": 6.962,
     "tmdbId": 1013228,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ja-fui-famoso.json"
+  },
+  {
+    "id": "jack-ryan-de-tom-clancy-guerra-fantasma-dv",
+    "tipo": "filme",
+    "titulo": "Jack Ryan de Tom Clancy Guerra Fantasma [DV]",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPue4NKPiGNrIbZFeOsZfnovFAM.jpg",
+    "banner": null,
+    "generos": [
+      "4K"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jack-ryan-de-tom-clancy-guerra-fantasma-dv.json"
+  },
+  {
+    "id": "jack-ryan-de-tom-clancy-guerra-fantasma",
+    "tipo": "filme",
+    "titulo": "Jack Ryan de Tom Clancy: Guerra Fantasma",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bPue4NKPiGNrIbZFeOsZfnovFAM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/69KkxROnZoJdQAulnY5B7Gx6D7Z.jpg",
+    "generos": [
+      "TOP 10",
+      "4K"
+    ],
+    "nota": 7.11,
+    "tmdbId": 1380291,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jack-ryan-de-tom-clancy-guerra-fantasma.json"
   },
   {
     "id": "jackpot-loteria-mortal",
@@ -1769,6 +1862,20 @@
     "nota": 7.926,
     "tmdbId": 1304313,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/maldicao-da-mumia.json"
+  },
+  {
+    "id": "maldicao-da-mumia-dv",
+    "tipo": "filme",
+    "titulo": "Maldição da Múmia [DV]",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubN87iHY2DyWtwU2JHS0SQ1KqJu.jpg",
+    "banner": null,
+    "generos": [
+      "4K"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/maldicao-da-mumia-dv.json"
   },
   {
     "id": "malevola-dona-do-mal",
@@ -3448,6 +3555,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/no-limite-do-amanha.json"
   },
   {
+    "id": "no-olho-do-furacao",
+    "tipo": "filme",
+    "titulo": "No Olho do Furacão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wKugroGel7UUnM83Kcrn2afPTYB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3ZQRLuXNTbewOHDfxF51fy74gh4.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 5.685,
+    "tmdbId": 430040,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/no-olho-do-furacao.json"
+  },
+  {
     "id": "no-ritmo-do-coracao",
     "tipo": "filme",
     "titulo": "No Ritmo do Coração",
@@ -4578,126 +4701,5 @@
     "nota": 6.221,
     "tmdbId": 1397832,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-jogo-da-viuva.json"
-  },
-  {
-    "id": "o-jogo-da-viuva-dv",
-    "tipo": "filme",
-    "titulo": "O Jogo da Viúva [DV]",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/txiHphuGlemWdD9Lv4FfkJU4uS9.jpg",
-    "banner": null,
-    "generos": [
-      "4K"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-jogo-da-viuva-dv.json"
-  },
-  {
-    "id": "o-jogo-de-amor-odio",
-    "tipo": "filme",
-    "titulo": "O Jogo de Amor – \"Odio\"",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nWTeXUGWsSDoDLC4UucMeM07gA5.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lghWedsBBl3lPlIs4EpZpP64mUT.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE",
-      "4K"
-    ],
-    "nota": 7.271,
-    "tmdbId": 603661,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-jogo-de-amor-odio.json"
-  },
-  {
-    "id": "o-jogo-do-assassino",
-    "tipo": "filme",
-    "titulo": "O Jogo do Assassino",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pPmxLP2eMJEFiY7KZ3WkSFQ1b20.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zGLQmrmIB56kMZPnzqReIOBay1B.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 6.417,
-    "tmdbId": 507241,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-jogo-do-assassino.json"
-  },
-  {
-    "id": "o-jogo-do-disfarce",
-    "tipo": "filme",
-    "titulo": "O Jogo do Disfarce",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/d9O2dIxU1X8Qc8s8kf9RFiiDMMB.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/a6brwNObG0sFNtZVOstOXpTkpMu.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 5.98,
-    "tmdbId": 848187,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-jogo-do-disfarce.json"
-  },
-  {
-    "id": "o-jogo-do-predador-dv",
-    "tipo": "filme",
-    "titulo": "O Jogo do Predador [DV]",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0ub7FDXEyu8DqGcHKQpaOSem49.jpg",
-    "banner": null,
-    "generos": [
-      "4K"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-jogo-do-predador-dv.json"
-  },
-  {
-    "id": "o-justiceiro-uma-ultima-morte-dv",
-    "tipo": "filme",
-    "titulo": "O Justiceiro Uma Última Morte [DV]",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",
-    "banner": null,
-    "generos": [
-      "4K"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-justiceiro-uma-ultima-morte-dv.json"
-  },
-  {
-    "id": "o-lendario-cao-guerreiro",
-    "tipo": "filme",
-    "titulo": "O Lendário Cão Guerreiro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zwS6boYHEUOgQUMVrAFAPk9J0zF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/92PJmMopfy64VYjd0HvIQaHGZX0.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA",
-      "4K"
-    ],
-    "nota": 6.631,
-    "tmdbId": 366672,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-lendario-cao-guerreiro.json"
-  },
-  {
-    "id": "o-limite-da-traicao",
-    "tipo": "filme",
-    "titulo": "O Limite da Traição",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uQqmFcKOSg7RVtaIKOTtv1vWQPx.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qeoAcUAw1xNYJ9PP7m1Wc7kKZZQ.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER",
-      "4K"
-    ],
-    "nota": 6.996,
-    "tmdbId": 651070,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-limite-da-traicao.json"
   }
 ]

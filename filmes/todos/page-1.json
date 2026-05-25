@@ -437,6 +437,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/007-o-amanha-nunca-morre.json"
   },
   {
+    "id": "007-o-mundo-nao-e-o-bastante",
+    "tipo": "filme",
+    "titulo": "007: O Mundo Não é o Bastante",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9SrYvEKF3w7Qb4TF5pdDZHJKlp2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gJfg43Pl1ZeWDEGzG3nIu9P92zK.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.287,
+    "tmdbId": 36643,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/007-o-mundo-nao-e-o-bastante.json"
+  },
+  {
     "id": "007-permissao-para-matar",
     "tipo": "filme",
     "titulo": "007 - Permissão para Matar",
@@ -1489,6 +1503,20 @@
     "nota": 7.062,
     "tmdbId": 1090,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/13-andar.json"
+  },
+  {
+    "id": "13-distrito",
+    "tipo": "filme",
+    "titulo": "B13 - 13º Distrito",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/m3CkWymzFl269Pjmc3eTPkvtdRl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dSbXXdDcnQFimUf1mhkPk5dkQU3.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.814,
+    "tmdbId": 10045,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/13-distrito.json"
   },
   {
     "id": "14-cartas-de-amor",
@@ -4321,35 +4349,5 @@
     "nota": 6.7,
     "tmdbId": 418879,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-batalha-das-correntes.json"
-  },
-  {
-    "id": "a-batalha-de-kruty-1918",
-    "tipo": "filme",
-    "titulo": "A Batalha de Kruty",
-    "ano": 1918,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2N0eKs4OD4zM9dpdECZFVK6havp.jpg",
-    "banner": null,
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-batalha-de-kruty-1918.json"
-  },
-  {
-    "id": "a-batalha-de-natal",
-    "tipo": "filme",
-    "titulo": "A Batalha de Natal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7xz7evAsp4wqwSBSZLnNd13wBZt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sp6egj5NHHRGmCMdIoTNdbLwACR.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "NATALINO",
-      "4K"
-    ],
-    "nota": 5.938,
-    "tmdbId": 1022964,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-batalha-de-natal.json"
   }
 ]

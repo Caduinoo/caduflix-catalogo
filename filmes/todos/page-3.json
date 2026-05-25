@@ -1,5 +1,35 @@
 [
   {
+    "id": "a-falha",
+    "tipo": "filme",
+    "titulo": "Terremoto: A Falha de San Andreas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wVp2zu88NMWpGluqW9eGQbwLWi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zcySy6dnSmyqiichtDgO7AEeZoq.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.245,
+    "tmdbId": 254128,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-falha.json"
+  },
+  {
+    "id": "a-familia-addams",
+    "tipo": "filme",
+    "titulo": "A Família Addams",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sFwaszCIbVXGnsJG6dg6WUY7d6P.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7OxGhxUYAdtuike29VMzEFxJx7y.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.066,
+    "tmdbId": 2907,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-familia-addams.json"
+  },
+  {
     "id": "a-familia-addams-1991",
     "tipo": "filme",
     "titulo": "A Família Addams",
@@ -4243,6 +4273,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lei.json"
   },
   {
+    "id": "a-lei-das-ruas",
+    "tipo": "filme",
+    "titulo": "A Lei das Ruas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6wmE7rJ0YvGcDe5wBb3on7zludk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oAfSZDhBYyzs7wjcZ83iUTWgACE.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.202,
+    "tmdbId": 492449,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lei-das-ruas.json"
+  },
+  {
     "id": "a-lenda",
     "tipo": "filme",
     "titulo": "Eu Sou a Lenda",
@@ -4313,49 +4357,5 @@
     "nota": 5.915,
     "tmdbId": 2310,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lenda-de-beowulf.json"
-  },
-  {
-    "id": "a-lenda-de-billie-jean",
-    "tipo": "filme",
-    "titulo": "A Lenda de Billie Jean",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iK8IKYB6r4sJkh4JtI4yrgUxf9q.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/d6fvHVaOia07EACi5RmZmV05u85.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.6,
-    "tmdbId": 15982,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lenda-de-billie-jean.json"
-  },
-  {
-    "id": "a-lenda-de-candyman",
-    "tipo": "filme",
-    "titulo": "A Lenda de Candyman",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3HCrzTPjnPM8vJ882weWK3w9Clt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/g1cMEQnEptUJ7Sv8SRjWBTTHyMv.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6,
-    "tmdbId": 565028,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lenda-de-candyman.json"
-  },
-  {
-    "id": "a-lenda-de-golem",
-    "tipo": "filme",
-    "titulo": "A Lenda de Golem",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rQ8Nk709kWuMMk0IMQmbJbZe7pa.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uFccsJMb7a4DuU9Y8wiG7TUlRsc.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.7,
-    "tmdbId": 532635,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lenda-de-golem.json"
   }
 ]

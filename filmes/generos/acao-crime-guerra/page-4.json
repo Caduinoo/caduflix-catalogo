@@ -1,5 +1,91 @@
 [
   {
+    "id": "flypaper-os-desajustados",
+    "tipo": "filme",
+    "titulo": "Flypaper - Os Desajustados",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2uIrhPZrrdLRcOR0tjlFrlMO9nl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/de7QT8nBAmgsmO9tWPA0pQShdIM.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 4.31,
+    "tmdbId": 50473,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/flypaper-os-desajustados.json"
+  },
+  {
+    "id": "fogo-contra-fogo",
+    "tipo": "filme",
+    "titulo": "Fogo Contra Fogo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cv1ZuY874Q0uqFkURO8hjI2471z.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xKsnZDERG1dk95wuZ5q9iks3OL3.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7.934,
+    "tmdbId": 949,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fogo-contra-fogo.json"
+  },
+  {
+    "id": "fogo-cruzado",
+    "tipo": "filme",
+    "titulo": "Fogo Cruzado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5tKdjKZT1oUG16n5jefPD4XObZw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jIkH6cy0Haa1cyitn6gtKmE3lxu.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.303,
+    "tmdbId": 738652,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fogo-cruzado.json"
+  },
+  {
+    "id": "fogo-vs-fogo",
+    "tipo": "filme",
+    "titulo": "Fogo vs Fogo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nXqzmtYY4JrQKEvJ0rw04O1Cakq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wvxPMEYVkVy4KG6axRsnr7U9Jgy.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.4,
+    "tmdbId": 930711,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fogo-vs-fogo.json"
+  },
+  {
+    "id": "fomos-herois",
+    "tipo": "filme",
+    "titulo": "Fomos Heróis",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/eyR74V84d3u5QNYGRKXfaJmHo5M.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sGDXh6QU6CRqHVXfoYOBwqEnBVO.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7.131,
+    "tmdbId": 10590,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fomos-herois.json"
+  },
+  {
+    "id": "fora-da-trilha",
+    "tipo": "filme",
+    "titulo": "Fora da Trilha",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rxzv8AG98NsBZh8qwDL0RZnE4br.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cwThWBFVhYGMpVZMQDgeZwtCs4F.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 4.629,
+    "tmdbId": 430293,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fora-da-trilha.json"
+  },
+  {
     "id": "fora-dos-muros-da-escola",
     "tipo": "filme",
     "titulo": "Fora dos Muros da Escola",
@@ -444,7 +530,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/ral7cnZBQZGFmGaJUxrpcY8Xj3l.jpg",
     "banner": "https://image.tmdb.org/t/p/original/gCIB3DdK00DyfwosVGf7pnFFdK3.jpg",
     "generos": [
-      "AÇÃO | CRIME | GUERRA"
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
     ],
     "nota": 6.908,
     "tmdbId": 399402,
@@ -1068,6 +1155,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/grande-problema-2002.json"
   },
   {
+    "id": "greenfield-segredos-explosivos",
+    "tipo": "filme",
+    "titulo": "Greenfield - Segredos Explosivos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/Ap7H5zUnufAsfDGA0kOEmCgxW5r.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/j4ivKqQFujYwIPUTu7HiUmkZDR9.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 4,
+    "tmdbId": 630881,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/greenfield-segredos-explosivos.json"
+  },
+  {
     "id": "greyhound-na-mira-do-inimigo",
     "tipo": "filme",
     "titulo": "Greyhound - Na Mira do Inimigo",
@@ -1422,6 +1524,20 @@
     "nota": 5.6,
     "tmdbId": 1155690,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/gump-2-aventura-em-dobro.json"
+  },
+  {
+    "id": "hacker-todo-crime-tem-um-inicio",
+    "tipo": "filme",
+    "titulo": "Hacker: Todo Crime Tem Um Início",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6zHdhfnreagE3Bv6n7BXtC8gk6r.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/g0JyeAe7kcsXyFWEv8Axa49yBRJ.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.286,
+    "tmdbId": 413052,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/hacker-todo-crime-tem-um-inicio.json"
   },
   {
     "id": "hackers-piratas-de-computador",
@@ -4281,120 +4397,5 @@
     "nota": 6.994,
     "tmdbId": 1011477,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/karate-kid-lendas.json"
-  },
-  {
-    "id": "kate",
-    "tipo": "filme",
-    "titulo": "Kate",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uJgdT1boTSP0dDIjdTgGleg71l4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/byflnwPMumyvrCW9SfO5Miq3647.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 6.618,
-    "tmdbId": 597891,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kate.json"
-  },
-  {
-    "id": "keanu-cade-meu-gato",
-    "tipo": "filme",
-    "titulo": "Keanu: Cadê Meu Gato?!",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zIWQUKDs6l80WVxQY43hmk2XIW.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/y6mCy0k7dnNKcHjLLPdo7guVjCR.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.047,
-    "tmdbId": 342521,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/keanu-cade-meu-gato.json"
-  },
-  {
-    "id": "khutulun-a-princesa-guerreira",
-    "tipo": "filme",
-    "titulo": "Khutulun - A Princesa Guerreira",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/h1tgT77aMRnMstr3soizs0ALir.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/g7Fr6Pd1bR9G5Y9E47h7pmYTcX4.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.1,
-    "tmdbId": 960481,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/khutulun-a-princesa-guerreira.json"
-  },
-  {
-    "id": "kick-ass-2",
-    "tipo": "filme",
-    "titulo": "Kick-Ass 2",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1go2A3gdQjaMuHWquybgoJlQRcX.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dHBYguQvCDa00GMoidNYa7IOD8y.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.405,
-    "tmdbId": 59859,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kick-ass-2.json"
-  },
-  {
-    "id": "kick-ass-quebrando-tudo",
-    "tipo": "filme",
-    "titulo": "Kick-Ass: Quebrando Tudo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/Lw92onUVD9eg04JltAas5KWkSy.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/P4bGyJQF0shAcRku3I2perNUQR.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.125,
-    "tmdbId": 23483,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kick-ass-quebrando-tudo.json"
-  },
-  {
-    "id": "kickboxer-1",
-    "tipo": "filme",
-    "titulo": "American Kickboxer 1: Duelo Decisivo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/s22Wz0QoLhFMDdnsmWRwMXitLDZ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tPwQtNizinx2TuxwiPAuqvEIZ2n.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 4.528,
-    "tmdbId": 110830,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kickboxer-1.json"
-  },
-  {
-    "id": "kickboxer-2",
-    "tipo": "filme",
-    "titulo": "Kickboxer 2: A Vingança do Dragão",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/bFogwMNxqZhKSf6vorhE6Lb4Yu.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7pgWbror7QscZu4YLU5ZKUWffAQ.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.54,
-    "tmdbId": 24993,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kickboxer-2.json"
-  },
-  {
-    "id": "kickboxer-3",
-    "tipo": "filme",
-    "titulo": "Kickboxer 3: A Arte da Guerra",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6Bkul5qft7BFHoHaPEs7ojx5Kr4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/h0jlJEWoXEgMic7JNSaddGQRG6r.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.004,
-    "tmdbId": 39027,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kickboxer-3.json"
   }
 ]

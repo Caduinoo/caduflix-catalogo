@@ -1,5 +1,133 @@
 [
   {
+    "id": "s-m-a-s-h-acampamento-de-super-herois",
+    "tipo": "serie",
+    "titulo": "S.M.A.S.H.! Acampamento de Super-Heróis",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jR2I7EsBfBIYI0Yb3SIjmFAV1Za.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xXzCIbD2UWIzRHDfsgxr8Rg78kz.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 1.5,
+    "tmdbId": 208759,
+    "totalTemporadas": 1,
+    "totalEpisodios": 13,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/s-m-a-s-h-acampamento-de-super-herois.json"
+  },
+  {
+    "id": "s-w-a-t-forca-de-intervencao",
+    "tipo": "serie",
+    "titulo": "S.W.A.T.: Força de Intervenção",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/byFarhK0Wxmf9mSOOR9ZQ31sShJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7j4ug9B6JXVeh5HhQjjPScrdj4Z.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 8,
+    "tmdbId": 71790,
+    "totalTemporadas": 8,
+    "totalEpisodios": 163,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/s-w-a-t-forca-de-intervencao.json"
+  },
+  {
+    "id": "sabadou-com-virginia",
+    "tipo": "serie",
+    "titulo": "Sabadou com Virginia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/p0BoG6JfPaIHWMRH3E5RW7IW6NQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tPsTC65vSu3kUOGRSbod6yeshY8.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": null,
+    "tmdbId": 251680,
+    "totalTemporadas": 1,
+    "totalEpisodios": 28,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sabadou-com-virginia.json"
+  },
+  {
+    "id": "saber-marionette-j",
+    "tipo": "serie",
+    "titulo": "Garotas Marionetes J",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/n3LApkobOxCK7z1jjfTAWiHiTpz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rSQ14CqSVOvtHA3vnR3YJjzNLCz.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 6.818,
+    "tmdbId": 25850,
+    "totalTemporadas": 1,
+    "totalEpisodios": 27,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/saber-marionette-j.json"
+  },
+  {
+    "id": "sabikui-bisco",
+    "tipo": "serie",
+    "titulo": "SABIKUI BISCO",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hT9DTlUZxyq96Kuo0b9yEGYZrj9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1PjeMinKDUgHaWyFdlkCXKlDZnb.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 6.37,
+    "tmdbId": 120142,
+    "totalTemporadas": 1,
+    "totalEpisodios": 12,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sabikui-bisco.json"
+  },
+  {
+    "id": "sabor-caseiro-com-antoni-porowski",
+    "tipo": "serie",
+    "titulo": "Sabor Caseiro com Antoni Porowski",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/koqiIz3e783rmNdDjli8jDnwitn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tIlE57Vk1QKeZil5zGfNyHCkWwX.jpg",
+    "generos": [
+      "DISNEY+"
+    ],
+    "nota": 4.1,
+    "tmdbId": 282756,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sabor-caseiro-com-antoni-porowski.json"
+  },
+  {
+    "id": "sabores-da-fazenda-com-molly",
+    "tipo": "serie",
+    "titulo": "Sabores da Fazenda com Molly",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6z4xAt1ApAg0ZflX3h3lAySJ1jk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uckFeUGfgVDd3WuOoJ6nvqA951m.jpg",
+    "generos": [
+      "DISCOVERY+"
+    ],
+    "nota": 4,
+    "tmdbId": 80714,
+    "totalTemporadas": 7,
+    "totalEpisodios": 77,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sabores-da-fazenda-com-molly.json"
+  },
+  {
+    "id": "safe",
+    "tipo": "serie",
+    "titulo": "Safe",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lrA2SSoWp3zzb0MBdjWKCVN0qEF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ctvZVrJBRjOgLeQtLaNEbg9w0y8.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.893,
+    "tmdbId": 72792,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/safe.json"
+  },
+  {
     "id": "sagrada-familia",
     "tipo": "serie",
     "titulo": "Sagrada Família",
@@ -222,6 +350,22 @@
     "totalTemporadas": 3,
     "totalEpisodios": 36,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/salem.json"
+  },
+  {
+    "id": "salish-e-jordan-matter",
+    "tipo": "serie",
+    "titulo": "Salish e Jordan Matter",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/d8tVPtlvJ4219WknD3GvPmxg3Xh.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 5.5,
+    "tmdbId": 318906,
+    "totalTemporadas": 1,
+    "totalEpisodios": 7,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/salish-e-jordan-matter.json"
   },
   {
     "id": "sally-fisiculturismo-e-assassinato",
@@ -4300,6 +4444,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/smartless-na-estrada.json"
   },
   {
+    "id": "smile-after-tears-2026",
+    "tipo": "serie",
+    "titulo": "Smile After Tears",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/4wmMNhaakZiUKfPQps0iwNZxMPt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eKAdAaMKqsbRX5AP4m29sFLMTVB.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 7,
+    "tmdbId": 305079,
+    "totalTemporadas": 1,
+    "totalEpisodios": 1,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/smile-after-tears-2026.json"
+  },
+  {
     "id": "smiley",
     "tipo": "serie",
     "titulo": "Tavis Smiley",
@@ -4633,165 +4793,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 2,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sob-pressao-plantao-covid.json"
-  },
-  {
-    "id": "sobe-na-minha-moto",
-    "tipo": "serie",
-    "titulo": "Sobe na Minha Moto",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/y9weqTw95vxCqv6aAPN4KCJVGL2.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3KAXI0PzPfQMKjmUFcYKCg1hmxr.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 7.5,
-    "tmdbId": 111119,
-    "totalTemporadas": 1,
-    "totalEpisodios": 15,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sobe-na-minha-moto.json"
-  },
-  {
-    "id": "sobre-essa-pele",
-    "tipo": "serie",
-    "titulo": "Sobre Essa Pele",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/r99BBVappNpdylfna3ZFFKFN4j1.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tFv2xzSULtUDJG4zL5BsXgUuMgx.jpg",
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": null,
-    "tmdbId": 277689,
-    "totalTemporadas": 2,
-    "totalEpisodios": 17,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sobre-essa-pele.json"
-  },
-  {
-    "id": "sobre-juventude",
-    "tipo": "serie",
-    "titulo": "Sobre a Juventude",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1YgkvV86ro08lpzobjrmjBE79YA.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/oTCQMTi7x2byuGN3b3bgHzbaB5h.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 6.5,
-    "tmdbId": 202460,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sobre-juventude.json"
-  },
-  {
-    "id": "sobre-nos-dois",
-    "tipo": "serie",
-    "titulo": "Sobre Nós Dois",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gAkCKaDxEO8Kbf03TsgnUML9sfE.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rNuEcBelKcPubX6Xf0JNO2aP8jJ.jpg",
-    "generos": [
-      "GLOBOPLAY"
-    ],
-    "nota": null,
-    "tmdbId": 231796,
-    "totalTemporadas": 2,
-    "totalEpisodios": 20,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sobre-nos-dois.json"
-  },
-  {
-    "id": "sobre-viver",
-    "tipo": "serie",
-    "titulo": "Sobre Viver",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6TOcbePt7D4QQsDU2eW3saCgpfn.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8AvE6BmejslT4wUD0i2EeUcsiLA.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 7,
-    "tmdbId": 106735,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sobre-viver.json"
-  },
-  {
-    "id": "sobrepostas",
-    "tipo": "serie",
-    "titulo": "Sobrepostas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/cpxXVwf1PRfc3DXGoWz1tPjU4fr.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/5OKWbKlfh2T79sWZ1d2ZYesejUM.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": null,
-    "tmdbId": 137255,
-    "totalTemporadas": 1,
-    "totalEpisodios": 13,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sobrepostas.json"
-  },
-  {
-    "id": "sobrevivencia-extrema",
-    "tipo": "serie",
-    "titulo": "Sobrevivência Extrema",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6i07z6le7SPwmu2Jb5HmYmdreGN.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6i3FIxwl35V0oYsEH77GR8AP2hr.jpg",
-    "generos": [
-      "DISCOVERY+"
-    ],
-    "nota": null,
-    "tmdbId": 256708,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sobrevivencia-extrema.json"
-  },
-  {
-    "id": "sobrevivendo-a-amazonia",
-    "tipo": "serie",
-    "titulo": "Sobrevivendo a Amazônia",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ztwIOAjhJd5beuzDgdIjRw8EQug.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xw0cKKXGYLXUIoQx0rDLeGWy7WC.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 9,
-    "tmdbId": 243410,
-    "totalTemporadas": 1,
-    "totalEpisodios": 5,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sobrevivendo-a-amazonia.json"
-  },
-  {
-    "id": "sobrevivendo-a-jeffrey-epstein",
-    "tipo": "serie",
-    "titulo": "Sobrevivendo a Jeffrey Epstein",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3BZS3xqniTSkAMjmvIAWsnaVZp.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gELEpFvVT73EKoRVBDn8wjXXqZR.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 5,
-    "tmdbId": 106282,
-    "totalTemporadas": 1,
-    "totalEpisodios": 4,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sobrevivendo-a-jeffrey-epstein.json"
-  },
-  {
-    "id": "sobrevivendo-a-queda-dos-black-hawks",
-    "tipo": "serie",
-    "titulo": "Sobrevivendo à Queda dos Black Hawks",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/keDBieYscTMIPJg0jhJA5spyt8a.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9zh63vQFLaCmWpSU575q5lTu2yu.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.53,
-    "tmdbId": 282201,
-    "totalTemporadas": 1,
-    "totalEpisodios": 3,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sobrevivendo-a-queda-dos-black-hawks.json"
   }
 ]

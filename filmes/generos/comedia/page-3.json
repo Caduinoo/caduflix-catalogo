@@ -1,5 +1,63 @@
 [
   {
+    "id": "criando-verdades",
+    "tipo": "filme",
+    "titulo": "Criando Verdades",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/q2xXZGR9kE2XmFReJS9BxW4h3DO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1ExcUQTmzXhHNKAXpN0OxxfgG3s.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 5.3,
+    "tmdbId": 839564,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/criando-verdades.json"
+  },
+  {
+    "id": "cro-em-familia",
+    "tipo": "filme",
+    "titulo": "Crô em Família",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/i3hfC09ov7ozxAwbof8IwcahYUi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/79Wyk2UW5TetH5XQ8JncVpVCP0r.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 4.7,
+    "tmdbId": 544946,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cro-em-familia.json"
+  },
+  {
+    "id": "crocodilo",
+    "tipo": "filme",
+    "titulo": "Crocodilo Dundee",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wYJj9QRGV0n6gQ9UqeLnOMDtIc4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fdyRR3R1urnk6oYiChCMu6bFaFb.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.445,
+    "tmdbId": 9671,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/crocodilo.json"
+  },
+  {
+    "id": "crocodilo-dundee",
+    "tipo": "filme",
+    "titulo": "Crocodilo Dundee",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wYJj9QRGV0n6gQ9UqeLnOMDtIc4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fdyRR3R1urnk6oYiChCMu6bFaFb.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.445,
+    "tmdbId": 9671,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/crocodilo-dundee.json"
+  },
+  {
     "id": "crocodilo-dundee-em-hollywood",
     "tipo": "filme",
     "titulo": "Crocodilo Dundee em Hollywood",
@@ -4285,66 +4343,5 @@
     "nota": 7.2,
     "tmdbId": 28289,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/flor-de-cacto.json"
-  },
-  {
-    "id": "flora-e-filho-musica-em-familia",
-    "tipo": "filme",
-    "titulo": "Flora e Filho - Música em Família",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/i1Xv3pmIwEXmrbnMOwl6BExjV9a.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nV4nOG6ZCK8orRL7T5wXXgMdM0N.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA",
-      "4K"
-    ],
-    "nota": 6.928,
-    "tmdbId": 1059811,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/flora-e-filho-musica-em-familia.json"
-  },
-  {
-    "id": "florence-quem-e-essa-mulher",
-    "tipo": "filme",
-    "titulo": "Florence: Quem é Essa Mulher?",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oXIkaUF2DDfs4c3jfO5wHj0fJuh.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/x5zHw4qTZ1aP4Lrcv49coRluvxr.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.654,
-    "tmdbId": 315664,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/florence-quem-e-essa-mulher.json"
-  },
-  {
-    "id": "flores-partidas",
-    "tipo": "filme",
-    "titulo": "Flores Partidas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pSvtfXwjdb7UpiyVMp3gt8pTOHT.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xTO4x2OyF7TdZ32mVnjzhjslDOd.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.938,
-    "tmdbId": 308,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/flores-partidas.json"
-  },
-  {
-    "id": "fora-de-controle",
-    "tipo": "filme",
-    "titulo": "Um Dia Fora de Controle",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/auLOTlulof19GSPrNomyG7myfzN.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/5lQ4euO30sDin5nCifvi0vURFNd.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.064,
-    "tmdbId": 1248226,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fora-de-controle.json"
   }
 ]

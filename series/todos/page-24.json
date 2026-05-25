@@ -1,5 +1,197 @@
 [
   {
+    "id": "vamos-ficar-bem",
+    "tipo": "serie",
+    "titulo": "Vamos Ficar Bem",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/58QebCJChV8FWXOEucf7PWsHyVz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/njuKYfHtXdCcrHCqkPlrNTD4S5g.jpg",
+    "generos": [
+      "DISNEY+"
+    ],
+    "nota": 6.667,
+    "tmdbId": 314172,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vamos-ficar-bem.json"
+  },
+  {
+    "id": "vamos-rodar-com-otis",
+    "tipo": "serie",
+    "titulo": "Vamos rodar com Otis",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qVU5yu9kgXeiKKdts0mfAaZQMn7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rHLs2Q9JWMFbEORqwKbFv278XL7.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 6.6,
+    "tmdbId": 133152,
+    "totalTemporadas": 2,
+    "totalEpisodios": 18,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vamos-rodar-com-otis.json"
+  },
+  {
+    "id": "vamos-volei-de-praia-feminino",
+    "tipo": "serie",
+    "titulo": "Vamos! Vôlei de Praia Feminino",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iL3et3wmG11NRuTCCAw437aso8G.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pcA8Pk0Va1CPr6EKqZSnAdvHk0e.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 9,
+    "tmdbId": 259902,
+    "totalTemporadas": 1,
+    "totalEpisodios": 56,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vamos-volei-de-praia-feminino.json"
+  },
+  {
+    "id": "vamp",
+    "tipo": "serie",
+    "titulo": "Vamp",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uIU87AvtHQI8tr3kNvO8aegtQRI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lHZH2fL364idYF3ivBBZ4ugjbej.jpg",
+    "generos": [
+      "NOVELAS"
+    ],
+    "nota": 8.1,
+    "tmdbId": 36951,
+    "totalTemporadas": 1,
+    "totalEpisodios": 179,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vamp.json"
+  },
+  {
+    "id": "vampirina",
+    "tipo": "serie",
+    "titulo": "Vampirina",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wGlzmtf0ae9vAFIthuU2CLNAUEL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lXU4HMoNmrgPEO2meDmlv5kY8OG.jpg",
+    "generos": [
+      "DISNEY+"
+    ],
+    "nota": 6.65,
+    "tmdbId": 74323,
+    "totalTemporadas": 2,
+    "totalEpisodios": 48,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vampirina.json"
+  },
+  {
+    "id": "vampirina-o-show-das-sinistras",
+    "tipo": "serie",
+    "titulo": "Vampirina: O Show das Sinistras",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ylQHVh8K3IEjQxfQfqw0JheTH02.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xPvewjncQ8B8YsoTwmHdNLKLVhh.jpg",
+    "generos": [
+      "DISNEY+"
+    ],
+    "nota": 4,
+    "tmdbId": 84587,
+    "totalTemporadas": 1,
+    "totalEpisodios": 7,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vampirina-o-show-das-sinistras.json"
+  },
+  {
+    "id": "vampirina-uma-vampirinha-adolescente",
+    "tipo": "serie",
+    "titulo": "Vampirina: Uma Vampirinha Adolescente",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xcdQeAsCfv8JkkUpTWvF96snppo.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/m54fpF9Enq74G3liicywY1CzY2x.jpg",
+    "generos": [
+      "DISNEY+"
+    ],
+    "nota": 6.75,
+    "tmdbId": 275722,
+    "totalTemporadas": 1,
+    "totalEpisodios": 16,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vampirina-uma-vampirinha-adolescente.json"
+  },
+  {
+    "id": "vampiros",
+    "tipo": "serie",
+    "titulo": "Buffy: A Caça-Vampiros",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kptDNMjnrZl4DnF4OdpqovsYdea.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lBmlLro9ZfY815ZXE5NKhYNxPRQ.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 8.106,
+    "tmdbId": 95,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vampiros.json"
+  },
+  {
+    "id": "van-helsing",
+    "tipo": "serie",
+    "titulo": "Van Helsing",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/r8ODGmfNbZQlNhiJl2xQENE2jsk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5VltHQJXdmbSD6gEJw3R8R1Kbmc.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.045,
+    "tmdbId": 65820,
+    "totalTemporadas": 5,
+    "totalEpisodios": 64,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/van-helsing.json"
+  },
+  {
+    "id": "vanda",
+    "tipo": "serie",
+    "titulo": "Vanda",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/aNsPraDR9Yq7xeK5K4jkPc6gnis.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/77IhZGuDoyqVvZfbaubO8GPgZ9Z.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 7.1,
+    "tmdbId": 126889,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vanda.json"
+  },
+  {
+    "id": "vanderpump-villa-luxos-e-segredos",
+    "tipo": "serie",
+    "titulo": "Vanderpump Villa Luxos e Segredos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XpldoypVrt0lRleeB3Wng0Qv1i.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nwmrANFW0D7PV9nca9FvghclxFa.jpg",
+    "generos": [
+      "STAR+"
+    ],
+    "nota": 6,
+    "tmdbId": null,
+    "totalTemporadas": 2,
+    "totalEpisodios": 20,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vanderpump-villa-luxos-e-segredos.json"
+  },
+  {
+    "id": "vanished",
+    "tipo": "serie",
+    "titulo": "Vanished",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6Htrg4SobTHu9aYaYLGZaNLJvLX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qI2pX6IWQojvh2kaLv6M233Iwqb.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 6.6,
+    "tmdbId": 287231,
+    "totalTemporadas": 1,
+    "totalEpisodios": 3,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vanished.json"
+  },
+  {
     "id": "vanitas-no-carte",
     "tipo": "serie",
     "titulo": "The Case Study of Vanitas",
@@ -924,6 +1116,22 @@
     "totalTemporadas": 1,
     "totalEpisodios": 4,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vidrados-no-natal.json"
+  },
+  {
+    "id": "vigilante",
+    "tipo": "serie",
+    "titulo": "Vigilante",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pgvRl9Bkq7ccIIzBemzVTbJElZT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/daGuh4UzHFF8sSHrYHMw0mb2qBt.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 8.451,
+    "tmdbId": 205082,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vigilante.json"
   },
   {
     "id": "vikings",

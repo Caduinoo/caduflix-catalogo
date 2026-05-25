@@ -4204,6 +4204,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-tragedia-de-macbeth.json"
   },
   {
+    "id": "a-tregua",
+    "tipo": "filme",
+    "titulo": "A trégua",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "DRAMA",
+      "LANÇAMENTOS"
+    ],
+    "nota": null,
+    "tmdbId": 735675,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-tregua.json"
+  },
+  {
     "id": "a-trincheira-infinita",
     "tipo": "filme",
     "titulo": "A Trincheira Infinita",
@@ -4350,19 +4365,5 @@
     "nota": 6.3,
     "tmdbId": 438259,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-jornada.json"
-  },
-  {
-    "id": "a-ultima-musica",
-    "tipo": "filme",
-    "titulo": "A Última Música",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nxIfYoPSpQmwhotMYZUVYfMbiYq.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/iZrfY0w4s91XfRzEOf3kFMjrw5G.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.23,
-    "tmdbId": 35690,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-musica.json"
   }
 ]

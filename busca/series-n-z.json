@@ -10926,6 +10926,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/pra-sempre-paquitas.json"
   },
   {
+    "id": "prazer-maximo-garantido",
+    "tipo": "serie",
+    "titulo": "Prazer Máximo Garantido",
+    "tituloNormalizado": "prazer maximo garantido",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/b5mDbXQoTs6SPjbBjoWfvWOpGhc.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/prazer-maximo-garantido.json"
+  },
+  {
     "id": "preacher",
     "tipo": "serie",
     "titulo": "Preacher",
@@ -11887,6 +11896,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/8kOyOvnXvKLgFAqbajIZplAEAQ0.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/queer-eye-brasil.json"
+  },
+  {
+    "id": "quem-ama-cuida",
+    "tipo": "serie",
+    "titulo": "Quem Ama Cuida",
+    "tituloNormalizado": "quem ama cuida",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lzLkCVaN1l0RBYYDClZ983l4ZOz.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/quem-ama-cuida.json"
   },
   {
     "id": "quem-contratou-o-assassino",
@@ -14535,6 +14553,15 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/salem.json"
   },
   {
+    "id": "salish-e-jordan-matter",
+    "tipo": "serie",
+    "titulo": "Salish e Jordan Matter",
+    "tituloNormalizado": "salish e jordan matter",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mOkeTfjZmUY43gtOJN9QoEa0DuW.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/salish-e-jordan-matter.json"
+  },
+  {
     "id": "sally-fisiculturismo-e-assassinato",
     "tipo": "serie",
     "titulo": "Sally: Fisiculturismo e Assassinato",
@@ -16738,6 +16765,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/7HCVDu6r9QpvAy15zIAWF1fh3Ct.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/smartless-na-estrada.json"
+  },
+  {
+    "id": "smile-after-tears-2026",
+    "tipo": "serie",
+    "titulo": "Smile After Tears",
+    "tituloNormalizado": "smile after tears",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/4wmMNhaakZiUKfPQps0iwNZxMPt.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/smile-after-tears-2026.json"
   },
   {
     "id": "smiley",
@@ -19735,6 +19771,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/f9SlZMXOGDzfOmS3h1G0vZHBvkj.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-bmf-documentary-blowing-money-fast.json"
+  },
+  {
+    "id": "the-boroughs",
+    "tipo": "serie",
+    "titulo": "The Boroughs",
+    "tituloNormalizado": "the boroughs",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-boroughs.json"
   },
   {
     "id": "the-boys",
@@ -25018,6 +25063,15 @@
     "ano": null,
     "capa": "https://image.tmdb.org/t/p/w500/fNrKfD2igYvN4nlW0yNACKqToHL.jpg",
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vidrados-no-natal.json"
+  },
+  {
+    "id": "vigilante",
+    "tipo": "serie",
+    "titulo": "Vigilante",
+    "tituloNormalizado": "vigilante",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pgvRl9Bkq7ccIIzBemzVTbJElZT.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vigilante.json"
   },
   {
     "id": "vikings",

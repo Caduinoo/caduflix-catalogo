@@ -317,6 +317,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-metade-de-nos.json"
   },
   {
+    "id": "a-mulher-mais-rica-do-mundo",
+    "tipo": "filme",
+    "titulo": "A Mulher Mais Rica do Mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kYQ7nDESAkYR08RSz4PQe7J0YlO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fl36Z9J81DMOcmTW26UCmzr5LkY.jpg",
+    "generos": [
+      "COMÉDIA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.1,
+    "tmdbId": 1309725,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-mulher-mais-rica-do-mundo.json"
+  },
+  {
     "id": "a-noiva-do-ano",
     "tipo": "filme",
     "titulo": "A Noiva do Ano",
@@ -363,6 +378,21 @@
     "nota": 7.942,
     "tmdbId": 682012,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-pequena-amelie.json"
+  },
+  {
+    "id": "a-porrada-vai-comer",
+    "tipo": "filme",
+    "titulo": "A Porrada Vai Comer!",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2ujZDnUE0g309LxhLtQFIDQgGyM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uzXLCqPWYbsVzPU3pGz3oPqO4lE.jpg",
+    "generos": [
+      "COMÉDIA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.5,
+    "tmdbId": 1165441,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-porrada-vai-comer.json"
   },
   {
     "id": "a-procura-de-harry-a-arte-por-tras-da-magia",
@@ -426,6 +456,21 @@
     "nota": 7.214,
     "tmdbId": 1629369,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-tragedia-de-moriah-wilson.json"
+  },
+  {
+    "id": "a-tregua",
+    "tipo": "filme",
+    "titulo": "A trégua",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "DRAMA",
+      "LANÇAMENTOS"
+    ],
+    "nota": null,
+    "tmdbId": 735675,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-tregua.json"
   },
   {
     "id": "a-ultima-ceia",
@@ -851,6 +896,22 @@
     "nota": null,
     "tmdbId": 1262505,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/caustico.json"
+  },
+  {
+    "id": "cesium-fallout",
+    "tipo": "filme",
+    "titulo": "Cesium Fallout",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cjP6dVHNgKLZmEXkhFrrYapzv12.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/z1fzWsGB2ePLFrTJcsynLpP7hnB.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.756,
+    "tmdbId": 1305642,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cesium-fallout.json"
   },
   {
     "id": "chainsaw-man-o-filme-arco-da-reze",
@@ -1280,6 +1341,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/e-quase-verdade.json"
   },
   {
+    "id": "el-salvador-o-dia-em-que-o-medo-mudou-de-lado",
+    "tipo": "filme",
+    "titulo": "El Salvador - O dia em que o medo mudou de lado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bg4KbU1M53QRFKGtoHOJPjFonbu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/o5WFZISFD8rW2K2WVOSiu73Lgf6.jpg",
+    "generos": [
+      "4K",
+      "NACIONAIS",
+      "LANÇAMENTOS"
+    ],
+    "nota": 8.5,
+    "tmdbId": 1699414,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/el-salvador-o-dia-em-que-o-medo-mudou-de-lado.json"
+  },
+  {
     "id": "ele-te-ve-enquanto-voce-dorme",
     "tipo": "filme",
     "titulo": "Ele Te Vê Enquanto Você Dorme",
@@ -1342,6 +1419,21 @@
     "nota": 2.3,
     "tmdbId": 1213628,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/encontrando-um-amor-no-natal.json"
+  },
+  {
+    "id": "enterrando-os-mortos",
+    "tipo": "filme",
+    "titulo": "Enterrando os Mortos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/x6H4DtBRIfwTcOIK64R8pSXNpvN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vbkW4KerpshPZnP84w9qwSfYrhu.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER",
+      "LANÇAMENTOS"
+    ],
+    "nota": 5.966,
+    "tmdbId": 1198984,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/enterrando-os-mortos.json"
   },
   {
     "id": "entre-garotos",
@@ -2123,6 +2215,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-caso-dos-estrangeiros.json"
   },
   {
+    "id": "o-chamado-da-agua",
+    "tipo": "filme",
+    "titulo": "O Chamado da Água",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fmoIVtw5a1Yl8kydzYSke4z4S2O.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/anm4weP3FrUWMllycTI6jV1aepC.jpg",
+    "generos": [
+      "DRAMA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 5.8,
+    "tmdbId": 1156104,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-chamado-da-agua.json"
+  },
+  {
     "id": "o-conselheiro-do-amor",
     "tipo": "filme",
     "titulo": "O Conselheiro do Amor",
@@ -2225,7 +2332,8 @@
     "generos": [
       "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA",
-      "LANÇAMENTOS"
+      "LANÇAMENTOS",
+      "4K"
     ],
     "nota": 8.483,
     "tmdbId": 1439930,
@@ -2678,6 +2786,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/predador-terras-selvagens-alter.json"
   },
   {
+    "id": "primeiro-as-damas",
+    "tipo": "filme",
+    "titulo": "Primeiro as Damas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tW10rRdxMwJC4r1zldQzxcyzEUS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
+    "generos": [
+      "COMÉDIA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 5.744,
+    "tmdbId": 1368881,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/primeiro-as-damas.json"
+  },
+  {
     "id": "projeto-silencio",
     "tipo": "filme",
     "titulo": "Projeto Silêncio",
@@ -2960,7 +3083,8 @@
     "generos": [
       "LEGENDADOS",
       "TOP 10",
-      "LANÇAMENTOS"
+      "LANÇAMENTOS",
+      "4K"
     ],
     "nota": 7.652,
     "tmdbId": 1226863,
@@ -3107,6 +3231,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tres-sogras-e-um-plano.json"
   },
   {
+    "id": "tudo-o-que-voce-podia-ser",
+    "tipo": "filme",
+    "titulo": "Tudo O Que Você Podia Ser",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xYxdFw8mPLAbFetKwx477bd4LGE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ih2ROLNLxN4NkCWGBvLO7Zt5X8V.jpg",
+    "generos": [
+      "NACIONAIS",
+      "LANÇAMENTOS"
+    ],
+    "nota": 7.5,
+    "tmdbId": 1142867,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tudo-o-que-voce-podia-ser.json"
+  },
+  {
     "id": "turbulencia",
     "tipo": "filme",
     "titulo": "Turbulência",
@@ -3121,6 +3260,21 @@
     "nota": 6.687,
     "tmdbId": 1401778,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/turbulencia.json"
+  },
+  {
+    "id": "ufc-fight-night-276-allen-vs-costa-2026",
+    "tipo": "filme",
+    "titulo": "UFC Fight Night 276: Allen vs. Costa",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/cssaN9nb45lxwDrEw5XH1ZBgIMO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/usGQRmo8WpyydMlxvCEHnRvm0T1.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA",
+      "LANÇAMENTOS"
+    ],
+    "nota": null,
+    "tmdbId": 1696745,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ufc-fight-night-276-allen-vs-costa-2026.json"
   },
   {
     "id": "um-conto-sombrio",

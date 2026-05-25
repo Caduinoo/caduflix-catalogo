@@ -1,5 +1,179 @@
 [
   {
+    "id": "tar",
+    "tipo": "filme",
+    "titulo": "TÁR",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/84XcRwKHAw4VXdKOYTSW5ARxFEt.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "4K"
+    ],
+    "nota": 7.1,
+    "tmdbId": 817758,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tar.json"
+  },
+  {
+    "id": "te-peguei",
+    "tipo": "filme",
+    "titulo": "Te Peguei!",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gI6zwlVk1Bu3FnkcDkCYYHsBhTz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/n8UzZ7gd3lmsBeYAH539pfnwGwu.jpg",
+    "generos": [
+      "COMÉDIA",
+      "4K"
+    ],
+    "nota": 6.707,
+    "tmdbId": 455980,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/te-peguei.json"
+  },
+  {
+    "id": "teen-wolf-o-filme",
+    "tipo": "filme",
+    "titulo": "Teen Wolf: O Filme",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/e4M1YCKc07PeBoUs7ST2QgCiZFB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/96SADhPnkXnVN3KaRKsDeBovLcm.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA",
+      "4K"
+    ],
+    "nota": 7.472,
+    "tmdbId": 877703,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/teen-wolf-o-filme.json"
+  },
+  {
+    "id": "tem-algo-de-errado-com-as-criancas",
+    "tipo": "filme",
+    "titulo": "Tem Algo de Errado com as Crianças",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8ZFb1xE1D3HZl41dlpCfRZrXNdU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hjYwsQQiOZJ3VO5ybqjaxafpbRB.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 5.684,
+    "tmdbId": 899579,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tem-algo-de-errado-com-as-criancas.json"
+  },
+  {
+    "id": "tempo",
+    "tipo": "filme",
+    "titulo": "Tempo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/czVBkHRaZu8rOnCNTd0t7EHYj97.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/32yqxyLlWcO81UCx51Jfq9aeJdA.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 6.321,
+    "tmdbId": 631843,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tempo.json"
+  },
+  {
+    "id": "tempo-de-guerra",
+    "tipo": "filme",
+    "titulo": "Tempo de Guerra",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/223TDJjnhuQV6cTUlvn6e39s0GA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 7.081,
+    "tmdbId": 1241436,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tempo-de-guerra.json"
+  },
+  {
+    "id": "tenet",
+    "tipo": "filme",
+    "titulo": "Tenet",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/Ae0pbv4E6YfqfN3UjKWIfQSzP9v.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7BYtnXUfweV6EryNYDpZFeS31Ia.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 7.176,
+    "tmdbId": 577922,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tenet.json"
+  },
+  {
+    "id": "tequilas-e-algumas-mentiras",
+    "tipo": "filme",
+    "titulo": "Tangos, Tequilas e Algumas Mentiras",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/y3z6H8oOS2y3dQY9dEKkxQiLWPn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uJAR8HJCNgedmgMz0G8EzGCoZAE.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA",
+      "4K"
+    ],
+    "nota": 7.1,
+    "tmdbId": 1098239,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tequilas-e-algumas-mentiras.json"
+  },
+  {
+    "id": "terremoto-em-lisboa",
+    "tipo": "filme",
+    "titulo": "Terremoto em Lisboa",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fjrjLxfruP3dxFP2Oc6OGJab5bM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/73Cngth9FzV4UvvQ1ChyovSnDy0.jpg",
+    "generos": [
+      "4K"
+    ],
+    "nota": 7,
+    "tmdbId": 1297784,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/terremoto-em-lisboa.json"
+  },
+  {
+    "id": "terror-em-silent-hill-regresso-para-o-inferno",
+    "tipo": "filme",
+    "titulo": "Terror em Silent Hill: Regresso Para o Inferno",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5ZDqTM0ZP3ypmFivTeAnHslV6mY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "TOP 10",
+      "4K",
+      "LANÇAMENTOS"
+    ],
+    "nota": 5.339,
+    "tmdbId": 680493,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/terror-em-silent-hill-regresso-para-o-inferno.json"
+  },
+  {
+    "id": "terror-no-estudio-666",
+    "tipo": "filme",
+    "titulo": "Terror no Estúdio 666",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tcsnV2L6SZY9hvuGLEbZddTylPa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ppNyhrKHCeEgASliV4QN03bp6QR.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 5.887,
+    "tmdbId": 895744,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/terror-no-estudio-666.json"
+  },
+  {
     "id": "teste-de-paternidade",
     "tipo": "filme",
     "titulo": "Teste de Paternidade",
@@ -2271,7 +2445,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/vnVQx7MJMwTvqcn5pkYDImxzlMg.jpg",
     "banner": "https://image.tmdb.org/t/p/original/lOSdUkGQmbAl5JQ3QoHqBZUbZhC.jpg",
     "generos": [
-      "4K"
+      "4K",
+      "AÇÃO | CRIME | GUERRA"
     ],
     "nota": 6.4,
     "tmdbId": 775996,

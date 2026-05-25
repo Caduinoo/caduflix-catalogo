@@ -1,5 +1,21 @@
 [
   {
+    "id": "pit-babe",
+    "tipo": "serie",
+    "titulo": "Pit Stop do Coração",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qYOc2wXriD98soT8KhEj9sRDjAl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tgPkYUUcOWUpocPkt8KIfJMvEbf.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 7.846,
+    "tmdbId": 235199,
+    "totalTemporadas": 1,
+    "totalEpisodios": 13,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/pit-babe.json"
+  },
+  {
     "id": "planos-em-familia",
     "tipo": "serie",
     "titulo": "Planos em Família",
@@ -1585,6 +1601,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/sky-in-your-heart.json"
   },
   {
+    "id": "smile-after-tears-2026",
+    "tipo": "serie",
+    "titulo": "Smile After Tears",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/4wmMNhaakZiUKfPQps0iwNZxMPt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eKAdAaMKqsbRX5AP4m29sFLMTVB.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 7,
+    "tmdbId": 305079,
+    "totalTemporadas": 1,
+    "totalEpisodios": 1,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/smile-after-tears-2026.json"
+  },
+  {
     "id": "sob-o-cair-da-neve",
     "tipo": "serie",
     "titulo": "Sob o Cair da Neve",
@@ -2173,6 +2205,22 @@
     "totalTemporadas": 1,
     "totalEpisodios": 20,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-devil-punisher.json"
+  },
+  {
+    "id": "the-double-game-2026",
+    "tipo": "serie",
+    "titulo": "颜不由心",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/oSzV0oaY7N1VsE9NOpDlYmwpQyZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wXuEroejnOB74uENEFAjfrty0Nd.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": null,
+    "tmdbId": 316675,
+    "totalTemporadas": 1,
+    "totalEpisodios": 19,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-double-game-2026.json"
   },
   {
     "id": "the-epoch-of-miyu",
@@ -3484,6 +3532,22 @@
     "totalTemporadas": 1,
     "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vida-rural-da-geracao-z.json"
+  },
+  {
+    "id": "vigilante",
+    "tipo": "serie",
+    "titulo": "Vigilante",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pgvRl9Bkq7ccIIzBemzVTbJElZT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/daGuh4UzHFF8sSHrYHMw0mb2qBt.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 8.451,
+    "tmdbId": 205082,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/vigilante.json"
   },
   {
     "id": "viloes-por-toda-parte",

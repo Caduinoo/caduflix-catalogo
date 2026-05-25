@@ -1,5 +1,90 @@
 [
   {
+    "id": "o-fada-do-dente",
+    "tipo": "filme",
+    "titulo": "O Fada do Dente",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hk67XO1Fa1TVU3hmdCMqsnil1Ox.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dfeCwxegv4rting4xftkHxmIdyu.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 5.482,
+    "tmdbId": 23023,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-fada-do-dente.json"
+  },
+  {
+    "id": "o-filho-da-noiva",
+    "tipo": "filme",
+    "titulo": "O Filho da Noiva",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2Em1WXYGSf2yfH7bWye4UQ9Uzgd.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kPRHoq1g68O5qawcnrB1c4LeO4I.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 7.475,
+    "tmdbId": 19460,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-filho-da-noiva.json"
+  },
+  {
+    "id": "o-filho-do-ace-ventura",
+    "tipo": "filme",
+    "titulo": "O Filho do Ace Ventura",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/68peVUQJWAq2JGuhWSMorcewVoP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sT8XPGZ0rsL2r52pFotGcAzKAi9.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 3.382,
+    "tmdbId": 15338,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-filho-do-ace-ventura.json"
+  },
+  {
+    "id": "o-filho-do-maskara",
+    "tipo": "filme",
+    "titulo": "O Filho do Máskara",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dYiQoSOtnKqdlpIqNGr3JS7xKBx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zbGteYxh9dMJAKPyZY9AWzzHR5I.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 4.203,
+    "tmdbId": 10214,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-filho-do-maskara.json"
+  },
+  {
+    "id": "o-filho-do-noivo",
+    "tipo": "filme",
+    "titulo": "O Filho do Noivo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5X8srQiZo4f9V4HdqTiCfdqxAAH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uZZSGBtOkz2n3PT2gS0oUy8avId.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 5.8,
+    "tmdbId": 511789,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-filho-do-noivo.json"
+  },
+  {
+    "id": "o-filme-mais-idiota-do-mundo",
+    "tipo": "filme",
+    "titulo": "O Filme Mais Idiota do Mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tlakU3uwNiUgd7aOlb2RoAsGTnY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hXD4z5xykt9G7SLXstUB96RFflh.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.55,
+    "tmdbId": 3065,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-filme-mais-idiota-do-mundo.json"
+  },
+  {
     "id": "o-futebol-ou-eu",
     "tipo": "filme",
     "titulo": "O Futebol ou Eu",
@@ -4270,93 +4355,5 @@
     "nota": 5.838,
     "tmdbId": 651610,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pixie.json"
-  },
-  {
-    "id": "planeta-dos-solteiros-aventura-na-grecia",
-    "tipo": "filme",
-    "titulo": "Planeta dos Solteiros: Aventura na Grécia",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/l7V0EI8Pq3izRCoFmMlbg2YxHM0.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uWx7AScgVcG8fdEju6oKgzAxXIl.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 5.283,
-    "tmdbId": 1468789,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/planeta-dos-solteiros-aventura-na-grecia.json"
-  },
-  {
-    "id": "plano-de-aposentadoria",
-    "tipo": "filme",
-    "titulo": "Plano de Aposentadoria",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gMhOPN5kl7R8hwdUAnFgDuGuM44.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tMi07ApKsBuyHPmbznWnBedWFmf.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 5.928,
-    "tmdbId": 866346,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/plano-de-aposentadoria.json"
-  },
-  {
-    "id": "plano-quase-perfeito",
-    "tipo": "filme",
-    "titulo": "Plano Quase Perfeito",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/vIMTuViWlUGvmvAZSEOjz3n11NS.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/pO7RV2LBce9WOXt8YXPp1YPDnHO.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.662,
-    "tmdbId": 425716,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/plano-quase-perfeito.json"
-  },
-  {
-    "id": "players-club",
-    "tipo": "filme",
-    "titulo": "Players Club",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zq6D4HBRK6GMaJj4w5n5QsKXkLF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tlUudS5G6oZfDTjFgE7NHp2CRiC.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.352,
-    "tmdbId": 19848,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/players-club.json"
-  },
-  {
-    "id": "pluft-o-fantasminha",
-    "tipo": "filme",
-    "titulo": "Pluft, o Fantasminha",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/enCrJZ6UwLPlvyqkoMgh4EsFqPW.jpg",
-    "banner": null,
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 8,
-    "tmdbId": 385090,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pluft-o-fantasminha.json"
-  },
-  {
-    "id": "pode-ser-seu-proprio-heroi-ou-vilao",
-    "tipo": "filme",
-    "titulo": "Valentino, Pode Ser Seu Próprio Herói Ou Vilão",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3YViYlgufUsJT61HE0qsKsdXmn6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/44uN89Zt0qXGUBw9R39DhOmJCIJ.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 7.3,
-    "tmdbId": 841045,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pode-ser-seu-proprio-heroi-ou-vilao.json"
   }
 ]

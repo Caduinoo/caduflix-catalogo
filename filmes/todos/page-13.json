@@ -1,5 +1,263 @@
 [
   {
+    "id": "cara-cade-meu-carro",
+    "tipo": "filme",
+    "titulo": "Cara, Cadê Meu Carro?",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gEMqCjWru37wjTqo4eF3FZdJCiI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xrziJc1RpB5ZI0FYvm4ALxZ6Hi2.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 5.538,
+    "tmdbId": 8859,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cara-cade-meu-carro.json"
+  },
+  {
+    "id": "caramelo",
+    "tipo": "filme",
+    "titulo": "Caramelo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/c4ZEAah5a01cu27w7vT2IAoFogk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wBV11KLQcp5pyxl8JW1lBaDshqr.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NACIONAIS",
+      "4K"
+    ],
+    "nota": 7.736,
+    "tmdbId": 1277988,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/caramelo.json"
+  },
+  {
+    "id": "carandiru",
+    "tipo": "filme",
+    "titulo": "Carandiru",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dvL05T9KtkY6oPpMvrAmu18Nds3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rhrBU761a5B4w7hhpA9og3fNBCH.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 7.571,
+    "tmdbId": 8440,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/carandiru.json"
+  },
+  {
+    "id": "caranguejo-negro",
+    "tipo": "filme",
+    "titulo": "Caranguejo Negro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sw644BbNIxSGRqjwAC50uskDBHg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dls6cXimFZwM5Ts3Ft7Ox5C7jfY.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.209,
+    "tmdbId": 760868,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/caranguejo-negro.json"
+  },
+  {
+    "id": "caranguejos-assassinos",
+    "tipo": "filme",
+    "titulo": "Caranguejos Assassinos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nXD42lpGGBG0kdqh5y2tmKPU8J2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tartDxzH5n8HIBkPC0PcRyYOxc9.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 4.1,
+    "tmdbId": 375358,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/caranguejos-assassinos.json"
+  },
+  {
+    "id": "caravana-da-coragem-uma-aventura-ewok",
+    "tipo": "filme",
+    "titulo": "Caravana da Coragem - Uma Aventura Ewok",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gpcfyJyb7208pLWxNcLayIS9VDR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/waWPYcXrbENXEoJkrQt7zFUdq14.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.872,
+    "tmdbId": 1884,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/caravana-da-coragem-uma-aventura-ewok.json"
+  },
+  {
+    "id": "carcaca",
+    "tipo": "filme",
+    "titulo": "Carcaça",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iBaYd6mZiZ9h3dHfQT0hxUsDK1P.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zp1rEVGD9m8GavbgATUXmuz8Kj.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 1,
+    "tmdbId": 1299430,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/carcaca.json"
+  },
+  {
+    "id": "carcere-privado",
+    "tipo": "filme",
+    "titulo": "Cárcere Privado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/q6VBMQ0r1kP8iYcVNmFpw9yWxae.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9g7sO11PoNC6c438lidYATzb24s.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 4.9,
+    "tmdbId": 641849,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/carcere-privado.json"
+  },
+  {
+    "id": "carcereiros-o-filme",
+    "tipo": "filme",
+    "titulo": "Carcereiros: O Filme",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mBY8sQjkc8qDYcUtS8GhlediHHz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fC4Ez84EchN3UYKCZBEFUVHuOB5.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.5,
+    "tmdbId": 631360,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/carcereiros-o-filme.json"
+  },
+  {
+    "id": "cardfight-vanguard-filme-neon-messiah",
+    "tipo": "filme",
+    "titulo": "Cardfight!! Vanguard Filme: Neon Messiah",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/beCEu1zzVY3Lv537KZCZ7m1KOf2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/848SlRjk7iZwaAChHKFisTTMkXm.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 4.7,
+    "tmdbId": 287098,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cardfight-vanguard-filme-neon-messiah.json"
+  },
+  {
+    "id": "carga-bruta",
+    "tipo": "filme",
+    "titulo": "Carga Bruta",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/m0xQiEkgYvGxxPU3IKkYSg9aaew.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9mVgtyhmkQtsJkq5Fu4OhuU0155.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.179,
+    "tmdbId": 393717,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/carga-bruta.json"
+  },
+  {
+    "id": "carga-explosiva",
+    "tipo": "filme",
+    "titulo": "Carga Explosiva",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iajTcyco5MEscLp0ue59lVY2WtH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8dXR9R0NUo4eyS4hnYOsCywmo16.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.722,
+    "tmdbId": 4108,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/carga-explosiva.json"
+  },
+  {
+    "id": "carga-explosiva-2",
+    "tipo": "filme",
+    "titulo": "Carga Explosiva 2",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4Vo1KYTe0LWakRxTwp3scw8Ti6u.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lbs1ood36hzj0O0cqW2a8MqptOh.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.329,
+    "tmdbId": 9335,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/carga-explosiva-2.json"
+  },
+  {
+    "id": "carga-explosiva-3",
+    "tipo": "filme",
+    "titulo": "Carga Explosiva 3",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/t6ayrfuhmKl6VUOByP7RJL047X1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5yrQsEuuqc4s8t8nszLxAAGQpR2.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.2,
+    "tmdbId": 13387,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/carga-explosiva-3.json"
+  },
+  {
+    "id": "carga-explosiva-o-legado",
+    "tipo": "filme",
+    "titulo": "Carga Explosiva: O Legado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iti0ub1R6JBCfwJarLktNL47HC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pH5ycIvD1Fz55tP9YWeE9sAAoGL.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.521,
+    "tmdbId": 287948,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/carga-explosiva-o-legado.json"
+  },
+  {
+    "id": "carga-maxima",
+    "tipo": "filme",
+    "titulo": "Carga Máxima",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ocKoEvCPX809gWsyEXRP2zTViY5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/efro4duB7agkA2Xl5LmkD3HeCim.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 6.82,
+    "tmdbId": 818511,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/carga-maxima.json"
+  },
+  {
+    "id": "carga-mortal",
+    "tipo": "filme",
+    "titulo": "Carga Mortal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cjxMMKnuULfVyQ5EE0PbBYiMtuB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bgh5OlSNhcYGCVMqV0xTwNgkbY4.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 4.28,
+    "tmdbId": 454650,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/carga-mortal.json"
+  },
+  {
+    "id": "carga-preciosa",
+    "tipo": "filme",
+    "titulo": "Carga Preciosa",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2g2aMEBadb125q1jdhnTZRoCiZy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5yRU4YM4Vo5jYVZ6FoYlsUOrxU3.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.11,
+    "tmdbId": 384737,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/carga-preciosa.json"
+  },
+  {
     "id": "cargo",
     "tipo": "filme",
     "titulo": "Cargo",
@@ -1729,7 +1987,8 @@
     "banner": "https://image.tmdb.org/t/p/original/z1fzWsGB2ePLFrTJcsynLpP7hnB.jpg",
     "generos": [
       "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
+      "AÇÃO | CRIME | GUERRA",
+      "LANÇAMENTOS"
     ],
     "nota": 6.756,
     "tmdbId": 1305642,
@@ -2559,7 +2818,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/j0WSbme3zUOmo8dk0qJ97tDiF0M.jpg",
     "banner": "https://image.tmdb.org/t/p/original/6Y014ckpxww11CGAIRL8uT4Pz5n.jpg",
     "generos": [
-      "LEGENDADOS"
+      "LEGENDADOS",
+      "COMÉDIA"
     ],
     "nota": 6,
     "tmdbId": 922017,
@@ -3535,7 +3795,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/c7lzePlEU91R6tZUXpllwISZgXF.jpg",
     "banner": "https://image.tmdb.org/t/p/original/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
     "generos": [
-      "DRAMA"
+      "DRAMA",
+      "4K"
     ],
     "nota": 6.675,
     "tmdbId": 337167,
@@ -4070,270 +4331,5 @@
     "nota": 3.6,
     "tmdbId": 1300156,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clotilda-the-return-home.json"
-  },
-  {
-    "id": "cloudburst",
-    "tipo": "filme",
-    "titulo": "Tempestade na Estrada",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/AbBbkWOC7arx5lWGI8cyPwlbQTo.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/84IssWiysuAt1tImKZpBB0zyT9b.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.342,
-    "tmdbId": 117098,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cloudburst.json"
-  },
-  {
-    "id": "clouds",
-    "tipo": "filme",
-    "titulo": "Clouds",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/euWiWsHhPeSGFsIO5ArzCkGeskG.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/L7DIiAdP8DnNqOh7454ZrTYspR.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 8.241,
-    "tmdbId": 630566,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clouds.json"
-  },
-  {
-    "id": "cloverfield-a-particula-de-deus",
-    "tipo": "filme",
-    "titulo": "O Paradoxo Cloverfield",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/czhHYlMncgKh3zPZfvVIEAQyAqb.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2cnUCcNmmj79hGmimvWlUo5P2K8.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.632,
-    "tmdbId": 384521,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cloverfield-a-particula-de-deus.json"
-  },
-  {
-    "id": "cloverfield-monstro",
-    "tipo": "filme",
-    "titulo": "Cloverfield: Monstro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1KpWSQIZThETSTgpmHBtpkMXNk8.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6ms6RdNcQUAnjBY26aM85xC2wV0.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.71,
-    "tmdbId": 7191,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cloverfield-monstro.json"
-  },
-  {
-    "id": "clowntergeist",
-    "tipo": "filme",
-    "titulo": "Clowntergeist",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6FKljfqvKmdttj6D9EADy6iGpQT.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1v1I3ZgxTBMmZXP2bhnnqLsvTNK.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 3.7,
-    "tmdbId": 436775,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clowntergeist.json"
-  },
-  {
-    "id": "clube-da-luta",
-    "tipo": "filme",
-    "titulo": "Clube da Luta",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mCICnh7QBH0gzYaTQChBDDVIKdm.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xRyINp9KfMLVjRiO5nCsoRDdvvF.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 8.438,
-    "tmdbId": 550,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clube-da-luta.json"
-  },
-  {
-    "id": "clube-da-luta-para-meninas",
-    "tipo": "filme",
-    "titulo": "Clube da Luta para Meninas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1quLTLv1f7Qpt3gJVyXfEU4oTEU.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2sxiysM6O0FAxeR2CEIeKSv9IkA.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA",
-      "4K"
-    ],
-    "nota": 6.763,
-    "tmdbId": 814776,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clube-da-luta-para-meninas.json"
-  },
-  {
-    "id": "clube-da-mordida",
-    "tipo": "filme",
-    "titulo": "Clube da Mordida",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gfxjnBXLLZKCEz0YivsClBFxerc.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/11rsalbxZk7USUvalHpKMZ9yLtz.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 4.987,
-    "tmdbId": 533985,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clube-da-mordida.json"
-  },
-  {
-    "id": "clube-de-caca",
-    "tipo": "filme",
-    "titulo": "Clube de Caça",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/c9Ak5gjXWt5QDCt0V4GlL8EhU18.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4CjNJ1zi89Z9ZNgjTiKJSv8CRDz.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 4.102,
-    "tmdbId": 1064178,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clube-de-caca.json"
-  },
-  {
-    "id": "clube-de-compras-dallas",
-    "tipo": "filme",
-    "titulo": "Clube de Compras Dallas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uLSEfTUCaTZ55ltUSUeVgL4E2xt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sbVKj98cq0FztCukzu47bu0H8o7.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.913,
-    "tmdbId": 152532,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clube-de-compras-dallas.json"
-  },
-  {
-    "id": "clube-de-compras-dallas-2013",
-    "tipo": "filme",
-    "titulo": "Clube de Compras Dallas",
-    "ano": 2013,
-    "capa": "https://image.tmdb.org/t/p/w500/uLSEfTUCaTZ55ltUSUeVgL4E2xt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sbVKj98cq0FztCukzu47bu0H8o7.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.913,
-    "tmdbId": 152532,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clube-de-compras-dallas-2013.json"
-  },
-  {
-    "id": "clube-do-desejo",
-    "tipo": "filme",
-    "titulo": "Clube do Desejo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nouXreTWZzSEyS4FHA1OPyELR8U.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4F2sgLPJX3cwFqVvoEVKkMGo3a6.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 6.5,
-    "tmdbId": 960292,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clube-do-desejo.json"
-  },
-  {
-    "id": "clube-dos-anjos-caidos-assassinatos-misteriosos",
-    "tipo": "filme",
-    "titulo": "Clube dos Anjos Caídos: Assassinatos Misteriosos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mcG9oRbsI73rqin0l7px9Fkfv8n.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mXnM9TQDR4ROnzVDvRJts1pMgR6.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.813,
-    "tmdbId": 957445,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clube-dos-anjos-caidos-assassinatos-misteriosos.json"
-  },
-  {
-    "id": "clube-dos-anjos-caidos-herois-e-viloes",
-    "tipo": "filme",
-    "titulo": "Clube dos Anjos Caídos: Heróis e Vilões",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/2JyigSCO9VLX50SjJSMfswhz0n.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4p5f4RTvF3nfYi4FQkUMS629N6L.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.273,
-    "tmdbId": 960646,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clube-dos-anjos-caidos-herois-e-viloes.json"
-  },
-  {
-    "id": "clube-dos-cafajestes",
-    "tipo": "filme",
-    "titulo": "Clube dos Cafajestes",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/37RHvunfP3uZBujIt8kw1yntejZ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2fmLLKSEzdfk41Iz76ewoKhyWgb.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.967,
-    "tmdbId": 8469,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clube-dos-cafajestes.json"
-  },
-  {
-    "id": "clube-dos-cinco",
-    "tipo": "filme",
-    "titulo": "Clube dos Cinco",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pFVjzMlJjjyTa7pDaFUzsLF6PsW.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/s5HDOmFZaPVQFjk9BxxDrLu1T0g.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 7.723,
-    "tmdbId": 2108,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clube-dos-cinco.json"
-  },
-  {
-    "id": "clube-dos-divorciados",
-    "tipo": "filme",
-    "titulo": "Clube dos Divorciados",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pJaqDlrGbmolUF5hqE7XEeTijrH.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/aHbt7zFLCbt8zjiRD1V3LlZLuhl.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 5.728,
-    "tmdbId": 665488,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clube-dos-divorciados.json"
-  },
-  {
-    "id": "clube-dos-infieis-honestos",
-    "tipo": "filme",
-    "titulo": "Clube dos Infiéis Honestos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/w2cqKX8xMp9s5Ng8j0npVGbX770.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8j1Xxvsbmt7TS4sbzJV91AdbZ2z.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.3,
-    "tmdbId": 441592,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clube-dos-infieis-honestos.json"
   }
 ]
