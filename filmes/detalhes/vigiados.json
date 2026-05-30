@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Dois casais alugam uma casa para o que deveria ser um final de semana de celebração. No entanto, enquanto segredos são desenterrados, o quarteto começa a desconfiar que talvez não estejam sozinhos na casa.",
   "generos": [
+    "LEGENDADOS",
     "SUSPENSE | TERROR | THRILLER"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/gsOyXyBWMtzXXRQ3PVLSk8Fsvz5.jpg",
@@ -13,6 +14,13 @@
   "nota": 5.552,
   "opcoes": [
     {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11063394,
+      "container": "mp4"
+    },
+    {
       "nome": "Padrão",
       "idioma": "Não informado",
       "qualidade": "Não informado",
@@ -20,7 +28,7 @@
       "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1773567059,
+  "dataCriacaoXtream": 1779786423,
   "tituloOriginal": "The Rental",
   "dataLancamento": "2020-07-23"
 }

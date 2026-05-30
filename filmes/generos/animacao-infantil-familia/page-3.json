@@ -1,5 +1,34 @@
 [
   {
+    "id": "marvel-rising-coracao-de-ferro",
+    "tipo": "filme",
+    "titulo": "Marvel Rising: Coração de Ferro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/j2UPS5hPBFgRN1Zbs7RKvn0iipu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2xYx2KU8KfqaI7efAmJgbZFzPWO.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.419,
+    "tmdbId": 583209,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/marvel-rising-coracao-de-ferro.json"
+  },
+  {
+    "id": "masameer-junior",
+    "tipo": "filme",
+    "titulo": "Masameer Junior",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/h4kEKwIwwztJPWYoz6PNTKA0YOC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1a32xxTmx2UjYi782kbtSikJw0F.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.8,
+    "tmdbId": 1238307,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/masameer-junior.json"
+  },
+  {
     "id": "masha-e-o-urso-o-filme",
     "tipo": "filme",
     "titulo": "Masha e o Urso",
@@ -777,22 +806,6 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mulan-2.json"
   },
   {
-    "id": "mulher-maravilha",
-    "tipo": "filme",
-    "titulo": "Mulher-Maravilha",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ujQthWB6c0ojlARk28NSTmqidbF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA",
-      "4K",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.209,
-    "tmdbId": 297762,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mulher-maravilha.json"
-  },
-  {
     "id": "mulher-gato-a-cacada",
     "tipo": "filme",
     "titulo": "Mulher-Gato: A Caçada",
@@ -807,6 +820,23 @@
     "nota": 5.744,
     "tmdbId": 862491,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mulher-gato-a-cacada.json"
+  },
+  {
+    "id": "mulher-maravilha",
+    "tipo": "filme",
+    "titulo": "Mulher-Maravilha",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ujQthWB6c0ojlARk28NSTmqidbF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.209,
+    "tmdbId": 297762,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mulher-maravilha.json"
   },
   {
     "id": "mulher-maravilha-linhagem-de-sangue",
@@ -2643,6 +2673,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/uNNzUE9j0TqohYjg1X41y35AQ39.jpg",
     "banner": "https://image.tmdb.org/t/p/original/1KRfupPMh0Gq31ZImuTi3ibSa0q.jpg",
     "generos": [
+      "LEGENDADOS",
       "ANIMAÇÃO | INFANTIL | FAMILIA"
     ],
     "nota": 7.601,
@@ -4344,34 +4375,5 @@
     "nota": 5.755,
     "tmdbId": 10599,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pinocchio-2002.json"
-  },
-  {
-    "id": "pinocchio-o-menino-de-madeira",
-    "tipo": "filme",
-    "titulo": "Pinocchio: O Menino de Madeira",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5B5dWRlUOpmHjtvY0jQlsdMbHhY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dEsNMjOL5znJJrQbHyRyRsWXd9C.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 2.9,
-    "tmdbId": 597840,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pinocchio-o-menino-de-madeira.json"
-  },
-  {
-    "id": "pinoquio-1940",
-    "tipo": "filme",
-    "titulo": "Pinóquio",
-    "ano": 1940,
-    "capa": "https://image.tmdb.org/t/p/w500/rJTpz9LJFmDflvibkY2Y7IFOGua.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/crKA6WzkjWhvGdzvonRnGr1ZFv8.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.109,
-    "tmdbId": 10895,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pinoquio-1940.json"
   }
 ]

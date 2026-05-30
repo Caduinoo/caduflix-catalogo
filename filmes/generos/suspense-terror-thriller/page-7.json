@@ -1,5 +1,106 @@
 [
   {
+    "id": "panico-na-floresta-5",
+    "tipo": "filme",
+    "titulo": "Pânico na Floresta 5",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vsH0zwELHvVSKCyQlEZfDxjMSaP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3GTGFqZU2pXWg5fZPxDLNDdao28.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.477,
+    "tmdbId": 125509,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/panico-na-floresta-5.json"
+  },
+  {
+    "id": "panico-na-floresta-6",
+    "tipo": "filme",
+    "titulo": "Pânico na Floresta 6",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/z9JMIja6UYHwK6fFw0RR5w3pGVR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iS3cMqqWQBehsm0b9Zb5ND4m2pf.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.41,
+    "tmdbId": 259072,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/panico-na-floresta-6.json"
+  },
+  {
+    "id": "panico-na-floresta-a-fundacao",
+    "tipo": "filme",
+    "titulo": "Pânico na Floresta: A Fundação",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/j29PMbzHVnz6KhjVOUUWkprvkTp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8p8VIkTyeL9udfYJJHewWdhRLEO.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.944,
+    "tmdbId": 630586,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/panico-na-floresta-a-fundacao.json"
+  },
+  {
+    "id": "panico-na-ilha",
+    "tipo": "filme",
+    "titulo": "Pânico na Ilha",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/706JpCPqSynAQchDUoC5K6yCPKv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bjsXVb9B7RCAUlFWlpHK3SYTQ7V.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.289,
+    "tmdbId": 42309,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/panico-na-ilha.json"
+  },
+  {
+    "id": "panico-na-montanha",
+    "tipo": "filme",
+    "titulo": "Pânico na Montanha",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zsATKx7B970yqPNri093CE7DUBW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zdh7hs80rgbuTEuXDqWO8aPvt4v.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 3.9,
+    "tmdbId": 826047,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/panico-na-montanha.json"
+  },
+  {
+    "id": "panico-nas-alturas",
+    "tipo": "filme",
+    "titulo": "O Comandante: Pânico nas Alturas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fNBrFOw3GcJMGkJL6DTKgbkn0jW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7kOxwYxZ9FNKlRSWOxd7ENIFPKP.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.997,
+    "tmdbId": 589712,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/panico-nas-alturas.json"
+  },
+  {
+    "id": "panico-no-lago",
+    "tipo": "filme",
+    "titulo": "Pânico no Lago",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/f6RxmeFAENVzko7j2GmXCSwPcCu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vvXc5WOBJQa3igNffSxMsqYyoqy.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.9,
+    "tmdbId": 9825,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/panico-no-lago.json"
+  },
+  {
     "id": "panico-no-lago-projeto-anaconda",
     "tipo": "filme",
     "titulo": "Pânico no Lago: Projeto Anaconda",
@@ -545,6 +646,21 @@
     "nota": 4.1,
     "tmdbId": 1127546,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pesadelo-na-montanha.json"
+  },
+  {
+    "id": "pesadelo-no-inferno",
+    "tipo": "filme",
+    "titulo": "Pesadelo no Inferno",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dheVE1P3Heut1AjpW0Kgp6L1F0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oFyptNOx02o8sMcSsax4GSCAemg.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 7.396,
+    "tmdbId": 476299,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pesadelo-no-inferno.json"
   },
   {
     "id": "pesadelos-diabolicos",
@@ -1590,6 +1706,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/90Ck5KYjfiyM7fyJPx7y5qZfYGm.jpg",
     "banner": "https://image.tmdb.org/t/p/original/9MsqUNYYSXSZeWyxzAlTwTbPavv.jpg",
     "generos": [
+      "LEGENDADOS",
       "SUSPENSE | TERROR | THRILLER"
     ],
     "nota": 6.054,
@@ -1768,6 +1885,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/dP0MedlsqvSwbTqiEwWkk7h0hHc.jpg",
     "banner": "https://image.tmdb.org/t/p/original/tQ28MXaFPwELZ0n4SYEAL6sFH4y.jpg",
     "generos": [
+      "LEGENDADOS",
       "SUSPENSE | TERROR | THRILLER"
     ],
     "nota": 5.989,
@@ -2024,6 +2142,21 @@
     "nota": 5.368,
     "tmdbId": 1301122,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/quando-o-mal-desperta.json"
+  },
+  {
+    "id": "quando-os-gritos-comecam",
+    "tipo": "filme",
+    "titulo": "Quando Os Gritos Começam",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dfMoDjv8MglnMmxSyrwbTLMwgCC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gC2FZXymU15pVryuQYQoT7i4H4P.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.1,
+    "tmdbId": 853094,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/quando-os-gritos-comecam.json"
   },
   {
     "id": "quando-um-estranho-chama",
@@ -2490,6 +2623,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/efX07bLvFpKOcxnE3Dx3t67qeOI.jpg",
     "banner": "https://image.tmdb.org/t/p/original/yFoSPpJBN0IKZNeEBMmReO8AVMM.jpg",
     "generos": [
+      "LEGENDADOS",
       "SUSPENSE | TERROR | THRILLER"
     ],
     "nota": 5.511,
@@ -3776,6 +3910,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sem-limites.json"
   },
   {
+    "id": "sem-saida-2022",
+    "tipo": "filme",
+    "titulo": "Sem Saída",
+    "ano": 2022,
+    "capa": "https://image.tmdb.org/t/p/w500/dvTTuRqwvM6wkDuA0JviE58NSRp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/epE4VnwJkqWEQIYLvWYxBj277W3.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 6.84,
+    "tmdbId": 833425,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sem-saida-2022.json"
+  },
+  {
     "id": "sem-saida-2011",
     "tipo": "filme",
     "titulo": "Sem Saída",
@@ -3788,21 +3938,6 @@
     "nota": 5.839,
     "tmdbId": 59965,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sem-saida-2011.json"
-  },
-  {
-    "id": "sem-saida-2022",
-    "tipo": "filme",
-    "titulo": "Sem Saída",
-    "ano": 2022,
-    "capa": "https://image.tmdb.org/t/p/w500/dvTTuRqwvM6wkDuA0JviE58NSRp.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/epE4VnwJkqWEQIYLvWYxBj277W3.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER",
-      "4K"
-    ],
-    "nota": 6.84,
-    "tmdbId": 833425,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sem-saida-2022.json"
   },
   {
     "id": "sem-vestigios",
@@ -4255,137 +4390,5 @@
     "nota": 6.51,
     "tmdbId": 979806,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shades-of-desire.json"
-  },
-  {
-    "id": "sharknado-2-a-segunda-onda",
-    "tipo": "filme",
-    "titulo": "Sharknado 2: A Segunda Onda",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uguzkptzBLzwse1LENsAXTU9LEV.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xmBJ9nezUteqowdYfrW8383LHd9.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 4.55,
-    "tmdbId": 248504,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sharknado-2-a-segunda-onda.json"
-  },
-  {
-    "id": "shortcut",
-    "tipo": "filme",
-    "titulo": "Atalho",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7u88jLFC1VCWZoIKoWbHdWG1Abm.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jN8fHS0FtK1GIOSQZOjp66GcG5w.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.281,
-    "tmdbId": 684684,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shortcut.json"
-  },
-  {
-    "id": "sick",
-    "tipo": "filme",
-    "titulo": "Isolamento Mortal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tDXYFCA3EAvYiZLAgvTYBHKZ1YG.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ve3RLbCSuUKA02OZJ5F0fMmXVMn.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER",
-      "4K"
-    ],
-    "nota": 6.152,
-    "tmdbId": 829410,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sick.json"
-  },
-  {
-    "id": "siembamba-a-cancao-do-mal",
-    "tipo": "filme",
-    "titulo": "Siembamba: A Canção do Mal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mAxA7PqMyMiTQhMUVkXmTGvuJiV.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/yagE1bdjECdEVxPz3rma7B7EKKI.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.9,
-    "tmdbId": 480603,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/siembamba-a-cancao-do-mal.json"
-  },
-  {
-    "id": "silent-hill",
-    "tipo": "filme",
-    "titulo": "Terror em Silent Hill: Regresso Para o Inferno",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5ZDqTM0ZP3ypmFivTeAnHslV6mY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.331,
-    "tmdbId": 680493,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/silent-hill.json"
-  },
-  {
-    "id": "sin-city-a-cidade-do-pecado",
-    "tipo": "filme",
-    "titulo": "Sin City: A Cidade do Pecado",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/sN6Fluw4uOslV6lkTd4mZNVUQcB.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/t9kQnqiaxQ8TLB25rTzDKLd0fdM.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 7.463,
-    "tmdbId": 187,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sin-city-a-cidade-do-pecado.json"
-  },
-  {
-    "id": "sinais",
-    "tipo": "filme",
-    "titulo": "Sinais",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/96XBFBnH9PlGnxBWjA0U25PemVW.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rsPjEr7o02mo8ex6wD2PbRwasUe.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.698,
-    "tmdbId": 2675,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sinais.json"
-  },
-  {
-    "id": "sinfonia-do-mal",
-    "tipo": "filme",
-    "titulo": "O Concerto Maldito, Sinfonia do Mal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/28B3s9T3ZqmIeaZdooZgh2CK3rX.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4DTAYsk9ZzJPQJDHieRjYwHzU8q.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER",
-      "4K"
-    ],
-    "nota": 5.2,
-    "tmdbId": 845643,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sinfonia-do-mal.json"
-  },
-  {
-    "id": "sinistro-a-maldicao-do-lobisomem",
-    "tipo": "filme",
-    "titulo": "Sinistro - A Maldição do Lobisomem",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nuOcojYbazZAYvZX47sZCuQfpEz.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rxf3zpKOxQTc0xobKewnGpFdNUt.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.375,
-    "tmdbId": 222461,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sinistro-a-maldicao-do-lobisomem.json"
   }
 ]

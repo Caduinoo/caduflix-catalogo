@@ -1,5 +1,90 @@
 [
   {
+    "id": "rio-babilonia",
+    "tipo": "filme",
+    "titulo": "Rio Babilônia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oEKmpE8E1fQDISKWnWVnyNeZqn0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aPVNJNqPFcCIPRmcM1kyL2n2RDT.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 5.333,
+    "tmdbId": 152242,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rio-babilonia.json"
+  },
+  {
+    "id": "ritas",
+    "tipo": "filme",
+    "titulo": "Ritas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tyKdgqeE9thRx6xycRxetUcpLrw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iZbrM1gi2MQDxgzDNXl5rfQ5yma.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NACIONAIS"
+    ],
+    "nota": 8.3,
+    "tmdbId": 1444695,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ritas.json"
+  },
+  {
+    "id": "romance",
+    "tipo": "filme",
+    "titulo": "Amor à Queima-Roupa",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6blj0i7LbjMtpYW0UlqYILk5Gj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1Uh8yuXlFcMDpVHWZJidjanT06e.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 7.537,
+    "tmdbId": 319,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/romance.json"
+  },
+  {
+    "id": "romance-de-formacao",
+    "tipo": "filme",
+    "titulo": "Romance de Formação",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/eb0fkrd6hZAWZYZFJ6idbxL9kF5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/g2X69p6B4XBznFG3wnJ5Dehxsrj.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": null,
+    "tmdbId": 296406,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/romance-de-formacao.json"
+  },
+  {
+    "id": "romeu-e-julieta",
+    "tipo": "filme",
+    "titulo": "Romeu e Julieta",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/PVwlT3vkawppJ4MEk84gGhspzG.jpg",
+    "banner": null,
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 8,
+    "tmdbId": 989957,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/romeu-e-julieta.json"
+  },
+  {
+    "id": "rua-descalca",
+    "tipo": "filme",
+    "titulo": "Rua Descalça",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xtJOcKHM5C4SoKKTRxhhyg9vjC3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/l1sKf9omvDSlc8Bd2fCtIPc3gFt.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 9,
+    "tmdbId": 714891,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rua-descalca.json"
+  },
+  {
     "id": "s-o-s-mulheres-ao-mar",
     "tipo": "filme",
     "titulo": "S.O.S.: Mulheres ao Mar",

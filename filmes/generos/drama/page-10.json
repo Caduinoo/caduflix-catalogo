@@ -1,5 +1,63 @@
 [
   {
+    "id": "together",
+    "tipo": "filme",
+    "titulo": "Juntos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/m9jfOWLuyYejyJX17wRFUQGtUji.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/39Niij05MXfibXBsHiUU0Ml0POX.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.924,
+    "tmdbId": 1242011,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/together.json"
+  },
+  {
+    "id": "togo",
+    "tipo": "filme",
+    "titulo": "Togo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tCCgIgIqNHZCxKgZKTqv1LzxuwI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2Jr2OBzoLLOYqQWnyN4eicZv0sL.jpg",
+    "generos": [
+      "DRAMA",
+      "4K"
+    ],
+    "nota": 8.123,
+    "tmdbId": 606856,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/togo.json"
+  },
+  {
+    "id": "tolkien",
+    "tipo": "filme",
+    "titulo": "Tolkien",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/A7eYO3t7oZQdfJj5KlJBI7GhT9H.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4HXiEsWUEMzJNFwjJv6oUaocqJU.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.915,
+    "tmdbId": 468224,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tolkien.json"
+  },
+  {
+    "id": "tomates-verdes-fritos",
+    "tipo": "filme",
+    "titulo": "Tomates Verdes Fritos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9lMAsEo9xA0Iw1DGgy12BOdNlBH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ApnB7gY4MrWoPqIw17lEMp1mXJD.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 7.666,
+    "tmdbId": 1633,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tomates-verdes-fritos.json"
+  },
+  {
     "id": "toque-de-recolher",
     "tipo": "filme",
     "titulo": "Toque de Recolher",
@@ -1619,6 +1677,21 @@
     "nota": 6.4,
     "tmdbId": 105962,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-time-especial.json"
+  },
+  {
+    "id": "um-toque-de-seducao",
+    "tipo": "filme",
+    "titulo": "Um Toque de Sedução",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/g3KQuCGX7ISTQ0EPyieGeH7M4L0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yIf7O6Pnc8cMT2myAEZ8mcGlHge.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.035,
+    "tmdbId": 5241,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-toque-de-seducao.json"
   },
   {
     "id": "um-toque-no-coracao",

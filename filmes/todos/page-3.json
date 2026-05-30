@@ -1,5 +1,48 @@
 [
   {
+    "id": "a-face-da-verdade",
+    "tipo": "filme",
+    "titulo": "A Face da Verdade",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2dXA5dNh3kqDQwRt08TxxgldTOW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8yUVptQ82wWax8h3X9lURadGZ0d.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.759,
+    "tmdbId": 22067,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-face-da-verdade.json"
+  },
+  {
+    "id": "a-face-da-vinganca",
+    "tipo": "filme",
+    "titulo": "A Face da Vingança",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tlMVU37EuUzgfc737cuusJMTQlr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dcZ8QpzVBRKPdYM6lPTucd2hFJM.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.8,
+    "tmdbId": 1135229,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-face-da-vinganca.json"
+  },
+  {
+    "id": "a-fada-do-dente",
+    "tipo": "filme",
+    "titulo": "A Fada do Dente",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7Biyu5aP0o86GjxnffsHThYN4h1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/p4o1xEIHdQVuchXzkFSQORh3gWx.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.125,
+    "tmdbId": 681303,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-fada-do-dente.json"
+  },
+  {
     "id": "a-falha",
     "tipo": "filme",
     "titulo": "Terremoto: A Falha de San Andreas",
@@ -1954,6 +1997,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/uFRIkBs1t0RBonzlkO2Ix27oTqA.jpg",
     "banner": "https://image.tmdb.org/t/p/original/oGe84ddxe2R90hFwvCDxOINE8qL.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA"
     ],
     "nota": 6.8,
@@ -3468,6 +3512,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/rsz7QDn6r6HpWjaGJrDoU4EYHym.jpg",
     "banner": "https://image.tmdb.org/t/p/original/rjw4AXWCJ3AYmmM2CkNOD6LcGT.jpg",
     "generos": [
+      "LEGENDADOS",
       "DRAMA"
     ],
     "nota": 6.3,
@@ -4313,49 +4358,5 @@
     "nota": 5.284,
     "tmdbId": 554133,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lenda-da-befana.json"
-  },
-  {
-    "id": "a-lenda-da-befana-o-inicio",
-    "tipo": "filme",
-    "titulo": "A Lenda da Befana: O Início",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5v98CBfkfBdgZFnMyX2z6tpbvg7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gE1AlXZWgUTj4rRCImsvuLXVa59.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 5.915,
-    "tmdbId": 811050,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lenda-da-befana-o-inicio.json"
-  },
-  {
-    "id": "a-lenda-da-serpente",
-    "tipo": "filme",
-    "titulo": "A Lenda da Serpente",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/lmJsSOQtuU7xwN48ATCPrI96ENM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jIAyjJMrEIDjojxQDdZemDwqr82.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.692,
-    "tmdbId": 573699,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lenda-da-serpente.json"
-  },
-  {
-    "id": "a-lenda-de-beowulf",
-    "tipo": "filme",
-    "titulo": "A Lenda de Beowulf",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oVjkoLfiR8fScXQAS7nMiu6RxH.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lIruQxRCxw5ZI3CmBL6VxwpKtUe.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 5.915,
-    "tmdbId": 2310,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lenda-de-beowulf.json"
   }
 ]

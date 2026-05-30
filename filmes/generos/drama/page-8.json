@@ -1,5 +1,49 @@
 [
   {
+    "id": "o-ultimo-suspeito",
+    "tipo": "filme",
+    "titulo": "O Último Suspeito",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dhaZPQx6hyk1rPKCsu8q4awq4Hp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kwY1HeoEIDXCdpb4PMdyzCiBUCV.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 5.786,
+    "tmdbId": 13536,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-ultimo-suspeito.json"
+  },
+  {
+    "id": "o-ultimo-suspiro",
+    "tipo": "filme",
+    "titulo": "O Último Suspiro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/prkigyI1SgeJ9yTdPw5kxsp2XkK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/y6Zh9ICQDjfwI4kChGzDmq9Ku7p.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.325,
+    "tmdbId": 477489,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-ultimo-suspiro.json"
+  },
+  {
+    "id": "o-ultimo-vagao",
+    "tipo": "filme",
+    "titulo": "O Último Vagão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/eWmivEzPwoa5w1M8WFGRZgUKHZx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6BkADCshXOpLu8aa37SaXsdlJRt.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA",
+      "4K"
+    ],
+    "nota": 5,
+    "tmdbId": 416071,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-ultimo-vagao.json"
+  },
+  {
     "id": "o-ultimo-vermeer",
     "tipo": "filme",
     "titulo": "O Último Vermeer",
@@ -4305,49 +4349,5 @@
     "nota": 5.283,
     "tmdbId": 329981,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/refem-do-medo.json"
-  },
-  {
-    "id": "refens-da-guerra",
-    "tipo": "filme",
-    "titulo": "Reféns da Guerra",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1AVjA9nEkpPfdpFL2f5h1wqI2v8.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9Yblyhbvu0J0zosQLLpw9HN9AHm.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6,
-    "tmdbId": 820682,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/refens-da-guerra.json"
-  },
-  {
-    "id": "regras-do-jogo",
-    "tipo": "filme",
-    "titulo": "Adultério: As Regras do Jogo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/z5FfGY2GhF5impdWwgZY9ZSd1ab.jpg",
-    "banner": null,
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 9,
-    "tmdbId": 1055875,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/regras-do-jogo.json"
-  },
-  {
-    "id": "rei-charles-iii",
-    "tipo": "filme",
-    "titulo": "Rei Charles III",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4Gzutk4mrOBPQgg9nQHu79cR7AY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jVrwsONwPDudZOwvgvsLabSDMOd.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.483,
-    "tmdbId": 456187,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rei-charles-iii.json"
   }
 ]

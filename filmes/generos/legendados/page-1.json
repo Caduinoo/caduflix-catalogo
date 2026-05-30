@@ -670,6 +670,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/12-vesperas-de-natal.json"
   },
   {
+    "id": "12-12-o-dia",
+    "tipo": "filme",
+    "titulo": "12.12: O Dia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lrNrZVDFM5qidZhf644TeHvxFC0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yOn8w3aGd6Rf9JYki7XaC9ZiyDg.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.5,
+    "tmdbId": 919207,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/12-12-o-dia.json"
+  },
+  {
     "id": "13-dias-no-lago-da-morte",
     "tipo": "filme",
     "titulo": "13 Dias no Lago da Morte",
@@ -713,6 +727,22 @@
     "nota": 5.822,
     "tmdbId": 787723,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/13-minutos-de-tormenta.json"
+  },
+  {
+    "id": "13-noites",
+    "tipo": "filme",
+    "titulo": "13 Dias, 13 Noites",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/i5jBVwAMY8CxKX5ENUqLSHeJI2x.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1zlHZDtV5KsX5VcBahNy5GDqUVt.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.716,
+    "tmdbId": 1254135,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/13-noites.json"
   },
   {
     "id": "13-o-musical",
@@ -831,6 +861,22 @@
     "nota": 5.9,
     "tmdbId": 2749,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/15-minutos.json"
+  },
+  {
+    "id": "15h17-trem-para-paris",
+    "tipo": "filme",
+    "titulo": "15h17: Trem Para Paris",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bLfcN4pTbG78sxS4rQGciJCoNAb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gkkBhctHPGg8hrmtWbO3ySZoj4z.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "4K",
+      "DRAMA"
+    ],
+    "nota": 5.414,
+    "tmdbId": 453201,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/15h17-trem-para-paris.json"
   },
   {
     "id": "18-anos-depois",
@@ -4132,6 +4178,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-entidade.json"
   },
   {
+    "id": "a-epidemia",
+    "tipo": "filme",
+    "titulo": "Cooties: A Epidemia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cDbclzPox0H0dn5nq1O9rcJQcEM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3w1MTEvhwPkgPr81wPhFEOXRuel.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.911,
+    "tmdbId": 241843,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-epidemia.json"
+  },
+  {
     "id": "a-era-de-kasym",
     "tipo": "filme",
     "titulo": "A Era de Kasym",
@@ -4428,66 +4489,5 @@
     "nota": 7,
     "tmdbId": 20766,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-estrada.json"
-  },
-  {
-    "id": "a-estranheza-de-amar",
-    "tipo": "filme",
-    "titulo": "A Estranheza de Amar",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nRY3wezARwCgvY3zbsDX8uYGr1e.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kYD3ykZjiqFzJPhPLEAQ1QUj90x.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 7.423,
-    "tmdbId": 891636,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-estranheza-de-amar.json"
-  },
-  {
-    "id": "a-estrela-de-natal",
-    "tipo": "filme",
-    "titulo": "A Estrela de Natal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/l3pBKlZXOMLhtIpfxz0TYHLKCo7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/KFznnwDYq1YndMshL9OBQW3gYi.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 5.636,
-    "tmdbId": 13705,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-estrela-de-natal.json"
-  },
-  {
-    "id": "a-estrela-guia",
-    "tipo": "filme",
-    "titulo": "A Estrela Guia",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fTYiHftB3G8YkBiQMHF4jw5ZPnT.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/aW5QkoW1ajjfTjlz6UvUDIkBxkG.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 4.3,
-    "tmdbId": 581251,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-estrela-guia.json"
-  },
-  {
-    "id": "a-extorsao",
-    "tipo": "filme",
-    "titulo": "A Extorsão",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xvD63NNnNySiOVOjWPCuZciEayq.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/61dMlWNzOUnMAvLZy2Q8IlxbYre.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER",
-      "4K"
-    ],
-    "nota": 8,
-    "tmdbId": 542936,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-extorsao.json"
   }
 ]

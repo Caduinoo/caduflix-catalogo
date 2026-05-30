@@ -2183,6 +2183,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/turma-reunida-no-natal.json"
   },
   {
+    "id": "um-amor-com-sabor-de-natal",
+    "tipo": "filme",
+    "titulo": "Um Amor com Sabor de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kIV1ZYWl0EFbB0TXI2MNre6uLUV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qZrRxARKINfih4tbNw2pQOHZIL3.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA",
+      "NATALINO"
+    ],
+    "nota": 6.138,
+    "tmdbId": 1015190,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-amor-com-sabor-de-natal.json"
+  },
+  {
     "id": "um-amor-real-de-natal",
     "tipo": "filme",
     "titulo": "Um Amor Real de Natal",

@@ -1,5 +1,19 @@
 [
   {
+    "id": "o-fabuloso-destino-de-amelie-poulain",
+    "tipo": "filme",
+    "titulo": "O Fabuloso Destino de Amélie Poulain",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oAYKYALxamhAB1wKUGmOo05Vf92.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 7.92,
+    "tmdbId": 194,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-fabuloso-destino-de-amelie-poulain.json"
+  },
+  {
     "id": "o-fada-do-dente",
     "tipo": "filme",
     "titulo": "O Fada do Dente",
@@ -610,6 +624,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/cUiXj9cGE7xjAm9L23jSKPnxs8g.jpg",
     "banner": "https://image.tmdb.org/t/p/original/s48CvFbWoWHhSPgz2wW9Rffw04q.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA"
     ],
     "nota": 7.026,
@@ -4209,6 +4224,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/perfeita-e-a-mae-2.json"
   },
   {
+    "id": "perfeita-e-a-mae",
+    "tipo": "filme",
+    "titulo": "Perfeita é a Mãe!",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mbLhrGT6eci3mL6uPcnRqcVGWGN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zci26eN6YKEg9gPLUp3wB5eqcEx.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.5,
+    "tmdbId": 376659,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/perfeita-e-a-mae.json"
+  },
+  {
     "id": "perfeitos-desconhecidos",
     "tipo": "filme",
     "titulo": "Perfeitos Desconhecidos",
@@ -4325,35 +4354,5 @@
     "nota": 6.453,
     "tmdbId": 1239146,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pica-pau-as-ferias-no-acampamento.json"
-  },
-  {
-    "id": "pisando-na-bola",
-    "tipo": "filme",
-    "titulo": "Pisando na Bola",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7zyOEJjBOHFpDhvybnvJOhXKP1c.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/bSE6JsSOvY350NhaT2nhUhl5hUE.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 5.599,
-    "tmdbId": 26441,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pisando-na-bola.json"
-  },
-  {
-    "id": "pixie",
-    "tipo": "filme",
-    "titulo": "Pixie",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zvQpvZneVLM3dssUyqYvnQsHovk.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dSgQ7Er6VLYw8mZiha38Coa4iih.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 5.838,
-    "tmdbId": 651610,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pixie.json"
   }
 ]

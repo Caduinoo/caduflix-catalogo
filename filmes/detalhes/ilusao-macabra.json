@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Após acordar de um coma com amnésia, Diana e seu marido buscam tratamentos experimentais em uma clínica isolada. À medida que o processo avança, o casamento deles se tensiona e Diana começa a duvidar das verdadeiras intenções do marido.",
   "generos": [
+    "LEGENDADOS",
     "COMÉDIA",
     "LANÇAMENTOS"
   ],
@@ -13,6 +14,13 @@
   "tmdbId": 1339173,
   "nota": 6,
   "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050511,
+      "container": "mp4"
+    },
     {
       "nome": "Padrão",
       "idioma": "Não informado",

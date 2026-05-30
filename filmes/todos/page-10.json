@@ -1,5 +1,138 @@
 [
   {
+    "id": "ataque-a-cabana",
+    "tipo": "filme",
+    "titulo": "Ataque à Cabana",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nOJTYppCHeggilm8IsCshq1GuzR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fLbIKWdltZ4AkK0tittjbUzPXdR.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 6.818,
+    "tmdbId": 842353,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ataque-a-cabana.json"
+  },
+  {
+    "id": "ataque-a-colina-400",
+    "tipo": "filme",
+    "titulo": "Ataque à Colina 400",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7ZtIxZp4tf0Gp5JtVKV4iCShTrg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ygdBl6kFOkEkOif1KJomunCUXSp.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5,
+    "tmdbId": 1126136,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ataque-a-colina-400.json"
+  },
+  {
+    "id": "ataque-alienigena",
+    "tipo": "filme",
+    "titulo": "Ataque Alienígena",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xxJByxfFFSqAsWQeTPL6e0UduB0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qLLRXmqTYIoZDbT8x247qG7B1JT.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 4.7,
+    "tmdbId": 40217,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ataque-alienigena.json"
+  },
+  {
+    "id": "ataque-ao-predio",
+    "tipo": "filme",
+    "titulo": "Ataque ao Prédio",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gyQDGmsQX7OjKuofszmfk2LWd3E.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ncYrkutA6Yd1Gmh8fLyGieWlqLv.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 6.464,
+    "tmdbId": 59678,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ataque-ao-predio.json"
+  },
+  {
+    "id": "ataque-brutal",
+    "tipo": "filme",
+    "titulo": "Ataque Brutal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/349RbnEbWd38iLlqzELTUppjSt2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hniERZojXCEc7Fp3yljZUigOAhm.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.003,
+    "tmdbId": 1290417,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ataque-brutal.json"
+  },
+  {
+    "id": "ataque-brutal-dv",
+    "tipo": "filme",
+    "titulo": "Ataque Brutal [DV]",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/349RbnEbWd38iLlqzELTUppjSt2.jpg",
+    "banner": null,
+    "generos": [
+      "4K"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ataque-brutal-dv.json"
+  },
+  {
+    "id": "ataque-dos-caes",
+    "tipo": "filme",
+    "titulo": "Ataque dos Cães",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": null,
+    "tmdbId": 1186571,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ataque-dos-caes.json"
+  },
+  {
+    "id": "ataque-dos-mortos-vivos",
+    "tipo": "filme",
+    "titulo": "Ataque dos Mortos-Vivos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jvjADLvRB4UhWDMnfBOHDdDpFqk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aJBpwcfIdurKgiCTYYiqtXkRwUR.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6,
+    "tmdbId": 858064,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ataque-dos-mortos-vivos.json"
+  },
+  {
+    "id": "ataque-dos-zumbis",
+    "tipo": "filme",
+    "titulo": "Ataque dos Zumbis",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ul37MfUQQ9GLHvbu456SedOnLNb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/k98zx90KvkGmGxJ7inYYmvSHdkV.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.342,
+    "tmdbId": 381237,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ataque-dos-zumbis.json"
+  },
+  {
     "id": "ataque-fatal",
     "tipo": "filme",
     "titulo": "Ataque Fatal",
@@ -527,6 +660,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/atirador-implacavel.json"
   },
   {
+    "id": "atividade-paranormal",
+    "tipo": "filme",
+    "titulo": "Atividade Paranormal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jV5eAsOTf7zsL4glY51gTW6Vb05.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wfCdJ0MD1hYJzlaHulolNw5pYtR.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.048,
+    "tmdbId": 23827,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/atividade-paranormal.json"
+  },
+  {
     "id": "atividade-paranormal-1",
     "tipo": "filme",
     "titulo": "Atividade paranormal 1",
@@ -729,6 +876,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ato-de-coragem.json"
   },
   {
+    "id": "ato-noturno",
+    "tipo": "filme",
+    "titulo": "Ato Noturno",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/o0uHoWYGsZaGSC6O9iTRy4sAz5J.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sgWDs8ViH0WPSty46TJfgbKREuD.jpg",
+    "generos": [
+      "NACIONAIS",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.7,
+    "tmdbId": 1403903,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ato-noturno.json"
+  },
+  {
     "id": "atomica",
     "tipo": "filme",
     "titulo": "Atômica",
@@ -764,6 +926,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/5BFwjwDyoAkulZjKtUZpVLZ5DFa.jpg",
     "banner": "https://image.tmdb.org/t/p/original/gzmKA50LtpHSDYC7lKjUqLtK7Kn.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA"
     ],
     "nota": 5.592,
@@ -4196,164 +4359,5 @@
     "nota": 6.313,
     "tmdbId": 464882,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/batman-vs-duas-caras.json"
-  },
-  {
-    "id": "battleship-a-batalha-dos-mares",
-    "tipo": "filme",
-    "titulo": "Battleship: A Batalha dos Mares",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/vUTrHashD5jrUdQhwtpWzlmyyZf.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/85PMh0cKywekAJYDnRXfezYAmEc.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.892,
-    "tmdbId": 44833,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/battleship-a-batalha-dos-mares.json"
-  },
-  {
-    "id": "bauxita",
-    "tipo": "filme",
-    "titulo": "Bauxita",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nZ6fjxnwUWsnqfOqhTh2XH9jmMK.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4lSsvXU7d2BjBFQ6mBV3AjKyXqJ.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "LANÇAMENTOS"
-    ],
-    "nota": 10,
-    "tmdbId": 1151618,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/bauxita.json"
-  },
-  {
-    "id": "bayoneta",
-    "tipo": "filme",
-    "titulo": "Bayoneta",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gxIEbUNuBOshzcBGmnax0KlL12x.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/5RyJix67mu99Pumw5f4yydUv3n.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.1,
-    "tmdbId": 495659,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/bayoneta.json"
-  },
-  {
-    "id": "bayonetta-destino-sangrento",
-    "tipo": "filme",
-    "titulo": "Bayonetta: Destino Sangrento",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nNkX3ZbPkEPEp4d82qnuHYIKEST.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qfTGzbtqTBhz1krD0Zh5bCg5xlf.jpg",
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": 6.87,
-    "tmdbId": 242546,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/bayonetta-destino-sangrento.json"
-  },
-  {
-    "id": "baywatch-s-o-s-malibu",
-    "tipo": "filme",
-    "titulo": "Baywatch: S.O.S. Malibu",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7178I9T3a27Td5kyjrT207F3hwP.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6QmX2BDVr1hIOIPHqnxvp1C1ZZp.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.084,
-    "tmdbId": 339846,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/baywatch-s-o-s-malibu.json"
-  },
-  {
-    "id": "be-cool-o-outro-nome-do-jogo",
-    "tipo": "filme",
-    "titulo": "Be Cool: O Outro Nome do Jogo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7M7Vkzfm5sOm8arcp8CkZLssDkW.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rAx0aCQ6luULuUb8tW6CD1365Mh.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.5,
-    "tmdbId": 4551,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/be-cool-o-outro-nome-do-jogo.json"
-  },
-  {
-    "id": "beanie",
-    "tipo": "filme",
-    "titulo": "The Beanie Bubble - O Fenômeno das Pelúcias",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1ZYAF1qdwuM1LuXYvPjpRWDSRel.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zzbEAP5d1Ci0QKitpaA8PykHIj4.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.412,
-    "tmdbId": 926008,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/beanie.json"
-  },
-  {
-    "id": "beans-a-pequena-guerreira",
-    "tipo": "filme",
-    "titulo": "Beans - A Pequena Guerreira",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ff2s9KdHxLGNj32ad7Fsy4eDMVl.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/c1rIiuvMP5k3c1CJNxD2fxpdoh6.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.286,
-    "tmdbId": 726220,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/beans-a-pequena-guerreira.json"
-  },
-  {
-    "id": "beasts-of-no-nation",
-    "tipo": "filme",
-    "titulo": "Beasts of No Nation",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/buCUqL6iF8dtnYYrKGbPX2GrwL2.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vDfbeUK3OhoeyQRlUODwfSy6tyE.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.588,
-    "tmdbId": 283587,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/beasts-of-no-nation.json"
-  },
-  {
-    "id": "beau-tem-medo",
-    "tipo": "filme",
-    "titulo": "Beau Tem Medo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fGS1HtHWngXyw5k9Zs2dVH8HuzL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/atvEgnjjXN5QvFDThXVz4nyU9yi.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.708,
-    "tmdbId": 798286,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/beau-tem-medo.json"
-  },
-  {
-    "id": "beau-tem-medo-4",
-    "tipo": "filme",
-    "titulo": "Beau Tem Medo 4",
-    "ano": null,
-    "capa": null,
-    "banner": null,
-    "generos": [
-      "4K"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/beau-tem-medo-4.json"
   }
 ]

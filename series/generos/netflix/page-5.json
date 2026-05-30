@@ -1,5 +1,21 @@
 [
   {
+    "id": "parasyte-the-grey",
+    "tipo": "serie",
+    "titulo": "Parasyte: The Grey",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uaYlFpBYbzi3trD32w2LHimiMzJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/p4rJTY1rvQrffoh2P09sty5cz8B.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.43,
+    "tmdbId": 208825,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/parasyte-the-grey.json"
+  },
+  {
     "id": "parasyte-the-maxim",
     "tipo": "serie",
     "titulo": "Parasyte -the maxim-",
@@ -375,7 +391,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/hg8F2KbESVxiOVMHDu3RbNoDdwY.jpg",
     "banner": "https://image.tmdb.org/t/p/original/aZerXLRyZMuGjQXI61f2CmSig7o.jpg",
     "generos": [
-      "NETFLIX"
+      "NETFLIX",
+      "TURCAS | MEXICANAS"
     ],
     "nota": 6.897,
     "tmdbId": 112211,
@@ -4780,21 +4797,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 4,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-liberator.json"
-  },
-  {
-    "id": "the-midnight-gospel",
-    "tipo": "serie",
-    "titulo": "The Midnight Gospel",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/me3kxfiFRkdto6SmDQv0nczjfmP.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xCcFixrguEYfVOXonSWzMyjG9Nq.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 8.277,
-    "tmdbId": 96713,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-midnight-gospel.json"
   }
 ]

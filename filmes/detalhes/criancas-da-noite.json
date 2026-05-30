@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Drama baseado em fatos reais sobre uma graduada em sociologia Lois Lee, que começa a trabalhar com adolescentes prostitutas em Hollywood.",
   "generos": [
+    "LEGENDADOS",
     "DRAMA"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/q43BL7KbxCw8zdiYcoiwVDWVPC8.jpg",
@@ -13,6 +14,13 @@
   "nota": 6.25,
   "opcoes": [
     {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11060857,
+      "container": "mp4"
+    },
+    {
       "nome": "Padrão",
       "idioma": "Não informado",
       "qualidade": "Não informado",
@@ -20,7 +28,7 @@
       "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1779613166,
+  "dataCriacaoXtream": 1779613172,
   "tituloOriginal": "Children of the Night",
   "dataLancamento": "1985-10-25"
 }

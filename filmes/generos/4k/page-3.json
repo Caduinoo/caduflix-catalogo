@@ -1,5 +1,21 @@
 [
   {
+    "id": "horizon-uma-saga-americana-capitulo-1",
+    "tipo": "filme",
+    "titulo": "Horizon: Uma Saga Americana - Capítulo 1",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wScEgkA3eWfhyp5WoxGt5Zu3sug.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8UOAYjhwSF3aPZhm6wgLuyHRyrR.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "FAROESTE",
+      "4K"
+    ],
+    "nota": 6.819,
+    "tmdbId": 932086,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/horizon-uma-saga-americana-capitulo-1.json"
+  },
+  {
     "id": "hotel-artemis",
     "tipo": "filme",
     "titulo": "Hotel Artemis",
@@ -482,6 +498,22 @@
     "nota": 7.353,
     "tmdbId": 423108,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/invocacao-do-mal-3-a-ordem-do-demonio.json"
+  },
+  {
+    "id": "invocacao-do-mal-4-o-ultimo-ritual",
+    "tipo": "filme",
+    "titulo": "Invocação do Mal 4: O Último Ritual",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/40nHGUfypLhlr7gJx8At1IbYkaK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/i8MupUe4xgmYXoRNAQMYvuoexSU.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 6.903,
+    "tmdbId": 1038392,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/invocacao-do-mal-4-o-ultimo-ritual.json"
   },
   {
     "id": "irmaos",
@@ -1855,6 +1887,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/ubN87iHY2DyWtwU2JHS0SQ1KqJu.jpg",
     "banner": "https://image.tmdb.org/t/p/original/wMrV8SLne1jHLeYS0lLrA1Tf86P.jpg",
     "generos": [
+      "LEGENDADOS",
       "SUSPENSE | TERROR | THRILLER",
       "TOP 10",
       "4K"
@@ -3097,22 +3130,6 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mulan.json"
   },
   {
-    "id": "mulher-maravilha",
-    "tipo": "filme",
-    "titulo": "Mulher-Maravilha",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ujQthWB6c0ojlARk28NSTmqidbF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA",
-      "4K",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.209,
-    "tmdbId": 297762,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mulher-maravilha.json"
-  },
-  {
     "id": "mulher-maravilha-1984",
     "tipo": "filme",
     "titulo": "Mulher Maravilha",
@@ -3142,6 +3159,23 @@
     "nota": 5.744,
     "tmdbId": 862491,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mulher-gato-a-cacada.json"
+  },
+  {
+    "id": "mulher-maravilha",
+    "tipo": "filme",
+    "titulo": "Mulher-Maravilha",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ujQthWB6c0ojlARk28NSTmqidbF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.209,
+    "tmdbId": 297762,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mulher-maravilha.json"
   },
   {
     "id": "mundo-em-caos",
@@ -4670,36 +4704,5 @@
     "nota": 7.4,
     "tmdbId": 774370,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-homem-cao.json"
-  },
-  {
-    "id": "o-jogo-da-garrafa",
-    "tipo": "filme",
-    "titulo": "O Jogo da Garrafa",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/n1lf2grrVfu7cRPrIvQr3FH0dC5.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xTRnlDvGPXKI81zAXpZDT1J8i4Y.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER",
-      "4K"
-    ],
-    "nota": 4.852,
-    "tmdbId": 1030983,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-jogo-da-garrafa.json"
-  },
-  {
-    "id": "o-jogo-da-viuva",
-    "tipo": "filme",
-    "titulo": "O Jogo da Viúva",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/txiHphuGlemWdD9Lv4FfkJU4uS9.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/pOR4Aye28KLZ5Jogu8zc3yiqBpT.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER",
-      "4K"
-    ],
-    "nota": 6.221,
-    "tmdbId": 1397832,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-jogo-da-viuva.json"
   }
 ]

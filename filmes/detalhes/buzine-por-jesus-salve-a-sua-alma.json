@@ -26,9 +26,16 @@
       "qualidade": "Não informado",
       "xtreamId": 10772405,
       "container": "mp4"
+    },
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11084915,
+      "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1773567062,
+  "dataCriacaoXtream": 1780134580,
   "tituloOriginal": "Honk for Jesus. Save Your Soul.",
   "dataLancamento": "2022-09-02"
 }

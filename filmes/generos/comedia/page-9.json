@@ -1,5 +1,50 @@
 [
   {
+    "id": "voltando-para-casa",
+    "tipo": "filme",
+    "titulo": "Voltando para casa",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xNUtOJSG5n5FCyPvilU99aQ8.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 1,
+    "tmdbId": 652316,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/voltando-para-casa.json"
+  },
+  {
+    "id": "volte-sempre",
+    "tipo": "filme",
+    "titulo": "Volte Sempre!",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dKM5MnEgPSwDXaAyZhN4NtpJy9B.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ugb03YpXlsORMyZg8WGswqHiTNO.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 7.1,
+    "tmdbId": 1092193,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/volte-sempre.json"
+  },
+  {
+    "id": "vovo-baba",
+    "tipo": "filme",
+    "titulo": "Vovó Babá",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iU9XlZqSUsMmcaw6KQQ1rjPOS81.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/czoiqnqQwLlXqy3c0Tsx33jIqJY.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.542,
+    "tmdbId": 649755,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vovo-baba.json"
+  },
+  {
     "id": "vovo-saiu-do-armario",
     "tipo": "filme",
     "titulo": "Vovó Saiu Do Armário",

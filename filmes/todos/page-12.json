@@ -1,5 +1,182 @@
 [
   {
+    "id": "borbulhas-de-amor",
+    "tipo": "filme",
+    "titulo": "Borbulhas de Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ultFiOA5ASUOYiOny6FIgAlv8YF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dJZCY38DSzZdGdVtFsEdJIrKOmG.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 6.053,
+    "tmdbId": 1323475,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/borbulhas-de-amor.json"
+  },
+  {
+    "id": "borderlands-o-destino-do-universo-esta-em-jogo",
+    "tipo": "filme",
+    "titulo": "Borderlands: O Destino do Universo Está em Jogo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pZFUo4exLI3WuOaMhlj9plRdOta.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mKOBdgaEFguADkJhfFslY7TYxIh.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 5.599,
+    "tmdbId": 365177,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/borderlands-o-destino-do-universo-esta-em-jogo.json"
+  },
+  {
+    "id": "borderline-relacao-obsessiva",
+    "tipo": "filme",
+    "titulo": "Borderline: Relação Obsessiva",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vReGpxcKqfkhyA7msUaDWW4peni.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zIqdfEWKc3uP8LxnQ1ZZi0fnzjg.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.8,
+    "tmdbId": 1170574,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/borderline-relacao-obsessiva.json"
+  },
+  {
+    "id": "bordertown-a-eliminacao",
+    "tipo": "filme",
+    "titulo": "Bordertown: A Eliminação",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/k5TPbPsluUGMC7qZfVXNTnsAWQc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mUH59Wlch6uRtiuv3YAi81XAMqF.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.533,
+    "tmdbId": 716810,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/bordertown-a-eliminacao.json"
+  },
+  {
+    "id": "born-to-ball",
+    "tipo": "filme",
+    "titulo": "Born To Ball",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": null,
+    "tmdbId": 289737,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/born-to-ball.json"
+  },
+  {
+    "id": "borrego",
+    "tipo": "filme",
+    "titulo": "Borrego: Saia do Caminho",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iNSa1kwVsOsfAHwopMLM7PnrDhU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nGpSo9gDtHOM9lpFCqOD3rjbhd9.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.948,
+    "tmdbId": 728366,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/borrego.json"
+  },
+  {
+    "id": "borrego-saia-do-caminho",
+    "tipo": "filme",
+    "titulo": "Borrego: Saia do Caminho",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iNSa1kwVsOsfAHwopMLM7PnrDhU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nGpSo9gDtHOM9lpFCqOD3rjbhd9.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.948,
+    "tmdbId": 728366,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/borrego-saia-do-caminho.json"
+  },
+  {
+    "id": "boruto-naruto-o-filme",
+    "tipo": "filme",
+    "titulo": "Boruto: Naruto O Filme",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dDQKCkJk19ewY6a4PbzMNNcztAi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/keIqryt6u5qGVThjrzFURMsRTri.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA",
+      "ANIMES"
+    ],
+    "nota": 7.463,
+    "tmdbId": 347201,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/boruto-naruto-o-filme.json"
+  },
+  {
+    "id": "bosco",
+    "tipo": "filme",
+    "titulo": "Bosco",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dXjSeS3w97setnrNv4m6tlqqXzn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hHw7qug8ka3eppjwTm2aDpOKAUd.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.86,
+    "tmdbId": 1175351,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/bosco.json"
+  },
+  {
+    "id": "boss",
+    "tipo": "filme",
+    "titulo": "Boss",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tOMd1oZxW0FR0jATgSMavI4igcS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8fDJqXuCDLTwRbPlPERSMqzQ8Fq.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6,
+    "tmdbId": 1053231,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/boss.json"
+  },
+  {
+    "id": "boss-level",
+    "tipo": "filme",
+    "titulo": "Mate ou Morra",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/b9mTht2VCw0IMXmeeruRdZno3eS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1Yc5hIRh3skhsEKLbCHE7v1FBOa.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.871,
+    "tmdbId": 513310,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/boss-level.json"
+  },
+  {
+    "id": "bottom-feeders",
+    "tipo": "filme",
+    "titulo": "Bottom Feeders",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aihgyymRF2J76hK9pSCodpYHSdx.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.5,
+    "tmdbId": 40625,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/bottom-feeders.json"
+  },
+  {
     "id": "boxer",
     "tipo": "filme",
     "titulo": "O Resgate de Uma Vida",
@@ -525,6 +702,20 @@
     "nota": 6.901,
     "tmdbId": 12543,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/breaking.json"
+  },
+  {
+    "id": "breaking-glass-the-pat-summitt-story",
+    "tipo": "filme",
+    "titulo": "Breaking Glass: The Pat Summitt Story",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/Ck1ZHDTgOAQt1ZQl4FOHYYIQsz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sRdOD0TbPTfGW34jRdik7P6HoBw.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 9,
+    "tmdbId": 1655021,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/breaking-glass-the-pat-summitt-story.json"
   },
   {
     "id": "breaking-news-in-yuba-county",
@@ -2862,6 +3053,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/ReHOMkW1rVTo3Yslqe1xATl8c8.jpg",
     "banner": "https://image.tmdb.org/t/p/original/sEW8q9al73rtow257dXAusD9yS7.jpg",
     "generos": [
+      "LEGENDADOS",
       "DRAMA"
     ],
     "nota": 8.14,
@@ -4159,192 +4351,5 @@
     "nota": 3.818,
     "tmdbId": 197481,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/capitao-america-ii.json"
-  },
-  {
-    "id": "capitao-america-o-primeiro-vingador",
-    "tipo": "filme",
-    "titulo": "Capitão América: O Primeiro Vingador",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xYijVAPunk6neVW2KHKE4Lp45ZU.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.006,
-    "tmdbId": 1771,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/capitao-america-o-primeiro-vingador.json"
-  },
-  {
-    "id": "capitao-cueca-feliz-mega-natal",
-    "tipo": "filme",
-    "titulo": "Capitão Cueca - Feliz Mega natal",
-    "ano": null,
-    "capa": null,
-    "banner": null,
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/capitao-cueca-feliz-mega-natal.json"
-  },
-  {
-    "id": "capitao-dentes-de-sabre-e-o-diamante-magico",
-    "tipo": "filme",
-    "titulo": "Capitão Dentes de Sabre e o Diamante Mágico",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mhxWyLscNxa2cSIkr3OzCA0QKKV.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/aenZ1GSnPOjqiadOqc0FxTQE0Ff.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.2,
-    "tmdbId": 606149,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/capitao-dentes-de-sabre-e-o-diamante-magico.json"
-  },
-  {
-    "id": "capitao-fantastico",
-    "tipo": "filme",
-    "titulo": "Capitão Fantástico",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/t4UH0AJql4paQMq4Dlg1gk2tqhk.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/d84M69u6Q202dm6EvhVxbiqrK9f.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 7.889,
-    "tmdbId": 334533,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/capitao-fantastico.json"
-  },
-  {
-    "id": "capitao-phillips",
-    "tipo": "filme",
-    "titulo": "Capitão Phillips",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/q3YN8twLWhKW4EmUw2JGRJc4xfH.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ihdFypo7MyfJvDSjK7Sbnsjhu8H.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.539,
-    "tmdbId": 109424,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/capitao-phillips.json"
-  },
-  {
-    "id": "capitao-sky-e-o-mundo-de-amanha",
-    "tipo": "filme",
-    "titulo": "Capitão Sky e o Mundo de Amanhã",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qbtAsFcRGuEpEe22VxtCl4CMz9C.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mTWwWXuqF65CthgoA4j2Pd0bWwz.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.9,
-    "tmdbId": 5137,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/capitao-sky-e-o-mundo-de-amanha.json"
-  },
-  {
-    "id": "capitu-e-o-capitulo",
-    "tipo": "filme",
-    "titulo": "Capitu e o Capítulo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/cwiTk067WV6tnpBz080vAb8v1Go.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qZ7Z8k2xWZPuzOWeoNcwhWTcPTW.jpg",
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": 8.5,
-    "tmdbId": 818836,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/capitu-e-o-capitulo.json"
-  },
-  {
-    "id": "capitulos-mortais",
-    "tipo": "filme",
-    "titulo": "Capítulos Mortais",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nusITuDvgLGonw13DK6p8OHUK2T.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kkfnEXyxCrtjU1xLhMbQn2Ef38P.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.3,
-    "tmdbId": 436765,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/capitulos-mortais.json"
-  },
-  {
-    "id": "capone",
-    "tipo": "filme",
-    "titulo": "Capone",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/75gDv38UgRtAukSxNXcjatyQmEa.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/x7iqHlTbFpZDOMZJHNxfQsG7E13.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.033,
-    "tmdbId": 429422,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/capone.json"
-  },
-  {
-    "id": "captain-marvel",
-    "tipo": "filme",
-    "titulo": "Capitã Marvel",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/n3BisLdTMceUWcdP1ooP5VwN9JF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qAzYK4YPSWDc7aa4R43LcwRIAyb.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.8,
-    "tmdbId": 299537,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/captain-marvel.json"
-  },
-  {
-    "id": "captive-state",
-    "tipo": "filme",
-    "titulo": "A Rebelião",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fyE9mKbJ0JSx6K2l77VWVIkmCXa.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xnz8kkRvqpzzDbRXONwVEjT78t7.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.659,
-    "tmdbId": 429471,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/captive-state.json"
-  },
-  {
-    "id": "capturado",
-    "tipo": "filme",
-    "titulo": "Capturado",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pRK90muejLJI2dxFt6LsqA8mD3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/bs3hu2Qi3QEAGbYFhdbWdT2QRLU.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.588,
-    "tmdbId": 572751,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/capturado.json"
-  },
-  {
-    "id": "cara",
-    "tipo": "filme",
-    "titulo": "Cara de Um, Focinho de Outro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ftPFJBGbldoWiiPrmesW96zBzdH.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 8.084,
-    "tmdbId": 1327819,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cara.json"
   }
 ]

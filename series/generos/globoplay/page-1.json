@@ -931,7 +931,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/mv8lU5qlzAjoSAJT2cOgrU8mobQ.jpg",
     "banner": "https://image.tmdb.org/t/p/original/ztruG6mR07igZWchQHiaFkND8Di.jpg",
     "generos": [
-      "GLOBOPLAY"
+      "GLOBOPLAY",
+      "TURCAS | MEXICANAS"
     ],
     "nota": 7.496,
     "tmdbId": 96481,
@@ -2271,7 +2272,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/1DItT96CQSBzJkCh885eg5dfdH1.jpg",
     "banner": "https://image.tmdb.org/t/p/original/sn19T6Dl4409fIT9PjCUkp6zcaZ.jpg",
     "generos": [
-      "GLOBOPLAY"
+      "GLOBOPLAY",
+      "TURCAS | MEXICANAS"
     ],
     "nota": 8.283,
     "tmdbId": 73506,
@@ -2374,6 +2376,22 @@
     "totalTemporadas": 1,
     "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/e-ouro-o-brilho-do-brasil-em-toquio.json"
+  },
+  {
+    "id": "e-t-edu-e-tata",
+    "tipo": "serie",
+    "titulo": "E.T. - Edu e Tatá",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bUtCxtYPaSm7LdbrBA3Zk8CqVt9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pKzvS5DerPHCirVJYcdYaEH3WCN.jpg",
+    "generos": [
+      "GLOBOPLAY"
+    ],
+    "nota": null,
+    "tmdbId": 323069,
+    "totalTemporadas": 1,
+    "totalEpisodios": 2,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/e-t-edu-e-tata.json"
   },
   {
     "id": "el-turco",
@@ -4766,21 +4784,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 4,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/o-reporter-do-poder.json"
-  },
-  {
-    "id": "o-tatuador-de-auschwitz",
-    "tipo": "serie",
-    "titulo": "O Tatuador de Auschwitz",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/sapMaif5lgykkpXGZAnHf3aIyih.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mxs62JGInE5pQcWa7keHmEpY87P.jpg",
-    "generos": [
-      "GLOBOPLAY"
-    ],
-    "nota": 7.977,
-    "tmdbId": 222405,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/o-tatuador-de-auschwitz.json"
   }
 ]

@@ -128,22 +128,6 @@
     "xtreamId": 2315936
   },
   {
-    "id": "canal-9249025",
-    "tipo": "canal",
-    "titulo": "NHK WORLD JAPAO FHD",
-    "categoria": "NOTICIAS",
-    "capa": "http://i.ibb.co/9VFc585/nhk.png",
-    "xtreamId": 9249025
-  },
-  {
-    "id": "canal-9249026",
-    "tipo": "canal",
-    "titulo": "NHK WORLD JAPAO HD",
-    "categoria": "NOTICIAS",
-    "capa": "http://i.ibb.co/9VFc585/nhk.png",
-    "xtreamId": 9249026
-  },
-  {
     "id": "canal-2315940",
     "tipo": "canal",
     "titulo": "RECORD NEWS FHD",

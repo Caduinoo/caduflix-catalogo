@@ -1,5 +1,36 @@
 [
   {
+    "id": "charlie-brown-s-all-stars",
+    "tipo": "filme",
+    "titulo": "Charlie Brown's All-Stars!",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/43yzLBevC6lprNslYejaLrQyydZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/y7S1JNJ9g9Qa5tsZ2ths8B3FQuK.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.5,
+    "tmdbId": 52952,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/charlie-brown-s-all-stars.json"
+  },
+  {
+    "id": "charlie-o-super-cao",
+    "tipo": "filme",
+    "titulo": "Charlie: O Super Cão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uvXHs10CYWRyerGSX2WuN2dzxse.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2skPNvhiF3B0pUigNm1L5KLWvrk.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.605,
+    "tmdbId": 1276521,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/charlie-o-super-cao.json"
+  },
+  {
     "id": "chef-jack-o-cozinheiro-aventureiro",
     "tipo": "filme",
     "titulo": "Chef Jack: O Cozinheiro Aventureiro",
@@ -521,6 +552,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/60cmS9njm7eHQSRSPTTBpxCWJeL.jpg",
     "banner": "https://image.tmdb.org/t/p/original/mwY3D4dgWrIZRMZPKDqZESog5ws.jpg",
     "generos": [
+      "LEGENDADOS",
       "ANIMAÇÃO | INFANTIL | FAMILIA"
     ],
     "nota": 4.7,
@@ -4335,34 +4367,5 @@
     "nota": 6.379,
     "tmdbId": 491633,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/marvel-rising-guerreiros-secretos.json"
-  },
-  {
-    "id": "marvel-rising-coracao-de-ferro",
-    "tipo": "filme",
-    "titulo": "Marvel Rising: Coração de Ferro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/j2UPS5hPBFgRN1Zbs7RKvn0iipu.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2xYx2KU8KfqaI7efAmJgbZFzPWO.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.419,
-    "tmdbId": 583209,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/marvel-rising-coracao-de-ferro.json"
-  },
-  {
-    "id": "masameer-junior",
-    "tipo": "filme",
-    "titulo": "Masameer Junior",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/h4kEKwIwwztJPWYoz6PNTKA0YOC.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1a32xxTmx2UjYi782kbtSikJw0F.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.8,
-    "tmdbId": 1238307,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/masameer-junior.json"
   }
 ]

@@ -1,5 +1,346 @@
 [
   {
+    "id": "fantasmas-na-casa-branca",
+    "tipo": "filme",
+    "titulo": "Fantasmas na Casa Branca",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/r30zsarcgssBXDILLLDvotywusW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5TdVoQWkrZupqaxBv4XNcIo6gDC.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 5.8,
+    "tmdbId": 911904,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fantasmas-na-casa-branca.json"
+  },
+  {
+    "id": "fantastica-uma-aventura-no-mundo-boonie-bears",
+    "tipo": "filme",
+    "titulo": "Fantástica - Uma Aventura no Mundo Boonie Bears",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tg2ixwNGT1FHsKpGVWSBw49aF8y.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/scr8SGoh0e65Q37ka1cIigiQ8Wt.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.375,
+    "tmdbId": 462927,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fantastica-uma-aventura-no-mundo-boonie-bears.json"
+  },
+  {
+    "id": "fantasy-football",
+    "tipo": "filme",
+    "titulo": "Fantasy Football",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lC99lme4UplMUICswlA4mfe5GNx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jS2nuLRpZ5MvSQ6bJUIAoxnRCV5.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.526,
+    "tmdbId": 879513,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fantasy-football.json"
+  },
+  {
+    "id": "farejando-vinganca",
+    "tipo": "filme",
+    "titulo": "Farejando Vingança 2: Cidade dos Lobos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ppiw8K6xKibFY9u9u7HUWeBskuX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ncI1PlBcANixIkgQSnjsSRz4OyT.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.7,
+    "tmdbId": 1439112,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/farejando-vinganca.json"
+  },
+  {
+    "id": "farejando-vinganca-2-cidade-dos-lobos",
+    "tipo": "filme",
+    "titulo": "Farejando Vingança 2: Cidade dos Lobos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ppiw8K6xKibFY9u9u7HUWeBskuX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ncI1PlBcANixIkgQSnjsSRz4OyT.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "4K",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.7,
+    "tmdbId": 1439112,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/farejando-vinganca-2-cidade-dos-lobos.json"
+  },
+  {
+    "id": "farewell-my-dear-cramer-first-touch",
+    "tipo": "filme",
+    "titulo": "Farewell, My Dear Cramer: First Touch",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9tY63JSTIa8uEJTHd2HyLlHdoLy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1aaBzyYSvopc1ZCVbAFd6i2ZIKn.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 7.3,
+    "tmdbId": 739360,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/farewell-my-dear-cramer-first-touch.json"
+  },
+  {
+    "id": "faroeste-caboclo",
+    "tipo": "filme",
+    "titulo": "Faroeste Caboclo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kqphM2bAYbuwnwbJz3KebgMhxOU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ea5khkci4MoI5AovlZWoxDAsuSh.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.3,
+    "tmdbId": 195423,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/faroeste-caboclo.json"
+  },
+  {
+    "id": "farol-da-ilusao",
+    "tipo": "filme",
+    "titulo": "Farol da Ilusão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6ZPlnGO4jWvBtIoG9hRlqyfg8g8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jyiS3eQFQzSNlY4TRIIkTSyI1ce.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.479,
+    "tmdbId": 1185719,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/farol-da-ilusao.json"
+  },
+  {
+    "id": "farrapo-humano",
+    "tipo": "filme",
+    "titulo": "Farrapo Humano",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3rXzGi1BqzSPMeIjvu8WxXDQGLa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vyINER8nv4kAJyCIq2Sr1xjOOjC.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 7.626,
+    "tmdbId": 28580,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/farrapo-humano.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-1",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.1",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-1.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-10",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.10",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-10.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-11",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.11",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-11.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-12",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.12",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-12.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-13",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.13",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-13.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-14",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.14",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-14.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-15",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.15",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-15.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-16",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.16",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-16.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-17",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.17",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-17.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-18",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.18",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-18.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-19",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.19",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-19.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-2",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.2",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-2.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-20",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.20",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-20.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-21",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.21",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-21.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-22",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.22",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-22.json"
+  },
+  {
     "id": "fascinacao-mortal-a-vinganca-23",
     "tipo": "filme",
     "titulo": "Fascinacao Mortal A Vinganca.23",
@@ -4008,351 +4349,5 @@
     "nota": 7.763,
     "tmdbId": 136,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/freaks.json"
-  },
-  {
-    "id": "freaks-um-de-nos",
-    "tipo": "filme",
-    "titulo": "Freaks: Um de Nós",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/q5vhnaaOLSUboRJwiJbYqoUsach.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/q9lf5lt1QWAPVdPXckFOzCeFB07.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 5.674,
-    "tmdbId": 658777,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/freaks-um-de-nos.json"
-  },
-  {
-    "id": "freaky",
-    "tipo": "filme",
-    "titulo": "Freaky: No Corpo de um Assassino",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/asCCNF72JPwxEDVoKXZc6u8fzRa.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ngpC8wikrZDnhjkFQMEjWSh7HAV.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.563,
-    "tmdbId": 551804,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/freaky.json"
-  },
-  {
-    "id": "freaky-no-corpo-de-um-assassino",
-    "tipo": "filme",
-    "titulo": "Freaky: No Corpo de um Assassino",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/asCCNF72JPwxEDVoKXZc6u8fzRa.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ngpC8wikrZDnhjkFQMEjWSh7HAV.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.563,
-    "tmdbId": 551804,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/freaky-no-corpo-de-um-assassino.json"
-  },
-  {
-    "id": "freaky-tales",
-    "tipo": "filme",
-    "titulo": "Freaky Tales",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/lo5mfglsGeMYmAkSRXs9DATNJxk.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/elZZLzhDzjRIIkGcIK0FGmZSUaq.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.284,
-    "tmdbId": 979660,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/freaky-tales.json"
-  },
-  {
-    "id": "freamhacha",
-    "tipo": "filme",
-    "titulo": "Fréamhacha",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pfLylbmY0uxQm6Sh63j6bpb7XB3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1OUEVe8VtA6F1eISGMzIEpyrmcD.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7.148,
-    "tmdbId": 1189735,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/freamhacha.json"
-  },
-  {
-    "id": "free-guy-assumindo-o-controle",
-    "tipo": "filme",
-    "titulo": "Free Guy: Assumindo o Controle",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jXlGeLOg2RKHmV9CinVaIB4ijKU.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7py8kUCYaOdFn1TfVS87BDBySOz.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA",
-      "4K"
-    ],
-    "nota": 7.451,
-    "tmdbId": 550988,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/free-guy-assumindo-o-controle.json"
-  },
-  {
-    "id": "free-willy",
-    "tipo": "filme",
-    "titulo": "Free Willy",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/9iBgd9gi9ztWiVcYSG6zl8wDFBN.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mXkUfzJfdWx9y4Zlm7wsvQ0uvYo.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.195,
-    "tmdbId": 1634,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/free-willy.json"
-  },
-  {
-    "id": "free-willy-a-grande-fuga",
-    "tipo": "filme",
-    "titulo": "Free Willy - A Grande Fuga",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xMzwGt0fI6HObAgLDm87pHEvEFv.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6o81zIBccubOIlTSjY7hjcAr4e4.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.1,
-    "tmdbId": 34751,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/free-willy-a-grande-fuga.json"
-  },
-  {
-    "id": "free-willy-2-a-aventura-continua",
-    "tipo": "filme",
-    "titulo": "Free Willy 2 - A Aventura Continua",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rj2nIzMQG6AxYvl0fqMJomIGJYZ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jiVuIZPan76T1l7oi1EfzqWvJ1Q.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 5.939,
-    "tmdbId": 9073,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/free-willy-2-a-aventura-continua.json"
-  },
-  {
-    "id": "free-willy-3-o-resgate",
-    "tipo": "filme",
-    "titulo": "Free Willy 3 - O Resgate",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/c5ADbz5BVaL1dBYLqaHvVCEag73.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/emAXd9Pj7ziQudv8TuxaXu2pHb2.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.105,
-    "tmdbId": 18519,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/free-willy-3-o-resgate.json"
-  },
-  {
-    "id": "free-road-to-the-world-the-dream",
-    "tipo": "filme",
-    "titulo": "Free! Road to the World - The Dream",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/f3ssgfTIyWFTP2udVAKShdrWueR.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9KwjkPO6u9tGQOBOic4prH8EWaq.jpg",
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": 5.833,
-    "tmdbId": 576618,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/free-road-to-the-world-the-dream.json"
-  },
-  {
-    "id": "free-take-your-marks",
-    "tipo": "filme",
-    "titulo": "Free!: Take Your Marks",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oaUqYPYthBXHI2eD6Yos7Ge5kIm.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6ucCjIA68VniqYWBq4hXDryXDIN.jpg",
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": 6.8,
-    "tmdbId": 460398,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/free-take-your-marks.json"
-  },
-  {
-    "id": "freediver",
-    "tipo": "filme",
-    "titulo": "Respire Fundo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/emII3Y5V6ZlHQ0kgNXU97v5Z0ra.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/glJcgJNrHe5qdHYy1LlHNJJf8cv.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.6,
-    "tmdbId": 1387739,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/freediver.json"
-  },
-  {
-    "id": "freelance",
-    "tipo": "filme",
-    "titulo": "Herói por Encomenda",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zM8RkIxq7cJ1V6hOqKQLbHDgkRq.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zIYROrkHJPYB3VTiW1L9QVgaQO.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.408,
-    "tmdbId": 897087,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/freelance.json"
-  },
-  {
-    "id": "freestyle",
-    "tipo": "filme",
-    "titulo": "Batalhas: Freestyle",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/vdgUNCruHI6jX9TU4vvplgpDtL7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8WpRRiz3qQqzBiifCTm1dW0b6bs.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.5,
-    "tmdbId": 785521,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/freestyle.json"
-  },
-  {
-    "id": "freiras-em-fuga",
-    "tipo": "filme",
-    "titulo": "Freiras em Fuga",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ui9Xn4WAwXAS4Ljwr4bNkUVYepp.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/elBPA8Ra4DOe1ROoJkAVRaCU5kj.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.858,
-    "tmdbId": 11131,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/freiras-em-fuga.json"
-  },
-  {
-    "id": "fremont",
-    "tipo": "filme",
-    "titulo": "Fremont",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wJZovPXB3SWL1BL1GyLrCRrk4z9.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jai2IePHlNTKwCNoOM5HQgMVUaj.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.362,
-    "tmdbId": 1048522,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fremont.json"
-  },
-  {
-    "id": "french-girl",
-    "tipo": "filme",
-    "titulo": "A Garota Francesa",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/9DUeMtypGaIO9T3sxGePSFrOLbl.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9hLE7hMDyIhtSfR6L7DJrsUzY2K.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.254,
-    "tmdbId": 1024452,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/french-girl.json"
-  },
-  {
-    "id": "french-lover",
-    "tipo": "filme",
-    "titulo": "French Lover",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/eMGi1vZiI0CeRsn8UMa147PaVCa.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/p4OIGFfVo3vbROMD1evVF0u14Rf.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 6.112,
-    "tmdbId": 1289888,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/french-lover.json"
-  },
-  {
-    "id": "frente-a-frente",
-    "tipo": "filme",
-    "titulo": "Frente à Frente",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fqhZOmHlARkWiHZmy6D2DRrrxlZ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qLtREPyJgxewgK3l68epEQeHTVR.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 7.041,
-    "tmdbId": 513692,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/frente-a-frente.json"
-  },
-  {
-    "id": "fresh",
-    "tipo": "filme",
-    "titulo": "Fresh",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tlu71AgaL3EQBBCNGsAwZLPbV5D.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/oVv5l6L5Wi5j3gd4P2vt0YvVMOg.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.96,
-    "tmdbId": 787752,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fresh.json"
-  },
-  {
-    "id": "fresh-hell",
-    "tipo": "filme",
-    "titulo": "Terror Virtual",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pVRzCS3ylEsaQpE14tgG7vpIkGl.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xoSnauACoBDUAZlrjeSXkSYxJWm.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 4.5,
-    "tmdbId": 873973,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fresh-hell.json"
-  },
-  {
-    "id": "fresh-hell-adolescentes-mortos",
-    "tipo": "filme",
-    "titulo": "Fresh Hell: Adolescentes Mortos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/z8Yr4ASYm52miXd0vl7pE3jDqys.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gZoKGUR1d5iLZhgDYOSCKPuBsfD.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 4.2,
-    "tmdbId": 1295144,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fresh-hell-adolescentes-mortos.json"
-  },
-  {
-    "id": "fresh-hell-lobos-contra-o-mundo",
-    "tipo": "filme",
-    "titulo": "Fresh Hell: Lobos Contra o Mundo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yL4vYPynrlw33rnkC7KXu4ol8pR.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/eB6vqb8V5aeTVAQsyravt8yH9tC.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 4.3,
-    "tmdbId": 1236416,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fresh-hell-lobos-contra-o-mundo.json"
   }
 ]

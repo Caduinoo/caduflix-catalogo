@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Com a segurança da família em risco e diante de ameaças iminentes, um policial precisa decidir o quanto está disposto a sacrificar em nome do dever.",
   "generos": [
+    "LEGENDADOS",
     "AÇÃO | CRIME | GUERRA",
     "LANÇAMENTOS"
   ],
@@ -13,6 +14,13 @@
   "tmdbId": 1628367,
   "nota": 6.1,
   "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050503,
+      "container": "mp4"
+    },
     {
       "nome": "Padrão",
       "idioma": "Não informado",

@@ -186,6 +186,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/bLfcN4pTbG78sxS4rQGciJCoNAb.jpg",
     "banner": "https://image.tmdb.org/t/p/original/gkkBhctHPGg8hrmtWbO3ySZoj4z.jpg",
     "generos": [
+      "LEGENDADOS",
       "4K",
       "DRAMA"
     ],
@@ -2515,6 +2516,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/rsz7QDn6r6HpWjaGJrDoU4EYHym.jpg",
     "banner": "https://image.tmdb.org/t/p/original/rjw4AXWCJ3AYmmM2CkNOD6LcGT.jpg",
     "generos": [
+      "LEGENDADOS",
       "DRAMA"
     ],
     "nota": 6.3,
@@ -3826,6 +3828,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-rede-social.json"
   },
   {
+    "id": "a-redencao-2021",
+    "tipo": "filme",
+    "titulo": "A Redenção",
+    "ano": 2021,
+    "capa": "https://image.tmdb.org/t/p/w500/3iqcd55lnoWJuhooovDLwXa711j.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uxTheB0MN5vtxvFBWoePaRSrGcD.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 3.5,
+    "tmdbId": 871190,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-redencao-2021.json"
+  },
+  {
     "id": "a-redencao",
     "tipo": "filme",
     "titulo": "A Redenção",
@@ -3839,20 +3856,6 @@
     "nota": 7.2,
     "tmdbId": 605375,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-redencao.json"
-  },
-  {
-    "id": "a-redencao-2021",
-    "tipo": "filme",
-    "titulo": "A Redenção",
-    "ano": 2021,
-    "capa": "https://image.tmdb.org/t/p/w500/3iqcd55lnoWJuhooovDLwXa711j.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uxTheB0MN5vtxvFBWoePaRSrGcD.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 3.5,
-    "tmdbId": 871190,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-redencao-2021.json"
   },
   {
     "id": "a-redencao-2019",
@@ -4211,6 +4214,7 @@
     "capa": null,
     "banner": null,
     "generos": [
+      "LEGENDADOS",
       "DRAMA",
       "LANÇAMENTOS"
     ],

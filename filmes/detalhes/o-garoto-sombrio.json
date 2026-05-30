@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Verão de 1989. Ted Henley (Jared Breeze), 9 anos, e seu pai, John (David Morse), são donos de um Motel em ruínas nas montanhas do oeste dos EUA. Desde que a mãe de Ted partiu, John está desanimado, levando Ted a cuidar de si mesmo. Em meio a solidão, Ted começa a manifestar impulsos estranhos relacionados a sociopatia, mas a chegada de um andarilho, William Colby (Rainn Wilson), cativa o jovem e eles formam uma amizade única.",
   "generos": [
+    "LEGENDADOS",
     "DRAMA"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/2VuUTqIwxZ4hx7KeBGUEwbkgGGZ.jpg",
@@ -13,6 +14,13 @@
   "nota": 5.7,
   "opcoes": [
     {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050517,
+      "container": "mp4"
+    },
+    {
       "nome": "Padrão",
       "idioma": "Não informado",
       "qualidade": "Não informado",
@@ -20,7 +28,7 @@
       "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1779198842,
+  "dataCriacaoXtream": 1779198850,
   "tituloOriginal": "The Boy",
   "dataLancamento": "2015-08-14"
 }

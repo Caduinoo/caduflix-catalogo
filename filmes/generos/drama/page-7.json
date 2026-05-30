@@ -1,5 +1,49 @@
 [
   {
+    "id": "o-destino-indomavel",
+    "tipo": "filme",
+    "titulo": "O Destino Indomável",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uPAfvFZhfw9UfFSiXJlNKnRRLRs.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/i8kexpEoLvCEwXZvBDDsqeDqoV2.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.8,
+    "tmdbId": 537860,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-destino-indomavel.json"
+  },
+  {
+    "id": "o-dia-do-casamento",
+    "tipo": "filme",
+    "titulo": "O Dia do Meu Casamento",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pL1raLIVzuuXrWdUBMIDe2dH8OO.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": null,
+    "tmdbId": 506046,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-dia-do-casamento.json"
+  },
+  {
+    "id": "o-dia-dos-loucos",
+    "tipo": "filme",
+    "titulo": "O Dia dos Loucos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/j4WZR6bkudbeaBxjuZNUsWNVdvg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1HidRheu20rWTqWcPXkW5atpq8w.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 5.876,
+    "tmdbId": 50627,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-dia-dos-loucos.json"
+  },
+  {
     "id": "o-dia-que-mudou-o-mundo",
     "tipo": "filme",
     "titulo": "O Dia que Mudou o Mundo",
@@ -678,6 +722,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/2VuUTqIwxZ4hx7KeBGUEwbkgGGZ.jpg",
     "banner": "https://image.tmdb.org/t/p/original/seSEfSOzDSMC3FPivmiD7sVV8To.jpg",
     "generos": [
+      "LEGENDADOS",
       "DRAMA"
     ],
     "nota": 5.7,
@@ -1955,6 +2000,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/jhID43WmWf3HeH3M3tBCPTSeBOi.jpg",
     "banner": "https://image.tmdb.org/t/p/original/226BOT8YMPY1OgXGHTVPqUPSG0F.jpg",
     "generos": [
+      "LEGENDADOS",
       "DRAMA"
     ],
     "nota": 6.139,
@@ -2199,6 +2245,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/ipZ1EoENjq2yOCdNWSwZZHcPOBY.jpg",
     "banner": "https://image.tmdb.org/t/p/original/6JkX7jptHjr8li34k0OxAKfxECR.jpg",
     "generos": [
+      "LEGENDADOS",
       "DRAMA"
     ],
     "nota": 6.4,
@@ -4306,49 +4353,5 @@
     "nota": 5.4,
     "tmdbId": 838910,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-ultimo-sol.json"
-  },
-  {
-    "id": "o-ultimo-suspeito",
-    "tipo": "filme",
-    "titulo": "O Último Suspeito",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dhaZPQx6hyk1rPKCsu8q4awq4Hp.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kwY1HeoEIDXCdpb4PMdyzCiBUCV.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 5.786,
-    "tmdbId": 13536,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-ultimo-suspeito.json"
-  },
-  {
-    "id": "o-ultimo-suspiro",
-    "tipo": "filme",
-    "titulo": "O Último Suspiro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/prkigyI1SgeJ9yTdPw5kxsp2XkK.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/y6Zh9ICQDjfwI4kChGzDmq9Ku7p.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.325,
-    "tmdbId": 477489,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-ultimo-suspiro.json"
-  },
-  {
-    "id": "o-ultimo-vagao",
-    "tipo": "filme",
-    "titulo": "O Último Vagão",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/eWmivEzPwoa5w1M8WFGRZgUKHZx.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6BkADCshXOpLu8aa37SaXsdlJRt.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA",
-      "4K"
-    ],
-    "nota": 5,
-    "tmdbId": 416071,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-ultimo-vagao.json"
   }
 ]

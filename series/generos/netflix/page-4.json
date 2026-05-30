@@ -1,5 +1,21 @@
 [
   {
+    "id": "marlon",
+    "tipo": "serie",
+    "titulo": "Marlon",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7jCZupMTSyS3SohvE14T3xVT36n.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/j03TYAifcf6VCQe2RZxGseVd1Sx.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.657,
+    "tmdbId": 71887,
+    "totalTemporadas": 2,
+    "totalEpisodios": 20,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/marlon.json"
+  },
+  {
     "id": "marselha-em-perigo",
     "tipo": "serie",
     "titulo": "Marselha em Perigo",
@@ -4780,21 +4796,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/para-sempre.json"
-  },
-  {
-    "id": "parasyte-the-grey",
-    "tipo": "serie",
-    "titulo": "Parasyte: The Grey",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uaYlFpBYbzi3trD32w2LHimiMzJ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/p4rJTY1rvQrffoh2P09sty5cz8B.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.43,
-    "tmdbId": 208825,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/parasyte-the-grey.json"
   }
 ]

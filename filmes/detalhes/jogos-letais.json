@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Roland Flint e Vincent Brazil são os dois melhores assassinos do mundo, mas desconhecidos um do outro. Enquanto Flint é um atirador de elite mestre, Brazil também é habilidoso com uma faca. Esses dois assassinos rivais formam uma aliança para derrubar o chefe de um cartel de drogas, que é apoiado pela DEA.",
   "generos": [
+    "LEGENDADOS",
     "AÇÃO | CRIME | GUERRA"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/ndfJ6JElIfXn3lCByLHkS359Lhw.jpg",
@@ -13,6 +14,13 @@
   "nota": 6.332,
   "opcoes": [
     {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11063375,
+      "container": "mp4"
+    },
+    {
       "nome": "Padrão",
       "idioma": "Não informado",
       "qualidade": "Não informado",
@@ -20,7 +28,7 @@
       "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1773567044,
+  "dataCriacaoXtream": 1779786419,
   "tituloOriginal": "Assassination Games",
   "dataLancamento": "2011-07-28"
 }

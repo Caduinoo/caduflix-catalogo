@@ -1,5 +1,832 @@
 [
   {
+    "id": "scarygirl",
+    "tipo": "filme",
+    "titulo": "Scarygirl",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/25sHKtm4Eiqq9AFI6mquCVQQQ8O.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hglZzptsgCdC62kT436nL7cXDca.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.857,
+    "tmdbId": 502345,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scarygirl.json"
+  },
+  {
+    "id": "schlitter",
+    "tipo": "filme",
+    "titulo": "Sombras do Passado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cxHNFQLl1QYZojHJEIBxi0mtxj5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pL0xzHF3GWykp90dRpeKB7CoZ28.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.655,
+    "tmdbId": 1105736,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/schlitter.json"
+  },
+  {
+    "id": "schumacher",
+    "tipo": "filme",
+    "titulo": "Schumacher",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ArpeW9q7rEwWyzZ3SZbBRsuvFPZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lqEjBR3osI3Ezup9onTXYz7RyNZ.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.274,
+    "tmdbId": 855823,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/schumacher.json"
+  },
+  {
+    "id": "scoob",
+    "tipo": "filme",
+    "titulo": "Scooby! O Filme",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/p7RjlzDLV4KksrWtyve1Rg40nLv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sJjuXNHNT7PfzcgkqM3oSIkVOXB.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.99,
+    "tmdbId": 385103,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scoob.json"
+  },
+  {
+    "id": "scooby-doo",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo: O Filme",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/Nu9v0wUacgq73ggOAKsz4ZtZ2K.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1RAxtBxslR4OZCZC1vxIRUxjR7a.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.106,
+    "tmdbId": 9637,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo.json"
+  },
+  {
+    "id": "scooby-doo-2-monstros-a-solta",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo 2: Monstros à Solta",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/c0mA7YFHM0apmvYMKhueFwwCPfC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/m8y7OjvCBLmJfG6CIb5gpXFSLec.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 6.101,
+    "tmdbId": 11024,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-2-monstros-a-solta.json"
+  },
+  {
+    "id": "scooby-doo-e-a-cacada-virtual",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo e a Caçada Virtual",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jHXmK0r5GVeu8EcjbCDdLzla9qt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ydh8aqZcqQym5p8q9XZ4nDf2x68.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.283,
+    "tmdbId": 15601,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-e-a-cacada-virtual.json"
+  },
+  {
+    "id": "scooby-doo-e-a-espada-do-samurai",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo! e a Espada do Samurai",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/thzMM3VVO5ovNB9w9s6VC2NsIM0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/v9rjmKUcvoUFUNx7XprWGiUmkau.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.7,
+    "tmdbId": 16390,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-e-a-espada-do-samurai.json"
+  },
+  {
+    "id": "scooby-doo-e-krypto-o-supercao",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo e Krypto - O Supercão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8z9OuOrPwF9OOPnmA7wuH2AeJL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7cdyAkpOCwRSbPF0S3HzVrfJCLi.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.417,
+    "tmdbId": 1146348,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-e-krypto-o-supercao.json"
+  },
+  {
+    "id": "scooby-doo-e-o-abominavel-homem-das-neves",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo! e o Abominável Homem das Neves",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tOlvwlIImnHTjH1KmiPdJU2LagX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/b3YTgRg33zNzn60Fi44Z1LpwAUO.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.4,
+    "tmdbId": 13354,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-e-o-abominavel-homem-das-neves.json"
+  },
+  {
+    "id": "scooby-doo-e-o-fantasma-da-bruxa",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo! E a Bruxa Fantasma",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rMXXUiAaXwgDhwlPNbWMkWfv9TQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/h84z0EDepDePgaoiW9QSj8RjXED.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.377,
+    "tmdbId": 17681,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-e-o-fantasma-da-bruxa.json"
+  },
+  {
+    "id": "scooby-doo-e-os-invasores-alienigenas",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo e os Invasores Alienígenas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oWZBrs5gPBZi4Ky02C2MhetskdP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vXr11aErsGWcyJpLoE3szK4S3ZI.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.116,
+    "tmdbId": 20410,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-e-os-invasores-alienigenas.json"
+  },
+  {
+    "id": "scooby-doo-em-hollywood",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo em Hollywood",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uYRw27HOPNglOQPND5wftQakuU5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bZ7UfV85En1sbMpw6dZMzX74Z6w.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.572,
+    "tmdbId": 36972,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-em-hollywood.json"
+  },
+  {
+    "id": "scooby-doo-na-ilha-dos-zumbis",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo na Ilha dos Zumbis",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fxYjPxMgtbAzsisNRyR0jB9wEOt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/76hrjuQn3XwwsPRAHv56NuUcNIi.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.673,
+    "tmdbId": 13151,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-na-ilha-dos-zumbis.json"
+  },
+  {
+    "id": "scooby-doo-na-ilha-dos-zumbis-1998",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo na Ilha dos Zumbis",
+    "ano": 1998,
+    "capa": "https://image.tmdb.org/t/p/w500/fxYjPxMgtbAzsisNRyR0jB9wEOt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/76hrjuQn3XwwsPRAHv56NuUcNIi.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.673,
+    "tmdbId": 13151,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-na-ilha-dos-zumbis-1998.json"
+  },
+  {
+    "id": "scooby-doo-o-filme",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo: O Filme",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/Nu9v0wUacgq73ggOAKsz4ZtZ2K.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1RAxtBxslR4OZCZC1vxIRUxjR7a.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 6.106,
+    "tmdbId": 9637,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-o-filme.json"
+  },
+  {
+    "id": "scooby-doo-o-misterio-comeca",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo! O Mistério Começa",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/aeK9BYorgNRcjFXTsmQnaGGwrD1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cMdzPC7K1FmKNOBMVnqyyfEfxSI.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.398,
+    "tmdbId": 22620,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-o-misterio-comeca.json"
+  },
+  {
+    "id": "scooby-doo-a-lenda-do-fantasmossauro",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo! A Lenda do Fantasmossauro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/eXg3h8i4wHGUoTfIZdRWhqr7vTx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bUaS3K2WrKmgcTvEwmGCdQOd7Er.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.7,
+    "tmdbId": 67900,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-a-lenda-do-fantasmossauro.json"
+  },
+  {
+    "id": "scooby-doo-a-mascara-do-falcao-azul",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo! A Máscara do Falcão Azul",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ghH7KNij80B7SzBsKiXCNEBPRrc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ypDqQFcJUq2AZ6roVB6O5Nxac75.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.7,
+    "tmdbId": 151535,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-a-mascara-do-falcao-azul.json"
+  },
+  {
+    "id": "scooby-doo-de-volta-a-ilha-dos-zumbis",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo! De Volta à Ilha dos Zumbis",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9DWSsLs8jltBxH2LSazuSR9FjpQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cVqwzMSNPS4vgUDlXlSYoWOmGsI.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.984,
+    "tmdbId": 615774,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-de-volta-a-ilha-dos-zumbis.json"
+  },
+  {
+    "id": "scooby-doo-e-a-espad-a",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo! e a Espad‪a‬",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2ylRZmNKmSL6jRJrPPCJWSleocy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wofwzHaXg61PpMEv52JMmqnfECA.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.612,
+    "tmdbId": 682254,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-e-a-espad-a.json"
+  },
+  {
+    "id": "scooby-doo-e-a-lenda-do-vampiro",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo! E a Lenda do Vampiro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zaq9f2oDvk1cYLBa0ZliVoYa1ZT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tDdWG2RqEaGd6nilO1OVKFSOVql.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.1,
+    "tmdbId": 30074,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-e-a-lenda-do-vampiro.json"
+  },
+  {
+    "id": "scooby-doo-e-a-maldicao-do-13-fantasma",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo! e a Maldição do 13° Fantasma",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/s15MGIrZnM5vAeJBrDI76iqiBS8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4MuN8RkgXcfunFDql849t2ru0t4.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.843,
+    "tmdbId": 560066,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-e-a-maldicao-do-13-fantasma.json"
+  },
+  {
+    "id": "scooby-doo-e-a-maldicao-do-frankenstein",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo! e a Maldição do Frankenstein",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wwUsjCsYvFi6huVtsrzVLxY41CG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8y0TzKXeyQa56YVduWU3R63d361.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.613,
+    "tmdbId": 284995,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-e-a-maldicao-do-frankenstein.json"
+  },
+  {
+    "id": "scooby-doo-e-a-maldicao-do-monstro-do-lago",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo! e a Maldição do Monstro do Lago",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/13anKM1yMz5cSUKZ214dSJzUlVf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/s2zzIS4UmrkrCWU8dT603KaEAFR.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.175,
+    "tmdbId": 47533,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-e-a-maldicao-do-monstro-do-lago.json"
+  },
+  {
+    "id": "scooby-doo-e-o-fantasma-gourmet",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo! e o Fantasma Gourmet",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/izIxXz7oWmqZagyp5PHEhfinp1V.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ySEZExyAwNJN3iCSdHxNsHelLAU.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 8,
+    "tmdbId": 533592,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-e-o-fantasma-gourmet.json"
+  },
+  {
+    "id": "scooby-doo-e-o-lobisomem",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo! e o Lobisomem",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rug4Y5jF3KLMJ6e7a2ArvieCcXH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qFeuSLq1InfpK9PgjFHmdY3UZNq.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.4,
+    "tmdbId": 37211,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-e-o-lobisomem.json"
+  },
+  {
+    "id": "scooby-doo-e-o-monstro-do-mexico",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo! E o Monstro do México",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lYdXJgjoj2Q7BB9pXCeR9nipRma.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3HX8idPAiLf3tFWMc9x8t8ukNI1.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.3,
+    "tmdbId": 21956,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-e-o-monstro-do-mexico.json"
+  },
+  {
+    "id": "scooby-doo-em-uma-noite-das-arabias",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo! em Uma Noite das Arábias",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/Aquayqm4JTfgzYY5rmsnY3DDi1G.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1C6B8sGhhRWBmajZ4tQBSFbvmQy.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.4,
+    "tmdbId": 13351,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-em-uma-noite-das-arabias.json"
+  },
+  {
+    "id": "scooby-doo-gol-de-fantasma",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo! Gol de Fantasma",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mxIH63VTEYXhpycuHCaYq95jAhK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vMnQQE7uhmw5ws1wd4osMNLh1Sd.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 8.4,
+    "tmdbId": 297102,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-gol-de-fantasma.json"
+  },
+  {
+    "id": "scooby-doo-gostosuras-ou-travessuras",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo! Gostosuras ou Travessuras",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iauo38WI2GhdGAvplbzV6Q8ErWY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zoL7dO6Uw8wOtkhfrwryevQudSK.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 6.983,
+    "tmdbId": 1015724,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-gostosuras-ou-travessuras.json"
+  },
+  {
+    "id": "scooby-doo-natal-assombrado",
+    "tipo": "filme",
+    "titulo": "Scooby-Doo! Natal Assombrado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/h6U4DivlNfBorJjpyGPqCYiX4yH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/AqhARqCkWCjf22JrmybJZu3GsRQ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 8.181,
+    "tmdbId": 245881,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-doo-natal-assombrado.json"
+  },
+  {
+    "id": "scooby-o-filme",
+    "tipo": "filme",
+    "titulo": "Scooby! O Filme",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/p7RjlzDLV4KksrWtyve1Rg40nLv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sJjuXNHNT7PfzcgkqM3oSIkVOXB.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.99,
+    "tmdbId": 385103,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scooby-o-filme.json"
+  },
+  {
+    "id": "scott",
+    "tipo": "filme",
+    "titulo": "Scott Pilgrim Contra o Mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/l7EGWWmBiXsL7L2yBV69shGUclH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6R9nT6m8wmzayV5XOQq3TRA6yZw.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.485,
+    "tmdbId": 22538,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scott.json"
+  },
+  {
+    "id": "scott-pilgrim-contra-o-mundo",
+    "tipo": "filme",
+    "titulo": "Scott Pilgrim Contra o Mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/l7EGWWmBiXsL7L2yBV69shGUclH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6R9nT6m8wmzayV5XOQq3TRA6yZw.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7.485,
+    "tmdbId": 22538,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scott-pilgrim-contra-o-mundo.json"
+  },
+  {
+    "id": "screamboat-terror-a-bordo",
+    "tipo": "filme",
+    "titulo": "Screamboat: Terror a Bordo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1i5j9mz9uFueuBcRVjDeA4Jh5AB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/n6IPjfSwyKqLungH8EHX3ZldodS.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.098,
+    "tmdbId": 1225572,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/screamboat-terror-a-bordo.json"
+  },
+  {
+    "id": "scrooge-um-conto-de-natal",
+    "tipo": "filme",
+    "titulo": "Scrooge: Um Conto de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2jR1JmDCOKbOIfTc3a9pQV36EpZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wMNY6tU9WOUeAMRfqbCYwceOl9u.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.786,
+    "tmdbId": 1001865,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/scrooge-um-conto-de-natal.json"
+  },
+  {
+    "id": "sdl-a-batalha-musical",
+    "tipo": "filme",
+    "titulo": "SDL - A Batalha Musical",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iiYroOiA7PCwjmxRnMst6jfxXFY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/roBGfjilWTTiy4V0zJLfi2G9QC5.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": null,
+    "tmdbId": 1273606,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sdl-a-batalha-musical.json"
+  },
+  {
+    "id": "se-a-rua-beale-falasse",
+    "tipo": "filme",
+    "titulo": "Se a Rua Beale Falasse",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4gbiabIdvVv3iZcpdZEqHtbe0aU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9QKt21sUUrcNmlCkLKDFUaTodCh.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.894,
+    "tmdbId": 465914,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-a-rua-beale-falasse.json"
+  },
+  {
+    "id": "se-algo-acontecer-te-amo",
+    "tipo": "filme",
+    "titulo": "Se Algo Acontecer... Te Amo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/81sFRZluM59eRmvhNMSPQItRfOV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tfhKc6tMxBVZuiipbXWUYdXyMYj.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 7.685,
+    "tmdbId": 713776,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-algo-acontecer-te-amo.json"
+  },
+  {
+    "id": "se-beber-nao-case-1",
+    "tipo": "filme",
+    "titulo": "Se Beber, Não Case!",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/m0tQyMdp3fy5ooUOQkJMd1fQKBJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iuRVt8tFiXDPGgzavhuSa3QHRxD.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 7.331,
+    "tmdbId": 18785,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-beber-nao-case-1.json"
+  },
+  {
+    "id": "se-beber-nao-case-2",
+    "tipo": "filme",
+    "titulo": "Se Beber, Não Case! Parte II",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lvwO6R9RImeq3UBbh6DPWG3Iiqw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aGmsekNU5cMOkJMpbdRutkvmVMl.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.505,
+    "tmdbId": 45243,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-beber-nao-case-2.json"
+  },
+  {
+    "id": "se-beber-nao-case-3",
+    "tipo": "filme",
+    "titulo": "Se Beber, Não Case! Parte III",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6SOnmTK0XoEcc7AoyXoce76to3Y.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/o8ZS811VjYbBi4pRYwILLdWCVey.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.209,
+    "tmdbId": 109439,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-beber-nao-case-3.json"
+  },
+  {
+    "id": "se-beber-nao-pesque",
+    "tipo": "filme",
+    "titulo": "Se Beber Não Pesque",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zHUN6iea0YoQPGAgDqAxI0coXja.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pqBTi8MYsQynJthX18A3w3sC1OM.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 5.5,
+    "tmdbId": 713132,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-beber-nao-pesque.json"
+  },
+  {
+    "id": "se-conseguir",
+    "tipo": "filme",
+    "titulo": "Mate-a, se Conseguir",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1Llmpiw2I2YANddUZEgKwyeiwe6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eOj3mT98eKphxXfXqVDOVMZYizv.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 4.8,
+    "tmdbId": 989872,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-conseguir.json"
+  },
+  {
+    "id": "se-essa-rua-fosse-minha",
+    "tipo": "filme",
+    "titulo": "Se essa rua fosse minha",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/owtTHyC5Vv7nlDs8DS5gb2iXvh7.jpg",
+    "banner": null,
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": null,
+    "tmdbId": 889848,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-essa-rua-fosse-minha.json"
+  },
+  {
+    "id": "se-esse-amor-desaparecesse-hoje",
+    "tipo": "filme",
+    "titulo": "Se Esse Amor Desaparecesse Hoje",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rZpbBGwqGHkXhIOzhvHdrFqXgDX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iL5eGI9ctHdUOV4yG6dyGKctSEX.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 8.292,
+    "tmdbId": 1466115,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-esse-amor-desaparecesse-hoje.json"
+  },
+  {
+    "id": "se-eu-ficar",
+    "tipo": "filme",
+    "titulo": "Se Eu Ficar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hErdSm2KCx4X3LAzFwbxbqEe4B5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gz3rCM34UicmOxRY1T2SgiQZJoS.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 7.35,
+    "tmdbId": 249164,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-eu-ficar.json"
+  },
+  {
+    "id": "se-eu-fosse-a-minha-mae",
+    "tipo": "filme",
+    "titulo": "Se Eu Fosse a Minha Mãe",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8ypXAhRBZgH3nrz9EFAkBCjgBPt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wsapbputwZHPNUy3fLnEjmc7QZw.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.101,
+    "tmdbId": 16084,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-eu-fosse-a-minha-mae.json"
+  },
+  {
+    "id": "se-eu-fosse-um-homem",
+    "tipo": "filme",
+    "titulo": "Se Eu Fosse um Homem",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oczz95q8XRX6a7LtIxtlw2hr396.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hF2Hk6BT3QLJZKmx6Hp8wKBqFQt.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 5.324,
+    "tmdbId": 430528,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-eu-fosse-um-homem.json"
+  },
+  {
+    "id": "se-eu-fosse-voce",
+    "tipo": "filme",
+    "titulo": "Se Eu Fosse Você",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9aDA0VKP2EQGqflensDgFLnbvF1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6QZzrX0lvtSS5kv2Uc4T1W59M5k.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 6.386,
+    "tmdbId": 34588,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-eu-fosse-voce.json"
+  },
+  {
+    "id": "se-eu-fosse-voce-2",
+    "tipo": "filme",
+    "titulo": "Se Eu Fosse Você 2",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jruDMExMKeUz7PHgkk4ROlWwCFO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vF94nDYvUSjZb5MAi8WOXifcktI.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 6.111,
+    "tmdbId": 21752,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-eu-fosse-voce-2.json"
+  },
+  {
+    "id": "se-eu-nunca-tivesse-vivido-voce",
+    "tipo": "filme",
+    "titulo": "Se Eu Nunca Tivesse Vivido Você",
+    "ano": null,
+    "capa": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000005118/42000005118.jpg",
+    "banner": null,
+    "generos": [
+      "DRAMAS CURTOS"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-eu-nunca-tivesse-vivido-voce.json"
+  },
+  {
+    "id": "se-fosse-amor",
+    "tipo": "filme",
+    "titulo": "Se Fosse Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bBTBT3uvuqmYPmFruNkkcawsSH8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mCrtA3REVQvSwmNf5bIDSQxxdBQ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 4.8,
+    "tmdbId": 934297,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-fosse-amor.json"
+  },
+  {
+    "id": "se-meu-apartamento-falasse",
+    "tipo": "filme",
+    "titulo": "Se Meu Apartamento Falasse",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/omZs5505ceaHXhh4FL2TpmpVC94.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vRTKNKNWLZ22fAgPa5kY8wT2b1F.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 8.189,
+    "tmdbId": 284,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-meu-apartamento-falasse.json"
+  },
+  {
+    "id": "se-meu-fusca-falasse",
+    "tipo": "filme",
+    "titulo": "Se Meu Fusca Falasse",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fAPiPlFQwBTYPIq30fxFKlTZ24d.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/w6PpUETms1qZc4WJUqR7PuHpbTT.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.571,
+    "tmdbId": 14136,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-meu-fusca-falasse.json"
+  },
+  {
+    "id": "se-nada-mais-der-certo",
+    "tipo": "filme",
+    "titulo": "Se Nada Mais Der Certo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/c1LOo3ojZADR0Lf3vIxt6s5OOcr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7ULEeEbR6ReSsqJiAIeQu2JeDLG.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.1,
+    "tmdbId": 72700,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-nada-mais-der-certo.json"
+  },
+  {
+    "id": "se-nao-fosse-voce",
+    "tipo": "filme",
+    "titulo": "Se Não Fosse Você",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7n4tE1SFIeyWiO9o5Q2DTvHA95t.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/m3WlBJJRbFPaut1QS0PbOG8Wezy.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 7,
+    "tmdbId": 1327862,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-nao-fosse-voce.json"
+  },
+  {
     "id": "se-o-natal-fosse-meu",
     "tipo": "filme",
     "titulo": "Se o Natal Fosse Meu",
@@ -523,6 +1350,20 @@
     "nota": 6.792,
     "tmdbId": 567797,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/segredos-do-passado.json"
+  },
+  {
+    "id": "segredos-do-putumayo",
+    "tipo": "filme",
+    "titulo": "Segredos do Putumayo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/i3eldAB8dwhLEpe9TOgmTf92WH0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wBgJazYT0b2HD0LgTrP1euhSaqh.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 1,
+    "tmdbId": 745888,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/segredos-do-putumayo.json"
   },
   {
     "id": "segredos-e-despedidas",
@@ -1632,6 +2473,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/6vIm8hnubgAUnyceyD2iNHEyaNu.jpg",
     "banner": "https://image.tmdb.org/t/p/original/rmlgq2gjiXBK3YNWj6WSdueLv0o.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA"
     ],
     "nota": 6.701,
@@ -1684,6 +2526,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sem-saida.json"
   },
   {
+    "id": "sem-saida-2022",
+    "tipo": "filme",
+    "titulo": "Sem Saída",
+    "ano": 2022,
+    "capa": "https://image.tmdb.org/t/p/w500/dvTTuRqwvM6wkDuA0JviE58NSRp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/epE4VnwJkqWEQIYLvWYxBj277W3.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 6.84,
+    "tmdbId": 833425,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sem-saida-2022.json"
+  },
+  {
     "id": "sem-saida-1987",
     "tipo": "filme",
     "titulo": "Sem Saída",
@@ -1710,21 +2568,6 @@
     "nota": 5.839,
     "tmdbId": 59965,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sem-saida-2011.json"
-  },
-  {
-    "id": "sem-saida-2022",
-    "tipo": "filme",
-    "titulo": "Sem Saída",
-    "ano": 2022,
-    "capa": "https://image.tmdb.org/t/p/w500/dvTTuRqwvM6wkDuA0JviE58NSRp.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/epE4VnwJkqWEQIYLvWYxBj277W3.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER",
-      "4K"
-    ],
-    "nota": 6.84,
-    "tmdbId": 833425,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sem-saida-2022.json"
   },
   {
     "id": "sem-seguranca-nenhuma",
@@ -3475,855 +4318,5 @@
     "nota": 6.009,
     "tmdbId": 479,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shaft.json"
-  },
-  {
-    "id": "shakespeare-apaixonado",
-    "tipo": "filme",
-    "titulo": "Shakespeare Apaixonado",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3wC7QCcjvT9vRMlWyXoJCbqIuXb.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/i16MjvM9YsQ85ejdB63gtGXDu4W.jpg",
-    "generos": [
-      "ROMANCE"
-    ],
-    "nota": 6.8,
-    "tmdbId": 1934,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shakespeare-apaixonado.json"
-  },
-  {
-    "id": "shakey-grounds-ruim",
-    "tipo": "filme",
-    "titulo": "Shakey Grounds RUIM",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iovjZ4ERx8zJ2MvCPJA61Sy8LFr.jpg",
-    "banner": null,
-    "generos": [
-      "CINEMA | RUIM | CAM | PROPAGANDA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shakey-grounds-ruim.json"
-  },
-  {
-    "id": "shang-chi-e-a-lenda-dos-dez-aneis",
-    "tipo": "filme",
-    "titulo": "Shang-Chi e a Lenda dos Dez Anéis",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fojnVuvt181l7LxsJDxCQfWSKfh.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/r7K6Xt0RX4Mw0cAbZVw5cyb1Tux.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 7.495,
-    "tmdbId": 566525,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shang-chi-e-a-lenda-dos-dez-aneis.json"
-  },
-  {
-    "id": "shaolin",
-    "tipo": "filme",
-    "titulo": "American Shaolin: Uma Nova Raça de Kickboxer",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/cp04wbuMkBEn6nTUY8gp3hmgf8D.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qQNFOI3ZlLBKaiJDU8Gmow4ecQm.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.7,
-    "tmdbId": 36934,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shaolin.json"
-  },
-  {
-    "id": "shark-evil",
-    "tipo": "filme",
-    "titulo": "Shark Evil",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qZlGMnnm8Zmztpuis98uWsWuGEX.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xpsEJ2tXX92v9suohZN24RtUgkX.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.5,
-    "tmdbId": 1370704,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shark-evil.json"
-  },
-  {
-    "id": "sharknado",
-    "tipo": "filme",
-    "titulo": "Sharknado",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/atEmHkVFTSGRYt2PeCiziQqbZnI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/riGVdQS9gXy38VoSaXXBhmR6A4h.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 3.917,
-    "tmdbId": 205321,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sharknado.json"
-  },
-  {
-    "id": "sharknado-2-a-segunda-onda",
-    "tipo": "filme",
-    "titulo": "Sharknado 2: A Segunda Onda",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uguzkptzBLzwse1LENsAXTU9LEV.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xmBJ9nezUteqowdYfrW8383LHd9.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 4.55,
-    "tmdbId": 248504,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sharknado-2-a-segunda-onda.json"
-  },
-  {
-    "id": "sharper-uma-vida-de-trapacas",
-    "tipo": "filme",
-    "titulo": "Sharper - Uma Vida de Trapaças",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nkvg5RbmDcLMfu5gfJHhMqdWBpK.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cG5QZHyIRJXqo53YA41gbNMlpIM.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 6.859,
-    "tmdbId": 717980,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sharper-uma-vida-de-trapacas.json"
-  },
-  {
-    "id": "shaun-the-sheep-the-flight-before-christmas",
-    "tipo": "filme",
-    "titulo": "Shaun, o Carneiro: Aventura de Natal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/abpuFVeGnhvYGxIxpiB1cU8xHtl.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/inxcSsT0zEmeRtAFvSLFo1kDGHR.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.96,
-    "tmdbId": 785545,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shaun-the-sheep-the-flight-before-christmas.json"
-  },
-  {
-    "id": "shayda",
-    "tipo": "filme",
-    "titulo": "Shayda",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/71uGrqjqI4uyN2M9VpoOVqOoukC.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mx3YyWpm7lTUxGQcHQC42s3xuVJ.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.7,
-    "tmdbId": 978586,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shayda.json"
-  },
-  {
-    "id": "shazam",
-    "tipo": "filme",
-    "titulo": "Shazam!",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rwkriXzzP9FoiIF5nTdxBsUcds4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 6.977,
-    "tmdbId": 287947,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shazam.json"
-  },
-  {
-    "id": "shazam-furia-dos-deuses",
-    "tipo": "filme",
-    "titulo": "Shazam! Fúria dos Deuses",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mTXxYgJ8UE7N6XIxIaesAqvMG4S.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kQV9sV0IbastbU5FYxuYwxfMawz.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 6.424,
-    "tmdbId": 594767,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shazam-furia-dos-deuses.json"
-  },
-  {
-    "id": "she-rides-shotgun",
-    "tipo": "filme",
-    "titulo": "Fuga Fatal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7vCgQ0QXHGIkQNUCMHAq2vZovje.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ytCi1wg6YHpYcFRWCO2jpzN31Kf.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7.035,
-    "tmdbId": 1196573,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/she-rides-shotgun.json"
-  },
-  {
-    "id": "sheherazade",
-    "tipo": "filme",
-    "titulo": "Sheherazade",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zW8XIlWjND96WCMPwMZn1z9PG0K.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/v4UuuBHYVIJ6Zwz5fkpEn2fYAKL.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7.179,
-    "tmdbId": 518671,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sheherazade.json"
-  },
-  {
-    "id": "sherlock-holmes",
-    "tipo": "filme",
-    "titulo": "Sherlock Holmes",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/19ZNLpF6ibwcFIynGb65X3Z1bnL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/85g84VtSf9tu1A9JqqruXEHspb7.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.219,
-    "tmdbId": 10528,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sherlock-holmes.json"
-  },
-  {
-    "id": "sherlock-holmes-o-jogo-de-sombras",
-    "tipo": "filme",
-    "titulo": "Sherlock Holmes: O Jogo de Sombras",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/g06QmnWXcysphBwTyJLWFoFsxOe.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lWNASscWXn32Asr9vkB1wq6cKvD.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.1,
-    "tmdbId": 58574,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sherlock-holmes-o-jogo-de-sombras.json"
-  },
-  {
-    "id": "sherlock-holmes-o-jogo-de-sombras-2011",
-    "tipo": "filme",
-    "titulo": "Sherlock Holmes: O Jogo de Sombras",
-    "ano": 2011,
-    "capa": "https://image.tmdb.org/t/p/w500/g06QmnWXcysphBwTyJLWFoFsxOe.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lWNASscWXn32Asr9vkB1wq6cKvD.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.1,
-    "tmdbId": 58574,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sherlock-holmes-o-jogo-de-sombras-2011.json"
-  },
-  {
-    "id": "shifter",
-    "tipo": "filme",
-    "titulo": "Shifter",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/bljTZsCjm8sZFTKS7Aq4HttDR7k.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7eOFy9PKP1KyiHzH4xXMXGVUIrT.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 4.4,
-    "tmdbId": 681195,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shifter.json"
-  },
-  {
-    "id": "shiki-oriori-o-sabor-da-juventude",
-    "tipo": "filme",
-    "titulo": "Shiki Oriori - O Sabor da Juventude",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/aqnCk7GYxc3mwJzReBOKXPH3Oz7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/iRB6VKJuFd88bk20hvLqlDzi4kP.jpg",
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": 6.872,
-    "tmdbId": 513347,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shiki-oriori-o-sabor-da-juventude.json"
-  },
-  {
-    "id": "shin-ultraman",
-    "tipo": "filme",
-    "titulo": "Shin Ultraman",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1B56yPqhmCRvxdRnlcbousudhD7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1u6wMv6EEtuKZFuQVlvbWAf7UxL.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 7.463,
-    "tmdbId": 634429,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shin-ultraman.json"
-  },
-  {
-    "id": "shiny-flakes-drogas-online",
-    "tipo": "filme",
-    "titulo": "Shiny_Flakes: Drogas Online",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/A90byJpjV0DvuozHQAxE5lZgd8D.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/z1UxwFCSCepPRosjOBVllfrs0PB.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7.484,
-    "tmdbId": 850329,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shiny-flakes-drogas-online.json"
-  },
-  {
-    "id": "shirley",
-    "tipo": "filme",
-    "titulo": "Shirley para Presidente",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nQebhPtuFAP7VOe8j0nzM4aHq79.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4dcx4odNyL7IQ8c6vb6oYkjk9rg.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.676,
-    "tmdbId": 798612,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shirley.json"
-  },
-  {
-    "id": "shirley-para-presidente",
-    "tipo": "filme",
-    "titulo": "Shirley para Presidente",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nQebhPtuFAP7VOe8j0nzM4aHq79.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4dcx4odNyL7IQ8c6vb6oYkjk9rg.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.676,
-    "tmdbId": 798612,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shirley-para-presidente.json"
-  },
-  {
-    "id": "shock-diversao-diabolica",
-    "tipo": "filme",
-    "titulo": "Shock - Diversão Diabólica",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uqczY5sJv5fOF1Zdgi5u0J7VagA.jpg",
-    "banner": null,
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": 5.667,
-    "tmdbId": 336906,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shock-diversao-diabolica.json"
-  },
-  {
-    "id": "shock-wave-2",
-    "tipo": "filme",
-    "titulo": "Shock Wave 2",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oMtnpQWp8yVZMxbntdEBGFYf4SK.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nxXfBygLNR22bmcIHRqaf5dit1f.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7.1,
-    "tmdbId": 559974,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shock-wave-2.json"
-  },
-  {
-    "id": "shockingly-evil-and-vile",
-    "tipo": "filme",
-    "titulo": "Ted Bundy: A Irresistível Face do Mal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7CvQye9OtsO7XQjnFjyBexNXr1J.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uRoA67sM5vvCI4cplxhl67BTPly.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.996,
-    "tmdbId": 457799,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shockingly-evil-and-vile.json"
-  },
-  {
-    "id": "shootfighter-o-combate-mortal",
-    "tipo": "filme",
-    "titulo": "Shootfighter: O Combate Mortal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/77FwxEOXJOmGBVs8XKkwmk35tm8.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xSPomtBv0oAedbetieoITr1auFt.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.56,
-    "tmdbId": 62328,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shootfighter-o-combate-mortal.json"
-  },
-  {
-    "id": "shooting-heroin",
-    "tipo": "filme",
-    "titulo": "Shooting Heroin",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/UCth6TIpxeLMFm1kOinTzzerj4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9WpGpgzf7GABKTkISkuJeg534F4.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": null,
-    "tmdbId": 642487,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shooting-heroin.json"
-  },
-  {
-    "id": "shooting-stars-a-vida-de-lebron-james",
-    "tipo": "filme",
-    "titulo": "Shooting Stars: A Vida de Lebron James",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rzOxUgqkQeKyhyuKZqIj87VqFUg.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fMRrTziefy0c6v45IUyByGjZCRo.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 7.78,
-    "tmdbId": 970284,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shooting-stars-a-vida-de-lebron-james.json"
-  },
-  {
-    "id": "shopkins-aventura-selvagem",
-    "tipo": "filme",
-    "titulo": "Shopkins: Aventura Selvagem",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/u6SuXzWrfX5OmSznf3J175DG5X7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/aD3a1QIQiyWP6MRDlLXJjWsBspb.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.9,
-    "tmdbId": 506640,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shopkins-aventura-selvagem.json"
-  },
-  {
-    "id": "shortbus",
-    "tipo": "filme",
-    "titulo": "Shortbus",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/s8QBrWgpZpYrySSyTQ0xbFLPKrS.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/a9VOWosINcLNJQb3hNZAqEShVTM.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.263,
-    "tmdbId": 1378,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shortbus.json"
-  },
-  {
-    "id": "shortcut",
-    "tipo": "filme",
-    "titulo": "Atalho",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7u88jLFC1VCWZoIKoWbHdWG1Abm.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jN8fHS0FtK1GIOSQZOjp66GcG5w.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.281,
-    "tmdbId": 684684,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shortcut.json"
-  },
-  {
-    "id": "show-de-vizinha",
-    "tipo": "filme",
-    "titulo": "Show de Vizinha",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7RsOmzEkJiSknIPOYe1AV9WTTDD.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qvcOovScPoRalRxDy50rYSYFree.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.738,
-    "tmdbId": 10591,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/show-de-vizinha.json"
-  },
-  {
-    "id": "show-dogs-o-agente-canino",
-    "tipo": "filme",
-    "titulo": "Show Dogs: O Agente Canino",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/x7xXm9EDs5YTnGjczAATJ5jsown.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/pk1zexoUCtjFs761W48QyIPzwCj.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6,
-    "tmdbId": 425148,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/show-dogs-o-agente-canino.json"
-  },
-  {
-    "id": "showtime",
-    "tipo": "filme",
-    "titulo": "É Hora do Show",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wodpfawSQqXQ5mkzF5OOZXwtZvI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4fU2ddunguMjxWK0oWdUfKES9Qo.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.556,
-    "tmdbId": 5851,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/showtime.json"
-  },
-  {
-    "id": "shrek-1",
-    "tipo": "filme",
-    "titulo": "Shrek 1 - \"Alheyuya\" (Josan)",
-    "ano": null,
-    "capa": null,
-    "banner": null,
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": null,
-    "tmdbId": 1605534,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shrek-1.json"
-  },
-  {
-    "id": "shrek-2",
-    "tipo": "filme",
-    "titulo": "Shrek 2",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8ohobj5lAIbl5XWw11FywS3IRrS.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.314,
-    "tmdbId": 809,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shrek-2.json"
-  },
-  {
-    "id": "shrek-3",
-    "tipo": "filme",
-    "titulo": "O Fantasma do Lorde Farquaad",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/u1xAx2HqvfCWwDaHjHVdMzYMO2G.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qhL6H6UmYQw0k2DZPtb2hREpw36.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6,
-    "tmdbId": 25523,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shrek-3.json"
-  },
-  {
-    "id": "shrek-4",
-    "tipo": "filme",
-    "titulo": "Shrek Para Sempre",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iFXVU0ni6YWgQNSPkoGO1Tk5L3g.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uzzTystB8lL0mRDII5Sfs5HxgkI.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.396,
-    "tmdbId": 10192,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shrek-4.json"
-  },
-  {
-    "id": "shrooms",
-    "tipo": "filme",
-    "titulo": "Alucinação",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pU4lcKfjf0U8pM036FHyoVGLev7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qDlPT4EStkbQxczswCQsq23OGQ7.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 4.886,
-    "tmdbId": 14456,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shrooms.json"
-  },
-  {
-    "id": "siberia",
-    "tipo": "filme",
-    "titulo": "Sibéria",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rOO56dJIPoBaNXdYVMTMPznr4ag.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rp6aXM2EWkaUdq6zbSlhUOY2869.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 4.732,
-    "tmdbId": 438689,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/siberia.json"
-  },
-  {
-    "id": "sicario-perigo-no-abrigo",
-    "tipo": "filme",
-    "titulo": "Sicario - Perigo no Abrigo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tqHoz9tdsQJ3US1Pb7eZdBDi8op.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xSmndNyNqoRpXoN3AqlLEC1yE88.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.8,
-    "tmdbId": 808228,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sicario-perigo-no-abrigo.json"
-  },
-  {
-    "id": "sicario-2-dia-do-soldado",
-    "tipo": "filme",
-    "titulo": "Sicário: Dia do Soldado",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ojkz5ifRkqUPA7WjCKz8fvGwdmv.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/13VjjUeJ6mcDUB36XRu4YFpYNSm.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.941,
-    "tmdbId": 400535,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sicario-2-dia-do-soldado.json"
-  },
-  {
-    "id": "sicario-terra-de-ninguem",
-    "tipo": "filme",
-    "titulo": "Sicario: Terra de Ninguém",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iz8j7Cii58IzvYq4YQeMNXiwE7B.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.419,
-    "tmdbId": 273481,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sicario-terra-de-ninguem.json"
-  },
-  {
-    "id": "sick",
-    "tipo": "filme",
-    "titulo": "Isolamento Mortal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tDXYFCA3EAvYiZLAgvTYBHKZ1YG.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ve3RLbCSuUKA02OZJ5F0fMmXVMn.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER",
-      "4K"
-    ],
-    "nota": 6.152,
-    "tmdbId": 829410,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sick.json"
-  },
-  {
-    "id": "sideral",
-    "tipo": "filme",
-    "titulo": "Sideral",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tbwEN2ifCpJBazZK52hXmrTLbyX.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/yrfpcFCmMo9Tez8t474ERqNr0gB.jpg",
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": 7.125,
-    "tmdbId": 842365,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sideral.json"
-  },
-  {
-    "id": "sideways-entre-umas-e-outras",
-    "tipo": "filme",
-    "titulo": "Sideways: Entre Umas e Outras",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5k63nkN5mMGCBqRvrVaF7CpMUcK.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zmuRxro8AxPDjACjXTIIDCUNwDl.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 7.115,
-    "tmdbId": 9675,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sideways-entre-umas-e-outras.json"
-  },
-  {
-    "id": "siembamba-a-cancao-do-mal",
-    "tipo": "filme",
-    "titulo": "Siembamba: A Canção do Mal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mAxA7PqMyMiTQhMUVkXmTGvuJiV.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/yagE1bdjECdEVxPz3rma7B7EKKI.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.9,
-    "tmdbId": 480603,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/siembamba-a-cancao-do-mal.json"
-  },
-  {
-    "id": "sierra-burgess-e-uma-loser",
-    "tipo": "filme",
-    "titulo": "Sierra Burgess é uma Loser",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/9sYzYupvBQ3NRqaQr1rha4GsswU.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fdFIVBpq57ZbHok07SI3gNLWUbO.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.285,
-    "tmdbId": 462919,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sierra-burgess-e-uma-loser.json"
-  },
-  {
-    "id": "siga-minha-voz",
-    "tipo": "filme",
-    "titulo": "Siga Minha Voz",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mncxqYlq2ze8q4YsF6cFOWKD006.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vcrwsAYYYmVLX0c7iFqlV1pZRdT.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "4K",
-      "ROMANCE"
-    ],
-    "nota": 7.371,
-    "tmdbId": 1144443,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/siga-minha-voz.json"
-  },
-  {
-    "id": "siga-seu-coracao",
-    "tipo": "filme",
-    "titulo": "Siga Seu Coração",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3Brg7Pel2HYgoaEKCFUHG5Ejrrq.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/5J3k3fM42NRSjUjLwS7fp7jWKVX.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 6.87,
-    "tmdbId": 667682,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/siga-seu-coracao.json"
-  },
-  {
-    "id": "sight",
-    "tipo": "filme",
-    "titulo": "Irresistível Paixão",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xjCFrWKlejx7paeYFnwDTLtiuI3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fsUaDSKP9Vl1tewpUUnKsBOiOfR.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA",
-      "4K"
-    ],
-    "nota": 6.684,
-    "tmdbId": 1389,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sight.json"
-  },
-  {
-    "id": "sihir-pelakor",
-    "tipo": "filme",
-    "titulo": "Magia do Ator",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/n4YGTt7Oju3MM91QxaArXMFOOu8.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nvUBmJrwEaIYgPuXI5cukEucPXp.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7.8,
-    "tmdbId": 1461260,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sihir-pelakor.json"
-  },
-  {
-    "id": "sikandar",
-    "tipo": "filme",
-    "titulo": "Sikandar",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/41s42CRXafa3OuRGvCtfYPEBmse.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4MNRH73XmwBK2ycv3qvLpa07O5F.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 4.955,
-    "tmdbId": 1257960,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sikandar.json"
-  },
-  {
-    "id": "silenciadas",
-    "tipo": "filme",
-    "titulo": "Silenciadas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3pJRTOJiuRM3C7PKu9UOnmMzLyJ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rJfOjuaCbYFEoxYGqfr9xko0SdQ.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.7,
-    "tmdbId": 655187,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/silenciadas.json"
-  },
-  {
-    "id": "silencio",
-    "tipo": "filme",
-    "titulo": "Zona de Silêncio",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jhI6yOoWaLZwlnmBuEdqr3T3Zzx.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/c26GB3r9rJtamesS5ZJBBLxtxEz.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.283,
-    "tmdbId": 543749,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/silencio.json"
-  },
-  {
-    "id": "silencioso-e-mortal",
-    "tipo": "filme",
-    "titulo": "Silencioso e Mortal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rb4uF0XpLJ4ZXI6Zh5HR7siIow5.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6UByfAFvsTRc0TCYpzh4DTjgOXU.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 4.545,
-    "tmdbId": 1354652,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/silencioso-e-mortal.json"
-  },
-  {
-    "id": "silencioso-e-mortal-2024",
-    "tipo": "filme",
-    "titulo": "Silencioso e Mortal",
-    "ano": 2024,
-    "capa": "https://image.tmdb.org/t/p/w500/rb4uF0XpLJ4ZXI6Zh5HR7siIow5.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6UByfAFvsTRc0TCYpzh4DTjgOXU.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 4.545,
-    "tmdbId": 1354652,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/silencioso-e-mortal-2024.json"
-  },
-  {
-    "id": "silent-hill",
-    "tipo": "filme",
-    "titulo": "Terror em Silent Hill: Regresso Para o Inferno",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5ZDqTM0ZP3ypmFivTeAnHslV6mY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.331,
-    "tmdbId": 680493,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/silent-hill.json"
   }
 ]

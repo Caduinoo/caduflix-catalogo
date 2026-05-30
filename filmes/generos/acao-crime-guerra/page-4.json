@@ -1,5 +1,49 @@
 [
   {
+    "id": "fletch",
+    "tipo": "filme",
+    "titulo": "Assassinato por Encomenda",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ejiHSIlivEUaeTAAq9mxQvxl6Sl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/caRqs1GIhwoJqn8JA3LakIUR0v3.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 6.752,
+    "tmdbId": 9749,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fletch.json"
+  },
+  {
+    "id": "flora-e-ulysses",
+    "tipo": "filme",
+    "titulo": "Flora e Ulysses",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zv1NUGF2nv3smvfsLDIXEwstWpC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tHjoTxM4SMgazi3Y2X8mmAtONVL.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.487,
+    "tmdbId": 621876,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/flora-e-ulysses.json"
+  },
+  {
+    "id": "flyboys",
+    "tipo": "filme",
+    "titulo": "Flyboys",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/trKRuWe6zReYFhfA8m6DdHbTWs9.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.5,
+    "tmdbId": 9664,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/flyboys.json"
+  },
+  {
     "id": "flypaper-os-desajustados",
     "tipo": "filme",
     "titulo": "Flypaper - Os Desajustados",
@@ -798,6 +842,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/yDgpzZcyVklCbRY1zwpkvjYJJiA.jpg",
     "banner": "https://image.tmdb.org/t/p/original/nRBt4c7X56HexYhgt9Exl7upvRo.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA"
     ],
     "nota": 5.692,
@@ -840,6 +885,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/ssue24YN4ay40UmpRerXS4qAOOE.jpg",
     "banner": "https://image.tmdb.org/t/p/original/6UGAOEkFNT6RsOj8tSGcPo90oCp.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA"
     ],
     "nota": 5.524,
@@ -1533,6 +1579,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/6zHdhfnreagE3Bv6n7BXtC8gk6r.jpg",
     "banner": "https://image.tmdb.org/t/p/original/g0JyeAe7kcsXyFWEv8Axa49yBRJ.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA"
     ],
     "nota": 6.286,
@@ -1592,6 +1639,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/u2ZbbYAhsfzFVdUB8co9lHr1xO6.jpg",
     "banner": "https://image.tmdb.org/t/p/original/pRpg9OAe4hrThTPxPSPzc185f0D.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA"
     ],
     "nota": 6.568,
@@ -3741,6 +3789,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-pela-sobrevivencia.json"
   },
   {
+    "id": "jogo-perigoso-2022",
+    "tipo": "filme",
+    "titulo": "Jogo Perigoso: Vítimas da Herança",
+    "ano": 2022,
+    "capa": "https://image.tmdb.org/t/p/w500/r3cbG9vXgbP3PypCR9ILP7b6aSE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qobm3A9oXZAqVyKapoANeBgsG0M.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.043,
+    "tmdbId": 1027385,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-perigoso-2022.json"
+  },
+  {
     "id": "jogo-perigoso",
     "tipo": "filme",
     "titulo": "Jogo Perigoso",
@@ -3754,20 +3817,6 @@
     "nota": 6.399,
     "tmdbId": 343674,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-perigoso.json"
-  },
-  {
-    "id": "jogo-perigoso-2022",
-    "tipo": "filme",
-    "titulo": "Jogo Perigoso: Vítimas da Herança",
-    "ano": 2022,
-    "capa": "https://image.tmdb.org/t/p/w500/r3cbG9vXgbP3PypCR9ILP7b6aSE.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qobm3A9oXZAqVyKapoANeBgsG0M.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.043,
-    "tmdbId": 1027385,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-perigoso-2022.json"
   },
   {
     "id": "jogo-sujo",
@@ -3822,6 +3871,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/ndfJ6JElIfXn3lCByLHkS359Lhw.jpg",
     "banner": "https://image.tmdb.org/t/p/original/9GDHBrOowFg8op7UQpYGfwnuhbr.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA"
     ],
     "nota": 6.332,
@@ -4353,49 +4403,5 @@
     "nota": 6.339,
     "tmdbId": 8856,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/karate-kid-2-a-hora-da-verdade-continua.json"
-  },
-  {
-    "id": "karate-kid-3-o-desafio-final",
-    "tipo": "filme",
-    "titulo": "Karatê Kid 3: O Desafio Final",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1RQdaRkkwqieJytCJv0Abl8SrtB.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/c12c7Rpq4kakQiaZIQgp5aTaDFB.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.9,
-    "tmdbId": 10495,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/karate-kid-3-o-desafio-final.json"
-  },
-  {
-    "id": "karate-kid-4-a-nova-aventura",
-    "tipo": "filme",
-    "titulo": "Karatê Kid 4: A Nova Aventura",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uYLW0WvEVEmmsFQMDEIkbrUkEox.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kgqgbPB2snzVlkMkQjYAvmF1hkc.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.408,
-    "tmdbId": 11231,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/karate-kid-4-a-nova-aventura.json"
-  },
-  {
-    "id": "karate-kid-lendas",
-    "tipo": "filme",
-    "titulo": "Karatê Kid: Lendas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gnuSSOVBVWlKL8dFEGKRoOiiKTS.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7Q2CmqIVJuDAESPPp76rWIiA0AD.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 6.994,
-    "tmdbId": 1011477,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/karate-kid-lendas.json"
   }
 ]

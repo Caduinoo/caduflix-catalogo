@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Ex-amantes se reencontram anos depois, sobrecarregados por arrependimentos e sacrifícios do passado. O encontro deles desperta velhos sentimentos e dores até que finalmente se abraçam, chorando, antes de se separarem novamente.",
   "generos": [
+    "LEGENDADOS",
     "DRAMA",
     "LANÇAMENTOS"
   ],
@@ -13,6 +14,13 @@
   "tmdbId": 1156104,
   "nota": 5.8,
   "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11060871,
+      "container": "mp4"
+    },
     {
       "nome": "Padrão",
       "idioma": "Não informado",

@@ -1,5 +1,219 @@
 [
   {
+    "id": "clarice-niskier-teatro-dos-pes-a-cabeca",
+    "tipo": "filme",
+    "titulo": "Clarice Niskier: Teatro dos Pés à Cabeça",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cOQGZ8NNgZ2kFOrSV280I8Xu68Q.jpg",
+    "banner": null,
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": null,
+    "tmdbId": 1318389,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clarice-niskier-teatro-dos-pes-a-cabeca.json"
+  },
+  {
+    "id": "classified",
+    "tipo": "filme",
+    "titulo": "Alvo Secreto",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kPgzYyN5uSqonpTlt2q7wUBCURs.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dSN3zXRe2QdcdXfvQoPP85lqeUw.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 5.552,
+    "tmdbId": 1124641,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/classified.json"
+  },
+  {
+    "id": "classmates-minus",
+    "tipo": "filme",
+    "titulo": "Amigos de Escola",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nSxVY07ntCUvRnxytElS3oHUULt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/blMy57KbQtSq8bLfNLUwkZTKIx3.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.13,
+    "tmdbId": 739267,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/classmates-minus.json"
+  },
+  {
+    "id": "claw",
+    "tipo": "filme",
+    "titulo": "Garra de Ferro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wzYxCgCsllrLwhMR4gbTk2gfFm6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4l65BWqJBl7hBwdIwp2nQdwsOuw.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.511,
+    "tmdbId": 850165,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/claw.json"
+  },
+  {
+    "id": "clays-redemption",
+    "tipo": "filme",
+    "titulo": "Clay's Redemption",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fnpoeoyj65JGs7PvT4cN6fX7AZq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/AqhRukUd62phQEX4uRewRSarAwl.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.5,
+    "tmdbId": 754656,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clays-redemption.json"
+  },
+  {
+    "id": "clemencia",
+    "tipo": "filme",
+    "titulo": "Clemência",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sUuY9dl0V1IitKjbS8RH6OyQmws.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4LFJwYtjvlWFqri9IwAZxLR0xyx.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.264,
+    "tmdbId": 565307,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clemencia.json"
+  },
+  {
+    "id": "cleopatra",
+    "tipo": "filme",
+    "titulo": "Cleópatra",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xMuyfBp6ggM8SKk3nUoJtG8ZVun.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/q7fBDmVcU0MWkc8sWt9IKj6YbVd.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 7.058,
+    "tmdbId": 8095,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cleopatra.json"
+  },
+  {
+    "id": "click",
+    "tipo": "filme",
+    "titulo": "Click",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oL0k5JA53PyoHSZqKb3cNkhwBCE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/w7OBGj9YEA4DcpUnPU9OM6NufJJ.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.306,
+    "tmdbId": 9339,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/click.json"
+  },
+  {
+    "id": "clickbait",
+    "tipo": "filme",
+    "titulo": "Pense Antes de Clicar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/g7x0H6stB1K5BrPuqcjMUV4XVMM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kqzfUPePvsQ68GbDerkO8FQJIPu.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 4.452,
+    "tmdbId": 507245,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clickbait.json"
+  },
+  {
+    "id": "cliente-morto-nao-paga",
+    "tipo": "filme",
+    "titulo": "Cliente Morto Não Paga",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kLTXbyOZXXDEJHcpZTLlihEKpkT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hhxrMW0WY30ulaCGMu5mVezktHQ.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.667,
+    "tmdbId": 9442,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cliente-morto-nao-paga.json"
+  },
+  {
+    "id": "climax",
+    "tipo": "filme",
+    "titulo": "Clímax",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/co0GDAHG6yzsOQKG5szYthGigfS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/v0sblc9A8eaE8EqDQ5Y6fELj4oB.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.049,
+    "tmdbId": 507076,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/climax.json"
+  },
+  {
+    "id": "clonaram-tyrone",
+    "tipo": "filme",
+    "titulo": "Clonaram Tyrone!",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uLYdX64xJVZEFRQJZQU4A2ueMyB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9mXBHMSDLi0Ty0HXcnLtQnqNBmI.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA",
+      "4K"
+    ],
+    "nota": 6.543,
+    "tmdbId": 736769,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clonaram-tyrone.json"
+  },
+  {
+    "id": "close",
+    "tipo": "filme",
+    "titulo": "Close",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/h9AAQbozDUc0hYJspmYZfAeCfM2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/saESlYSTAGjr8gkyjoGb7omH0hf.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 7.8,
+    "tmdbId": 901563,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/close.json"
+  },
+  {
+    "id": "closer",
+    "tipo": "filme",
+    "titulo": "Closer: Perto Demais",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dSxUq0pwRBKU0mcLEITbzHWnAZK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/s7oDV92ltdecJ7BTfGSOgsDi900.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.833,
+    "tmdbId": 2288,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/closer.json"
+  },
+  {
+    "id": "clotilda-the-return-home",
+    "tipo": "filme",
+    "titulo": "Clotilda: The Return Home",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nUacQvdl1qyVpxuwSghWBgAjv30.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bTUp0TXj5zz1VulRdWzgeGbmodI.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 3.6,
+    "tmdbId": 1300156,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/clotilda-the-return-home.json"
+  },
+  {
     "id": "cloudburst",
     "tipo": "filme",
     "titulo": "Tempestade na Estrada",
@@ -347,6 +561,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/jFRhEPhtsln9tDwzMdZN3OlhUob.jpg",
     "banner": "https://image.tmdb.org/t/p/original/knYXryj3073w9fBMD5Xatk0ECiS.jpg",
     "generos": [
+      "LEGENDADOS",
       "ROMANCE"
     ],
     "nota": 6.116,
@@ -1192,6 +1407,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/94AQpf6Rg6tblNpa65ogzYw4q6P.jpg",
     "banner": "https://image.tmdb.org/t/p/original/2iqLoDsatVBwAvHTEzI71p3qBe9.jpg",
     "generos": [
+      "LEGENDADOS",
       "LANÇAMENTOS"
     ],
     "nota": 6.295,
@@ -2619,6 +2835,22 @@
     "nota": 5.77,
     "tmdbId": 19103,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/como-voce-quiser.json"
+  },
+  {
+    "id": "companhia-assassina",
+    "tipo": "filme",
+    "titulo": "Companhia Assassina",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/WeVazQDp2gYmrsGxZ5gK0gVrVJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eDVp3J8HqkXXMagnVKlm53dYJvJ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6,
+    "tmdbId": 1285247,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/companhia-assassina.json"
   },
   {
     "id": "companhia-das-focas",
@@ -4131,237 +4363,5 @@
     "nota": 7.311,
     "tmdbId": 45612,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/contra-o-tempo.json"
-  },
-  {
-    "id": "contra-tudo-e-contra-todos",
-    "tipo": "filme",
-    "titulo": "1985 - Contra Tudo e Contra Todos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HTl1FwYbx7SZsmv08os9IHuw1b.jpg",
-    "banner": null,
-    "generos": [
-      "ROMANCE"
-    ],
-    "nota": null,
-    "tmdbId": 1565996,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/contra-tudo-e-contra-todos.json"
-  },
-  {
-    "id": "contra-file",
-    "tipo": "filme",
-    "titulo": "Contra-Filé",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/38cKvvL3pphWjXCsm27dNRijoNN.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ed2kzyg2pFEVprTLx8X072iApVu.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.955,
-    "tmdbId": 695556,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/contra-file.json"
-  },
-  {
-    "id": "contrabando-brilhante",
-    "tipo": "filme",
-    "titulo": "Contrabando Brilhante",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mTAvngbkW9eSLfxbmazJLk8J4mP.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/yCUdmofLMQjg4PPvUKzuTqAH0Lz.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 2,
-    "tmdbId": 638990,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/contrabando-brilhante.json"
-  },
-  {
-    "id": "contragolpe",
-    "tipo": "filme",
-    "titulo": "Contragolpe",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gIjr4i9Ktjkybo6uVqeOiRaaIT5.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/t2Jqk0NkNVomjwgrj8mMKL6R9VB.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7,
-    "tmdbId": 504718,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/contragolpe.json"
-  },
-  {
-    "id": "contrato-das-sombras",
-    "tipo": "filme",
-    "titulo": "Contrato das Sombras",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zHITbNWPLuyrJ8F7kZGZLEBPwar.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/u5mOcoD8Sw0AOPt1labgeP3pH7j.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA",
-      "LANÇAMENTOS"
-    ],
-    "nota": 5.727,
-    "tmdbId": 1251683,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/contrato-das-sombras.json"
-  },
-  {
-    "id": "contrato-de-risco",
-    "tipo": "filme",
-    "titulo": "Contrato de Risco",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dKmOINYPpg2W8SMRicnFdusqk1x.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7JmTlybgcuEH6uuOIOk96Bupj4Z.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.182,
-    "tmdbId": 9401,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/contrato-de-risco.json"
-  },
-  {
-    "id": "contrato-perigoso",
-    "tipo": "filme",
-    "titulo": "Contrato Perigoso",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dq9r4v9yWkSmMvffTMiNy3heTZ6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rSrJW3MHZLWBtiNV3fbVaqNYVpy.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.366,
-    "tmdbId": 628900,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/contrato-perigoso.json"
-  },
-  {
-    "id": "contravencao",
-    "tipo": "filme",
-    "titulo": "Contravenção",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oKtiqyCR6H6smMmxQjYT7uuHTna.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/q4eZdNhr980EKJgR8mqfxiz65xC.jpg",
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": 10,
-    "tmdbId": 1178544,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/contravencao.json"
-  },
-  {
-    "id": "control",
-    "tipo": "filme",
-    "titulo": "Controle: A História de Ian Curtis",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oQbosZPyHzZM9QICz4zfeCNCh6u.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dwxdn3ppDAn7QtaLlhGDEErWfg9.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7.513,
-    "tmdbId": 5708,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/control.json"
-  },
-  {
-    "id": "control-freak",
-    "tipo": "filme",
-    "titulo": "Maníaco do Controle",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qPuI8LRpT6kLbBvymltiYymf263.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/AflLdFIPKGQFVWhDSyedLo6aAR6.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.558,
-    "tmdbId": 1286663,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/control-freak.json"
-  },
-  {
-    "id": "control-o-poder-da-mente",
-    "tipo": "filme",
-    "titulo": "Control: O Poder da Mente",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/l9oQNjCMXOQcniii7WOndldyk0R.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mkAIX4Jzax9mNWMafZfUjNmanbA.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 5.379,
-    "tmdbId": 986088,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/control-o-poder-da-mente.json"
-  },
-  {
-    "id": "controle",
-    "tipo": "filme",
-    "titulo": "Um Dia Fora de Controle",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/auLOTlulof19GSPrNomyG7myfzN.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/5lQ4euO30sDin5nCifvi0vURFNd.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.064,
-    "tmdbId": 1248226,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/controle.json"
-  },
-  {
-    "id": "controle-a-historia-de-ian-curtis",
-    "tipo": "filme",
-    "titulo": "Controle: A História de Ian Curtis",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oQbosZPyHzZM9QICz4zfeCNCh6u.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dwxdn3ppDAn7QtaLlhGDEErWfg9.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.513,
-    "tmdbId": 5708,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/controle-a-historia-de-ian-curtis.json"
-  },
-  {
-    "id": "controle-absoluto",
-    "tipo": "filme",
-    "titulo": "Controle Absoluto",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/owv9nfKSe3JjnsUQnw1JhxOtHaC.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xQc51OBY9UNF2fQKyAOXZE7az2w.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.493,
-    "tmdbId": 13027,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/controle-absoluto.json"
-  },
-  {
-    "id": "convencao-das-bruxas",
-    "tipo": "filme",
-    "titulo": "Convenção das Bruxas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/orrJiQs30G6zSkT8is4QOAtRpFM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4lWr2j3ZSEe8qlt3W3ma8TiiMQB.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.335,
-    "tmdbId": 531219,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/convencao-das-bruxas.json"
-  },
-  {
-    "id": "convergencia-coragem-em-tempos-de-crise",
-    "tipo": "filme",
-    "titulo": "Convergência: Coragem em Tempos de Crise",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fHoGuZKn7y4JswyuScppBUj0Vox.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/b99uYG1CsFn5JuJb4o7v19OEQEy.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 4.8,
-    "tmdbId": 872537,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/convergencia-coragem-em-tempos-de-crise.json"
   }
 ]

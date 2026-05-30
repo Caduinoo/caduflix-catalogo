@@ -158,6 +158,92 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mestres-do-universo.json"
   },
   {
+    "id": "sexta-feira-13-11",
+    "tipo": "filme",
+    "titulo": "Sexta.Feira.13 -11",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sexta-feira-13-11.json"
+  },
+  {
+    "id": "sexta-feira-13-12",
+    "tipo": "filme",
+    "titulo": "Sexta.Feira.13 -12",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sexta-feira-13-12.json"
+  },
+  {
+    "id": "sexta-feira-13-10",
+    "tipo": "filme",
+    "titulo": "Sexta.Feira.13 -10",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sexta-feira-13-10.json"
+  },
+  {
+    "id": "atividade-paranormal-1",
+    "tipo": "filme",
+    "titulo": "Atividade paranormal 1",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/atividade-paranormal-1.json"
+  },
+  {
+    "id": "blade-runner-2049",
+    "tipo": "filme",
+    "titulo": "Blade Runner",
+    "ano": 2049,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "4K",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/blade-runner-2049.json"
+  },
+  {
+    "id": "primeiro-as-damas-dv",
+    "tipo": "filme",
+    "titulo": "Primeiro as Damas [DV]",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW10rRdxMwJC4r1zldQzxcyzEUS.jpg",
+    "banner": null,
+    "generos": [
+      "4K"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/primeiro-as-damas-dv.json"
+  },
+  {
     "id": "a-tregua",
     "tipo": "filme",
     "titulo": "A trégua",
@@ -165,6 +251,7 @@
     "capa": null,
     "banner": null,
     "generos": [
+      "LEGENDADOS",
       "DRAMA",
       "LANÇAMENTOS"
     ],
@@ -227,6 +314,21 @@
     "nota": null,
     "tmdbId": null,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-28.json"
+  },
+  {
+    "id": "negocios-de-familia",
+    "tipo": "filme",
+    "titulo": "Negócios de Família",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ivHinClPkid4W8phwDi1M3RI0sM.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": null,
+    "tmdbId": 912530,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/negocios-de-familia.json"
   },
   {
     "id": "jornada-nas-estrelas-12",
@@ -383,6 +485,34 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jack-ryan-de-tom-clancy-guerra-fantasma-dv.json"
   },
   {
+    "id": "kyle-larson-e-o-double",
+    "tipo": "filme",
+    "titulo": "Kyle Larson e o Double",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yv7GVnJXG5k9vLnxpq8h4DdTkbB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nMWBf7in8treOjEiuU0rxcpKVvW.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 10,
+    "tmdbId": 1688575,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kyle-larson-e-o-double.json"
+  },
+  {
+    "id": "ladies-first-2026",
+    "tipo": "filme",
+    "titulo": "Primeiro as Damas",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/tW10rRdxMwJC4r1zldQzxcyzEUS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
+    "generos": [
+      "LANÇAMENTOS"
+    ],
+    "nota": 5.949,
+    "tmdbId": 1368881,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ladies-first-2026.json"
+  },
+  {
     "id": "primeiro-as-damas",
     "tipo": "filme",
     "titulo": "Primeiro as Damas",
@@ -390,6 +520,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/tW10rRdxMwJC4r1zldQzxcyzEUS.jpg",
     "banner": "https://image.tmdb.org/t/p/original/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA",
       "LANÇAMENTOS"
     ],
@@ -413,6 +544,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zero.json"
   },
   {
+    "id": "jailer",
+    "tipo": "filme",
+    "titulo": "Jailer",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/64mHMdeZwwt2P6q1DFsP9wa4qX6.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": null,
+    "tmdbId": 1051769,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jailer.json"
+  },
+  {
     "id": "arthur-e-merlin-cavaleiros-de-camelot-22",
     "tipo": "filme",
     "titulo": "Arthur & Merlin Cavaleiros de Camelot.22",
@@ -434,6 +579,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/bg4KbU1M53QRFKGtoHOJPjFonbu.jpg",
     "banner": "https://image.tmdb.org/t/p/original/o5WFZISFD8rW2K2WVOSiu73Lgf6.jpg",
     "generos": [
+      "LEGENDADOS",
       "4K",
       "NACIONAIS",
       "LANÇAMENTOS"
@@ -634,6 +780,7 @@
     "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HTl1FwYbx7SZsmv08os9IHuw1b.jpg",
     "banner": null,
     "generos": [
+      "LEGENDADOS",
       "ROMANCE"
     ],
     "nota": null,
@@ -756,21 +903,6 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mulher-maravilha-1984.json"
   },
   {
-    "id": "blade-runner-2049",
-    "tipo": "filme",
-    "titulo": "Blade Runner",
-    "ano": 2049,
-    "capa": "https://image.tmdb.org/t/p/w500/49pANIZXRAdHUiWjjBv4vxPeqRC.jpg",
-    "banner": null,
-    "generos": [
-      "4K",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/blade-runner-2049.json"
-  },
-  {
     "id": "a-bela-e-a-fera-2009",
     "tipo": "filme",
     "titulo": "A Bela e a Fera",
@@ -826,6 +958,20 @@
     "nota": null,
     "tmdbId": 1677586,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/abandonados.json"
+  },
+  {
+    "id": "untold-reino-unido-a-vitoria-do-liverpool",
+    "tipo": "filme",
+    "titulo": "Untold Reino Unido: A Vitória do Liverpool",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sXsB1CVtX4LGn3TWrf2V1KILLpJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/83fohWMjp8t62bOQTrUoUhiMKvC.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7,
+    "tmdbId": 1684244,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/untold-reino-unido-a-vitoria-do-liverpool.json"
   },
   {
     "id": "ufc-fight-night-276-allen-vs-costa-2026",
@@ -968,6 +1114,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/geFc71rCYM8fErbROLY6n1LfAS6.jpg",
     "banner": "https://image.tmdb.org/t/p/original/es6wAAA72qIKGecMggiRZNQK0fa.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA",
       "LANÇAMENTOS"
     ],
@@ -983,6 +1130,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/tVJVueBmMmGwuel02Z8XeudNoq4.jpg",
     "banner": "https://image.tmdb.org/t/p/original/mHm73HhpvGWfRkXNErcwc15Czrv.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA",
       "LANÇAMENTOS"
     ],
@@ -991,162 +1139,17 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/alem-do-dever.json"
   },
   {
-    "id": "colisao",
+    "id": "propeller-one-way-night-coach-2026",
     "tipo": "filme",
-    "titulo": "Colisão: Acidente ou Homicídio?",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/94AQpf6Rg6tblNpa65ogzYw4q6P.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2iqLoDsatVBwAvHTEzI71p3qBe9.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.303,
-    "tmdbId": 1662317,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/colisao.json"
-  },
-  {
-    "id": "colisao-acidente-ou-homicidio",
-    "tipo": "filme",
-    "titulo": "Colisão: Acidente ou Homicídio?",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/94AQpf6Rg6tblNpa65ogzYw4q6P.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2iqLoDsatVBwAvHTEzI71p3qBe9.jpg",
+    "titulo": "Aventuras nas Alturas",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/2CfaoWBSBUA1wquEa0CF45f4Aaa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ldUVeDfA5ID2vchHGejrEltoBSN.jpg",
     "generos": [
       "LANÇAMENTOS"
     ],
-    "nota": 6.295,
-    "tmdbId": 1662317,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/colisao-acidente-ou-homicidio.json"
-  },
-  {
-    "id": "hellfire",
-    "tipo": "filme",
-    "titulo": "Hellfire",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uNexK3QOe1mbAmVlFs7PqTCCBUG.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 4.7,
-    "tmdbId": 1088434,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/hellfire.json"
-  },
-  {
-    "id": "a-greve-da-selecao-da-franca",
-    "tipo": "filme",
-    "titulo": "A Greve da Seleção da França",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xy5oC3dWw2OuSUHXIBPm6XQLk8n.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dTEbfFiaYupyhgFg9ZC4NpH5p8G.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "LANÇAMENTOS"
-    ],
-    "nota": 7.04,
-    "tmdbId": 1678844,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-greve-da-selecao-da-franca.json"
-  },
-  {
-    "id": "arthur-e-merlin-cavaleiros-de-camelot-12",
-    "tipo": "filme",
-    "titulo": "Arthur & Merlin Cavaleiros de Camelot.12",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
-    "banner": null,
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-12.json"
-  },
-  {
-    "id": "arthur-e-merlin-cavaleiros-de-camelot-13",
-    "tipo": "filme",
-    "titulo": "Arthur & Merlin Cavaleiros de Camelot.13",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg",
-    "banner": null,
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arthur-e-merlin-cavaleiros-de-camelot-13.json"
-  },
-  {
-    "id": "devoradores-de-estrelas-dv",
-    "tipo": "filme",
-    "titulo": "Devoradores de Estrelas [DV]",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOzG3SG6gBxHGGHYiq7xXeNb1bG.jpg",
-    "banner": null,
-    "generos": [
-      "4K"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/devoradores-de-estrelas-dv.json"
-  },
-  {
-    "id": "kill",
-    "tipo": "filme",
-    "titulo": "O Justiceiro: Uma Última Morte",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 8.482,
-    "tmdbId": 1439930,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kill.json"
-  },
-  {
-    "id": "morte",
-    "tipo": "filme",
-    "titulo": "O Justiceiro: Uma Última Morte",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 8.48,
-    "tmdbId": 1439930,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/morte.json"
-  },
-  {
-    "id": "o-justiceiro",
-    "tipo": "filme",
-    "titulo": "O Justiceiro: Uma Última Morte",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 8.483,
-    "tmdbId": 1439930,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-justiceiro.json"
-  },
-  {
-    "id": "o-justiceiro-uma-ultima-morte",
-    "tipo": "filme",
-    "titulo": "O Justiceiro: Uma Última Morte",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "LANÇAMENTOS",
-      "4K"
-    ],
-    "nota": 8.483,
-    "tmdbId": 1439930,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-justiceiro-uma-ultima-morte.json"
+    "nota": 5.7,
+    "tmdbId": 1662414,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/propeller-one-way-night-coach-2026.json"
   }
 ]

@@ -26,9 +26,23 @@
       "qualidade": "Não informado",
       "xtreamId": 10779025,
       "container": "mp4"
+    },
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11084913,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11084923,
+      "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1773567061,
+  "dataCriacaoXtream": 1780134583,
   "tituloOriginal": "모럴센스",
   "dataLancamento": "2022-02-11"
 }

@@ -1,5 +1,20 @@
 [
   {
+    "id": "a-ultima-coisa-que-mary-viu",
+    "tipo": "filme",
+    "titulo": "A Última Coisa que Mary Viu",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gVFwfzPXfUcRI3mpb6rSX1LYtMj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/blOCPsMn7szkQ0b51AIXGgut6WR.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.071,
+    "tmdbId": 681986,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-coisa-que-mary-viu.json"
+  },
+  {
     "id": "a-ultima-exorcista",
     "tipo": "filme",
     "titulo": "A Última Exorcista",
@@ -2728,6 +2743,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/aterrorizante-2.json"
   },
   {
+    "id": "atividade-paranormal",
+    "tipo": "filme",
+    "titulo": "Atividade Paranormal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jV5eAsOTf7zsL4glY51gTW6Vb05.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wfCdJ0MD1hYJzlaHulolNw5pYtR.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.048,
+    "tmdbId": 23827,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/atividade-paranormal.json"
+  },
+  {
     "id": "atividade-paranormal-1",
     "tipo": "filme",
     "titulo": "Atividade paranormal 1",
@@ -4308,6 +4337,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/castigos-da-traicao.json"
   },
   {
+    "id": "catacumbas",
+    "tipo": "filme",
+    "titulo": "Catacumbas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/m21rL1VZ7vPUqybsRI92h0ZZ4gC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ny4gMEiBfIj6RpEySSvIKKgkDCl.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 4.764,
+    "tmdbId": 14126,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/catacumbas.json"
+  },
+  {
     "id": "cativeiro",
     "tipo": "filme",
     "titulo": "Cativeiro",
@@ -4380,51 +4424,5 @@
     "nota": 6.652,
     "tmdbId": 8913,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cemiterio-maldito.json"
-  },
-  {
-    "id": "cemiterio-maldito-a-origem",
-    "tipo": "filme",
-    "titulo": "Cemitério Maldito - A Origem",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/cTtrFUxMKUX4ZGfMfydym2AZQba.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vsrYscw6M5g1OEPxll9QTy6C9IK.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER",
-      "4K"
-    ],
-    "nota": 5.556,
-    "tmdbId": 830764,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cemiterio-maldito-a-origem.json"
-  },
-  {
-    "id": "censor",
-    "tipo": "filme",
-    "titulo": "Censor",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1FOEEtGFPp5cgpLfPQVMB0UNVpI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/biUrxGIyrJjMGwASrPECVbrh6w4.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.856,
-    "tmdbId": 663866,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/censor.json"
-  },
-  {
-    "id": "ceu-vermelho-sangue",
-    "tipo": "filme",
-    "titulo": "Céu Vermelho-Sangue",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zacyfceQWlgA1PbL7PCs8bRTPsI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/s15olg5LwRqTjgDd5KIfVXhcoqs.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER",
-      "4K"
-    ],
-    "nota": 6.793,
-    "tmdbId": 760883,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ceu-vermelho-sangue.json"
   }
 ]

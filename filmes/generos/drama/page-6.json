@@ -1,5 +1,34 @@
 [
   {
+    "id": "maria-antonieta",
+    "tipo": "filme",
+    "titulo": "Maria Antonieta",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6mQ433AhGmitzykFMjA3NHGY2zb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9hxBNoRjEDZGjyR1JpmmtxJWmVU.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.701,
+    "tmdbId": 1887,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/maria-antonieta.json"
+  },
+  {
+    "id": "maria-callas",
+    "tipo": "filme",
+    "titulo": "Maria Callas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bvwkLv20GrNIU7WSjCcpJVKxFUc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9iw4a6AQkxUO3EuRn59Vgrqf0zO.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.5,
+    "tmdbId": 1038263,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/maria-callas.json"
+  },
+  {
     "id": "maria-montessori-ensinando-com-amor",
     "tipo": "filme",
     "titulo": "Maria Montessori - Ensinando com Amor",
@@ -200,6 +229,21 @@
     "nota": 6.8,
     "tmdbId": 466175,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/matar-jesus.json"
+  },
+  {
+    "id": "match-point",
+    "tipo": "filme",
+    "titulo": "Match Point",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vHjEVTD8ucuwKSFOZJeyAnTZYli.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yUJf20GQ5vifhk9QDxUGotAEaLz.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 7.358,
+    "tmdbId": 116,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/match-point.json"
   },
   {
     "id": "maudie-sua-vida-e-sua-arte",
@@ -2038,6 +2082,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/jEE9U8bBGv3bgF1ZkAd60EFP8uJ.jpg",
     "banner": "https://image.tmdb.org/t/p/original/tMH0vpz9s0GfA4rnl7k1x3nyRdl.jpg",
     "generos": [
+      "LEGENDADOS",
       "DRAMA"
     ],
     "nota": 5.86,
@@ -3850,6 +3895,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/fmoIVtw5a1Yl8kydzYSke4z4S2O.jpg",
     "banner": "https://image.tmdb.org/t/p/original/anm4weP3FrUWMllycTI6jV1aepC.jpg",
     "generos": [
+      "LEGENDADOS",
       "DRAMA",
       "LANÇAMENTOS"
     ],
@@ -4324,49 +4370,5 @@
     "nota": 7.357,
     "tmdbId": 399404,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-destino-de-uma-nacao.json"
-  },
-  {
-    "id": "o-destino-indomavel",
-    "tipo": "filme",
-    "titulo": "O Destino Indomável",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uPAfvFZhfw9UfFSiXJlNKnRRLRs.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/i8kexpEoLvCEwXZvBDDsqeDqoV2.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.8,
-    "tmdbId": 537860,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-destino-indomavel.json"
-  },
-  {
-    "id": "o-dia-do-casamento",
-    "tipo": "filme",
-    "titulo": "O Dia do Meu Casamento",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pL1raLIVzuuXrWdUBMIDe2dH8OO.jpg",
-    "banner": null,
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": null,
-    "tmdbId": 506046,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-dia-do-casamento.json"
-  },
-  {
-    "id": "o-dia-dos-loucos",
-    "tipo": "filme",
-    "titulo": "O Dia dos Loucos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/j4WZR6bkudbeaBxjuZNUsWNVdvg.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1HidRheu20rWTqWcPXkW5atpq8w.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 5.876,
-    "tmdbId": 50627,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-dia-dos-loucos.json"
   }
 ]

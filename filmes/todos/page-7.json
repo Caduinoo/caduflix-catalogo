@@ -1,5 +1,90 @@
 [
   {
+    "id": "ak-vs-ak",
+    "tipo": "filme",
+    "titulo": "AK vs AK",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4ULEEvH0hDYnbWN3nClrb88sYCF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qM9xmkvCpQvOHgikuKE6ik3TXjv.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.708,
+    "tmdbId": 735919,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ak-vs-ak.json"
+  },
+  {
+    "id": "ak47-a-arma-que-mudou-o-mundo",
+    "tipo": "filme",
+    "titulo": "AK-47: A Arma Que Mudou o Mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4djODIhP8TZtjkG6w2xZjOuLk6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dUasP5TGFk1dhTgtNhk5uLRPRx6.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7.392,
+    "tmdbId": 592279,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ak47-a-arma-que-mudou-o-mundo.json"
+  },
+  {
+    "id": "akira",
+    "tipo": "filme",
+    "titulo": "Akira",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tbwwTQ3EqSdotbQ3ZcIl6vKBv7q.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.944,
+    "tmdbId": 149,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/akira.json"
+  },
+  {
+    "id": "akira-1988",
+    "tipo": "filme",
+    "titulo": "Akira",
+    "ano": 1988,
+    "capa": "https://image.tmdb.org/t/p/w500/tbwwTQ3EqSdotbQ3ZcIl6vKBv7q.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.944,
+    "tmdbId": 149,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/akira-1988.json"
+  },
+  {
+    "id": "alabama-presos-do-sistema",
+    "tipo": "filme",
+    "titulo": "Alabama: Presos do Sistema",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/f8uYfNyw56gnHC1gscmMxgYFasv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/s9oWvDQoVka7Zisi3rmJ3Lj9WA.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.904,
+    "tmdbId": 1413805,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/alabama-presos-do-sistema.json"
+  },
+  {
+    "id": "aladdin",
+    "tipo": "filme",
+    "titulo": "Aladdin",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qYB8MwE6AgLFe5ruBUmPA0RWRPY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA",
+      "4K"
+    ],
+    "nota": 7.653,
+    "tmdbId": 812,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/aladdin.json"
+  },
+  {
     "id": "aladdin-1992",
     "tipo": "filme",
     "titulo": "Aladdin",
@@ -153,7 +238,8 @@
     "banner": "https://image.tmdb.org/t/p/original/qXctHIfK4LAgHH7qZiJJVCPclaY.jpg",
     "generos": [
       "LEGENDADOS",
-      "COMÉDIA"
+      "COMÉDIA",
+      "LANÇAMENTOS"
     ],
     "nota": 7.4,
     "tmdbId": 876716,
@@ -500,6 +586,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/tVJVueBmMmGwuel02Z8XeudNoq4.jpg",
     "banner": "https://image.tmdb.org/t/p/original/mHm73HhpvGWfRkXNErcwc15Czrv.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA",
       "LANÇAMENTOS"
     ],
@@ -1105,6 +1192,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/dqpJVJto1WZa3hFV7PGyPQuEVRK.jpg",
     "banner": "https://image.tmdb.org/t/p/original/mK4J2Qk4S4UQGOeMqsgei9DyPwW.jpg",
     "generos": [
+      "LEGENDADOS",
       "DRAMA"
     ],
     "nota": 6.531,
@@ -1665,6 +1753,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/hKtmcXRBpPp4x7ZmixIkFdyCvRK.jpg",
     "banner": "https://image.tmdb.org/t/p/original/5uayF96i4JWtdNH3uJy5IpImDBT.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA"
     ],
     "nota": 6.085,
@@ -3919,6 +4008,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-ao-primeiro-beijo.json"
   },
   {
+    "id": "amor-ao-primeiro-filho",
+    "tipo": "filme",
+    "titulo": "Amor ao Primeiro Filho",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/omIp98ZLm3IJnusSQxY83cEeB09.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sbOkOhKVpRA9WBX8gKhZ1NtBEsh.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 5.674,
+    "tmdbId": 360994,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-ao-primeiro-filho.json"
+  },
+  {
     "id": "amor-artificial",
     "tipo": "filme",
     "titulo": "Amor Artificial",
@@ -4257,109 +4361,5 @@
     "nota": 6.7,
     "tmdbId": 1150331,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-e-preconceito.json"
-  },
-  {
-    "id": "amor-e-tulipas",
-    "tipo": "filme",
-    "titulo": "Amor e Tulipas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/48bxtOU9pO45buUxiNAuvK3Nbel.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/oMLC1KgQVhg86Gi03uP6mPxrpaS.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.517,
-    "tmdbId": 257785,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-e-tulipas.json"
-  },
-  {
-    "id": "amor-e-vinho",
-    "tipo": "filme",
-    "titulo": "Sobre Amigos, Amor e Vinho",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/f6qSHIFvo2NhvlbAi8WBehd4Xne.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nzvfltLNtIG7aChxbeoVRfpyIGk.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 5.8,
-    "tmdbId": 250349,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-e-vinho.json"
-  },
-  {
-    "id": "amor-em-aguas-turvas",
-    "tipo": "filme",
-    "titulo": "Amor em Águas Turvas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/r6GaX7BbpwdouD0tZnikCboh29L.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4B3oS9lESptSBvlZxFw2ymLhUJd.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 5.696,
-    "tmdbId": 1180199,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-aguas-turvas.json"
-  },
-  {
-    "id": "amor-em-cena",
-    "tipo": "filme",
-    "titulo": "Amor em Cena",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rLu7xL2hq6mcsPhfPaPorG3QiuE.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1UAqfCJAxp4LO1an8KbaueCG7CR.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 6.9,
-    "tmdbId": 1029231,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-cena.json"
-  },
-  {
-    "id": "amor-em-daisy-hills",
-    "tipo": "filme",
-    "titulo": "Amor em Daisy Hills",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/x9tPA9uacEihCj29uT6GoHzvS8J.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ZFk3AAP8JWDtAYHYOJxXHvbsRn.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 6.1,
-    "tmdbId": 733277,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-daisy-hills.json"
-  },
-  {
-    "id": "amor-em-foco",
-    "tipo": "filme",
-    "titulo": "Amor em Foco",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iiKXokniuqAwhVZjLhIGJhXIKzk.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mKlBeUZvmHUbo4LObp7OvLVkL2G.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 6.4,
-    "tmdbId": 1006911,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-foco.json"
-  },
-  {
-    "id": "amor-em-grande-estilo",
-    "tipo": "filme",
-    "titulo": "Amor Em Grande Estilo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5gXKzzbIEast05swrejhQu4J5rz.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/aqzLTnllq30v17hTK7EeJ3FDQNH.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.5,
-    "tmdbId": 994052,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-grande-estilo.json"
   }
 ]

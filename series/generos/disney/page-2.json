@@ -1457,6 +1457,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/saturdays-pista-de-patinacao.json"
   },
   {
+    "id": "scandal-os-bastidores-do-poder",
+    "tipo": "serie",
+    "titulo": "Scandal: Os Bastidores do Poder",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rBV41EhFwidmRVHfbuHOWqS5Md.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hpvw89Vq6rYx1bzrE3zdnWBGLfS.jpg",
+    "generos": [
+      "DISNEY+"
+    ],
+    "nota": 7.199,
+    "tmdbId": 39269,
+    "totalTemporadas": 1,
+    "totalEpisodios": 7,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/scandal-os-bastidores-do-poder.json"
+  },
+  {
     "id": "scream-queens",
     "tipo": "serie",
     "titulo": "Scream Queens",

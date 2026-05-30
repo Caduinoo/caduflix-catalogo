@@ -757,6 +757,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-festa.json"
   },
   {
+    "id": "a-vida-e-agora-2021",
+    "tipo": "filme",
+    "titulo": "A Vida é Agora",
+    "ano": 2021,
+    "capa": "https://image.tmdb.org/t/p/w500/neKaddWZOH6elKQRjI49avgSGfY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/esGtYJE3uoRuwA7o4ST2kGDhmeO.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 6.447,
+    "tmdbId": 763148,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-vida-e-agora-2021.json"
+  },
+  {
     "id": "a-vida-e-agora",
     "tipo": "filme",
     "titulo": "A Vida é Agora",
@@ -770,20 +785,6 @@
     "nota": 6.447,
     "tmdbId": 763148,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-vida-e-agora.json"
-  },
-  {
-    "id": "a-vida-e-agora-2021",
-    "tipo": "filme",
-    "titulo": "A Vida é Agora",
-    "ano": 2021,
-    "capa": "https://image.tmdb.org/t/p/w500/neKaddWZOH6elKQRjI49avgSGfY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/esGtYJE3uoRuwA7o4ST2kGDhmeO.jpg",
-    "generos": [
-      "ROMANCE"
-    ],
-    "nota": 6.447,
-    "tmdbId": 763148,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-vida-e-agora-2021.json"
   },
   {
     "id": "abc-do-amor",
@@ -1175,6 +1176,21 @@
     "nota": 6.183,
     "tmdbId": 818648,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-ao-primeiro-beijo.json"
+  },
+  {
+    "id": "amor-ao-primeiro-filho",
+    "tipo": "filme",
+    "titulo": "Amor ao Primeiro Filho",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/omIp98ZLm3IJnusSQxY83cEeB09.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sbOkOhKVpRA9WBX8gKhZ1NtBEsh.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 5.674,
+    "tmdbId": 360994,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-ao-primeiro-filho.json"
   },
   {
     "id": "amor-com-fetiche",
@@ -2445,6 +2461,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/jFRhEPhtsln9tDwzMdZN3OlhUob.jpg",
     "banner": "https://image.tmdb.org/t/p/original/knYXryj3073w9fBMD5Xatk0ECiS.jpg",
     "generos": [
+      "LEGENDADOS",
       "ROMANCE"
     ],
     "nota": 6.116,
@@ -2682,6 +2699,7 @@
     "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HTl1FwYbx7SZsmv08os9IHuw1b.jpg",
     "banner": null,
     "generos": [
+      "LEGENDADOS",
       "ROMANCE"
     ],
     "nota": null,
@@ -4433,20 +4451,5 @@
     "nota": 7.076,
     "tmdbId": 586791,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/memorias-de-um-amor.json"
-  },
-  {
-    "id": "memorias-que-nao-se-apagam",
-    "tipo": "filme",
-    "titulo": "Memórias Que Não Se Apagam",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/65QIhxuzOka25RPORlpBrG1M6RD.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1Xf3y4NHRVvtQcNaCEmpVMe0Qik.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": null,
-    "tmdbId": 1077291,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/memorias-que-nao-se-apagam.json"
   }
 ]

@@ -958,6 +958,38 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/kung-fu-wa.json"
   },
   {
+    "id": "leylifer",
+    "tipo": "serie",
+    "titulo": "Leylifer",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4xW74n45eMwDhw9Ug7F7O9pzl4u.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7X8x0Dv1D5O3TwTqiFRfy0ShkbC.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 10,
+    "tmdbId": 251885,
+    "totalTemporadas": 1,
+    "totalEpisodios": 111,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/leylifer.json"
+  },
+  {
+    "id": "mahmut-ile-meryem",
+    "tipo": "serie",
+    "titulo": "Mahmut ile Meryem",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/88bJXLYINUjWxrNkAGvA2W2Lsx1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9BfRjzTYXDBxhBwjXSLu3J7Goe4.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 10,
+    "tmdbId": 84819,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/mahmut-ile-meryem.json"
+  },
+  {
     "id": "maria-madalena",
     "tipo": "serie",
     "titulo": "María Madalena",
@@ -1229,51 +1261,19 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/os-mares-da-arabia.json"
   },
   {
-    "id": "pacto-de-sangue",
+    "id": "outro-amor-bambaska-biri",
     "tipo": "serie",
-    "titulo": "Pacto de Sangue",
+    "titulo": "Outro Amor - Bambaşka Biri",
     "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kU3tVINTS5DPRLUrUALQw3g58wr.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tRMS53fb3DFp1a4pEGjFUlkTEkb.jpg",
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rj0vp8ujUeoZA8q6N7eNCJv6HGG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hp0T9uM9nKRWMFWZ7mThzJ2gzEd.jpg",
     "generos": [
-      "NETFLIX"
+      "TURCAS | MEXICANAS"
     ],
     "nota": 10,
-    "tmdbId": 303125,
+    "tmdbId": null,
     "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/pacto-de-sangue.json"
-  },
-  {
-    "id": "quando-os-tubaroes-atacam-360",
-    "tipo": "serie",
-    "titulo": "Quando os Tubarões Atacam 360°",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gE4VEqRpr7s13MMCBvCrs79MSGN.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9inJDDe6cgs3sGlcrgiVUGJ0s2U.jpg",
-    "generos": [
-      "DISNEY+"
-    ],
-    "nota": 10,
-    "tmdbId": 225782,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/quando-os-tubaroes-atacam-360.json"
-  },
-  {
-    "id": "que-seja-doce",
-    "tipo": "serie",
-    "titulo": "Que Seja Doce",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3QOx2n0fYO8zI7QSXCr2ZzY3sQG.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vRueLwIIP0CQiQ73SOzYspqw8kG.jpg",
-    "generos": [
-      "GLOBOPLAY"
-    ],
-    "nota": 10,
-    "tmdbId": 201297,
-    "totalTemporadas": 10,
-    "totalEpisodios": 404,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/que-seja-doce.json"
+    "totalEpisodios": 16,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/outro-amor-bambaska-biri.json"
   }
 ]

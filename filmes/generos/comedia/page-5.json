@@ -3306,6 +3306,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/nunca-visto.json"
   },
   {
+    "id": "o-agente-da-u-n-c-e",
+    "tipo": "filme",
+    "titulo": "O Agente da U.N.C.L.E.",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vwcO16PV78DLEcazIRVnSdbt3oD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bu0LiPEWKHWViRoaFwlTAzZ8wyS.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 7.1,
+    "tmdbId": 203801,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-agente-da-u-n-c-e.json"
+  },
+  {
     "id": "o-agente-da-u-n-c-l-e",
     "tipo": "filme",
     "titulo": "O Agente da U.N.C.L.E.",
@@ -4337,19 +4351,5 @@
     "nota": 6.3,
     "tmdbId": 425980,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-estado-das-coisas.json"
-  },
-  {
-    "id": "o-fabuloso-destino-de-amelie-poulain",
-    "tipo": "filme",
-    "titulo": "O Fabuloso Destino de Amélie Poulain",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oAYKYALxamhAB1wKUGmOo05Vf92.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 7.92,
-    "tmdbId": 194,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-fabuloso-destino-de-amelie-poulain.json"
   }
 ]

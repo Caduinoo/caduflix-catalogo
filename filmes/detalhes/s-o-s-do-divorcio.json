@@ -26,9 +26,16 @@
       "qualidade": "Não informado",
       "xtreamId": 10779375,
       "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11084925,
+      "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1773567068,
+  "dataCriacaoXtream": 1780134584,
   "tituloOriginal": "Ostrov",
   "dataLancamento": "2023-02-02"
 }

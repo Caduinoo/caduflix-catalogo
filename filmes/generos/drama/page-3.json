@@ -600,6 +600,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/ReHOMkW1rVTo3Yslqe1xATl8c8.jpg",
     "banner": "https://image.tmdb.org/t/p/original/sEW8q9al73rtow257dXAusD9yS7.jpg",
     "generos": [
+      "LEGENDADOS",
       "DRAMA"
     ],
     "nota": 8.14,
@@ -2794,6 +2795,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/q43BL7KbxCw8zdiYcoiwVDWVPC8.jpg",
     "banner": null,
     "generos": [
+      "LEGENDADOS",
       "DRAMA"
     ],
     "nota": 6.25,
@@ -3337,6 +3339,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/cYtSGwqq5fbfYckCqYplchg3MCo.jpg",
     "banner": "https://image.tmdb.org/t/p/original/pxpEFY66yYr5bA1N4PCm5b4uz40.jpg",
     "generos": [
+      "LEGENDADOS",
       "DRAMA"
     ],
     "nota": 6.094,
@@ -3623,6 +3626,20 @@
     "nota": 6.598,
     "tmdbId": 659956,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/desafie-a-escuridao.json"
+  },
+  {
+    "id": "desafio-a-corrupcao",
+    "tipo": "filme",
+    "titulo": "Desafio à Corrupção",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/f5MZDPjzyuDfVQInT2CEtFLZfmO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1aspiiXDHVizaCYTNaWwRQSmXCh.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 7.672,
+    "tmdbId": 990,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/desafio-a-corrupcao.json"
   },
   {
     "id": "desafio-no-bronx",
@@ -4095,7 +4112,8 @@
     "banner": "https://image.tmdb.org/t/p/original/hjWxngV6tidwDkfJDEgMjHD2KEz.jpg",
     "generos": [
       "LEGENDADOS",
-      "DRAMA"
+      "DRAMA",
+      "4K"
     ],
     "nota": 7.793,
     "tmdbId": 976893,
@@ -4210,6 +4228,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/q1nqUry5Sd3bDDRCcKGYdr2VnrO.jpg",
     "banner": "https://image.tmdb.org/t/p/original/bBFpkBVlOR2qeT6oE3W9uPkfNOr.jpg",
     "generos": [
+      "LEGENDADOS",
       "DRAMA",
       "LANÇAMENTOS"
     ],
@@ -4364,19 +4383,5 @@
     "nota": 6.278,
     "tmdbId": 1082449,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/doi-boy.json"
-  },
-  {
-    "id": "dois-homens-contra-uma-cidade",
-    "tipo": "filme",
-    "titulo": "Dois Homens Contra uma Cidade",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/587tbv6TZxaTXvLbwwvqWNRssU7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6948QYLT3GVComQG4hbiNFF7VuA.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 5.506,
-    "tmdbId": 254772,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dois-homens-contra-uma-cidade.json"
   }
 ]

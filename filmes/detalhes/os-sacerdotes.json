@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Para salvar uma garota em perigo, um padre e um diácono se envolvem em um caso misterioso.",
   "generos": [
+    "LEGENDADOS",
     "SUSPENSE | TERROR | THRILLER"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/7L9kaFMJ1d6GCoSv4bKy3r82BUD.jpg",
@@ -12,6 +13,13 @@
   "tmdbId": 360551,
   "nota": 6.86,
   "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050453,
+      "container": "mp4"
+    },
     {
       "nome": "Padrão",
       "idioma": "Não informado",

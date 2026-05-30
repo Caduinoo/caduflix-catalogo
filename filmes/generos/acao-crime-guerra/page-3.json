@@ -1,5 +1,33 @@
 [
   {
+    "id": "con-air-a-rota-da-fuga",
+    "tipo": "filme",
+    "titulo": "Con Air: A Rota da Fuga",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5PKm5WG7cBGFmnfmPqZjOEyw0lp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vsmlShNNHrYlERZaqMOsZ3YctoO.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.772,
+    "tmdbId": 1701,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/con-air-a-rota-da-fuga.json"
+  },
+  {
+    "id": "conan",
+    "tipo": "filme",
+    "titulo": "Conan, o Bárbaro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7pXoGVgYSLQpc4N3fGBcDzJHiL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4rICId8WQBhOIzl7iZCVvc0QoJW.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.805,
+    "tmdbId": 9387,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/conan.json"
+  },
+  {
     "id": "conan-1997",
     "tipo": "filme",
     "titulo": "Conan, o Bárbaro",
@@ -1517,6 +1545,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/gI9sCrVmDPYthCeOk6UGAxr8D3t.jpg",
     "banner": "https://image.tmdb.org/t/p/original/f2d419xzKDbtVpToJorTxlKMvgQ.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA"
     ],
     "nota": 6.687,
@@ -2712,6 +2741,20 @@
     "nota": 6.866,
     "tmdbId": 2787,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/eclipse-mortal.json"
+  },
+  {
+    "id": "edwin-boyd-a-lenda-do-crime",
+    "tipo": "filme",
+    "titulo": "Edwin Boyd: A Lenda do Crime",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1e9NzDm4Mt6btre4Is7GEyfQxCO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7TOJVCvqHq0xaazcCDFIF6GBSI6.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.613,
+    "tmdbId": 92493,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/edwin-boyd-a-lenda-do-crime.json"
   },
   {
     "id": "efeito-colateral",
@@ -4332,49 +4375,5 @@
     "nota": 6.9,
     "tmdbId": 35854,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/flashpoint.json"
-  },
-  {
-    "id": "fletch",
-    "tipo": "filme",
-    "titulo": "Assassinato por Encomenda",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ejiHSIlivEUaeTAAq9mxQvxl6Sl.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/caRqs1GIhwoJqn8JA3LakIUR0v3.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 6.752,
-    "tmdbId": 9749,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fletch.json"
-  },
-  {
-    "id": "flora-e-ulysses",
-    "tipo": "filme",
-    "titulo": "Flora e Ulysses",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zv1NUGF2nv3smvfsLDIXEwstWpC.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tHjoTxM4SMgazi3Y2X8mmAtONVL.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.487,
-    "tmdbId": 621876,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/flora-e-ulysses.json"
-  },
-  {
-    "id": "flyboys",
-    "tipo": "filme",
-    "titulo": "Flyboys",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/trKRuWe6zReYFhfA8m6DdHbTWs9.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.5,
-    "tmdbId": 9664,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/flyboys.json"
   }
 ]

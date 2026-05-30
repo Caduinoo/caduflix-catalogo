@@ -1,5 +1,35 @@
 [
   {
+    "id": "pisando-na-bola",
+    "tipo": "filme",
+    "titulo": "Pisando na Bola",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7zyOEJjBOHFpDhvybnvJOhXKP1c.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bSE6JsSOvY350NhaT2nhUhl5hUE.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 5.599,
+    "tmdbId": 26441,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pisando-na-bola.json"
+  },
+  {
+    "id": "pixie",
+    "tipo": "filme",
+    "titulo": "Pixie",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zvQpvZneVLM3dssUyqYvnQsHovk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dSgQ7Er6VLYw8mZiha38Coa4iih.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 5.838,
+    "tmdbId": 651610,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pixie.json"
+  },
+  {
     "id": "planeta-dos-solteiros-aventura-na-grecia",
     "tipo": "filme",
     "titulo": "Planeta dos Solteiros: Aventura na Grécia",
@@ -469,6 +499,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/tW10rRdxMwJC4r1zldQzxcyzEUS.jpg",
     "banner": "https://image.tmdb.org/t/p/original/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA",
       "LANÇAMENTOS"
     ],
@@ -925,6 +956,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/quase-18.json"
   },
   {
+    "id": "quase-famosos-2019",
+    "tipo": "filme",
+    "titulo": "Quase Famosos",
+    "ano": 2019,
+    "capa": "https://image.tmdb.org/t/p/w500/bm7mBtoJWienvwsfskulrJXOr5P.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/p2RxfIlmIGzIG87FtLlbplJpMDK.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 3.7,
+    "tmdbId": 641004,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/quase-famosos-2019.json"
+  },
+  {
     "id": "quase-famosos",
     "tipo": "filme",
     "titulo": "Quase Famosos",
@@ -938,20 +984,6 @@
     "nota": 7.5,
     "tmdbId": 786,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/quase-famosos.json"
-  },
-  {
-    "id": "quase-famosos-2019",
-    "tipo": "filme",
-    "titulo": "Quase Famosos",
-    "ano": 2019,
-    "capa": "https://image.tmdb.org/t/p/w500/bm7mBtoJWienvwsfskulrJXOr5P.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/p2RxfIlmIGzIG87FtLlbplJpMDK.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 3.7,
-    "tmdbId": 641004,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/quase-famosos-2019.json"
   },
   {
     "id": "quase-morta",
@@ -1683,6 +1715,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/wdHlB6EYUrrrIh96nvuaKnyK88A.jpg",
     "banner": "https://image.tmdb.org/t/p/original/eugEjTlfllNOJyySa77exfJtxO.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA"
     ],
     "nota": 5.8,
@@ -2443,6 +2476,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/6vIm8hnubgAUnyceyD2iNHEyaNu.jpg",
     "banner": "https://image.tmdb.org/t/p/original/rmlgq2gjiXBK3YNWj6WSdueLv0o.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA"
     ],
     "nota": 6.701,
@@ -4326,34 +4360,5 @@
     "nota": 7.883,
     "tmdbId": 746957,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/teste-de-paternidade.json"
-  },
-  {
-    "id": "texano-por-acidente",
-    "tipo": "filme",
-    "titulo": "Texano Por Acidente",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6c4v8x9xHHLX5FRTUewLNLwj1M8.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2e50o5n6KaFP8utQHlclpTybtIv.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.118,
-    "tmdbId": 1109940,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/texano-por-acidente.json"
-  },
-  {
-    "id": "the-after-party",
-    "tipo": "filme",
-    "titulo": "The After Party",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wFPGheX6X4bt1ZqP1870MPlUvGu.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7tGLqxYjjdE7JaYKhgfHiUpZS3S.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.095,
-    "tmdbId": 538604,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/the-after-party.json"
   }
 ]

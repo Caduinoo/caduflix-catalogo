@@ -5,6 +5,7 @@
   "ano": 2020,
   "descricao": "O pequeno Crumb se reencontrou com seus pais e já não é mais o pobre menino de rua, agora mora com sua família verdadeira em uma bela vila no campo. O garoto sente falta da excitante vida urbana, então, ele decide fugir, junto com seu fiel cão Moor. Mas, no caminho, ele é parado por Anna e os dois são sequestrados! Quando um vilão conhecido ressurge, uma verdadeira corrida pelo ouro tem início!",
   "generos": [
+    "LEGENDADOS",
     "ANIMAÇÃO | INFANTIL | FAMILIA"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/60cmS9njm7eHQSRSPTTBpxCWJeL.jpg",
@@ -13,6 +14,13 @@
   "nota": 4.7,
   "opcoes": [
     {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050354,
+      "container": "mp4"
+    },
+    {
       "nome": "Padrão",
       "idioma": "Não informado",
       "qualidade": "Não informado",
@@ -20,7 +28,7 @@
       "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1779193853,
+  "dataCriacaoXtream": 1779195311,
   "tituloOriginal": "Kruimeltje en de strijd om de Goudmijn",
   "dataLancamento": "2020-02-05"
 }

@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Marianne Farrère, a poderosa proprietária da Windler e reconhecida como a mulher mais rica e influente do mundo, desenvolve uma profunda amizade com Pierre-Alain Fantin, um jovem escritor e fotógrafo francês ambicioso. No entanto, o charme e o romantismo do novo confidente abalam a frieza da milionária, servindo de catalisador para um escândalo de corrupção sem precedentes em Paris. Uma doação multimilionária desencadeia uma trama perigosa que ameaça não apenas sua família, mas toda a reputação e história de sua lendária empresa.",
   "generos": [
+    "LEGENDADOS",
     "COMÉDIA",
     "LANÇAMENTOS"
   ],
@@ -13,6 +14,13 @@
   "tmdbId": 1309725,
   "nota": 6.1,
   "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11060852,
+      "container": "mp4"
+    },
     {
       "nome": "Padrão",
       "idioma": "Não informado",

@@ -1,5 +1,109 @@
 [
   {
+    "id": "amor-e-tulipas",
+    "tipo": "filme",
+    "titulo": "Amor e Tulipas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/48bxtOU9pO45buUxiNAuvK3Nbel.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oMLC1KgQVhg86Gi03uP6mPxrpaS.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.517,
+    "tmdbId": 257785,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-e-tulipas.json"
+  },
+  {
+    "id": "amor-e-vinho",
+    "tipo": "filme",
+    "titulo": "Sobre Amigos, Amor e Vinho",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/f6qSHIFvo2NhvlbAi8WBehd4Xne.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nzvfltLNtIG7aChxbeoVRfpyIGk.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 5.8,
+    "tmdbId": 250349,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-e-vinho.json"
+  },
+  {
+    "id": "amor-em-aguas-turvas",
+    "tipo": "filme",
+    "titulo": "Amor em Águas Turvas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/r6GaX7BbpwdouD0tZnikCboh29L.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4B3oS9lESptSBvlZxFw2ymLhUJd.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 5.696,
+    "tmdbId": 1180199,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-aguas-turvas.json"
+  },
+  {
+    "id": "amor-em-cena",
+    "tipo": "filme",
+    "titulo": "Amor em Cena",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rLu7xL2hq6mcsPhfPaPorG3QiuE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1UAqfCJAxp4LO1an8KbaueCG7CR.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 6.9,
+    "tmdbId": 1029231,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-cena.json"
+  },
+  {
+    "id": "amor-em-daisy-hills",
+    "tipo": "filme",
+    "titulo": "Amor em Daisy Hills",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/x9tPA9uacEihCj29uT6GoHzvS8J.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ZFk3AAP8JWDtAYHYOJxXHvbsRn.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 6.1,
+    "tmdbId": 733277,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-daisy-hills.json"
+  },
+  {
+    "id": "amor-em-foco",
+    "tipo": "filme",
+    "titulo": "Amor em Foco",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iiKXokniuqAwhVZjLhIGJhXIKzk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mKlBeUZvmHUbo4LObp7OvLVkL2G.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 6.4,
+    "tmdbId": 1006911,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-foco.json"
+  },
+  {
+    "id": "amor-em-grande-estilo",
+    "tipo": "filme",
+    "titulo": "Amor Em Grande Estilo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5gXKzzbIEast05swrejhQu4J5rz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aqzLTnllq30v17hTK7EeJ3FDQNH.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.5,
+    "tmdbId": 994052,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-em-grande-estilo.json"
+  },
+  {
     "id": "amor-em-harmony-valley",
     "tipo": "filme",
     "titulo": "Amor em Harmony Valley",
@@ -3952,6 +4056,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arctic-dogs.json"
   },
   {
+    "id": "arda-turan-confronto",
+    "tipo": "filme",
+    "titulo": "Arda Turan: Confronto",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dLn3DpqfXYQwjJAk2naLfuHFL99.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5GMfxPc3E5t0XZQsatA5Qsowxvk.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 4.6,
+    "tmdbId": 1330413,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/arda-turan-confronto.json"
+  },
+  {
     "id": "ardente-paciencia",
     "tipo": "filme",
     "titulo": "Ardente Paciência",
@@ -4241,119 +4359,5 @@
     "nota": 5.807,
     "tmdbId": 1006228,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/armadilhas-do-passado.json"
-  },
-  {
-    "id": "armado-com-uma-camera-vida-e-morte-de-brent-renaud",
-    "tipo": "filme",
-    "titulo": "Armado com uma Câmera: Vida e Morte de Brent Renaud",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dDN6oIxOqpR9fNQ2Lm7GiLwjZpv.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qtLXVtST4EqqmDJdhIahs7tgkXe.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7.346,
-    "tmdbId": 1422051,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/armado-com-uma-camera-vida-e-morte-de-brent-renaud.json"
-  },
-  {
-    "id": "armadura-de-deus",
-    "tipo": "filme",
-    "titulo": "Armadura de Deus",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nstPbqmWlOibLutLsVvgT7RarRk.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9NlMiHVpgswGt4cWrUtrahlYDQu.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.028,
-    "tmdbId": 10974,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/armadura-de-deus.json"
-  },
-  {
-    "id": "armageddon",
-    "tipo": "filme",
-    "titulo": "Armageddon",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uSS6G9K14Qe6Ywh4IMkgjQBM3a3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1cO6OQJxz7YhTZ4V1OlkYfebeJa.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.831,
-    "tmdbId": 95,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/armageddon.json"
-  },
-  {
-    "id": "armageddon-os-carros-mais-rapidos-do-brasil",
-    "tipo": "filme",
-    "titulo": "Armageddon: Os Carros Mais Rápidos Do Brasil",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xdWwqMOqQ030Lqrwldb5e2QBGmL.jpg",
-    "banner": null,
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": 10,
-    "tmdbId": 1309049,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/armageddon-os-carros-mais-rapidos-do-brasil.json"
-  },
-  {
-    "id": "armageddon-time",
-    "tipo": "filme",
-    "titulo": "Armageddon Time",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/w84J1MyoCczvvhjPAr4NPZ0g3HR.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/pqCfTRzYzojsyHvKtS6mHfC7Wc7.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA",
-      "4K"
-    ],
-    "nota": 6.431,
-    "tmdbId": 615952,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/armageddon-time.json"
-  },
-  {
-    "id": "armand-e-os-limites-das-familias",
-    "tipo": "filme",
-    "titulo": "Armand e os Limites das Famílias",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7ft0AzImj5YCrefNry3Xas7QyDx.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/yC26uOPaXcyAj44nXsw4jGIuHSj.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.2,
-    "tmdbId": 1144681,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/armand-e-os-limites-das-familias.json"
-  },
-  {
-    "id": "armas-e-amores-aka-segundo-turno",
-    "tipo": "filme",
-    "titulo": "Armas e Amores aka Segundo Turno",
-    "ano": null,
-    "capa": null,
-    "banner": null,
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/armas-e-amores-aka-segundo-turno.json"
-  },
-  {
-    "id": "armas-em-jogo",
-    "tipo": "filme",
-    "titulo": "Armas em Jogo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uSypWMagzI7jJ7cq2TStGnYyyfL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jKnZ3CavwSTsBbgSpAhQU8Z9nOy.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.44,
-    "tmdbId": 457335,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/armas-em-jogo.json"
   }
 ]

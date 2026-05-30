@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Gabriel é um ex-lutador de boxe que saiu recentemente da prisão e gostaria de levar uma vida tranquila. Mas quando pessoas interesseiras começam a aparecer em sua porta, ele não vê outra solução a não ser voltar a usar sua força.",
   "generos": [
+    "LEGENDADOS",
     "COMÉDIA",
     "LANÇAMENTOS"
   ],
@@ -13,6 +14,13 @@
   "tmdbId": 1165441,
   "nota": 6.5,
   "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11060853,
+      "container": "mp4"
+    },
     {
       "nome": "Padrão",
       "idioma": "Não informado",

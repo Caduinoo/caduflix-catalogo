@@ -1,5 +1,1346 @@
 [
   {
+    "id": "apocalipse",
+    "tipo": "serie",
+    "titulo": "Apocalipse",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/odOflA2ESo7Q9EsyHOqWsU46Nd1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6Wa1OkRpdJAxTfY7cNdJ0XAPF0X.jpg",
+    "generos": [
+      "NOVELAS"
+    ],
+    "nota": 7.7,
+    "tmdbId": 75209,
+    "totalTemporadas": 1,
+    "totalEpisodios": 155,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/apocalipse.json"
+  },
+  {
+    "id": "apocalipse-neandertal",
+    "tipo": "serie",
+    "titulo": "Apocalipse Neandertal",
+    "ano": null,
+    "capa": null,
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 0,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 2,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/apocalipse-neandertal.json"
+  },
+  {
+    "id": "apollo-reconstruindo-a-jornada-espacial",
+    "tipo": "serie",
+    "titulo": "Apollo: Reconstruindo a Jornada Espacial",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xh6UPa6lVTmTA6d3mDyP4cw7qh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/e31v0f27FNtxfrGC7pzEnVTfiI9.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 6.857,
+    "tmdbId": 91850,
+    "totalTemporadas": 1,
+    "totalEpisodios": 2,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/apollo-reconstruindo-a-jornada-espacial.json"
+  },
+  {
+    "id": "apollos-song",
+    "tipo": "serie",
+    "titulo": "A Canção de Apolo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6rBsb7VeWiVNP6hq5EtDFI7SD7X.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vmW46DgZOnh8OHWzXqTXLJrwJro.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 8.3,
+    "tmdbId": 282275,
+    "totalTemporadas": 1,
+    "totalEpisodios": 7,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/apollos-song.json"
+  },
+  {
+    "id": "aposta-de-outro-mundo",
+    "tipo": "serie",
+    "titulo": "Aposta de Outro Mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yMYbUZxnVmTKNmGiWf127XHdjRu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bR4UKhJ0ZGGDdLOWwtEqtQHedjt.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 5.2,
+    "tmdbId": 283483,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/aposta-de-outro-mundo.json"
+  },
+  {
+    "id": "aposta-de-outro-mundo-bir-ihtimal-daha-var",
+    "tipo": "serie",
+    "titulo": "Aposta de Outro Mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yMYbUZxnVmTKNmGiWf127XHdjRu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bR4UKhJ0ZGGDdLOWwtEqtQHedjt.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 5.2,
+    "tmdbId": 283483,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/aposta-de-outro-mundo-bir-ihtimal-daha-var.json"
+  },
+  {
+    "id": "apostando-alto",
+    "tipo": "serie",
+    "titulo": "Apostando Alto",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7k9fFAIDGREJnGupxAfR3VFPVUc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/v9Ej3dWhR0nFcLPOtvdPFXC6DN9.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 8.209,
+    "tmdbId": 99048,
+    "totalTemporadas": 1,
+    "totalEpisodios": 16,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/apostando-alto.json"
+  },
+  {
+    "id": "aprendendo-a-amar",
+    "tipo": "serie",
+    "titulo": "Aprendendo a Amar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/k28zWlaT0n3TJZiMPcxpVsYCaV1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/praBRoEldJWCUajNA1xjsI5NTOM.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 6.6,
+    "tmdbId": 292126,
+    "totalTemporadas": 1,
+    "totalEpisodios": 11,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/aprendendo-a-amar.json"
+  },
+  {
+    "id": "aprendiz-cirak",
+    "tipo": "serie",
+    "titulo": "Aprendiz - Cirak",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVZbJeahxbLWRkEV32miB5xYfQi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4PhaaA593zHfAyYUIXVWTih3qcD.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 8,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/aprendiz-cirak.json"
+  },
+  {
+    "id": "aqua-teen-esquadrao-forca-total",
+    "tipo": "serie",
+    "titulo": "Aqua Teen: Esquadrão Força Total",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fcFVxz9IZ6PhM3tlB6877oUwTlD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5QWdGKrPWJQ3WcafuYA2PXL6uQG.jpg",
+    "generos": [
+      "HBO MAX"
+    ],
+    "nota": 7.496,
+    "tmdbId": 251,
+    "totalTemporadas": 11,
+    "totalEpisodios": 133,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/aqua-teen-esquadrao-forca-total.json"
+  },
+  {
+    "id": "aquaman-king-of-atlantis",
+    "tipo": "serie",
+    "titulo": "Aquaman: Rei de Atlântida",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7IaKfcoz91R7t0gscRHuzyuWPVm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5ebwuVn4BfDvMFMDoGXayjynAne.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 6.2,
+    "tmdbId": 98137,
+    "totalTemporadas": 1,
+    "totalEpisodios": 3,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/aquaman-king-of-atlantis.json"
+  },
+  {
+    "id": "aquarela-do-brasil",
+    "tipo": "serie",
+    "titulo": "Aquarela do Brasil",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jmUIp1w62g8rc9zdln66hZDc2Sk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vZEU7TFlsCG1gKubERr2vaHxYa5.jpg",
+    "generos": [
+      "NOVELAS"
+    ],
+    "nota": 7,
+    "tmdbId": 88377,
+    "totalTemporadas": 1,
+    "totalEpisodios": 60,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/aquarela-do-brasil.json"
+  },
+  {
+    "id": "aquarius",
+    "tipo": "serie",
+    "titulo": "Aquarius",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dTihIjUI2ScBXVgcZiyTAq1PBBA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/n1JtC5s7qw0WHKeMKncs87bHNNN.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.5,
+    "tmdbId": 61239,
+    "totalTemporadas": 2,
+    "totalEpisodios": 26,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/aquarius.json"
+  },
+  {
+    "id": "aquela-doenca-com-c",
+    "tipo": "serie",
+    "titulo": "Aquela Doença com C",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qevfPlY77bmCgd3CUxXQziCFVdK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/c1msGIqjHNZOGFtMXJXVQqdz23F.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 7.24,
+    "tmdbId": 32406,
+    "totalTemporadas": 4,
+    "totalEpisodios": 44,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/aquela-doenca-com-c.json"
+  },
+  {
+    "id": "aquela-garota-o-k-z",
+    "tipo": "serie",
+    "titulo": "Aquela Garota - O Kız",
+    "ano": null,
+    "capa": null,
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 0,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 24,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/aquela-garota-o-k-z.json"
+  },
+  {
+    "id": "aquela-noite-kara",
+    "tipo": "serie",
+    "titulo": "Aquela Noite - Kara",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3p9VxyAXgBPTVEPxRqilGWvF6NV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lhgvPJjfTvgXLgzfgKiu2reWjit.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 0,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 5,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/aquela-noite-kara.json"
+  },
+  {
+    "id": "aqueles-olhos-negros",
+    "tipo": "serie",
+    "titulo": "Aqueles Olhos Negros",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jtS38CTGr0v2N85Wvsc0nIb74YF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wGbEvyX8hVljZW3Q19GfInyJe7b.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.656,
+    "tmdbId": 153950,
+    "totalTemporadas": 2,
+    "totalEpisodios": 14,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/aqueles-olhos-negros.json"
+  },
+  {
+    "id": "aqueles-prestes-a-morrer",
+    "tipo": "serie",
+    "titulo": "Aqueles Prestes a Morrer",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1he6t2dsvovnRlLC4nVLsydHLd5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vX71TGviqLsOtDNJ9q1QR4m14kH.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 7.424,
+    "tmdbId": 218589,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/aqueles-prestes-a-morrer.json"
+  },
+  {
+    "id": "aqui-na-terra",
+    "tipo": "serie",
+    "titulo": "Aqui na Terra",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/n5pz5e4ES2AEra4ouiwv2QbXby7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6zm2IYIBiMZFh8upOEd2GwgUynJ.jpg",
+    "generos": [
+      "STAR+"
+    ],
+    "nota": 6.087,
+    "tmdbId": 79095,
+    "totalTemporadas": 2,
+    "totalEpisodios": 16,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/aqui-na-terra.json"
+  },
+  {
+    "id": "aqui-quem-fala-e-o-zodiaco",
+    "tipo": "serie",
+    "titulo": "Aqui Quem Fala é o Zodíaco",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2j8BVh5r5CAKLEzvUq7z6O2VtoL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rissCZ7z06Zm41q1KDc2TDDJRf.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.276,
+    "tmdbId": 272299,
+    "totalTemporadas": 1,
+    "totalEpisodios": 3,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/aqui-quem-fala-e-o-zodiaco.json"
+  },
+  {
+    "id": "ara-san-juan-o-submarino-que-desapareceu",
+    "tipo": "serie",
+    "titulo": "ARA San Juan: O Submarino que Desapareceu",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sAG2w1mcsh8zzQ4OTtoV9b83TLN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1lcQDjk976x2mTJhPVCOAt1TV45.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.611,
+    "tmdbId": 247096,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/ara-san-juan-o-submarino-que-desapareceu.json"
+  },
+  {
+    "id": "araguaia",
+    "tipo": "serie",
+    "titulo": "Araguaia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1tZmWj5uzYZtOM12yWYKTy4BAbJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oQfJG7dwUQdYX7pQ7UapSSQvBZP.jpg",
+    "generos": [
+      "NOVELAS"
+    ],
+    "nota": 6.5,
+    "tmdbId": 46145,
+    "totalTemporadas": 1,
+    "totalEpisodios": 166,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/araguaia.json"
+  },
+  {
+    "id": "arcane",
+    "tipo": "serie",
+    "titulo": "Arcane",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/m3Tzf6k537PnhOEwaSRNCSxedLS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 8.754,
+    "tmdbId": 94605,
+    "totalTemporadas": 2,
+    "totalEpisodios": 18,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arcane.json"
+  },
+  {
+    "id": "arcanjo-renegado",
+    "tipo": "serie",
+    "titulo": "Arcanjo Renegado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/p7gsnKeSQsyNYO7QrW5xedd3QTe.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pWOIRfG9auWSXRDL1QIajQ1cyuM.jpg",
+    "generos": [
+      "GLOBOPLAY"
+    ],
+    "nota": 8,
+    "tmdbId": 99125,
+    "totalTemporadas": 4,
+    "totalEpisodios": 40,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arcanjo-renegado.json"
+  },
+  {
+    "id": "arctic-ascent-with-alex-honnold",
+    "tipo": "serie",
+    "titulo": "Escalada No Ártico com Alex Honnold",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/98Crhyw978GDWEeuy83697thrGt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/j0GtRLKVJtZhv5NUqVbum85F699.jpg",
+    "generos": [
+      "DISNEY+"
+    ],
+    "nota": 6.857,
+    "tmdbId": 131433,
+    "totalTemporadas": 1,
+    "totalEpisodios": 3,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arctic-ascent-with-alex-honnold.json"
+  },
+  {
+    "id": "are-you-the-one-brasil",
+    "tipo": "serie",
+    "titulo": "Are You The One? Brasil",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zE5UhSh2uSVipi34xzruYNA9eJ4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tw5w0dfY4Reoq2QlebHBNmRlAZs.jpg",
+    "generos": [
+      "PARAMOUNT+"
+    ],
+    "nota": 2,
+    "tmdbId": 64060,
+    "totalTemporadas": 4,
+    "totalEpisodios": 42,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/are-you-the-one-brasil.json"
+  },
+  {
+    "id": "are-you-the-one-uk",
+    "tipo": "serie",
+    "titulo": "Are You The One? UK",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vFowka34RzVmURDNbNsaqbA4xnq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/u7L8zD1jKWNkToenOoo66myn1Hl.jpg",
+    "generos": [
+      "PARAMOUNT+"
+    ],
+    "nota": 5,
+    "tmdbId": 207737,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/are-you-the-one-uk.json"
+  },
+  {
+    "id": "areia-movedica",
+    "tipo": "serie",
+    "titulo": "Areia Movediça",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qEQe5rV6XNRytj24aTa8Z34qaWz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hommfvABPU02k99lihPyxjDjBNK.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.101,
+    "tmdbId": 86621,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/areia-movedica.json"
+  },
+  {
+    "id": "ares",
+    "tipo": "serie",
+    "titulo": "ARES: live",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hftvg1uY3ocBseBHK2467KPIBLQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gWzpxDhY2OBJXlFjQIc0QJ4fCue.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 4.3,
+    "tmdbId": 81710,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/ares.json"
+  },
+  {
+    "id": "aria-the-animation",
+    "tipo": "serie",
+    "titulo": "Aria The Animation",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1XgXgWmsX1Un8eBHPjcBYpoae6M.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9ZfSM7eZVLbjYdZB31tlUi2egR8.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 8.543,
+    "tmdbId": 53787,
+    "totalTemporadas": 3,
+    "totalEpisodios": 53,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/aria-the-animation.json"
+  },
+  {
+    "id": "arifureta-shokugyou-de-sekai-saikyou",
+    "tipo": "serie",
+    "titulo": "Arifureta: From Commonplace to World's Strongest",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3vwcB2MtQA1VZMCljCRSrDzNzdj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1lL1ts7dzTUp0eOTHvMqfw6zFJn.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 8.42,
+    "tmdbId": 86034,
+    "totalTemporadas": 3,
+    "totalEpisodios": 45,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arifureta-shokugyou-de-sekai-saikyou.json"
+  },
+  {
+    "id": "arjen-caminho-da-perdicao-arjen-azap-yolu",
+    "tipo": "serie",
+    "titulo": "ARJEN – Caminho da Perdição",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rUZFMcDpKCs3wDqmU9YQHCFb56x.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2NMfIY03XipNKUrg3irdegiChoL.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 7,
+    "tmdbId": 252766,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arjen-caminho-da-perdicao-arjen-azap-yolu.json"
+  },
+  {
+    "id": "arlequina",
+    "tipo": "serie",
+    "titulo": "Arlequina",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bl4hQISOR5QNu4cITDuN1E4zLAJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sNHoOagykUU0WpVBa162w1NP0mP.jpg",
+    "generos": [
+      "HBO MAX"
+    ],
+    "nota": 8.302,
+    "tmdbId": 74440,
+    "totalTemporadas": 5,
+    "totalEpisodios": 56,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arlequina.json"
+  },
+  {
+    "id": "armacao-ou-amor",
+    "tipo": "serie",
+    "titulo": "Armação ou Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kuNsVKqvR1lSfeawT7OmMdsCBQn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/r4ho12ukNpe2EgLvBNL0j7ZsLRM.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 7,
+    "tmdbId": 228238,
+    "totalTemporadas": 1,
+    "totalEpisodios": 40,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/armacao-ou-amor.json"
+  },
+  {
+    "id": "armadilha",
+    "tipo": "serie",
+    "titulo": "Armadilha do Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6Hy0yX025kULum4bYG0zsyT5ile.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dwwWM9E8N0d8ms3AEywhHq8xSZs.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 7.4,
+    "tmdbId": 89671,
+    "totalTemporadas": 1,
+    "totalEpisodios": 81,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/armadilha.json"
+  },
+  {
+    "id": "armadilha-do-amor",
+    "tipo": "serie",
+    "titulo": "Armadilha do Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6Hy0yX025kULum4bYG0zsyT5ile.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dwwWM9E8N0d8ms3AEywhHq8xSZs.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 7.4,
+    "tmdbId": 89671,
+    "totalTemporadas": 2,
+    "totalEpisodios": 136,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/armadilha-do-amor.json"
+  },
+  {
+    "id": "armadilha-do-amor-afili-ask-opcao-2",
+    "tipo": "serie",
+    "titulo": "Armadilha do Amor - Afili Ask [OPCAO 2]",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hy0yX025kULum4bYG0zsyT5ile.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dwwWM9E8N0d8ms3AEywhHq8xSZs.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 7,
+    "tmdbId": null,
+    "totalTemporadas": 2,
+    "totalEpisodios": 136,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/armadilha-do-amor-afili-ask-opcao-2.json"
+  },
+  {
+    "id": "armas-de-mulher",
+    "tipo": "serie",
+    "titulo": "Armas de Mulher",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sPl4bJUO1NbfoYcwnQ29wJFx1R.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3bqEKbjmaA87LpiZbwNLHBffbCU.jpg",
+    "generos": [
+      "HBO MAX"
+    ],
+    "nota": 6.7,
+    "tmdbId": 203417,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/armas-de-mulher.json"
+  },
+  {
+    "id": "armas-e-amores",
+    "tipo": "serie",
+    "titulo": "Armas e Amores",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iEG1KeawC4NWhUleNMUpNbbDP2P.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6jJmcfqBnb4Kua7N1cFwJQFR0k2.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.37,
+    "tmdbId": 156714,
+    "totalTemporadas": 1,
+    "totalEpisodios": 7,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/armas-e-amores.json"
+  },
+  {
+    "id": "armazem-13",
+    "tipo": "serie",
+    "titulo": "Armazém 13",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9s6DKKvwqeOpDX7GXjiq0gz4m90.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fhmpYAxnF17CRWRcAWSeDRPWJi5.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 7.683,
+    "tmdbId": 15819,
+    "totalTemporadas": 5,
+    "totalEpisodios": 64,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/armazem-13.json"
+  },
+  {
+    "id": "armorsaurs",
+    "tipo": "serie",
+    "titulo": "Dinoarmaduras",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qSJG6dmowA6qgvndaRolVM02jLr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hNXEnTA4a0WeqhoahaBhJRB2G06.jpg",
+    "generos": [
+      "DISNEY+"
+    ],
+    "nota": 7.167,
+    "tmdbId": 301715,
+    "totalTemporadas": 1,
+    "totalEpisodios": 13,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/armorsaurs.json"
+  },
+  {
+    "id": "arnold",
+    "tipo": "serie",
+    "titulo": "Ei Arnold!",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5tFOLWsyZl9jRHauXZ6tBwvwd8C.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6neiLkVRYIVbbRTLhlSLtt8o5di.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 8.017,
+    "tmdbId": 537,
+    "totalTemporadas": 4,
+    "totalEpisodios": 82,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arnold.json"
+  },
+  {
+    "id": "aroma-de-morango",
+    "tipo": "serie",
+    "titulo": "Aroma de Morango",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9IYjaLj4auiZO3iF5ChmjljCplT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/IJCSUObPR9wrJCzqFXSZwzPLCI.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 7.846,
+    "tmdbId": 69322,
+    "totalTemporadas": 1,
+    "totalEpisodios": 23,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/aroma-de-morango.json"
+  },
+  {
+    "id": "arqueologias-em-busca-dos-primeiros-brasileiros",
+    "tipo": "serie",
+    "titulo": "Arqueologias, em Busca dos Primeiros Brasileiros",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oMNSKF22DGBBBZuVjTzAcMmb0F6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/67wujmDvDfowrIWotagXJCzFfXY.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 10,
+    "tmdbId": 126362,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arqueologias-em-busca-dos-primeiros-brasileiros.json"
+  },
+  {
+    "id": "arquivando-o-amor",
+    "tipo": "serie",
+    "titulo": "Arquivando o Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ecZy9v3Vd0nGLhN6IKmn9i189WR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 8.5,
+    "tmdbId": 297640,
+    "totalTemporadas": 1,
+    "totalEpisodios": 2,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arquivando-o-amor.json"
+  },
+  {
+    "id": "arquivando-o-amor-2026",
+    "tipo": "serie",
+    "titulo": "Arquivando o Amor",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/ecZy9v3Vd0nGLhN6IKmn9i189WR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 8.5,
+    "tmdbId": 297640,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arquivando-o-amor-2026.json"
+  },
+  {
+    "id": "arquivo-81",
+    "tipo": "serie",
+    "titulo": "Arquivo 81",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/as0QIRSbRCOE1nr6CZyOJmqQ1z3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7TYMho2TM6ZcqSv6YaEjlNIyhXn.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.216,
+    "tmdbId": 112314,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arquivo-81.json"
+  },
+  {
+    "id": "arquivo-morto",
+    "tipo": "serie",
+    "titulo": "Arquivo Morto",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7WPgmTXqotx7fhULhKqzPp6DX1k.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oMeCp8jXpSyI41vHsjMkFfIJReh.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.766,
+    "tmdbId": 2171,
+    "totalTemporadas": 7,
+    "totalEpisodios": 228,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arquivo-morto.json"
+  },
+  {
+    "id": "arquivo-x",
+    "tipo": "serie",
+    "titulo": "Arquivo X",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bA4XkQR5VAuiszhbfDhR0siZgiI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/w00lfexrsOeR25dO4hsWhbcUnmD.jpg",
+    "generos": [
+      "APPLE+"
+    ],
+    "nota": 8.371,
+    "tmdbId": 4087,
+    "totalTemporadas": 11,
+    "totalEpisodios": 266,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arquivo-x.json"
+  },
+  {
+    "id": "arquivos-alienigenas-reabertos",
+    "tipo": "serie",
+    "titulo": "Arquivos Alienígenas Reabertos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lWfPEm1NCCWb0CeyU5eDqDixas2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lrlTtJyWKeGtCe5Fa8awohTeb7A.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 7,
+    "tmdbId": 247350,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arquivos-alienigenas-reabertos.json"
+  },
+  {
+    "id": "arquivos-desclassificados-com-david-duchovny",
+    "tipo": "serie",
+    "titulo": "Arquivos Desclassificados com David Duchovny",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nSloObXIWJ0iY9gUEYF6eITkq8T.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8lHWzdHDwgK9aNepQEH8LBjc3YI.jpg",
+    "generos": [
+      "DISCOVERY+"
+    ],
+    "nota": 6.8,
+    "tmdbId": 287291,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arquivos-desclassificados-com-david-duchovny.json"
+  },
+  {
+    "id": "arquivos-secretos-do-vaticano-o-papa-e-o-demonio",
+    "tipo": "serie",
+    "titulo": "Arquivos Secretos do Vaticano: O Papa e o Demônio",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xtnrXjiHZ1ZkH6oxyDRr36UFvUo.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/290qShPegc6DGmef00htgEpUugt.jpg",
+    "generos": [
+      "DISCOVERY+"
+    ],
+    "nota": null,
+    "tmdbId": 238105,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arquivos-secretos-do-vaticano-o-papa-e-o-demonio.json"
+  },
+  {
+    "id": "arranjo-de-natal",
+    "tipo": "serie",
+    "titulo": "Arranjo de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/n35vysDI3z4wsHSpElErNXKsAMX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/w12daIYCQnZJqCr9Eyha8QE6nUm.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.388,
+    "tmdbId": 135799,
+    "totalTemporadas": 1,
+    "totalEpisodios": 3,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arranjo-de-natal.json"
+  },
+  {
+    "id": "arremesso-final",
+    "tipo": "serie",
+    "titulo": "Arremesso Final",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3a50zkySihNjgRfhLl2qIdhie7p.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kY0h95L73t7a6ev6Rv0aHSCtN7y.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 8.266,
+    "tmdbId": 79525,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arremesso-final.json"
+  },
+  {
+    "id": "arrested-development",
+    "tipo": "serie",
+    "titulo": "Arrested Development",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2N238rhCY1V29DkjmyMocBjAQzw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8qn0u64JXSgnGKe2KkKqrfH7V84.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.929,
+    "tmdbId": 4589,
+    "totalTemporadas": 5,
+    "totalEpisodios": 91,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arrested-development.json"
+  },
+  {
+    "id": "arrow",
+    "tipo": "serie",
+    "titulo": "Arqueiro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oaLXsduGoDOOftWziIOvyZzrR4T.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wAFuDJfZJrnh6a1wf1Vt7PqYBvR.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 6.8,
+    "tmdbId": 1412,
+    "totalTemporadas": 8,
+    "totalEpisodios": 170,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arrow.json"
+  },
+  {
+    "id": "arsenal-military-academy",
+    "tipo": "serie",
+    "titulo": "烈火军校",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kG8VDrtuAHXDhix8P9BpWLInX2E.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vpQJvBjc8H2KEyjExXuyzqwcVJS.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 8,
+    "tmdbId": 92648,
+    "totalTemporadas": 1,
+    "totalEpisodios": 48,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arsenal-military-academy.json"
+  },
+  {
+    "id": "art-attack-modo-desafio",
+    "tipo": "serie",
+    "titulo": "Art Attack: Modo Desafio",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7OaHw5y9Zmr1GR38DuXDHJFMP5j.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/blZq3UtV3JaRcWkWO9boy94lQC2.jpg",
+    "generos": [
+      "DISNEY+"
+    ],
+    "nota": 10,
+    "tmdbId": 136396,
+    "totalTemporadas": 1,
+    "totalEpisodios": 12,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/art-attack-modo-desafio.json"
+  },
+  {
+    "id": "artilheiros",
+    "tipo": "serie",
+    "titulo": "Artilheiros",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/v3x22yS6qXVbEHKUMuBV9d6TU34.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aDaUa1TRN73zjfWixXTKTuBD4JC.jpg",
+    "generos": [
+      "GLOBOPLAY"
+    ],
+    "nota": null,
+    "tmdbId": 315608,
+    "totalTemporadas": 1,
+    "totalEpisodios": 5,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/artilheiros.json"
+  },
+  {
+    "id": "aruanas",
+    "tipo": "serie",
+    "titulo": "Aruanas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wfgJF5KSqhvfflNHUhBUUrk3L33.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3lomntRHcaptOYAas8bZsXKW8su.jpg",
+    "generos": [
+      "GLOBOPLAY"
+    ],
+    "nota": 7.5,
+    "tmdbId": 90822,
+    "totalTemporadas": 2,
+    "totalEpisodios": 20,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/aruanas.json"
+  },
+  {
+    "id": "arvolandia",
+    "tipo": "serie",
+    "titulo": "Arvolândia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/f7s7e8BDuDJG2ePAWJQvVpjNgM5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tulfhG5uHFkvDSe4UsLZjME7p5.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.9,
+    "tmdbId": 158694,
+    "totalTemporadas": 1,
+    "totalEpisodios": 15,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/arvolandia.json"
+  },
+  {
+    "id": "as-24-personalidades-de-billy-milligan",
+    "tipo": "serie",
+    "titulo": "As 24 Personalidades de Billy Milligan",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/w4BvMx1wNVYFLeXHuGm66OENZEh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3YyEKgBBh1DOyQ22yiObLHwMRbO.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.975,
+    "tmdbId": 132105,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-24-personalidades-de-billy-milligan.json"
+  },
+  {
+    "id": "as-7-vidas-de-lea",
+    "tipo": "serie",
+    "titulo": "As 7 Vidas de Lea",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/e8O7T7UHs3Q7QaADgdh60qNgb49.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gmZn9ppZGD6f7g4I1zv8ZWzeAne.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.455,
+    "tmdbId": 195928,
+    "totalTemporadas": 1,
+    "totalEpisodios": 7,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-7-vidas-de-lea.json"
+  },
+  {
+    "id": "as-93-vitimas-de-samuel-little",
+    "tipo": "serie",
+    "titulo": "As 93 Vítimas de Samuel Little",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/10QrN6xpFxhGzTm9WVHPwgQ5jUw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uYsD884OIMRtzNrc0ppKboACfsP.jpg",
+    "generos": [
+      "HBO MAX"
+    ],
+    "nota": 8.5,
+    "tmdbId": 108395,
+    "totalTemporadas": 1,
+    "totalEpisodios": 2,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-93-vitimas-de-samuel-little.json"
+  },
+  {
+    "id": "as-aventuras-de-bernie",
+    "tipo": "serie",
+    "titulo": "As Aventuras de Bernie",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fliKMhwubjSUCXagyJWu5PzcHMx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/imOCijJBWFgayktQGa72UJsgnH9.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 7,
+    "tmdbId": 214068,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-aventuras-de-bernie.json"
+  },
+  {
+    "id": "as-aventuras-de-bertie-gregory",
+    "tipo": "serie",
+    "titulo": "As Aventuras de Bertie Gregory",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nVS14l2HQqe4uL99sDLTLPQQ8cD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gLkhbFOtim8Uz98l416E7MW4Zi2.jpg",
+    "generos": [
+      "DISNEY+"
+    ],
+    "nota": 7.8,
+    "tmdbId": 157215,
+    "totalTemporadas": 1,
+    "totalEpisodios": 5,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-aventuras-de-bertie-gregory.json"
+  },
+  {
+    "id": "as-aventuras-de-blinky-bill",
+    "tipo": "serie",
+    "titulo": "Blinky Bill",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zYtRLOo218EegHh2loeJ70jql6J.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/x5fauTTOC9l7wXgQh0iESLw2Grh.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 6.846,
+    "tmdbId": 3560,
+    "totalTemporadas": 2,
+    "totalEpisodios": 52,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-aventuras-de-blinky-bill.json"
+  },
+  {
+    "id": "as-aventuras-de-gortimer-gibbon-na-rua-normal",
+    "tipo": "serie",
+    "titulo": "As Aventuras de Gortimer Gibbon na Rua Normal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zdFlhCL8r1zT6FBrx2kFzgtBo3W.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tmUC8gjuJ2GSXAvq5ZrMOgN8xSv.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 8.4,
+    "tmdbId": 60610,
+    "totalTemporadas": 1,
+    "totalEpisodios": 13,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-aventuras-de-gortimer-gibbon-na-rua-normal.json"
+  },
+  {
+    "id": "as-aventuras-de-horton",
+    "tipo": "serie",
+    "titulo": "As Aventuras de Horton",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vglSyl3hjcrPOZQDyINt8fJvl4J.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qFbjAPWpH4oQ4kJyLdu0qXUAGD6.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 5,
+    "tmdbId": 293205,
+    "totalTemporadas": 1,
+    "totalEpisodios": 7,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-aventuras-de-horton.json"
+  },
+  {
+    "id": "as-aventuras-de-jackie-chan",
+    "tipo": "serie",
+    "titulo": "As Aventuras de Jackie Chan",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6pgXH2URaChoJ1VXz9KFIa9Gmvt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cjvyqIvCKQtUzd3J5TbVnCFbSNZ.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 8.174,
+    "tmdbId": 240,
+    "totalTemporadas": 5,
+    "totalEpisodios": 95,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-aventuras-de-jackie-chan.json"
+  },
+  {
+    "id": "as-aventuras-de-jose-e-durval",
+    "tipo": "serie",
+    "titulo": "As Aventuras de José e Durval",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bGeXTTz0BFlK2FYyiCNyEGsrZcZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nj6E5MDnrxqsa6powMnXbwK6pDN.jpg",
+    "generos": [
+      "GLOBOPLAY"
+    ],
+    "nota": 8,
+    "tmdbId": 194613,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-aventuras-de-jose-e-durval.json"
+  },
+  {
+    "id": "as-aventuras-de-kid-danger",
+    "tipo": "serie",
+    "titulo": "As Aventuras de Kid Danger",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3JqQ473UkYpFBjvpGMydI5sjoCI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8v6i8cYmaaaBkZy0tX0e7JqFOCe.jpg",
+    "generos": [
+      "PARAMOUNT+"
+    ],
+    "nota": 6.84,
+    "tmdbId": 76534,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-aventuras-de-kid-danger.json"
+  },
+  {
+    "id": "as-aventuras-de-merlin",
+    "tipo": "serie",
+    "titulo": "As Aventuras de Merlin",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2JcrP4gNhU3KMbdajoEi1OvDl1Y.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.825,
+    "tmdbId": 7225,
+    "totalTemporadas": 5,
+    "totalEpisodios": 65,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-aventuras-de-merlin.json"
+  },
+  {
+    "id": "as-aventuras-de-minuano-kid",
+    "tipo": "serie",
+    "titulo": "As Aventuras de Minuano Kid",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nLnEfdy7grpbJRTFSvBXELe5GML.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9TYCOlyKvFNsAFOGHwqp0oqfXRR.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 3,
+    "tmdbId": 279199,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-aventuras-de-minuano-kid.json"
+  },
+  {
+    "id": "as-aventuras-de-sunny-bunnies",
+    "tipo": "serie",
+    "titulo": "As Aventuras de Sunny Bunnies",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jPwQyT5XX8OcwDEC7ODEpMg6jkq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/35ZNKwpSLxSedeiaQdBTlYpy4Au.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 2.7,
+    "tmdbId": 106067,
+    "totalTemporadas": 2,
+    "totalEpisodios": 52,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-aventuras-de-sunny-bunnies.json"
+  },
+  {
+    "id": "as-aventuras-de-tom-e-jerry",
+    "tipo": "serie",
+    "titulo": "As Aventuras de Tom e Jerry",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9TCOHLsHSr56uScnZuIQofdkSnt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/e7gXqszTL2hWhTOkGA1HIJFnSZ0.jpg",
+    "generos": [
+      "HBO MAX"
+    ],
+    "nota": 7.769,
+    "tmdbId": 676,
+    "totalTemporadas": 1,
+    "totalEpisodios": 13,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-aventuras-de-tom-e-jerry.json"
+  },
+  {
+    "id": "as-aventuras-do-batman",
+    "tipo": "serie",
+    "titulo": "As Novas Aventuras do Batman",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6bqpvnMPviZj5W1jBVnUqdUXBWy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cH7heIk3JJfR5lJbgvFYvlOGgXX.jpg",
+    "generos": [
+      "APPLE+"
+    ],
+    "nota": 8,
+    "tmdbId": 4625,
+    "totalTemporadas": 1,
+    "totalEpisodios": 17,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-aventuras-do-batman.json"
+  },
+  {
+    "id": "as-aventuras-do-gato-de-botas",
+    "tipo": "serie",
+    "titulo": "As Aventuras do Gato de Botas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9iIPjFnUqQJgQI7Dxd7JqsnaPdR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nd11dhqVr4r2UVlIVjq17Sums04.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 7.1,
+    "tmdbId": 61886,
+    "totalTemporadas": 4,
+    "totalEpisodios": 49,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-aventuras-do-gato-de-botas.json"
+  },
+  {
+    "id": "as-aventuras-escolhidas",
+    "tipo": "serie",
+    "titulo": "As Aventuras Escolhidas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/o0ijRDGtlfa7EFJNA8NvmOe3Y0H.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/b9Y6UlfCXZZysN9j8DlPOV5t6q.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 7.364,
+    "tmdbId": 292323,
+    "totalTemporadas": 1,
+    "totalEpisodios": 14,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-aventuras-escolhidas.json"
+  },
+  {
+    "id": "as-aventuras-inventadas-de-dick-turpin",
+    "tipo": "serie",
+    "titulo": "As Aventuras Inventadas de Dick Turpin",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qgQc3JJ5h3X3xMyMVx1hLBjQMxW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/23rUL85G2GwSwesjsfuYR8O7Gq5.jpg",
+    "generos": [
+      "APPLE+"
+    ],
+    "nota": 6.481,
+    "tmdbId": 197459,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-aventuras-inventadas-de-dick-turpin.json"
+  },
+  {
+    "id": "as-brasileiras",
+    "tipo": "serie",
+    "titulo": "As Brasileiras",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pP5dllyLs3e3xqgruHZtKeI8Pps.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/blr6K08pk5fnAVkMCRPexCmkkJU.jpg",
+    "generos": [
+      "GLOBOPLAY"
+    ],
+    "nota": 8.3,
+    "tmdbId": 40162,
+    "totalTemporadas": 1,
+    "totalEpisodios": 21,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-brasileiras.json"
+  },
+  {
+    "id": "as-bruxas-mayfair-de-anne-rice",
+    "tipo": "serie",
+    "titulo": "As Bruxas Mayfair de Anne Rice",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hcGhWkbY2885PFAGSiWgsnEFBTY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9DHo5qXkG0titQmr2PF92N3aYYk.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 7.3,
+    "tmdbId": 207863,
+    "totalTemporadas": 2,
+    "totalEpisodios": 16,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-bruxas-mayfair-de-anne-rice.json"
+  },
+  {
+    "id": "as-canalhas",
+    "tipo": "serie",
+    "titulo": "As Canalhas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pgtzqhy86b8UNV1cr6hkAZhGWN3.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 7.5,
+    "tmdbId": 80094,
+    "totalTemporadas": 1,
+    "totalEpisodios": 13,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-canalhas.json"
+  },
+  {
+    "id": "as-celulas-de-yumi",
+    "tipo": "serie",
+    "titulo": "As Células de Yumi",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bV2Z5REejzuRCaV4MAZw0wX5zx1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4TJG9k0u1WZfs9iwhLpHshnryaR.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 7.869,
+    "tmdbId": 128995,
+    "totalTemporadas": 2,
+    "totalEpisodios": 28,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-celulas-de-yumi.json"
+  },
+  {
     "id": "as-cheerleaders-do-dallas-cowboys",
     "tipo": "serie",
     "titulo": "As Cheerleaders do Dallas Cowboys",
@@ -30,6 +1371,22 @@
     "totalTemporadas": 1,
     "totalEpisodios": 6,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-confissoes-de-gypsy-rose.json"
+  },
+  {
+    "id": "as-criancas-do-paraiso-cennetin-cocuklari",
+    "tipo": "serie",
+    "titulo": "As Criancas do Paraiso - Cennetin Cocuklari",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fql0yRviMHFXpMHyMBehll7OOqP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7nXGzXoBbTKfKrvFz3xBqO5rDwk.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 7,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 33,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-criancas-do-paraiso-cennetin-cocuklari.json"
   },
   {
     "id": "as-criancas-que-amamos",
@@ -109,6 +1466,22 @@
     "totalTemporadas": 2,
     "totalEpisodios": 20,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-cronicas-de-usagi-o-coelho-samurai.json"
+  },
+  {
+    "id": "as-estrelas-sao-testemunhas-yildizlar-sahidim",
+    "tipo": "serie",
+    "titulo": "As Estrelas sao Testemunhas - Yildizlar Sahidim",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMWznx8VFo2ru4438oCgy8o8m6o.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/n8qJGZvkCyhU2WQtWu5sjgaL4io.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 7,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-estrelas-sao-testemunhas-yildizlar-sahidim.json"
   },
   {
     "id": "as-fabulosas-aventuras-de-moka",
@@ -703,6 +2076,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-piores-prisoes-do-mundo.json"
   },
   {
+    "id": "as-portas-do-tempo",
+    "tipo": "serie",
+    "titulo": "As Portas do Tempo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lc5Auyq4F8QK6yeMCCpvdwJIIve.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kpMuzNz4iyOFEbz0p2tBbD3UoPi.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 7.6,
+    "tmdbId": 253808,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/as-portas-do-tempo.json"
+  },
+  {
     "id": "as-prisoes-mais-notorias-do-mundo",
     "tipo": "serie",
     "titulo": "As Prisões Mais Notórias do Mundo",
@@ -959,6 +2348,38 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/asas-da-ambicao.json"
   },
   {
+    "id": "asas-da-ambicao-kus-ucusu",
+    "tipo": "serie",
+    "titulo": "Asas da Ambição",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2JyzndMufaXyJn4nXLe0JP5cf8G.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/opHnAwvV1XY2EgR7gScAv2cdjMg.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 7,
+    "tmdbId": 202010,
+    "totalTemporadas": 3,
+    "totalEpisodios": 23,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/asas-da-ambicao-kus-ucusu.json"
+  },
+  {
+    "id": "asas-do-amor",
+    "tipo": "serie",
+    "titulo": "Asas do amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/o9wgn8EEJFcK30SILOb3qB6AOjT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dXwp72Byk3XeQmTDJnLLOClQnxF.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 4.5,
+    "tmdbId": 83738,
+    "totalTemporadas": 1,
+    "totalEpisodios": 90,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/asas-do-amor.json"
+  },
+  {
     "id": "ascensao-imperio-otomano",
     "tipo": "serie",
     "titulo": "Ascensão: Império Otomano",
@@ -966,13 +2387,30 @@
     "capa": "https://image.tmdb.org/t/p/w500/mv8lU5qlzAjoSAJT2cOgrU8mobQ.jpg",
     "banner": "https://image.tmdb.org/t/p/original/ztruG6mR07igZWchQHiaFkND8Di.jpg",
     "generos": [
-      "GLOBOPLAY"
+      "GLOBOPLAY",
+      "TURCAS | MEXICANAS"
     ],
     "nota": 7.496,
     "tmdbId": 96481,
     "totalTemporadas": 2,
     "totalEpisodios": 12,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/ascensao-imperio-otomano.json"
+  },
+  {
+    "id": "aser",
+    "tipo": "serie",
+    "titulo": "آسر",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2U64JjkDXc1gOWJIWtnYo8MEAp9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yy82TofPyeqiknxFO2xxmD5TN1r.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 5.5,
+    "tmdbId": 287328,
+    "totalTemporadas": 1,
+    "totalEpisodios": 90,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/aser.json"
   },
   {
     "id": "ash-vs-evil-dead",
@@ -1407,6 +2845,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/ate-eu-destruir-a-outra-familia-do-meu-marido.json"
   },
   {
+    "id": "ate-eu-morrer-olene-kadar",
+    "tipo": "serie",
+    "titulo": "Até eu morrer - Ölene Kadar",
+    "ano": null,
+    "capa": null,
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 0,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 13,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/ate-eu-morrer-olene-kadar.json"
+  },
+  {
     "id": "ate-o-ceu",
     "tipo": "serie",
     "titulo": "Até o Céu: A Série",
@@ -1485,6 +2938,22 @@
     "totalTemporadas": 1,
     "totalEpisodios": 6,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/ate-o-ultimo-samurai.json"
+  },
+  {
+    "id": "ate-o-ultimo-suspiro-son-nefesime-kadar",
+    "tipo": "serie",
+    "titulo": "Ate o Ultimo Suspiro - Son Nefesime Kadar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wP8wvUQ1HRVzaAja2HH5r62WhUa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vcU8hIHXuADItJSzEmt2F8IMq5l.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 8,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 5,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/ate-o-ultimo-suspiro-son-nefesime-kadar.json"
   },
   {
     "id": "ate-que-o-design-nos-separe",
@@ -1871,6 +3340,54 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/awkward.json"
   },
   {
+    "id": "ayse-ayse-bir-ruh-macerasi",
+    "tipo": "serie",
+    "titulo": "Ayse - Ayse Bir Ruh Macerasi",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgAeaDhWKjDEAlyWaaQU4VAjjN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/e4UlGeWJaHAghi4dMTQmOknVoj1.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 0,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/ayse-ayse-bir-ruh-macerasi.json"
+  },
+  {
+    "id": "aziz",
+    "tipo": "serie",
+    "titulo": "Aziz",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qHUX5b161nkY991S83O0lHIQDBR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yiY7VhhxJYVJ3XoXFXgouSmBmkv.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 6.7,
+    "tmdbId": 137840,
+    "totalTemporadas": 1,
+    "totalEpisodios": 28,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/aziz.json"
+  },
+  {
+    "id": "azize",
+    "tipo": "serie",
+    "titulo": "Azize",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/i3Rz8aGtMNUJLhN7Djn8Fn9hLte.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/afsRwySA2W7f2aJoufHjhhJc3oY.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 9.3,
+    "tmdbId": 49513,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/azize.json"
+  },
+  {
     "id": "b-daman-crossfire",
     "tipo": "serie",
     "titulo": "B-Daman Crossfire",
@@ -2182,7 +3699,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/Adjn7rsb1picDMUcYNjEDobhvAk.jpg",
     "banner": "https://image.tmdb.org/t/p/original/6dXyUXZ4HsY6M3Tae9e0KZsFCo1.jpg",
     "generos": [
-      "AMAZON PRIME"
+      "AMAZON PRIME",
+      "TURCAS | MEXICANAS"
     ],
     "nota": 6.25,
     "tmdbId": 245914,
@@ -2415,6 +3933,38 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bancroft.json"
   },
   {
+    "id": "bandeira-vermelha",
+    "tipo": "serie",
+    "titulo": "Bandeira Vermelha",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vlyQk1qV85ivpCJvt3EVTs9Egw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/n8pJ9dGjAezlqFnBYoW6LUwPmwG.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 6.5,
+    "tmdbId": 218477,
+    "totalTemporadas": 1,
+    "totalEpisodios": 19,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bandeira-vermelha.json"
+  },
+  {
+    "id": "bandeira-vermelha-al-sancak",
+    "tipo": "serie",
+    "titulo": "Bandeira Vermelha",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vlyQk1qV85ivpCJvt3EVTs9Egw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/n8pJ9dGjAezlqFnBYoW6LUwPmwG.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 6.5,
+    "tmdbId": 218477,
+    "totalTemporadas": 1,
+    "totalEpisodios": 19,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bandeira-vermelha-al-sancak.json"
+  },
+  {
     "id": "bandi",
     "tipo": "serie",
     "titulo": "Bandi",
@@ -2461,6 +4011,21 @@
     "totalTemporadas": 1,
     "totalEpisodios": 7,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bandidos-na-tv.json"
+  },
+  {
+    "id": "bandidos-nao-podem-governar-o-mundo-esk-ya-dunyaya-hukumdar-olmaz",
+    "tipo": "serie",
+    "titulo": "Bandidos nao podem governar o Mundo - Eşkıya Dünyaya Hükümdar Olmaz",
+    "ano": null,
+    "capa": null,
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 0,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 181,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bandidos-nao-podem-governar-o-mundo-esk-ya-dunyaya-hukumdar-olmaz.json"
   },
   {
     "id": "bang-bang",
@@ -2630,7 +4195,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/Qqe0D4gFMNGL1OtFcvQ0yvCF6D.jpg",
     "banner": "https://image.tmdb.org/t/p/original/iU955nBcsc5Zr5e31eWU2xKVqHk.jpg",
     "generos": [
-      "NETFLIX"
+      "NETFLIX",
+      "TURCAS | MEXICANAS"
     ],
     "nota": 7.3,
     "tmdbId": 93785,
@@ -2847,6 +4413,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/barry.json"
   },
   {
+    "id": "bas-dor-de-cabeca-problema-trouble-maker-bas-belasi",
+    "tipo": "serie",
+    "titulo": "Baş Dor de Cabeca - Problema - Trouble Maker - Bas Belasi",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHoPZT6k7Ulf36P8iOfU8Dg5vEx.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/9FsNiT3qps6FTZJ9Zr9tn5o9I2b.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 9,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 13,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bas-dor-de-cabeca-problema-trouble-maker-bas-belasi.json"
+  },
+  {
     "id": "baseado-numa-historia-real",
     "tipo": "serie",
     "titulo": "Baseado Numa História Real",
@@ -2863,6 +4445,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/baseado-numa-historia-real.json"
   },
   {
+    "id": "baska-bir-gun",
+    "tipo": "serie",
+    "titulo": "Başka Bir Gün",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bKzJz4ezNiGZdUoWhw4tikbAqeE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5a8KDGTF7rvKeddC2qiiS4wjZuY.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 5.5,
+    "tmdbId": 282224,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/baska-bir-gun.json"
+  },
+  {
     "id": "baskets",
     "tipo": "serie",
     "titulo": "Baskets",
@@ -2877,6 +4475,22 @@
     "totalTemporadas": 4,
     "totalEpisodios": 40,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/baskets.json"
+  },
+  {
+    "id": "basta-yeter",
+    "tipo": "serie",
+    "titulo": "Basta - Yeter",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdw0U2RZOZdz1Nld3YwjDRJa3me.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nD8BUDQK8tA407mMRkg2IG6iXVP.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 8,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 40,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/basta-yeter.json"
   },
   {
     "id": "bastard",
@@ -3150,6 +4764,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bateau-mouche-o-naufragio-da-justica.json"
   },
   {
+    "id": "batidas-do-coracao-kalp-at-s",
+    "tipo": "serie",
+    "titulo": "Batidas do Coração - Kalp Atışı",
+    "ano": null,
+    "capa": null,
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 0,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 28,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/batidas-do-coracao-kalp-at-s.json"
+  },
+  {
     "id": "batman-a-serie-animada",
     "tipo": "serie",
     "titulo": "Batman: A Série Animada",
@@ -3164,1636 +4793,5 @@
     "totalTemporadas": 3,
     "totalEpisodios": 85,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/batman-a-serie-animada.json"
-  },
-  {
-    "id": "batman-cruzado-encapuzado",
-    "tipo": "serie",
-    "titulo": "Batman: Cruzado Encapuzado",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dkiWTQbXq2MOqlYFqAcZn5pGae0.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vTqkpDUe1DUUPcHDpcf0RT0gIQ0.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 7.273,
-    "tmdbId": 125909,
-    "totalTemporadas": 1,
-    "totalEpisodios": 10,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/batman-cruzado-encapuzado.json"
-  },
-  {
-    "id": "batman-do-futuro",
-    "tipo": "serie",
-    "titulo": "Batman do Futuro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/u32hBfT6oQldJllf82OOGRs1fPW.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/A8We2BSM6hJ1VWzncssnU2fFsft.jpg",
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": 8.2,
-    "tmdbId": 513,
-    "totalTemporadas": 3,
-    "totalEpisodios": 52,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/batman-do-futuro.json"
-  },
-  {
-    "id": "battle-camp",
-    "tipo": "serie",
-    "titulo": "Battle Camp",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wuSaLjPrTagk892fEywXHA6i8Xu.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gx94TGPbZFtbtnAh6dRGFDR5qYL.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 6.4,
-    "tmdbId": 287366,
-    "totalTemporadas": 1,
-    "totalEpisodios": 10,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/battle-camp.json"
-  },
-  {
-    "id": "battlestar-galactica",
-    "tipo": "serie",
-    "titulo": "Battlestar Galactica",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/99PJSbcO2LeM10uOGWeFihNp77j.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sEjNaoENrqIZONKNn1iLFB0Us9k.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 8.2,
-    "tmdbId": 1972,
-    "totalTemporadas": 4,
-    "totalEpisodios": 71,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/battlestar-galactica.json"
-  },
-  {
-    "id": "batwheels",
-    "tipo": "serie",
-    "titulo": "Batwheels",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/2BY0gFzJfVMAJkYameynkOkHcA1.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tRo9pMhE2OOrePz4Pw3eirPBnxr.jpg",
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": 7,
-    "tmdbId": 155780,
-    "totalTemporadas": 1,
-    "totalEpisodios": 22,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/batwheels.json"
-  },
-  {
-    "id": "batwoman",
-    "tipo": "serie",
-    "titulo": "Batwoman",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1TMhq40rdP7BOgOdSTDq6rhcSPq.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8vNQ3i2Xa3mrCKn6eq2ce5hhegT.jpg",
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": 6.859,
-    "tmdbId": 89247,
-    "totalTemporadas": 3,
-    "totalEpisodios": 50,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/batwoman.json"
-  },
-  {
-    "id": "baylen-uma-vida-sem-filtro",
-    "tipo": "serie",
-    "titulo": "Baylen: Uma Vida sem Filtro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ngvqkwMXGTfNL5FxLltXL0FPipM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vGjgCOv9Ac2UvohcqfcqFJ8TKT3.jpg",
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": 8.7,
-    "tmdbId": 279644,
-    "totalTemporadas": 2,
-    "totalEpisodios": 22,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/baylen-uma-vida-sem-filtro.json"
-  },
-  {
-    "id": "bbb-ta-on",
-    "tipo": "serie",
-    "titulo": "BBB Tá On",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dFAzVMwHq2NlU0J9XknRfzobeOi.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/a42k8yhRC4FzVpZRuvRhTvDL1jI.jpg",
-    "generos": [
-      "GLOBOPLAY"
-    ],
-    "nota": 9.5,
-    "tmdbId": 218932,
-    "totalTemporadas": 1,
-    "totalEpisodios": 10,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bbb-ta-on.json"
-  },
-  {
-    "id": "beach-life",
-    "tipo": "serie",
-    "titulo": "Beach Life",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pQWdHH0xPU45eFnACpxafgYmSY5.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/r8i1xmk6dFveDUg774ZXxYNIO6c.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": null,
-    "tmdbId": 307616,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beach-life.json"
-  },
-  {
-    "id": "bearbrick",
-    "tipo": "serie",
-    "titulo": "BE@RBRICK",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/8QNmKKMhmjmSlQRtXQ0g1gIu7cM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uTvJ6aErrsVEm7kkirKE9inCu53.jpg",
-    "generos": [
-      "APPLE+"
-    ],
-    "nota": 6,
-    "tmdbId": 225303,
-    "totalTemporadas": 1,
-    "totalEpisodios": 13,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bearbrick.json"
-  },
-  {
-    "id": "beartown",
-    "tipo": "serie",
-    "titulo": "Beartown",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/aZzVvUKpXDAEok1o0pPJOUSaBzs.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gistN9DovbelTJrUggubg839dP5.jpg",
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": 6.5,
-    "tmdbId": 110173,
-    "totalTemporadas": 1,
-    "totalEpisodios": 5,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beartown.json"
-  },
-  {
-    "id": "beast-games",
-    "tipo": "serie",
-    "titulo": "Beast Games",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/cS9OE5qZDpZkUhrOBX6hnGZp1z1.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/p1rQJ5bljPSk3LoCo5UKRkpsiSd.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 7.44,
-    "tmdbId": 249522,
-    "totalTemporadas": 2,
-    "totalEpisodios": 20,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beast-games.json"
-  },
-  {
-    "id": "beat-bugs",
-    "tipo": "serie",
-    "titulo": "Beat Bugs",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wD8ghmK6oV0XxhvZlqI0tO9xIub.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3o6TS09w32v34HLEW0v19JtxL3C.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 5.1,
-    "tmdbId": 67264,
-    "totalTemporadas": 3,
-    "totalEpisodios": 52,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beat-bugs.json"
-  },
-  {
-    "id": "beauty-in-black",
-    "tipo": "serie",
-    "titulo": "Beauty in Black",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/i98Jl46WBpK7ymttNOakowtNuFF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ywJcUIMTCjstPLvvyIiPWP3G3m3.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.723,
-    "tmdbId": 246246,
-    "totalTemporadas": 2,
-    "totalEpisodios": 32,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beauty-in-black.json"
-  },
-  {
-    "id": "bebe-a-bordo",
-    "tipo": "serie",
-    "titulo": "Bebê a Bordo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3fR3JKMrM4sSbpK92PnvpSqmO0w.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/k6TcqCLzR0B0kLm61WFppg3XikZ.jpg",
-    "generos": [
-      "NOVELAS"
-    ],
-    "nota": 6.2,
-    "tmdbId": 43937,
-    "totalTemporadas": 1,
-    "totalEpisodios": 208,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bebe-a-bordo.json"
-  },
-  {
-    "id": "bebe-rena",
-    "tipo": "serie",
-    "titulo": "Bebê Rena",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fJQhUBShLBPSKNzcGg1tf0kHMyo.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2qLYxCyxf4fim0X5OqM5FjZqWXu.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.585,
-    "tmdbId": 241259,
-    "totalTemporadas": 1,
-    "totalEpisodios": 7,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bebe-rena.json"
-  },
-  {
-    "id": "bebes-em-foco",
-    "tipo": "serie",
-    "titulo": "Bebês em Foco",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/m3vDzamSJDHdzMs7RVaPenhJcXi.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/k7jwjVndS4N8DkNk1OytoA26J7W.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.6,
-    "tmdbId": 99103,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bebes-em-foco.json"
-  },
-  {
-    "id": "bebidas-apostas-e-sexo",
-    "tipo": "serie",
-    "titulo": "Bebidas, Apostas e Sexo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nbnyX6jc6a4j07tPjyKVuFVIbs1.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/a4DhFIsFHNZjgY8hOwJtxKnduNr.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 7.5,
-    "tmdbId": 202405,
-    "totalTemporadas": 1,
-    "totalEpisodios": 3,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bebidas-apostas-e-sexo.json"
-  },
-  {
-    "id": "beckham",
-    "tipo": "serie",
-    "titulo": "Beckham",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mEUKVATefTsRP1CMeKp9fVyivo9.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/36eerFUTAkS2VRXzD2DfqemFGsk.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 8.03,
-    "tmdbId": 235345,
-    "totalTemporadas": 1,
-    "totalEpisodios": 4,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beckham.json"
-  },
-  {
-    "id": "beckham-salve-nosso-time",
-    "tipo": "serie",
-    "titulo": "Beckham: Salve Nosso Time",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/9VAWvuIMBXbBTu2m7oGP9ujvrdc.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/bxtN2d7dYEYj59gllOcTQhvdLUm.jpg",
-    "generos": [
-      "DISNEY+"
-    ],
-    "nota": 6.9,
-    "tmdbId": 204667,
-    "totalTemporadas": 1,
-    "totalEpisodios": 4,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beckham-salve-nosso-time.json"
-  },
-  {
-    "id": "becoming-elizabeth",
-    "tipo": "serie",
-    "titulo": "Becoming Elizabeth",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/c8FMSLUGf4YcVLlPZpEWNc9V0wd.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2yGQciaRwKjg8N5iJ7997VrU3mB.jpg",
-    "generos": [
-      "APPLE+"
-    ],
-    "nota": 6.648,
-    "tmdbId": 198085,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/becoming-elizabeth.json"
-  },
-  {
-    "id": "beethoven",
-    "tipo": "serie",
-    "titulo": "Beethoven",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/m9mp31hI22lCCEA7INKIjmGNnby.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cAX1Bl23wAkwSiEyQIQIiBmr63B.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 7.231,
-    "tmdbId": 9805,
-    "totalTemporadas": 1,
-    "totalEpisodios": 13,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beethoven.json"
-  },
-  {
-    "id": "beforeigners-os-visitantes",
-    "tipo": "serie",
-    "titulo": "Beforeigners: Os Visitantes",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/bQsPJa6Y1JNPmeJS6HTSU9MvPwY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rk8nWUkxstXSYCq6M6DNmu2BQF1.jpg",
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": 7.5,
-    "tmdbId": 91520,
-    "totalTemporadas": 2,
-    "totalEpisodios": 12,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beforeigners-os-visitantes.json"
-  },
-  {
-    "id": "behind-cut",
-    "tipo": "serie",
-    "titulo": "Behind Cut",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/vMVpZuEOL3sbU3A7rjWO1LpTyg3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4WDfR9woXoo8azPiyRjJgCdG93U.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 5.281,
-    "tmdbId": 154051,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/behind-cut.json"
-  },
-  {
-    "id": "behind-your-touch",
-    "tipo": "serie",
-    "titulo": "Behind Your Touch",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/h04dFQwpXXDLfFRK6ZONjtR4HDT.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sZvkElBCWiYNpVk3PsFlW64xkBh.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 8.056,
-    "tmdbId": 210107,
-    "totalTemporadas": 1,
-    "totalEpisodios": 16,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/behind-your-touch.json"
-  },
-  {
-    "id": "beijo-explosivo",
-    "tipo": "serie",
-    "titulo": "Beijo Explosivo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5mwXFtzIiSuMq2ja5QFDgtumRWI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 8.109,
-    "tmdbId": 281013,
-    "totalTemporadas": 1,
-    "totalEpisodios": 14,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beijo-explosivo.json"
-  },
-  {
-    "id": "beijo-beijo",
-    "tipo": "serie",
-    "titulo": "Beijo Explosivo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5mwXFtzIiSuMq2ja5QFDgtumRWI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
-    "generos": [
-      "NOVELAS"
-    ],
-    "nota": 8.109,
-    "tmdbId": 281013,
-    "totalTemporadas": 1,
-    "totalEpisodios": 167,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beijo-beijo.json"
-  },
-  {
-    "id": "bel-air",
-    "tipo": "serie",
-    "titulo": "Bel-Air",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nyMSWgmePY4I3rJGcwaXzXhIChf.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/929XdVflzbgQWtKFDOnak3saK0R.jpg",
-    "generos": [
-      "APPLE+"
-    ],
-    "nota": 7.668,
-    "tmdbId": 107365,
-    "totalTemporadas": 4,
-    "totalEpisodios": 38,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bel-air.json"
-  },
-  {
-    "id": "bela-vida",
-    "tipo": "serie",
-    "titulo": "Bela Vida",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/AgpvFGgpvHbdXIWcZ63amnwfVN4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/eXhQLObM4TpGp5wOes1CrknGJXO.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 8.2,
-    "tmdbId": 21297,
-    "totalTemporadas": 1,
-    "totalEpisodios": 11,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bela-vida.json"
-  },
-  {
-    "id": "belas-maldicoes",
-    "tipo": "serie",
-    "titulo": "Belas Maldições",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/43nc7lgrrQIbZQl2NbtWwziQfUd.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dQCKc5NKeKOGAQusk2FdctGB9k5.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 8.027,
-    "tmdbId": 71915,
-    "totalTemporadas": 2,
-    "totalEpisodios": 12,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/belas-maldicoes.json"
-  },
-  {
-    "id": "beleza-fatal",
-    "tipo": "serie",
-    "titulo": "Beleza Fatal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rdeEKPvdDKt5b5lcY3bHsUfrwjU.jpg",
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": 8.2,
-    "tmdbId": 158596,
-    "totalTemporadas": 1,
-    "totalEpisodios": 40,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beleza-fatal.json"
-  },
-  {
-    "id": "beleza-impiedosa",
-    "tipo": "serie",
-    "titulo": "Beleza Impiedosa",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/e1qQxVAoqWy4dvOIUvT5c6VF21P.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rUPEyE6MIoVfjn0I26c16DP7BfX.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 5.4,
-    "tmdbId": 197427,
-    "totalTemporadas": 2,
-    "totalEpisodios": 12,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beleza-impiedosa.json"
-  },
-  {
-    "id": "beleza-interior",
-    "tipo": "serie",
-    "titulo": "Beleza Interior",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7m749yHjdjQ7OBrK7soe6O1QIGy.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3HL1KVYqAclZgj2mPqHwIqeyeiB.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 7.861,
-    "tmdbId": 82237,
-    "totalTemporadas": 1,
-    "totalEpisodios": 16,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beleza-interior.json"
-  },
-  {
-    "id": "beleza-pura",
-    "tipo": "serie",
-    "titulo": "Beleza Pura",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jLbQtAZVtUpztZFutF4AaKoz0b7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rfAWkSnZDcozhLMu4aAM69GY5yI.jpg",
-    "generos": [
-      "NOVELAS"
-    ],
-    "nota": 8,
-    "tmdbId": 20945,
-    "totalTemporadas": 1,
-    "totalEpisodios": 179,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beleza-pura.json"
-  },
-  {
-    "id": "beleza-sombrias",
-    "tipo": "serie",
-    "titulo": "Beleza Sombrias",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/sjkyrNwmsGBg2p57JZl6lTwt3iq.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4rETHRY7Auwz50x2uV16xfQIXiR.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 7.6,
-    "tmdbId": 137408,
-    "totalTemporadas": 1,
-    "totalEpisodios": 13,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beleza-sombrias.json"
-  },
-  {
-    "id": "beleza-verdadeira",
-    "tipo": "serie",
-    "titulo": "Beleza Verdadeira",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/g7ocbs1UieVybM3kypqXBfPczaL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 8.253,
-    "tmdbId": 112888,
-    "totalTemporadas": 1,
-    "totalEpisodios": 16,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beleza-verdadeira.json"
-  },
-  {
-    "id": "belgravia",
-    "tipo": "serie",
-    "titulo": "Belgravia",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/glwPmxzDI3cbHOeFvHVohLpbcDb.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/f9WQu8jcW3fXyyWQatJl1DW7glK.jpg",
-    "generos": [
-      "GLOBOPLAY"
-    ],
-    "nota": 6.983,
-    "tmdbId": 85862,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/belgravia.json"
-  },
-  {
-    "id": "belissima",
-    "tipo": "serie",
-    "titulo": "Belíssima",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yViZbC40QzZ8uYZhHHVS185N3W2.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/j7MCsJOJf50zaOWWVCn1IeVhE78.jpg",
-    "generos": [
-      "NOVELAS"
-    ],
-    "nota": 5.5,
-    "tmdbId": 42886,
-    "totalTemporadas": 1,
-    "totalEpisodios": 209,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/belissima.json"
-  },
-  {
-    "id": "bella-e-os-bulldogs",
-    "tipo": "serie",
-    "titulo": "Bella e os Bulldogs",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tiVLc4ICHDq68C6Z5v24ggAhCHa.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gxbkD5VT4wUf9ModAwAQWt3wVun.jpg",
-    "generos": [
-      "PARAMOUNT+"
-    ],
-    "nota": 7.713,
-    "tmdbId": 62725,
-    "totalTemporadas": 2,
-    "totalEpisodios": 40,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bella-e-os-bulldogs.json"
-  },
-  {
-    "id": "belo-perto-demais-da-luz",
-    "tipo": "serie",
-    "titulo": "Belo: Perto Demais da Luz",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/grl37soCx4hzRQSIdCCu0J0XQoi.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wCLFDMPq4OAT4JWQGn5ydDoH3xp.jpg",
-    "generos": [
-      "GLOBOPLAY"
-    ],
-    "nota": null,
-    "tmdbId": 278364,
-    "totalTemporadas": 1,
-    "totalEpisodios": 4,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/belo-perto-demais-da-luz.json"
-  },
-  {
-    "id": "bem-juntinhos",
-    "tipo": "serie",
-    "titulo": "Bem Juntinhos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/u1Y5bJ2PLgeTBgayRVOFVmbSKNY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fOM2w0rsu1o4LPYAu8VhmHOGNZR.jpg",
-    "generos": [
-      "GLOBOPLAY"
-    ],
-    "nota": 3.5,
-    "tmdbId": 126510,
-    "totalTemporadas": 2,
-    "totalEpisodios": 23,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bem-juntinhos.json"
-  },
-  {
-    "id": "bem-vindos-a-australia",
-    "tipo": "serie",
-    "titulo": "Bem-Vindos à Austrália",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/aUGfSkKDmldCnmOjlesgkqP2uGO.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/it34RMnArwzl38hoAtgXfCkkqpX.jpg",
-    "generos": [
-      "DISNEY+"
-    ],
-    "nota": 6.865,
-    "tmdbId": 204999,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bem-vindos-a-australia.json"
-  },
-  {
-    "id": "bem-vindo-a-familia-plath",
-    "tipo": "serie",
-    "titulo": "Bem-vindo à Família Plath",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jKNKJn94n1pQq5aGEweXTXpsIhj.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/viGlagunKQtGGk4LSuFrl2Gz6Nc.jpg",
-    "generos": [
-      "DISCOVERY+"
-    ],
-    "nota": 7.3,
-    "tmdbId": 95574,
-    "totalTemporadas": 6,
-    "totalEpisodios": 67,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bem-vindo-a-familia-plath.json"
-  },
-  {
-    "id": "bem-vindos-a-terra",
-    "tipo": "serie",
-    "titulo": "Bem-vindos à Terra",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6tJMH9Qjbefj5kLoIeNcyR6Z4Ep.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/be8s04cLyXXEqjBT24YPYdDSZKB.jpg",
-    "generos": [
-      "DISNEY+"
-    ],
-    "nota": 7.631,
-    "tmdbId": 127700,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bem-vindos-a-terra.json"
-  },
-  {
-    "id": "bem-vindos-a-vizinhanca",
-    "tipo": "serie",
-    "titulo": "Bem-Vindos à Vizinhança",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fBtK4Tp5LWlflJhvGTNyBCStFW4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/bebZzFw1mBzF9UwCO3ocW0PIIby.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.098,
-    "tmdbId": 210232,
-    "totalTemporadas": 1,
-    "totalEpisodios": 7,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bem-vindos-a-vizinhanca.json"
-  },
-  {
-    "id": "bem-vindos-ao-clube-da-seducao",
-    "tipo": "serie",
-    "titulo": "Bem-Vindos ao Clube da Sedução",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/n7Xfm5ueePQGDsQadtc0AJCfkPC.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kHSQr6JVwEGOQmGOvseuNPA3lNT.jpg",
-    "generos": [
-      "STAR+"
-    ],
-    "nota": 6.476,
-    "tmdbId": 130567,
-    "totalTemporadas": 1,
-    "totalEpisodios": 7,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bem-vindos-ao-clube-da-seducao.json"
-  },
-  {
-    "id": "bem-vindos-ao-eden",
-    "tipo": "serie",
-    "titulo": "Bem-vindos ao Éden",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ejUOfJo3N2sPKAeK4mUFRMZigdJ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/aScn0gmLiwfz8fGSm8nwAPgo0pD.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 6.998,
-    "tmdbId": 128010,
-    "totalTemporadas": 2,
-    "totalEpisodios": 16,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bem-vindos-ao-eden.json"
-  },
-  {
-    "id": "bem-vindos-ao-wrexham",
-    "tipo": "serie",
-    "titulo": "Bem-vindos ao Wrexham",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/s7RjBhxEqvXYCNNs6rMi6VGwQ27.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/t0k2nlqfVMceFJFsKukPRm7ZKm3.jpg",
-    "generos": [
-      "STAR+"
-    ],
-    "nota": 7.8,
-    "tmdbId": 126929,
-    "totalTemporadas": 1,
-    "totalEpisodios": 17,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bem-vindos-ao-wrexham.json"
-  },
-  {
-    "id": "ben-10",
-    "tipo": "serie",
-    "titulo": "Ben 10",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7r8QhyqYu2Ini3BlOtjl7jKRiuG.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/eIRe2cNOhvwPPtGDjFVEXGaMkVg.jpg",
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": 8.161,
-    "tmdbId": 4686,
-    "totalTemporadas": 4,
-    "totalEpisodios": 52,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/ben-10.json"
-  },
-  {
-    "id": "ben-10-forca-alienigena",
-    "tipo": "serie",
-    "titulo": "Ben 10: Força Alienígena",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/h49Jc6onlySVTI2Tb9HFxr0exfV.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3RB6hSf5Fy8yMaAP27c5Oty498P.jpg",
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": 8.305,
-    "tmdbId": 6040,
-    "totalTemporadas": 3,
-    "totalEpisodios": 46,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/ben-10-forca-alienigena.json"
-  },
-  {
-    "id": "ben-10-omniverse",
-    "tipo": "serie",
-    "titulo": "Ben 10: Omniverse",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/Re9I5tauOspaJxYCIqRqavKT4F.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2FCDydVqTYsIO0d16DT32nxm7g8.jpg",
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": 8.253,
-    "tmdbId": 46922,
-    "totalTemporadas": 8,
-    "totalEpisodios": 80,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/ben-10-omniverse.json"
-  },
-  {
-    "id": "ben-10-supremacia-alienigena",
-    "tipo": "serie",
-    "titulo": "Ben 10: Supremacia Alienígena",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kP5ymRF6kFvox4CFJCEBK0NnSLq.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/oGEF6kQLGsreSrUtcKg4F2p1Bqz.jpg",
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": 8.222,
-    "tmdbId": 31109,
-    "totalTemporadas": 3,
-    "totalEpisodios": 52,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/ben-10-supremacia-alienigena.json"
-  },
-  {
-    "id": "ben-hur",
-    "tipo": "serie",
-    "titulo": "Ben-Hur",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ejsJlDNpZDAKJN1ERa0zrz6MRHA.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jlY6Fh3O1pU9UwIwTlcOJeLIkIB.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 6.3,
-    "tmdbId": 40360,
-    "totalTemporadas": 1,
-    "totalEpisodios": 2,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/ben-hur.json"
-  },
-  {
-    "id": "berco-de-ouro",
-    "tipo": "serie",
-    "titulo": "Berço de Ouro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wymyH1yg2AeajEy98BQK1IMj1Md.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tiDVZL3INFjGTbcGhRnLnmmNtKE.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 5.865,
-    "tmdbId": 278009,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/berco-de-ouro.json"
-  },
-  {
-    "id": "berlim",
-    "tipo": "serie",
-    "titulo": "Berlim",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/aOv5c4PJmQn3sBdrGVThVIyxQpH.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wJxZLiPbXrU601c6e9A6kYLejso.jpg",
-    "generos": [
-      "DISCOVERY+"
-    ],
-    "nota": 7.6,
-    "tmdbId": 146176,
-    "totalTemporadas": 1,
-    "totalEpisodios": 3,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/berlim.json"
-  },
-  {
-    "id": "berlim-e-a-dama-com-arminho",
-    "tipo": "serie",
-    "titulo": "Berlim e a Dama com Arminho",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/m88fQoaNmGmHIzM3o21f6IrocTk.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ntPgSYKwPg9xKO4VvLJYfInSyZa.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 8.312,
-    "tmdbId": 308014,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/berlim-e-a-dama-com-arminho.json"
-  },
-  {
-    "id": "betaal",
-    "tipo": "serie",
-    "titulo": "Betaal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/87nmt1R1W34fNOb31fvDnw15fUa.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tPUEME9NpRo4l3lxdVJRwp5stx5.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 6.489,
-    "tmdbId": 103759,
-    "totalTemporadas": 1,
-    "totalEpisodios": 4,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/betaal.json"
-  },
-  {
-    "id": "betinho-no-fio-da-navalha",
-    "tipo": "serie",
-    "titulo": "Betinho: No Fio da Navalha",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yPij9AR7HxDptwsJ1qXpcNdanzF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6uvYRcx5fKptUkJr3E41NwtnX8Q.jpg",
-    "generos": [
-      "GLOBOPLAY"
-    ],
-    "nota": 8.5,
-    "tmdbId": 217332,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/betinho-no-fio-da-navalha.json"
-  },
-  {
-    "id": "better-call-saul",
-    "tipo": "serie",
-    "titulo": "Better Call Saul",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tFCPd8nOqrxjKpTs0ZAdPRydQFR.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/og2jKploGHYnCz68vV1nRSEE0xV.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 8.705,
-    "tmdbId": 60059,
-    "totalTemporadas": 6,
-    "totalEpisodios": 63,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/better-call-saul.json"
-  },
-  {
-    "id": "better-than-us",
-    "tipo": "serie",
-    "titulo": "Better Than Us",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kSR1CHppmm8YZu458QFyOjb3Guh.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sgKWm5B1SjlhxQJpsJpT1IEwUtR.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.375,
-    "tmdbId": 84380,
-    "totalTemporadas": 1,
-    "totalEpisodios": 16,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/better-than-us.json"
-  },
-  {
-    "id": "betty-a-feia-a-historia-continua",
-    "tipo": "serie",
-    "titulo": "Betty, A Feia - A História Continua",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1ke3hmcDMfSObDuZvwwKBpuBUn6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/l8IOzjaS1YvlfxDXsMhgAJnxld0.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 7.514,
-    "tmdbId": 230424,
-    "totalTemporadas": 2,
-    "totalEpisodios": 20,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/betty-a-feia-a-historia-continua.json"
-  },
-  {
-    "id": "betty-em-nova-york",
-    "tipo": "serie",
-    "titulo": "Betty em Nova York",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jkML2CvCbK1WPPGqx8ch2X6VtHQ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/e33MQuDUKGc4EpgeVmXx1EHHeWj.jpg",
-    "generos": [
-      "NOVELAS"
-    ],
-    "nota": 8.091,
-    "tmdbId": 86189,
-    "totalTemporadas": 1,
-    "totalEpisodios": 123,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/betty-em-nova-york.json"
-  },
-  {
-    "id": "between",
-    "tipo": "serie",
-    "titulo": "Between",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uO5dfkfesnbtJIOMmcGfzfhYNZy.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2NLDJWhfPavWzjkQQXNthvNeQaU.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 5.877,
-    "tmdbId": 62433,
-    "totalTemporadas": 2,
-    "totalEpisodios": 12,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/between.json"
-  },
-  {
-    "id": "between-lands",
-    "tipo": "serie",
-    "titulo": "Entre tierras",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/9CoArNRTXUxiaGvR8CUX59jRB6k.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/hw3B0x3oNybeaJKZoJdlgELQFsW.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.197,
-    "tmdbId": 233592,
-    "totalTemporadas": 1,
-    "totalEpisodios": 10,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/between-lands.json"
-  },
-  {
-    "id": "beyblade",
-    "tipo": "serie",
-    "titulo": "Beyblade X",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/66wkm14IWdrY5LaKZDAbkD2T9Jt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6OAvlyDxLhfxxPB9Mn9w43EaR3N.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 6.8,
-    "tmdbId": 226688,
-    "totalTemporadas": 1,
-    "totalEpisodios": 51,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beyblade.json"
-  },
-  {
-    "id": "beyblade-burst",
-    "tipo": "serie",
-    "titulo": "Beyblade Burst",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/j0meXFRhxwk13yUaLBSUtqOwx7I.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 8.25,
-    "tmdbId": 67667,
-    "totalTemporadas": 1,
-    "totalEpisodios": 51,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beyblade-burst.json"
-  },
-  {
-    "id": "beyblade-burst-rise",
-    "tipo": "serie",
-    "titulo": "Beyblade Burst",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/j0meXFRhxwk13yUaLBSUtqOwx7I.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 8.25,
-    "tmdbId": 67667,
-    "totalTemporadas": 1,
-    "totalEpisodios": 26,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beyblade-burst-rise.json"
-  },
-  {
-    "id": "beyblade-burst-surge",
-    "tipo": "serie",
-    "titulo": "Beyblade Burst",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/j0meXFRhxwk13yUaLBSUtqOwx7I.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 8.25,
-    "tmdbId": 67667,
-    "totalTemporadas": 1,
-    "totalEpisodios": 26,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beyblade-burst-surge.json"
-  },
-  {
-    "id": "beyblade-burst-turbo",
-    "tipo": "serie",
-    "titulo": "Beyblade Burst",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/j0meXFRhxwk13yUaLBSUtqOwx7I.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 8.25,
-    "tmdbId": 67667,
-    "totalTemporadas": 1,
-    "totalEpisodios": 51,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beyblade-burst-turbo.json"
-  },
-  {
-    "id": "beyblade-metal-fusion",
-    "tipo": "serie",
-    "titulo": "Beyblade: Metal Fusion",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/8WWTb5sVADcxar0RXUJRE4XBB5L.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dHQ6u5nRMCHGHLCl220iCah6jX0.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 7.4,
-    "tmdbId": 37807,
-    "totalTemporadas": 1,
-    "totalEpisodios": 51,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beyblade-metal-fusion.json"
-  },
-  {
-    "id": "beyblade-x",
-    "tipo": "serie",
-    "titulo": "Beyblade X",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/66wkm14IWdrY5LaKZDAbkD2T9Jt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6OAvlyDxLhfxxPB9Mn9w43EaR3N.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 6.8,
-    "tmdbId": 226688,
-    "totalTemporadas": 1,
-    "totalEpisodios": 51,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/beyblade-x.json"
-  },
-  {
-    "id": "bicampeas",
-    "tipo": "serie",
-    "titulo": "Bicampeãs",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7xuYyTqM3TMvu8sg7blDRJPHzKq.jpg",
-    "generos": [
-      "GLOBOPLAY"
-    ],
-    "nota": null,
-    "tmdbId": 259389,
-    "totalTemporadas": 1,
-    "totalEpisodios": 3,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bicampeas.json"
-  },
-  {
-    "id": "biduzidos",
-    "tipo": "serie",
-    "titulo": "Biduzidos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/phrRoWxoOZTlZxy1V2MDtIfvGgL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/oKTRGdkKd08sS8dwhXFlKswaYmS.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": null,
-    "tmdbId": 101270,
-    "totalTemporadas": 1,
-    "totalEpisodios": 1,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/biduzidos.json"
-  },
-  {
-    "id": "big-bang-a-teoria",
-    "tipo": "serie",
-    "titulo": "Big Bang: A Teoria",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1oODZKc1dpQZvtZPaZVWR11dzEI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gMqQY6SwuhKg1LvmiTxKX6YrINr.jpg",
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": 7.915,
-    "tmdbId": 1418,
-    "totalTemporadas": 12,
-    "totalEpisodios": 279,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/big-bang-a-teoria.json"
-  },
-  {
-    "id": "big-blue-o-grande-oceano",
-    "tipo": "serie",
-    "titulo": "Big Blue: O Grande Oceano",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/si7lEf4yMaVw3IwRUnjvyq4mdXd.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3dKyQL6ntyxQYhgXrgEISFpyQ2D.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 10,
-    "tmdbId": 210872,
-    "totalTemporadas": 1,
-    "totalEpisodios": 52,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/big-blue-o-grande-oceano.json"
-  },
-  {
-    "id": "big-brother-brasil",
-    "tipo": "serie",
-    "titulo": "Big Brother Brasil",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7n7uoEiIcpZkEFNZ83PFPrQzoaR.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/A64iMIhJNGGnfmQvVFJbrhiT7m5.jpg",
-    "generos": [
-      "GLOBOPLAY"
-    ],
-    "nota": 4.7,
-    "tmdbId": 19653,
-    "totalTemporadas": 3,
-    "totalEpisodios": 294,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/big-brother-brasil.json"
-  },
-  {
-    "id": "big-brother-brasil-a-eliminacao",
-    "tipo": "serie",
-    "titulo": "Big Brother Brasil: A Eliminação",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hLpMcLL96VG8S8BSrKVbLVUkczI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lzMmhbDNCa3Lh84zEizTXqlmdvj.jpg",
-    "generos": [
-      "GLOBOPLAY"
-    ],
-    "nota": null,
-    "tmdbId": 125006,
-    "totalTemporadas": 1,
-    "totalEpisodios": 16,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/big-brother-brasil-a-eliminacao.json"
-  },
-  {
-    "id": "big-little-brawlers",
-    "tipo": "serie",
-    "titulo": "Pequenos Grandes Lutadores",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/bp0r9LrZeC4Rd0D4BBKnl1sIEYO.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uCH4yhBUlyT0zr2918QIVqsveOx.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 8,
-    "tmdbId": 241568,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/big-little-brawlers.json"
-  },
-  {
-    "id": "big-little-lies",
-    "tipo": "serie",
-    "titulo": "Big Little Lies",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tlyvx2sgSdDgxP1a9JLMngOpOGG.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8Wo2Pqjxn7Xmd7p2dxRMIJtyMV7.jpg",
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": 7.879,
-    "tmdbId": 66292,
-    "totalTemporadas": 2,
-    "totalEpisodios": 14,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/big-little-lies.json"
-  },
-  {
-    "id": "big-mouth",
-    "tipo": "serie",
-    "titulo": "Big Mouth",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wK4wmV6ruhShWcbFzp59JETAjaz.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uM6WJodeCyTp7h7NhE4rgd0RbRZ.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.633,
-    "tmdbId": 74204,
-    "totalTemporadas": 8,
-    "totalEpisodios": 81,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/big-mouth.json"
-  },
-  {
-    "id": "big-mouth-de-vigarista-a-vingador",
-    "tipo": "serie",
-    "titulo": "Big Mouth: De Vigarista a Vingador",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iZOUjCzZdfQDvxaCqZZy5Vp4m90.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ztLZyHlC892o7lp5jIf4Y1hRnRO.jpg",
-    "generos": [
-      "STAR+"
-    ],
-    "nota": 8.3,
-    "tmdbId": 155226,
-    "totalTemporadas": 1,
-    "totalEpisodios": 16,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/big-mouth-de-vigarista-a-vingador.json"
-  },
-  {
-    "id": "big-nate",
-    "tipo": "serie",
-    "titulo": "Big Nate",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mvo5zgYvcvH0XscuSu4MLg6UlCw.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/eYCX1LDRhTiqHFmbxkVFgksJpF5.jpg",
-    "generos": [
-      "PARAMOUNT+"
-    ],
-    "nota": 8.1,
-    "tmdbId": 153528,
-    "totalTemporadas": 2,
-    "totalEpisodios": 36,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/big-nate.json"
-  },
-  {
-    "id": "big-shot-treinador-de-elite",
-    "tipo": "serie",
-    "titulo": "Big Shot: Treinador de Elite",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/AoKpuxNBahqi9bHDgVUtAfUB5RS.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/oNw5yVJLF8ouKHjXZlIVhseVcyv.jpg",
-    "generos": [
-      "DISNEY+"
-    ],
-    "nota": 7.921,
-    "tmdbId": 96716,
-    "totalTemporadas": 2,
-    "totalEpisodios": 20,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/big-shot-treinador-de-elite.json"
-  },
-  {
-    "id": "big-sky",
-    "tipo": "serie",
-    "titulo": "Big Sky",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4CUK42x0TvcWvuRXfjAFQlCeRdf.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qdZCF4FXQwOgkd8PIIQelbDqAYO.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 7.236,
-    "tmdbId": 100010,
-    "totalTemporadas": 3,
-    "totalEpisodios": 46,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/big-sky.json"
-  },
-  {
-    "id": "big-time-rush",
-    "tipo": "serie",
-    "titulo": "Big Time Rush",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/34y5JjZYj2paoxA0RXEppU5LRpb.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vctELFdxJdQBtgPlJFiF6aNnUcQ.jpg",
-    "generos": [
-      "PARAMOUNT+"
-    ],
-    "nota": 8.573,
-    "tmdbId": 31356,
-    "totalTemporadas": 4,
-    "totalEpisodios": 69,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/big-time-rush.json"
-  },
-  {
-    "id": "big-vape-the-rise-and-fall-of-juul",
-    "tipo": "serie",
-    "titulo": "Big Vape",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dI0kGcAZ3SLikVYmfxkkdbKa68d.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/63M5fAvpzQmVkGG0uTOpKSuURK5.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 6.8,
-    "tmdbId": 235540,
-    "totalTemporadas": 1,
-    "totalEpisodios": 4,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/big-vape-the-rise-and-fall-of-juul.json"
-  },
-  {
-    "id": "bill-russell-lenda-da-nba",
-    "tipo": "serie",
-    "titulo": "Bill Russell: Lenda da NBA",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xF0VXgGjivK05HNjcfV1X5ZZ76M.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sgQ2TAKFh2yRoULfAtXpEoN08A2.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.2,
-    "tmdbId": 220030,
-    "totalTemporadas": 1,
-    "totalEpisodios": 2,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bill-russell-lenda-da-nba.json"
-  },
-  {
-    "id": "billions",
-    "tipo": "serie",
-    "titulo": "Billions",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/edwYPQdZE998d748AdwWLsfy0rl.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/51Hw58fMwJQKYJ6XYJIRQBP9EPA.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.745,
-    "tmdbId": 62852,
-    "totalTemporadas": 7,
-    "totalEpisodios": 84,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/billions.json"
-  },
-  {
-    "id": "billy-the-kid",
-    "tipo": "serie",
-    "titulo": "Billy the Kid",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hwPPA0sqlU9kGRHDDyl4cVp4Vum.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wk00DBQ4hmAInKSDw4s7eX3jCAj.jpg",
-    "generos": [
-      "PARAMOUNT+"
-    ],
-    "nota": 7.618,
-    "tmdbId": 138971,
-    "totalTemporadas": 3,
-    "totalEpisodios": 24,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/billy-the-kid.json"
-  },
-  {
-    "id": "biohackers",
-    "tipo": "serie",
-    "titulo": "Biohackers",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xjcOhP2ETe8q3Zm0aIiKWJyp85x.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3N85J8xXehqLp17P9zCImgOf0u1.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.257,
-    "tmdbId": 100074,
-    "totalTemporadas": 2,
-    "totalEpisodios": 12,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/biohackers.json"
-  },
-  {
-    "id": "biologia-avancada",
-    "tipo": "serie",
-    "titulo": "Biologia Avançada",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/9fXt7kxYYrU5Vz2Diw0McFNaggD.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/t1EBs3EqB69DaA0SJLFZqanuPyq.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 6.899,
-    "tmdbId": 71737,
-    "totalTemporadas": 3,
-    "totalEpisodios": 34,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/biologia-avancada.json"
-  },
-  {
-    "id": "birdgirl",
-    "tipo": "serie",
-    "titulo": "Birdgirl",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/vL4O0WQG4P4O8MpbmIRrVUFNMGC.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zc0mxafWd2q99E5UCXcyXNn6U7M.jpg",
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": 5.792,
-    "tmdbId": 122486,
-    "totalTemporadas": 2,
-    "totalEpisodios": 12,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/birdgirl.json"
-  },
-  {
-    "id": "bitch",
-    "tipo": "serie",
-    "titulo": "Boo, Bitch",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/b3zagQAHUUePg29xjp9SYoxtsv7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ttmsbW7t6CPrx85mOUFppWKu9hR.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.3,
-    "tmdbId": 132188,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bitch.json"
-  },
-  {
-    "id": "bizaardvark",
-    "tipo": "serie",
-    "titulo": "Bizaardvark",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/r3zf9m6nvK55KhMukTqAg5rVEW7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7AsO1EES3cxHSiAHK8rNxbKYBYt.jpg",
-    "generos": [
-      "DISNEY+"
-    ],
-    "nota": 7.276,
-    "tmdbId": 66456,
-    "totalTemporadas": 1,
-    "totalEpisodios": 20,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bizaardvark.json"
-  },
-  {
-    "id": "black-bird",
-    "tipo": "serie",
-    "titulo": "Black Bird",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qu312pwM61NPTr7nexvovCClDNP.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/o2C222QdW4dmoyd2dgPlnCcI3cW.jpg",
-    "generos": [
-      "APPLE+"
-    ],
-    "nota": 8.064,
-    "tmdbId": 155537,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/black-bird.json"
-  },
-  {
-    "id": "black-box",
-    "tipo": "serie",
-    "titulo": "Black Box",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/bjfxUhq0IflP9OOsZ19SOVAmhDR.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/q6zzFyRcpNTkcsQgGUg4reRm7Fp.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 6.4,
-    "tmdbId": 51675,
-    "totalTemporadas": 1,
-    "totalEpisodios": 13,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/black-box.json"
-  },
-  {
-    "id": "black-clover",
-    "tipo": "serie",
-    "titulo": "Black Clover",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/p3rUhlE81nWxPqpPR8F2u7a01Tl.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": 8.497,
-    "tmdbId": 73223,
-    "totalTemporadas": 4,
-    "totalEpisodios": 170,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/black-clover.json"
-  },
-  {
-    "id": "black-doves",
-    "tipo": "serie",
-    "titulo": "Black Doves",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/2eZNjPQ9f0TQDHpsL2Ecktsv5v6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/hP5pMJfxbY9p72LgEY6j9qGidtE.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.061,
-    "tmdbId": 225385,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/black-doves.json"
-  },
-  {
-    "id": "black-dynamite",
-    "tipo": "serie",
-    "titulo": "Black Dynamite",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/o1E5J4QQ3ATBpns69LR5FQy1QJI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fyborNmaXj3CujrDmcm6tcOzoUZ.jpg",
-    "generos": [
-      "HBO MAX"
-    ],
-    "nota": 7.632,
-    "tmdbId": 40064,
-    "totalTemporadas": 1,
-    "totalEpisodios": 10,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/black-dynamite.json"
-  },
-  {
-    "id": "black-earth-rising",
-    "tipo": "serie",
-    "titulo": "Black Earth Rising",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/77MPYFMYiMi0PFXk1Kr5Nv9yaO7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wikVrWQckbFT1ukTAQLPjU3PfAH.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 6.4,
-    "tmdbId": 82209,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/black-earth-rising.json"
-  },
-  {
-    "id": "black-ish",
-    "tipo": "serie",
-    "titulo": "Black-ish",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ga1zJ6UejPIfyL8BA22pK6dqsC8.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/52qTID1ckURhq8MFaV0x7ISRFiE.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 7.133,
-    "tmdbId": 61381,
-    "totalTemporadas": 7,
-    "totalEpisodios": 153,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/black-ish.json"
-  },
-  {
-    "id": "black-kamen-rider",
-    "tipo": "serie",
-    "titulo": "Kamen Rider Black RX",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yVWzqaM9jBDFEqoGWYzmVJkQWC8.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/duSyAosVux4YgwJxbC9nRvxNFhL.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 9.2,
-    "tmdbId": 274922,
-    "totalTemporadas": 1,
-    "totalEpisodios": 51,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/black-kamen-rider.json"
   }
 ]

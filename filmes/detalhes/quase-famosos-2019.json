@@ -5,6 +5,7 @@
   "ano": 2019,
   "descricao": "A banda “The Electrifiers” já teve seus dias de glória na década de 1980, com uma música que fez muito sucesso, mas da qual ninguém se lembra mais. Hoje em dia, os integrantes continuam sonhando com uma carreira internacional, mas se arrastam entre shows em asilos e pousadas baratas.",
   "generos": [
+    "LEGENDADOS",
     "COMÉDIA"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/bm7mBtoJWienvwsfskulrJXOr5P.jpg",
@@ -13,6 +14,13 @@
   "nota": 3.7,
   "opcoes": [
     {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050362,
+      "container": "mp4"
+    },
+    {
       "nome": "Padrão",
       "idioma": "Não informado",
       "qualidade": "Não informado",
@@ -20,7 +28,7 @@
       "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1779190455,
+  "dataCriacaoXtream": 1779196926,
   "tituloOriginal": "המחשמלים",
   "dataLancamento": "2019-11-07"
 }

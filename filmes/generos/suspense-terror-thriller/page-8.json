@@ -1,5 +1,137 @@
 [
   {
+    "id": "sharknado-2-a-segunda-onda",
+    "tipo": "filme",
+    "titulo": "Sharknado 2: A Segunda Onda",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uguzkptzBLzwse1LENsAXTU9LEV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xmBJ9nezUteqowdYfrW8383LHd9.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 4.55,
+    "tmdbId": 248504,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sharknado-2-a-segunda-onda.json"
+  },
+  {
+    "id": "shortcut",
+    "tipo": "filme",
+    "titulo": "Atalho",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7u88jLFC1VCWZoIKoWbHdWG1Abm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jN8fHS0FtK1GIOSQZOjp66GcG5w.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.281,
+    "tmdbId": 684684,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/shortcut.json"
+  },
+  {
+    "id": "sick",
+    "tipo": "filme",
+    "titulo": "Isolamento Mortal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tDXYFCA3EAvYiZLAgvTYBHKZ1YG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ve3RLbCSuUKA02OZJ5F0fMmXVMn.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 6.152,
+    "tmdbId": 829410,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sick.json"
+  },
+  {
+    "id": "siembamba-a-cancao-do-mal",
+    "tipo": "filme",
+    "titulo": "Siembamba: A Canção do Mal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mAxA7PqMyMiTQhMUVkXmTGvuJiV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yagE1bdjECdEVxPz3rma7B7EKKI.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.9,
+    "tmdbId": 480603,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/siembamba-a-cancao-do-mal.json"
+  },
+  {
+    "id": "silent-hill",
+    "tipo": "filme",
+    "titulo": "Terror em Silent Hill: Regresso Para o Inferno",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5ZDqTM0ZP3ypmFivTeAnHslV6mY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.331,
+    "tmdbId": 680493,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/silent-hill.json"
+  },
+  {
+    "id": "sin-city-a-cidade-do-pecado",
+    "tipo": "filme",
+    "titulo": "Sin City: A Cidade do Pecado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sN6Fluw4uOslV6lkTd4mZNVUQcB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/t9kQnqiaxQ8TLB25rTzDKLd0fdM.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 7.463,
+    "tmdbId": 187,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sin-city-a-cidade-do-pecado.json"
+  },
+  {
+    "id": "sinais",
+    "tipo": "filme",
+    "titulo": "Sinais",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/96XBFBnH9PlGnxBWjA0U25PemVW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rsPjEr7o02mo8ex6wD2PbRwasUe.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.698,
+    "tmdbId": 2675,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sinais.json"
+  },
+  {
+    "id": "sinfonia-do-mal",
+    "tipo": "filme",
+    "titulo": "O Concerto Maldito, Sinfonia do Mal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/28B3s9T3ZqmIeaZdooZgh2CK3rX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4DTAYsk9ZzJPQJDHieRjYwHzU8q.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 5.2,
+    "tmdbId": 845643,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sinfonia-do-mal.json"
+  },
+  {
+    "id": "sinistro-a-maldicao-do-lobisomem",
+    "tipo": "filme",
+    "titulo": "Sinistro - A Maldição do Lobisomem",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nuOcojYbazZAYvZX47sZCuQfpEz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rxf3zpKOxQTc0xobKewnGpFdNUt.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.375,
+    "tmdbId": 222461,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sinistro-a-maldicao-do-lobisomem.json"
+  },
+  {
     "id": "skinamarink-cancao-de-ninar",
     "tipo": "filme",
     "titulo": "Skinamarink: Canção de Ninar",
@@ -2893,6 +3025,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/dCdXagFYR7WwaHuVmZgzw4F0KpP.jpg",
     "banner": "https://image.tmdb.org/t/p/original/onq6lsJLX8ay5iwxEbKX3qJKeO9.jpg",
     "generos": [
+      "LEGENDADOS",
       "SUSPENSE | TERROR | THRILLER"
     ],
     "nota": 7.3,
@@ -3642,6 +3775,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/ld9ciaBKcNB1Dl7YncfhHKLgBgl.jpg",
     "banner": "https://image.tmdb.org/t/p/original/opNdWurarqYxrzqpVRPyZrbWb3K.jpg",
     "generos": [
+      "LEGENDADOS",
       "SUSPENSE | TERROR | THRILLER",
       "LANÇAMENTOS"
     ],
@@ -3657,6 +3791,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/gsOyXyBWMtzXXRQ3PVLSk8Fsvz5.jpg",
     "banner": "https://image.tmdb.org/t/p/original/hwzBIfrje4mGYC1WiPGee2ZDYI6.jpg",
     "generos": [
+      "LEGENDADOS",
       "SUSPENSE | TERROR | THRILLER"
     ],
     "nota": 5.552,
@@ -4287,39 +4422,5 @@
     "nota": 7.26,
     "tmdbId": 19908,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zumbilandia.json"
-  },
-  {
-    "id": "zumbilandia-atire-duas-vezes",
-    "tipo": "filme",
-    "titulo": "Zumbilândia: Atire Duas Vezes",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/x8T7xy6usNhTWphfQTH7vmr4tOC.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/e7tMI0zVKJB2TS74TaBifIZIkCp.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER",
-      "4K"
-    ],
-    "nota": 6.901,
-    "tmdbId": 338967,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zumbilandia-atire-duas-vezes.json"
-  },
-  {
-    "id": "",
-    "tipo": "filme",
-    "titulo": "Mass Jathara",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qvSyQdI2Mlpa5X7dRDBmIi30oHT.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9jiqrAgC9DoWKte8qc5gis0fWem.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER",
-      "AÇÃO | CRIME | GUERRA",
-      "ANIMES",
-      "AVENTURA | FICÇÃO | FANTASIA",
-      "LANÇAMENTOS"
-    ],
-    "nota": 4.3,
-    "tmdbId": 1381405,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/.json"
   }
 ]

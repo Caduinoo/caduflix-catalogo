@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Um jovem paquistanês está perseguindo o sucesso corporativo em Wall Street. Ele se vê envolvido em um conflito entre seu sonho americano, uma crise de reféns e o chamado permanente da terra natal de sua família.",
   "generos": [
+    "LEGENDADOS",
     "SUSPENSE | TERROR | THRILLER"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/kNcnCQdwaIDqz1bpcQvrrcetsGV.jpg",
@@ -12,6 +13,13 @@
   "tmdbId": 121677,
   "nota": 6.6,
   "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050519,
+      "container": "mp4"
+    },
     {
       "nome": "Padrão",
       "idioma": "Não informado",

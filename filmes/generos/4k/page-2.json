@@ -2025,6 +2025,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/diario-de-um-banana-no-natal-casa-dos-horrores.json"
   },
   {
+    "id": "dias-perfeitos",
+    "tipo": "filme",
+    "titulo": "Dias Perfeitos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/p4oCDJgtYPg8lWqmeNIsqPwzZ7X.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hjWxngV6tidwDkfJDEgMjHD2KEz.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA",
+      "4K"
+    ],
+    "nota": 7.793,
+    "tmdbId": 976893,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dias-perfeitos.json"
+  },
+  {
     "id": "diga-me-baixinho",
     "tipo": "filme",
     "titulo": "Diga-me Baixinho",
@@ -2516,6 +2532,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/bg4KbU1M53QRFKGtoHOJPjFonbu.jpg",
     "banner": "https://image.tmdb.org/t/p/original/o5WFZISFD8rW2K2WVOSiu73Lgf6.jpg",
     "generos": [
+      "LEGENDADOS",
       "4K",
       "NACIONAIS",
       "LANÇAMENTOS"
@@ -4691,21 +4708,5 @@
     "nota": 7.42,
     "tmdbId": 929170,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/honor-society.json"
-  },
-  {
-    "id": "horizon-uma-saga-americana-capitulo-1",
-    "tipo": "filme",
-    "titulo": "Horizon: Uma Saga Americana - Capítulo 1",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wScEgkA3eWfhyp5WoxGt5Zu3sug.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8UOAYjhwSF3aPZhm6wgLuyHRyrR.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "FAROESTE",
-      "4K"
-    ],
-    "nota": 6.819,
-    "tmdbId": 932086,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/horizon-uma-saga-americana-capitulo-1.json"
   }
 ]

@@ -26,9 +26,23 @@
       "qualidade": "Não informado",
       "xtreamId": 10791405,
       "container": "mp4"
+    },
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11084919,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11084926,
+      "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1773567070,
+  "dataCriacaoXtream": 1780134584,
   "tituloOriginal": "Other",
   "dataLancamento": "2025-07-09"
 }

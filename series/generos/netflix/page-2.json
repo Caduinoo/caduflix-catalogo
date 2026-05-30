@@ -1,5 +1,21 @@
 [
   {
+    "id": "cacadores-de-trolls",
+    "tipo": "serie",
+    "titulo": "Caçadores de Trolls",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/58dBUuVIpLWN0oeQttbZp6WZpZP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oyi9AeavhrKTbISf4tZ83S7xp29.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 8.5,
+    "tmdbId": 68267,
+    "totalTemporadas": 3,
+    "totalEpisodios": 52,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/cacadores-de-trolls.json"
+  },
+  {
     "id": "cachorrinhos-do-outro-mundo",
     "tipo": "serie",
     "titulo": "Cachorrinhos do Outro Mundo",
@@ -791,7 +807,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/hIIuHSyYpD3lSOj197ujHookMWI.jpg",
     "banner": "https://image.tmdb.org/t/p/original/31T5FfA5KetMlT3ZjsELh73uqfh.jpg",
     "generos": [
-      "NETFLIX"
+      "NETFLIX",
+      "TURCAS | MEXICANAS"
     ],
     "nota": 6.5,
     "tmdbId": 111414,
@@ -4779,21 +4796,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/familia-em-primeiro-lugar.json"
-  },
-  {
-    "id": "familia-larva",
-    "tipo": "serie",
-    "titulo": "Família Larva",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5WYKClgu17xq0IcHkvYYfa25TTW.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sLiTiKXysid6o0yt7kjfz96Jewc.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.4,
-    "tmdbId": 224047,
-    "totalTemporadas": 1,
-    "totalEpisodios": 9,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/familia-larva.json"
   }
 ]

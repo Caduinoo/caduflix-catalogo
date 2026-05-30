@@ -1,5 +1,94 @@
 [
   {
+    "id": "malditas-aranhas",
+    "tipo": "filme",
+    "titulo": "Malditas Aranhas!",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rTI1y2ePzTxqlHAJHpDtWZH0OCz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hOVtpgal5wWHP8vDczrEzZXkOEV.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.806,
+    "tmdbId": 8869,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/malditas-aranhas.json"
+  },
+  {
+    "id": "malicia",
+    "tipo": "filme",
+    "titulo": "Malícia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6tqmwsDBpm4LS0HzZGFlWQYcqhp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eGqZyH83bQ1x5MKD5SggEfarPa.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 7.315,
+    "tmdbId": 44741,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/malicia.json"
+  },
+  {
+    "id": "maligno",
+    "tipo": "filme",
+    "titulo": "Maligno",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xnyGhzrfqENfFoiNZ9z4oy63Z9F.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.747,
+    "tmdbId": 619778,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/maligno.json"
+  },
+  {
+    "id": "malum",
+    "tipo": "filme",
+    "titulo": "Malum",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iuZ4rGnniWudvtRafwGJ2twrTqZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jgGP3HxKUrYM7sPIFVH7L0k8Mmq.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.537,
+    "tmdbId": 1094403,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/malum.json"
+  },
+  {
+    "id": "mama",
+    "tipo": "filme",
+    "titulo": "Mama",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/NBSMhzMXs56Scq2MGF1AetAYFr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cu3uaBqPORcfpKQWaIjA1GJbvEg.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.295,
+    "tmdbId": 132232,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mama.json"
+  },
+  {
+    "id": "mamae",
+    "tipo": "filme",
+    "titulo": "Mamãe Morreu",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4J73NTW1sBbhFG2x54CdPzKi6Ik.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": null,
+    "tmdbId": 719043,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mamae.json"
+  },
+  {
     "id": "mangue-negro",
     "tipo": "filme",
     "titulo": "Mangue Negro",
@@ -2095,6 +2184,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/oUPogoU682I7GFuar5qlHXj8j4p.jpg",
     "banner": "https://image.tmdb.org/t/p/original/rVT4vFJgcvou2j3CQTOAlCqedSh.jpg",
     "generos": [
+      "LEGENDADOS",
       "SUSPENSE | TERROR | THRILLER"
     ],
     "nota": 5.223,
@@ -2447,6 +2537,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/hjciAFfi0J6UaU4MX7oVQSjfJ97.jpg",
     "banner": "https://image.tmdb.org/t/p/original/3oqEHukB0ELkERw4QBBybgnTshQ.jpg",
     "generos": [
+      "LEGENDADOS",
       "SUSPENSE | TERROR | THRILLER"
     ],
     "nota": 5.264,
@@ -2983,6 +3074,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/aBwSiD2kjlarWe7zXYFvfGdlUon.jpg",
     "banner": "https://image.tmdb.org/t/p/original/uGhqlElLECQgYbJPDdqpJF6agks.jpg",
     "generos": [
+      "LEGENDADOS",
       "SUSPENSE | TERROR | THRILLER"
     ],
     "nota": 5.7,
@@ -4330,93 +4422,5 @@
     "nota": 5,
     "tmdbId": 983286,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-exterminador-de-seitas.json"
-  },
-  {
-    "id": "o-fanatico",
-    "tipo": "filme",
-    "titulo": "My Son the Fanatic",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/34rfjIEVqmzjN7HMZhrrPgPaHuE.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/caRJ9pL232P22zxAOvD06xK9lwf.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.118,
-    "tmdbId": 55955,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-fanatico.json"
-  },
-  {
-    "id": "o-fantasma-da-montanha",
-    "tipo": "filme",
-    "titulo": "O Fantasma da Montanha",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dL4JrJ8PjbajIDp7ddCPpaR6lEv.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lRwbQf5nVyp3ABL8dM739GQgLFa.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 5.091,
-    "tmdbId": 324183,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-fantasma-da-montanha.json"
-  },
-  {
-    "id": "o-fantasma-da-opera",
-    "tipo": "filme",
-    "titulo": "O Fantasma da Ópera",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tevlea1T7hUA5mZnnrbJnWjtJwV.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/yWIjNZpQSVGD2YgpGorFVf1MJb0.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 7.266,
-    "tmdbId": 9833,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-fantasma-da-opera.json"
-  },
-  {
-    "id": "o-fantasma-do-teatro",
-    "tipo": "filme",
-    "titulo": "O Fantasma do Teatro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hWP8sWIGnlXlCOZXtEit6sEJuA4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2yHiitkiA03tOyWm5s5yQwGuCfL.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.6,
-    "tmdbId": 790227,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-fantasma-do-teatro.json"
-  },
-  {
-    "id": "o-fascinio",
-    "tipo": "filme",
-    "titulo": "O Fascínio",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4v3PFnZRT2ix52neugvQVXRQvOu.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kZ3TwHEr8cpGtPYl1VHIsdeqLHt.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.2,
-    "tmdbId": 217786,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-fascinio.json"
-  },
-  {
-    "id": "o-feitico",
-    "tipo": "filme",
-    "titulo": "O Feitiço",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uEedk1RSMLsiCcMCSZrV1p0gGa3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/moATev25jjqhdpLKPluAkQskdap.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 4.7,
-    "tmdbId": 1019967,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-feitico.json"
   }
 ]

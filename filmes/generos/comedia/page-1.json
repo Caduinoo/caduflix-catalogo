@@ -2356,6 +2356,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/kYQ7nDESAkYR08RSz4PQe7J0YlO.jpg",
     "banner": "https://image.tmdb.org/t/p/original/fl36Z9J81DMOcmTW26UCmzr5LkY.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA",
       "LANÇAMENTOS"
     ],
@@ -2414,6 +2415,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/geFc71rCYM8fErbROLY6n1LfAS6.jpg",
     "banner": "https://image.tmdb.org/t/p/original/es6wAAA72qIKGecMggiRZNQK0fa.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA",
       "LANÇAMENTOS"
     ],
@@ -2559,6 +2561,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/2ujZDnUE0g309LxhLtQFIDQgGyM.jpg",
     "banner": "https://image.tmdb.org/t/p/original/uzXLCqPWYbsVzPU3pGz3oPqO4lE.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA",
       "LANÇAMENTOS"
     ],
@@ -3631,7 +3634,8 @@
     "banner": "https://image.tmdb.org/t/p/original/qXctHIfK4LAgHH7qZiJJVCPclaY.jpg",
     "generos": [
       "LEGENDADOS",
-      "COMÉDIA"
+      "COMÉDIA",
+      "LANÇAMENTOS"
     ],
     "nota": 7.4,
     "tmdbId": 876716,
@@ -3819,6 +3823,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/hKtmcXRBpPp4x7ZmixIkFdyCvRK.jpg",
     "banner": "https://image.tmdb.org/t/p/original/5uayF96i4JWtdNH3uJy5IpImDBT.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA"
     ],
     "nota": 6.085,

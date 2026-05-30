@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Uma mulher, Coco Chavez, e seu amante, Junior Armstrong, decidem sequestrar Ben Dyson, dono de uma poderosa companhia de computadores de Nova Orleans, com a intenção de pedir quatro milhões de dólares como recompensa.",
   "generos": [
+    "LEGENDADOS",
     "SUSPENSE | TERROR | THRILLER"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/aBwSiD2kjlarWe7zXYFvfGdlUon.jpg",
@@ -12,6 +13,13 @@
   "tmdbId": 37516,
   "nota": 5.7,
   "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050516,
+      "container": "mp4"
+    },
     {
       "nome": "Padrão",
       "idioma": "Não informado",

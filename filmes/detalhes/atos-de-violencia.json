@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Quando a esposa de Roman (Ashton Holmes) é sequestrada por traficantes de pessoas, ele e seus irmãos ex-militares começam a tentar rastreá-la para salvá-la antes que seja tarde demais. Durante a sua busca, roman une forças com Avery (Bruce Willis), um policial que investiga o tráfico de pessoas e combate a prejudicial e corrupta burocracia.",
   "generos": [
+    "LEGENDADOS",
     "AÇÃO | CRIME | GUERRA"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/5BFwjwDyoAkulZjKtUZpVLZ5DFa.jpg",
@@ -13,6 +14,13 @@
   "nota": 5.592,
   "opcoes": [
     {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050444,
+      "container": "mp4"
+    },
+    {
       "nome": "Padrão",
       "idioma": "Não informado",
       "qualidade": "Não informado",
@@ -20,7 +28,7 @@
       "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1773567043,
+  "dataCriacaoXtream": 1779198820,
   "tituloOriginal": "Acts of Violence",
   "dataLancamento": "2018-01-12"
 }

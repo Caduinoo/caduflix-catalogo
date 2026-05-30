@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Em uma pequena província ocidental do Reino Unido vive um magistrado muito dedicado ao seu trabalho. No entanto, quando o Coronel Joll, famoso por seus \"interrogatórios\" e torturas, chega da capital para investigar os bárbaros, ele começa questionar a sua lealdade em relação ao Império.",
   "generos": [
+    "LEGENDADOS",
     "DRAMA"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/n4rZH8kkE3fxPJbYJREXFXXePmq.jpg",
@@ -13,6 +14,13 @@
   "nota": 5.925,
   "opcoes": [
     {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050447,
+      "container": "mp4"
+    },
+    {
       "nome": "Padrão",
       "idioma": "Não informado",
       "qualidade": "Não informado",
@@ -20,7 +28,7 @@
       "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1779198816,
+  "dataCriacaoXtream": 1779198822,
   "tituloOriginal": "Waiting for the Barbarians",
   "dataLancamento": "2020-07-30"
 }

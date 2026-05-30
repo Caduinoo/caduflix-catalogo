@@ -1,5 +1,62 @@
 [
   {
+    "id": "a-ultima-primavera",
+    "tipo": "filme",
+    "titulo": "A Última Primavera",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rPf8soyuxu4dgZYJhDCTequDm30.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "NACIONAIS"
+    ],
+    "nota": null,
+    "tmdbId": 1329225,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-primavera.json"
+  },
+  {
+    "id": "a-ultima-profecia",
+    "tipo": "filme",
+    "titulo": "A Última Profecia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ymDIvdCemcLBUUavsMMa2zBXZk6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zQM01PhOwJY9ePnWPQ8L0YeKf8c.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.225,
+    "tmdbId": 2637,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-profecia.json"
+  },
+  {
+    "id": "a-ultima-resistencia",
+    "tipo": "filme",
+    "titulo": "A Última Resistência",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iSOmOm5PlJ3kEhkQJxtqMSeuWpQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nvVkh27onVgYQLJqRCjko8zyCXC.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7.25,
+    "tmdbId": 484936,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-resistencia.json"
+  },
+  {
+    "id": "a-ultima-ressaca-do-ano",
+    "tipo": "filme",
+    "titulo": "A Última Ressaca do Ano",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vdkDOqgsyvLdPjUUUQD2wtWVZ5E.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1uDvPjKthACQKeQBvkiJ3aSvtdh.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 5.712,
+    "tmdbId": 384682,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-ressaca-do-ano.json"
+  },
+  {
     "id": "a-ultima-sessao-de-freud",
     "tipo": "filme",
     "titulo": "A Última Sessão de Freud",
@@ -88,6 +145,20 @@
     "nota": 7.216,
     "tmdbId": 865370,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-vitima.json"
+  },
+  {
+    "id": "a-um-passo-do-estrelato",
+    "tipo": "filme",
+    "titulo": "A Um Passo do Estrelato",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nCqVpHwdVcaCJ8dS4Ms6zWzXhKt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wUop1B76njSptV0B0s8YUFRRG5I.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.178,
+    "tmdbId": 159014,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-um-passo-do-estrelato.json"
   },
   {
     "id": "a-unica-mulher-na-orquestra",
@@ -587,6 +658,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-vida-dos-leopardos.json"
   },
   {
+    "id": "a-vida-e-agora-2021",
+    "tipo": "filme",
+    "titulo": "A Vida é Agora",
+    "ano": 2021,
+    "capa": "https://image.tmdb.org/t/p/w500/neKaddWZOH6elKQRjI49avgSGfY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/esGtYJE3uoRuwA7o4ST2kGDhmeO.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 6.447,
+    "tmdbId": 763148,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-vida-e-agora-2021.json"
+  },
+  {
     "id": "a-vida-e-agora",
     "tipo": "filme",
     "titulo": "A Vida é Agora",
@@ -600,20 +686,6 @@
     "nota": 6.447,
     "tmdbId": 763148,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-vida-e-agora.json"
-  },
-  {
-    "id": "a-vida-e-agora-2021",
-    "tipo": "filme",
-    "titulo": "A Vida é Agora",
-    "ano": 2021,
-    "capa": "https://image.tmdb.org/t/p/w500/neKaddWZOH6elKQRjI49avgSGfY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/esGtYJE3uoRuwA7o4ST2kGDhmeO.jpg",
-    "generos": [
-      "ROMANCE"
-    ],
-    "nota": 6.447,
-    "tmdbId": 763148,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-vida-e-agora-2021.json"
   },
   {
     "id": "a-vida-e-bela",
@@ -4006,6 +4078,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ai-voce-apareceu.json"
   },
   {
+    "id": "aida-y-vuelta",
+    "tipo": "filme",
+    "titulo": "Aída y vuelta",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/k3Bk1v28P0ZVQKFL90WtttpQhEP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5Sfl1SdrCWNHuRcPcqJP6Vcx8I8.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.244,
+    "tmdbId": 1370123,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/aida-y-vuelta.json"
+  },
+  {
     "id": "aileen-a-historia-de-uma-serial-killer",
     "tipo": "filme",
     "titulo": "Aileen: A História de uma Serial Killer",
@@ -4264,90 +4350,5 @@
     "nota": 6.102,
     "tmdbId": 64807,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ajuste-de-contas.json"
-  },
-  {
-    "id": "ak-vs-ak",
-    "tipo": "filme",
-    "titulo": "AK vs AK",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4ULEEvH0hDYnbWN3nClrb88sYCF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qM9xmkvCpQvOHgikuKE6ik3TXjv.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.708,
-    "tmdbId": 735919,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ak-vs-ak.json"
-  },
-  {
-    "id": "ak47-a-arma-que-mudou-o-mundo",
-    "tipo": "filme",
-    "titulo": "AK-47: A Arma Que Mudou o Mundo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4djODIhP8TZtjkG6w2xZjOuLk6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dUasP5TGFk1dhTgtNhk5uLRPRx6.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.392,
-    "tmdbId": 592279,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ak47-a-arma-que-mudou-o-mundo.json"
-  },
-  {
-    "id": "akira",
-    "tipo": "filme",
-    "titulo": "Akira",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tbwwTQ3EqSdotbQ3ZcIl6vKBv7q.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.944,
-    "tmdbId": 149,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/akira.json"
-  },
-  {
-    "id": "akira-1988",
-    "tipo": "filme",
-    "titulo": "Akira",
-    "ano": 1988,
-    "capa": "https://image.tmdb.org/t/p/w500/tbwwTQ3EqSdotbQ3ZcIl6vKBv7q.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.944,
-    "tmdbId": 149,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/akira-1988.json"
-  },
-  {
-    "id": "alabama-presos-do-sistema",
-    "tipo": "filme",
-    "titulo": "Alabama: Presos do Sistema",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/f8uYfNyw56gnHC1gscmMxgYFasv.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/s9oWvDQoVka7Zisi3rmJ3Lj9WA.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.904,
-    "tmdbId": 1413805,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/alabama-presos-do-sistema.json"
-  },
-  {
-    "id": "aladdin",
-    "tipo": "filme",
-    "titulo": "Aladdin",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qYB8MwE6AgLFe5ruBUmPA0RWRPY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA",
-      "4K"
-    ],
-    "nota": 7.653,
-    "tmdbId": 812,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/aladdin.json"
   }
 ]

@@ -1,5 +1,950 @@
 [
   {
+    "id": "um-novo-conto-de-natal",
+    "tipo": "filme",
+    "titulo": "Um Novo Conto de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6ffAnG1WGjeImcq7N6dN0PsErjq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tA5gJmhIl7slq3rFtQjZtamL9HE.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.3,
+    "tmdbId": 1048771,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-novo-conto-de-natal.json"
+  },
+  {
+    "id": "um-novo-despertar",
+    "tipo": "filme",
+    "titulo": "Um Novo Despertar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/o7WJPke2oCM57Sw7D184DXkJeEa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sCjTJ3R8UKmyd9dvMPLQ61nZIfY.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.372,
+    "tmdbId": 50780,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-novo-despertar.json"
+  },
+  {
+    "id": "um-novo-dia-para-lutar-2024",
+    "tipo": "filme",
+    "titulo": "Um Novo Dia para Lutar",
+    "ano": 2024,
+    "capa": "https://image.tmdb.org/t/p/w500/xtHHVT0yhF30UtVM6m7gmZqda7V.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/znMUHotZRTcyIFWFz2bvcpSx6YP.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.63,
+    "tmdbId": 1053008,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-novo-dia-para-lutar-2024.json"
+  },
+  {
+    "id": "um-novo-olhar",
+    "tipo": "filme",
+    "titulo": "Um Novo Olhar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7jPyGQMTtOzmMFVlCOqKrMBuDnT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tMtXSrEeh2rueJQVWMom78ZBhG0.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.2,
+    "tmdbId": 364733,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-novo-olhar.json"
+  },
+  {
+    "id": "um-novo-recomeco",
+    "tipo": "filme",
+    "titulo": "Um Novo Recomeço",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hVEplIeyc0xobdSwqKoIoDxuz1r.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cTTn5KlQ7yziyzJ6n2J6N3wnlf1.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.5,
+    "tmdbId": 478624,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-novo-recomeco.json"
+  },
+  {
+    "id": "um-novo-sonho-de-uma-noite-de-verao",
+    "tipo": "filme",
+    "titulo": "Um Novo Sonho de Uma Noite de Verão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xDAfKYF7YRHLPXiUEirqXnmpm1Q.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3iXeMSXiNZxVYxSVvVeGuPR7qBL.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 5,
+    "tmdbId": 617006,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-novo-sonho-de-uma-noite-de-verao.json"
+  },
+  {
+    "id": "um-olhar-do-paraiso",
+    "tipo": "filme",
+    "titulo": "Um Olhar do Paraíso",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vJEvxyCflOvCoY3ToK6iQoUCVrn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5abq386123nxHS8mVZLsFi7c75z.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 7.059,
+    "tmdbId": 7980,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-olhar-do-paraiso.json"
+  },
+  {
+    "id": "um-pacto-de-amizade",
+    "tipo": "filme",
+    "titulo": "Um Pacto de Amizade",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/f1NEx4lohw47WSuNqQife0GxWLv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jPKsE8cgehlau8V6YgNNVCMsoRK.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA",
+      "4K"
+    ],
+    "nota": 7.215,
+    "tmdbId": 932430,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-pacto-de-amizade.json"
+  },
+  {
+    "id": "um-pai-para-lily",
+    "tipo": "filme",
+    "titulo": "Um Pai para Lily",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mWsocTTLdQ0Wb3NN2mgmwUIx0gm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/m0VOz5KTHxGZB5iegG48U5EjHQD.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 7.446,
+    "tmdbId": 1169789,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-pai-para-lily.json"
+  },
+  {
+    "id": "um-palmo",
+    "tipo": "filme",
+    "titulo": "Um Palmo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xkmcRI2BzuWP9lltlsB4x420O8d.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ozO9cl2hL0GCA4hb8FALs22DVa1.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.5,
+    "tmdbId": 929560,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-palmo.json"
+  },
+  {
+    "id": "um-panda-em-apuros",
+    "tipo": "filme",
+    "titulo": "Um Panda em Apuros",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6iuXko1729KGWPijKf2tOie2MBk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/Ai3Nu0YDz8BwFuZlP3bi1mBWmOf.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.875,
+    "tmdbId": 533715,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-panda-em-apuros.json"
+  },
+  {
+    "id": "um-paparazzi-animal",
+    "tipo": "filme",
+    "titulo": "Um Paparazzi Animal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7yeHtZDBVD6DiMQYSb2OJIPKQLM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2rMz1S0cucDBHdNgvf6FGnj9NsY.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 5,
+    "tmdbId": 589795,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-paparazzi-animal.json"
+  },
+  {
+    "id": "um-par-perfeito-para-o-natal",
+    "tipo": "filme",
+    "titulo": "Combinação do Azevinho",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/s4PlDSJN6IwtuB91BNzkDL1oNae.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ipDFjrJBQoCcN28uKHV7a56QIBO.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.5,
+    "tmdbId": 1003469,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-par-perfeito-para-o-natal.json"
+  },
+  {
+    "id": "um-par-pra-chamar-de-meu",
+    "tipo": "filme",
+    "titulo": "Um Par Pra Chamar de Meu",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/49RBdyWxbsR8ko0QHbpj38LL31i.jpg",
+    "banner": null,
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": null,
+    "tmdbId": 1011803,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-par-pra-chamar-de-meu.json"
+  },
+  {
+    "id": "um-paraiso-perigoso",
+    "tipo": "filme",
+    "titulo": "Um Paraíso Perigoso",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/izNJQM0DVSuzl8bx6euJtHaLbYT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tm1kAqfiElwOgXLI8goHBqhIWIM.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.47,
+    "tmdbId": 829799,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-paraiso-perigoso.json"
+  },
+  {
+    "id": "um-parto-de-viagem",
+    "tipo": "filme",
+    "titulo": "Um Parto de Viagem",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ys6yKTVq4pqOTuBTyPcGUCeIGsw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/naV4PO7ftzNThYKGX44F8vRY2z3.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.395,
+    "tmdbId": 41733,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-parto-de-viagem.json"
+  },
+  {
+    "id": "um-passado-de-presente",
+    "tipo": "filme",
+    "titulo": "Um Passado de Presente",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ozz2rvpOLm17rtYP6pTZ634dOc4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/YZMpzCAQ8Ljnq2XOWkWOasexsw.jpg",
+    "generos": [
+      "ROMANCE"
+    ],
+    "nota": 6.376,
+    "tmdbId": 611207,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-passado-de-presente.json"
+  },
+  {
+    "id": "um-passado-sombrio",
+    "tipo": "filme",
+    "titulo": "Um Passado Sombrio",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/v8ppQiNYXOtYYRiO143Hs0zdP1b.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/f1mkwzPX23sDQ1rFiBoJgfbbMj4.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.15,
+    "tmdbId": 258284,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-passado-sombrio.json"
+  },
+  {
+    "id": "um-passe-de-magica",
+    "tipo": "filme",
+    "titulo": "Um Passe de Mágica",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iIpIqEoqaCzkENfwLKQiZYR0WxP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aU2gK5ehx5MOwnigEAK54cQjLpS.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 5.535,
+    "tmdbId": 17834,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-passe-de-magica.json"
+  },
+  {
+    "id": "um-pedaco-do-meu-coracao",
+    "tipo": "filme",
+    "titulo": "Um Pedaço do Meu Coração",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/w3l5BUsadsBQuodKkD9PhwjOiJf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eagUiXSwD08WJhe4xqFxi4jgG5i.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.154,
+    "tmdbId": 593059,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-pedaco-do-meu-coracao.json"
+  },
+  {
+    "id": "um-pedido-descolado",
+    "tipo": "filme",
+    "titulo": "Um Pedido Descolado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2dyZfjuq1lhBsqGtBTC20y9XhJf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iamS2MqyuJCuNDCly3Mrr5Mlw5T.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 5.844,
+    "tmdbId": 514466,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-pedido-descolado.json"
+  },
+  {
+    "id": "um-pequeno-favor",
+    "tipo": "filme",
+    "titulo": "Um Pequeno Favor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bpsE44zo8tD3lMQlpPbrf0wHGAy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ugDSJKMEexMt1d38uyzRnVFsDIh.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.641,
+    "tmdbId": 484247,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-pequeno-favor.json"
+  },
+  {
+    "id": "um-pesadelo-sem-fim",
+    "tipo": "filme",
+    "titulo": "Um Pesadelo Sem Fim",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1cic7s5p0DRdsvshzZVyEtNUJPn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ryOtVdaYyz1HduChYyWPy9dJDB.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.9,
+    "tmdbId": 1269021,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-pesadelo-sem-fim.json"
+  },
+  {
+    "id": "um-pessimo-cupido",
+    "tipo": "filme",
+    "titulo": "Um Péssimo Cupido",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jtRq9nxEdoYrRzQUsSNKH23zmy2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jbDw72K8HSRirAeumkbukXy5MZT.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 4.3,
+    "tmdbId": 796126,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-pessimo-cupido.json"
+  },
+  {
+    "id": "um-plano-brilhante",
+    "tipo": "filme",
+    "titulo": "Um Plano Brilhante",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/eDMGDQ8MHoOPn5V159Fx1RTKRdQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qAOL3Z1b2nGhtQ5bfEvwsxMvz3W.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.766,
+    "tmdbId": 13195,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-plano-brilhante.json"
+  },
+  {
+    "id": "um-plano-em-familia",
+    "tipo": "filme",
+    "titulo": "Um Plano em Família",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1aBZPIHkQeqQuTdYmYhhyKgwwel.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/10Dsd0VxDefoF3bhiOGymzqWADg.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6,
+    "tmdbId": 793155,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-plano-em-familia.json"
+  },
+  {
+    "id": "um-plano-por-agua-abaixo",
+    "tipo": "filme",
+    "titulo": "Um Plano Por Água Abaixo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gNu1KmRtg70URO0wwrKWfbGhRn4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/da3gZ3WrpmqJBYpmXYF1RJYBMa4.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.9,
+    "tmdbId": 750596,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-plano-por-agua-abaixo.json"
+  },
+  {
+    "id": "um-plano-sem-saida",
+    "tipo": "filme",
+    "titulo": "Among Them",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/i6grZiFqivGYGWUssZMHKQmCPPr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/10oRXfxzkx6Er5F1x04tKVxRBO8.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 3,
+    "tmdbId": 628829,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-plano-sem-saida.json"
+  },
+  {
+    "id": "um-playboy-em-apuros",
+    "tipo": "filme",
+    "titulo": "Um Playboy em Apuros",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/er2C3Ag5p49pPcVOmRv3h19ZExQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/32FscfmGnL8fspA1uOkKyEc8xxL.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 5.067,
+    "tmdbId": 246967,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-playboy-em-apuros.json"
+  },
+  {
+    "id": "um-pobretao-na-casa-branca",
+    "tipo": "filme",
+    "titulo": "Um Pobretão na Casa Branca",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mEtNbzeo3fUwYE9UhkFQoLkrALh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/12LmdeaGGitnPIdz9XcSlCQbuJ8.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 5.589,
+    "tmdbId": 9776,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-pobretao-na-casa-branca.json"
+  },
+  {
+    "id": "um-por-todos",
+    "tipo": "filme",
+    "titulo": "Todos Por Um",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7FqZp1OBqGQyr7FjyvQbM7jqnEP.jpg",
+    "banner": null,
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 10,
+    "tmdbId": 1215033,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-por-todos.json"
+  },
+  {
+    "id": "um-porto-seguro",
+    "tipo": "filme",
+    "titulo": "Um Porto Seguro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gi14xLvfgZRjhKDBe5JKlOdn0QQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kUDzb7V5XuDHpY17lk8NQykiW5w.jpg",
+    "generos": [
+      "ROMANCE"
+    ],
+    "nota": 7.231,
+    "tmdbId": 112949,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-porto-seguro.json"
+  },
+  {
+    "id": "um-pouco-de-caos",
+    "tipo": "filme",
+    "titulo": "Um Pouco de Caos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iXRYX6v5K8Vb9dXQqifTSQaMwZz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4ANK5uSBMQxEdHSYqSqs4YMY0Ed.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.309,
+    "tmdbId": 283227,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-pouco-de-caos.json"
+  },
+  {
+    "id": "um-pouco-de-nos",
+    "tipo": "filme",
+    "titulo": "Um Pouco de Mim, um Pouco de Nós",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1800CbGziGtISRgmYCr62sFTSOf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/clxGWoRu9w1tyxfy5sgEJVva7Fb.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 8,
+    "tmdbId": 1165377,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-pouco-de-nos.json"
+  },
+  {
+    "id": "um-presente-da-tiffany",
+    "tipo": "filme",
+    "titulo": "Um Presente da Tiffany",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/aIKbRDYydwXCvSWFDGu9ZooH27m.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wug15qrt09vllipUKXr6SNf74QT.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.667,
+    "tmdbId": 916053,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-presente-da-tiffany.json"
+  },
+  {
+    "id": "um-presente-perfeito",
+    "tipo": "filme",
+    "titulo": "Um Presente Perfeito",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zesJPK0nMOOXHDf7Zwo8KBgojYt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bEPiNylbz8pPQBjTvz6W0b0Hls5.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 4.3,
+    "tmdbId": 227655,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-presente-perfeito.json"
+  },
+  {
+    "id": "um-principe-em-nova-york",
+    "tipo": "filme",
+    "titulo": "Um Príncipe em Nova York",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/i4PD8EddMJK23gQbANYdCwQeJaE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vsCIw7ARCKQVPT2K2hkkFVl7yo5.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.879,
+    "tmdbId": 9602,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-principe-em-nova-york.json"
+  },
+  {
+    "id": "um-principe-em-nova-york-2",
+    "tipo": "filme",
+    "titulo": "Um Príncipe em Nova York 2",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mpXRG5zPUT18IeYvCoC4zOscked.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vKzbIoHhk1z9DWYi8kyFe9Gg0HF.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 6.345,
+    "tmdbId": 484718,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-principe-em-nova-york-2.json"
+  },
+  {
+    "id": "um-punhado-de-chumbo",
+    "tipo": "filme",
+    "titulo": "Um Punhado de Chumbo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jOUDR00zyiKoOSUwWAo5Dz1GuRI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mbYXAWxjZl7PeGbBqkEDQhJYqJP.jpg",
+    "generos": [
+      "FAROESTE"
+    ],
+    "nota": 5.643,
+    "tmdbId": 566574,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-punhado-de-chumbo.json"
+  },
+  {
+    "id": "um-ramo",
+    "tipo": "filme",
+    "titulo": "Um Ramo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4OlmYyAIJ58oUDrF8S48agmjBr6.jpg",
+    "banner": null,
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 6.1,
+    "tmdbId": 335163,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-ramo.json"
+  },
+  {
+    "id": "um-ratinho-encrenqueiro",
+    "tipo": "filme",
+    "titulo": "Um Ratinho Encrenqueiro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4y831lam8rzCemTjmCCrblw4blR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3YV8gxpLA3WYkLaQcejI4uti1hf.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.538,
+    "tmdbId": 6283,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-ratinho-encrenqueiro.json"
+  },
+  {
+    "id": "um-reencontro-inesperado",
+    "tipo": "filme",
+    "titulo": "Um Reencontro Inesperado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/elrXo5uMCI8cI8idpblQPT3QwDS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/szM00QnqueXcLeXQDCKEEUuvN6X.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 4,
+    "tmdbId": 810790,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-reencontro-inesperado.json"
+  },
+  {
+    "id": "um-reencontro-natalino",
+    "tipo": "filme",
+    "titulo": "Um Reencontro Natalino",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ep92klyhq5ePnHxsm7Psn6UPDF8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eGGOiri87zdNMWA57U2HlsrU470.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 7.091,
+    "tmdbId": 1028539,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-reencontro-natalino.json"
+  },
+  {
+    "id": "um-refugio",
+    "tipo": "filme",
+    "titulo": "Um Refúgio Azul",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ph5bSVXarzvkubcMayUBlZfOWYs.jpg",
+    "banner": null,
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": null,
+    "tmdbId": 521711,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-refugio.json"
+  },
+  {
+    "id": "um-reino-unido",
+    "tipo": "filme",
+    "titulo": "Um Reino Unido",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bl13OXBp7Ss1rkpHA0Nh3Girkmu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cBlKxl2YSRVTLb1szSur8H3BNdZ.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.652,
+    "tmdbId": 347026,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-reino-unido.json"
+  },
+  {
+    "id": "um-rio-muito-frio",
+    "tipo": "filme",
+    "titulo": "Um Rio Muito Frio",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8jSGDVXQmEhLL4A1vrUCFG2Xmtd.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mk9LcqxSPVxvquFhQYg8vRhC1zM.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.395,
+    "tmdbId": 811061,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-rio-muito-frio.json"
+  },
+  {
+    "id": "um-romance-nas-entrelinhas",
+    "tipo": "filme",
+    "titulo": "Um Romance nas Entrelinhas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wzHj5QGYvMYymW4zY6aWFlZCWrZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aNzaviyNOvorkzP0G9eOJEIAlsW.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.752,
+    "tmdbId": 447034,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-romance-nas-entrelinhas.json"
+  },
+  {
+    "id": "um-romance-perfeito",
+    "tipo": "filme",
+    "titulo": "Um Romance Perfeito",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8sFlJzuVXsva7z154JN9eLWBUfH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mruN4hH2Oat2upw8UzDbzUQqacd.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 6.1,
+    "tmdbId": 910816,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-romance-perfeito.json"
+  },
+  {
+    "id": "um-salao-do-barulho-1",
+    "tipo": "filme",
+    "titulo": "Um Salao do Barulho 1",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-salao-do-barulho-1.json"
+  },
+  {
+    "id": "um-salao-do-barulho-2",
+    "tipo": "filme",
+    "titulo": "Um Salao do Barulho 2",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-salao-do-barulho-2.json"
+  },
+  {
+    "id": "um-salao-do-barulho-3",
+    "tipo": "filme",
+    "titulo": "Um Salão do Barulho 3",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8Wis3WRAb8BjfSiz2ATMDBXFtpC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iI8okuTbcf6JCyBM3oLcneW6bDF.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.31,
+    "tmdbId": 326423,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-salao-do-barulho-3.json"
+  },
+  {
+    "id": "um-salto-para-a-felicidade",
+    "tipo": "filme",
+    "titulo": "Um Salto Para a Felicidade",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zcAY74scjUfNJzuOVMvzSau2xG5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dZSQv9Lz5pab3pOnVvd3yjC1N0K.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.8,
+    "tmdbId": 10780,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-salto-para-a-felicidade.json"
+  },
+  {
+    "id": "um-santo-plano",
+    "tipo": "filme",
+    "titulo": "Um Santo Plano",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/g1YQsOi4ZC5MeQi3SRtJifqVhvL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/e0zVpDvwNScNLbz2Flv8XDVfnUg.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 7,
+    "tmdbId": 647241,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-santo-plano.json"
+  },
+  {
+    "id": "um-senhor-estagiario",
+    "tipo": "filme",
+    "titulo": "Um Senhor Estagiário",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jjI2z9PvWm69DHzhyYIrsmD6Gj6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rFY9V4Dhq7lbIu6LlpzbL9u2K2E.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 7.229,
+    "tmdbId": 257211,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-senhor-estagiario.json"
+  },
+  {
+    "id": "um-show-de-matar",
+    "tipo": "filme",
+    "titulo": "Um Show de Matar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yYkHCZX1O4ODZWM8jm3Om9c8Q3d.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/y8K6y5Zs1Ty1gNtzL6Rl7vNV15o.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 4.625,
+    "tmdbId": 735580,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-show-de-matar.json"
+  },
+  {
+    "id": "um-show-de-verao",
+    "tipo": "filme",
+    "titulo": "Um Show de Verão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7KTTx8ooFqozHYDk25ZTo63krih.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zeV4vvSCgqEY11R5OqCt1SrpotL.jpg",
+    "generos": [
+      "ROMANCE"
+    ],
+    "nota": 3.5,
+    "tmdbId": 240069,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-show-de-verao.json"
+  },
+  {
+    "id": "um-simples-favor",
+    "tipo": "filme",
+    "titulo": "Um Simples Favor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6hGBllrcPJMZsZ9rqbuDRkerKiH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/snERqChY3FMzVV95hTAW4DpzTBQ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.1,
+    "tmdbId": 1089979,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-simples-favor.json"
+  },
+  {
+    "id": "um-sinal-de-esperanca",
+    "tipo": "filme",
+    "titulo": "Um Sinal de Esperança",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7H3JRq8MFKgAbouUzGsNmpsmgYl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pRYrWzkFqtPUwfEXQcnyvSVRK81.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.696,
+    "tmdbId": 2290,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-sinal-de-esperanca.json"
+  },
+  {
+    "id": "um-sonho-chamado-fred",
+    "tipo": "filme",
+    "titulo": "Um Sonho Chamado Fred",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/opYGzHdA7nn8aBNx0Y8yd1jSUtO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/h8EZTu4ZqzTsXWo7N14t8qEj3gN.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 5.831,
+    "tmdbId": 10379,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-sonho-chamado-fred.json"
+  },
+  {
+    "id": "um-sonho-de-amor",
+    "tipo": "filme",
+    "titulo": "Um Sonho de Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/357X8okcnrJDvWXmQS8doahfPJj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/z2HOdnH2LIrNOpF42eNw8bpOkkN.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.747,
+    "tmdbId": 41110,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-sonho-de-amor.json"
+  },
+  {
+    "id": "um-sonho-de-liberdade",
+    "tipo": "filme",
+    "titulo": "Um Sonho de Liberdade",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/umX3lBhHoTV7Lsci140Yr8VpXyN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 8.721,
+    "tmdbId": 278,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-sonho-de-liberdade.json"
+  },
+  {
+    "id": "um-sonho-de-natal",
+    "tipo": "filme",
+    "titulo": "Um Sonho de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vwYoyk5w4oeNuh2yaxouGSbv4l.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6JUAhsIAcqnYHcbjuBASEIDKtur.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO",
+      "LANÇAMENTOS"
+    ],
+    "nota": 4,
+    "tmdbId": 1389821,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-sonho-de-natal.json"
+  },
+  {
+    "id": "um-sonho-distante",
+    "tipo": "filme",
+    "titulo": "Um Sonho Distante",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xVD3672rwODFfhq0G5o3829YEUB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1Qf6lzJFhNiRVQrS2N05PQbInmY.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.774,
+    "tmdbId": 11259,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-sonho-distante.json"
+  },
+  {
+    "id": "um-sonho-possivel",
+    "tipo": "filme",
+    "titulo": "Um Sonho Possível",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kLpuhtyZj8MRATXngNvfpvfSZFv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5P6hWD4zxAMntRuRnB4MmPLijNw.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 7.667,
+    "tmdbId": 22881,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-sonho-possivel.json"
+  },
+  {
+    "id": "um-sonho-sem-limites",
+    "tipo": "filme",
+    "titulo": "Um Sonho Sem Limites",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/c3YeUqjTJX3bvCFiMFQQa74ZPTv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2g58NnfO9ecZc0VcP0i0EVyKV7m.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.596,
+    "tmdbId": 577,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-sonho-sem-limites.json"
+  },
+  {
     "id": "um-sopro-musical",
     "tipo": "filme",
     "titulo": "Plauto, Um Sopro Musical",
@@ -389,6 +1334,21 @@
     "nota": 6.091,
     "tmdbId": 55177,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-toque-de-rosa.json"
+  },
+  {
+    "id": "um-toque-de-seducao",
+    "tipo": "filme",
+    "titulo": "Um Toque de Sedução",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/g3KQuCGX7ISTQ0EPyieGeH7M4L0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yIf7O6Pnc8cMT2myAEZ8mcGlHge.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.035,
+    "tmdbId": 5241,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-toque-de-seducao.json"
   },
   {
     "id": "um-toque-no-coracao",
@@ -863,7 +1823,8 @@
     "banner": "https://image.tmdb.org/t/p/original/hiazLNa1UXuX35OTnMQRKOx3eTk.jpg",
     "generos": [
       "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
+      "AÇÃO | CRIME | GUERRA",
+      "LANÇAMENTOS"
     ],
     "nota": 7.361,
     "tmdbId": 1054867,
@@ -2618,6 +3579,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/dCdXagFYR7WwaHuVmZgzw4F0KpP.jpg",
     "banner": "https://image.tmdb.org/t/p/original/onq6lsJLX8ay5iwxEbKX3qJKeO9.jpg",
     "generos": [
+      "LEGENDADOS",
       "SUSPENSE | TERROR | THRILLER"
     ],
     "nota": 7.3,
@@ -3406,971 +4368,5 @@
     "nota": 6.731,
     "tmdbId": 448776,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-prece-antes-do-amanhecer.json"
-  },
-  {
-    "id": "uma-proposta-natalina",
-    "tipo": "filme",
-    "titulo": "Uma Proposta Natalina",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gPttcRkH6hnw8TXsLorHIcGj3Mc.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6eUC9PgcJ8Wzb5Puj3UMu7uxnM4.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "NATALINO"
-    ],
-    "nota": 6.569,
-    "tmdbId": 890757,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-proposta-natalina.json"
-  },
-  {
-    "id": "uma-prova-de-amor",
-    "tipo": "filme",
-    "titulo": "Uma Prova de Amor",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/8st066ROQA9Po838ZZitDszK3dr.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zpVMWiNJgcwHB0zIMGjXQMnSKPZ.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 7.363,
-    "tmdbId": 10024,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-prova-de-amor.json"
-  },
-  {
-    "id": "uma-prova-de-coragem",
-    "tipo": "filme",
-    "titulo": "Uma Prova de Coragem",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nOHhj3fHzq1lmHf8NfHwTj8zV9p.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jw4SNkaSgbrO7VJPsZUZqbBg1Ph.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA",
-      "4K"
-    ],
-    "nota": 7.543,
-    "tmdbId": 618588,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-prova-de-coragem.json"
-  },
-  {
-    "id": "uma-prova-de-fe",
-    "tipo": "filme",
-    "titulo": "Uma Prova de Fé",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/lf2X2jNWdoneJtBdmg0erkIMX5L.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mmONYtzw169nRkeZgBIhze8zOMy.jpg",
-    "generos": [
-      "RELIGIOSOS"
-    ],
-    "nota": 6.238,
-    "tmdbId": 355655,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-prova-de-fe.json"
-  },
-  {
-    "id": "uma-prova-de-fe-2-voltando-para-casa",
-    "tipo": "filme",
-    "titulo": "Uma Prova de Fé 2: Voltando para Casa",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qk96ZgDlnshnyh4p5nBCSGiXvZ8.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/b2n0SRebwq7i1Cl5VpFy1VQ9xJB.jpg",
-    "generos": [
-      "RELIGIOSOS"
-    ],
-    "nota": 7.1,
-    "tmdbId": 628229,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-prova-de-fe-2-voltando-para-casa.json"
-  },
-  {
-    "id": "uma-quase-dupla",
-    "tipo": "filme",
-    "titulo": "Uma Quase Dupla",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qRAOj1G4YWEmK3zDN4JlYFqaeWA.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ympFE7Ub9D6SPZfpSIpVLam09sf.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6,
-    "tmdbId": 488689,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-quase-dupla.json"
-  },
-  {
-    "id": "uma-quedinha-de-natal",
-    "tipo": "filme",
-    "titulo": "Uma Quedinha de Natal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/p9wwj23RF3Nqjj0EzxsDx0s2aV7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/iVtpnbPE91vmi3LmcOXycEblwPA.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "NATALINO"
-    ],
-    "nota": 6.219,
-    "tmdbId": 833097,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-quedinha-de-natal.json"
-  },
-  {
-    "id": "uma-questao-de-escolha",
-    "tipo": "filme",
-    "titulo": "Uma Questão de Escolha",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/v6FTKHcXURfvmgq9aeMz7w582EW.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/y904i9anfoCz1OUWGoJwO7Ml9Tt.jpg",
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": 5,
-    "tmdbId": 1552422,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-questao-de-escolha.json"
-  },
-  {
-    "id": "uma-questao-de-fe",
-    "tipo": "filme",
-    "titulo": "Uma Questão de Fé",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/cDSxFpUzaopUJn8O4LWO29Dii5f.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/slo4uAwTb08rAq99pgLbV30oZzo.jpg",
-    "generos": [
-      "RELIGIOSOS"
-    ],
-    "nota": 7.423,
-    "tmdbId": 467433,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-questao-de-fe.json"
-  },
-  {
-    "id": "uma-questao-de-respeito",
-    "tipo": "filme",
-    "titulo": "Uma Questão de Respeito",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nRyAHJQLqZS0cAUTET7wmoSmgk5.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/54xcERdFHlRny2FJ9NC4koForkR.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.209,
-    "tmdbId": 16136,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-questao-de-respeito.json"
-  },
-  {
-    "id": "uma-razao-para-viver",
-    "tipo": "filme",
-    "titulo": "Cake: Uma Razão para Viver",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mmr10InhWkCjebVymRHCeamIgdW.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nIh7npgLTsZyBl7TQpibZsz4hQH.jpg",
-    "generos": [
-      "ROMANCE"
-    ],
-    "nota": 6.275,
-    "tmdbId": 284276,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-razao-para-viver.json"
-  },
-  {
-    "id": "uma-relacao-delicada",
-    "tipo": "filme",
-    "titulo": "Uma Relação Delicada",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3dpiksuYZc5IoNXBlKUjWxEti5T.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ui6H8KO3BIYkkxvlAeJn5PjrzXb.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 5.238,
-    "tmdbId": 179100,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-relacao-delicada.json"
-  },
-  {
-    "id": "uma-ressaca-de-9-meses",
-    "tipo": "filme",
-    "titulo": "Uma Ressaca de 9 Meses",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/t83mwPPC3mOp4V7NgWKMUuSzTwM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7NEySszUS4lvBn5MpnIJzGvhAy0.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 7.725,
-    "tmdbId": 369299,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-ressaca-de-9-meses.json"
-  },
-  {
-    "id": "uma-roubada-em-familia",
-    "tipo": "filme",
-    "titulo": "Uma Roubada em Família",
-    "ano": null,
-    "capa": null,
-    "banner": null,
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": null,
-    "tmdbId": 1551736,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-roubada-em-familia.json"
-  },
-  {
-    "id": "uma-rua-chamada-pecado",
-    "tipo": "filme",
-    "titulo": "Uma Rua Chamada Pecado",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/As2VOgGvTGwNBHrTeDAipNvlZEn.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/or90vNrOVnYwi07fYYpQ3pbnjxP.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.615,
-    "tmdbId": 702,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-rua-chamada-pecado.json"
-  },
-  {
-    "id": "uma-saida-de-mestre",
-    "tipo": "filme",
-    "titulo": "Uma Saída de Mestre",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rxEQJrBn0swmqZyXiHDYzPNEion.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wryDL17raofFbO5AfhH1WSm034Y.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.788,
-    "tmdbId": 9654,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-saida-de-mestre.json"
-  },
-  {
-    "id": "uma-secretaria-de-futuro",
-    "tipo": "filme",
-    "titulo": "Uma Secretária de Futuro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yW4Kk9ilrIdKCmHVRHr2ohSB4LV.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lRWIiRSOMH7qQT6UGcmx8Uykix3.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.603,
-    "tmdbId": 3525,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-secretaria-de-futuro.json"
-  },
-  {
-    "id": "uma-segunda-chance",
-    "tipo": "filme",
-    "titulo": "Uma Segunda Chance",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yC3byha23vhC2GMR139p4W42n36.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/5rxEnsgriw8z065q51lrvPKYmCL.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE",
-      "LANÇAMENTOS"
-    ],
-    "nota": 7.482,
-    "tmdbId": 1367642,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-segunda-chance.json"
-  },
-  {
-    "id": "uma-segunda-chance-dv",
-    "tipo": "filme",
-    "titulo": "Uma Segunda Chance [DV]",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yC3byha23vhC2GMR139p4W42n36.jpg",
-    "banner": null,
-    "generos": [
-      "4K"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-segunda-chance-dv.json"
-  },
-  {
-    "id": "uma-segunda-chance-para-amar",
-    "tipo": "filme",
-    "titulo": "Uma Segunda Chance Para Amar",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1vqkt1bZF5gDmID60jzhEip2WrL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qIjyBgsMDbpeEO3CJx7vxVn4KO8.jpg",
-    "generos": [
-      "COMÉDIA",
-      "4K"
-    ],
-    "nota": 7.193,
-    "tmdbId": 549053,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-segunda-chance-para-amar.json"
-  },
-  {
-    "id": "uma-segunda-chance-rivais",
-    "tipo": "filme",
-    "titulo": "Uma Segunda Chance: Rivais!",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kYIDpQ5Y29W11rusWVLJRxiZEqq.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9XgSUxQt3FNmVbX6YQEWJhbzU3w.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.942,
-    "tmdbId": 588730,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-segunda-chance-rivais.json"
-  },
-  {
-    "id": "uma-sereia-em-paris",
-    "tipo": "filme",
-    "titulo": "Uma Sereia em Paris",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gxLjHNQKNsZXOHW2G4WQIzM2gI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/x5bjSUQ8RnbqLn7PBwP24tr4VMB.jpg",
-    "generos": [
-      "ROMANCE"
-    ],
-    "nota": 6.564,
-    "tmdbId": 600479,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-sereia-em-paris.json"
-  },
-  {
-    "id": "uma-sexta-feira-mais-louca-ainda",
-    "tipo": "filme",
-    "titulo": "Uma Sexta-Feira Mais Louca Ainda",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zAeOSpIY5FfaF4RhuZgUWyWF0VH.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/yQy9Y3p5INwkfTuHSnzYnz4MCV3.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.825,
-    "tmdbId": 1125257,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-sexta-feira-mais-louca-ainda.json"
-  },
-  {
-    "id": "uma-skatista-radical",
-    "tipo": "filme",
-    "titulo": "Uma Skatista Radical",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5hnoZxe0PVGBGOyzUyPHzJsyHrR.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kFZAu1g0f7bpunIumUY8Gb3Y9WU.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.2,
-    "tmdbId": 785522,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-skatista-radical.json"
-  },
-  {
-    "id": "uma-surpresa-de-natal",
-    "tipo": "filme",
-    "titulo": "Uma Surpresa de Natal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qqPICDdPdaNULZ8joclywLwX5ON.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/A73tcsaqr0Kt71ol9of7hE6AoiI.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "NATALINO"
-    ],
-    "nota": 6.4,
-    "tmdbId": 999602,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-surpresa-de-natal.json"
-  },
-  {
-    "id": "uma-tacada-de-mestre",
-    "tipo": "filme",
-    "titulo": "Uma Tacada de Mestre",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ztF5hTofyFlJP3QW3MEc8dYC5bZ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fQb9M4De7Yg5mbq9LPPmMoqMSVj.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.024,
-    "tmdbId": 553593,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-tacada-de-mestre.json"
-  },
-  {
-    "id": "uma-tarefa-maluca",
-    "tipo": "filme",
-    "titulo": "Uma Tarefa Maluca",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pwnZ24ODfAxMGzCzZET7GnxgtmI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/d70ATRsBYuBaEauXgsHmfwGUnxg.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.3,
-    "tmdbId": 655832,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-tarefa-maluca.json"
-  },
-  {
-    "id": "uma-terra-magica",
-    "tipo": "filme",
-    "titulo": "Uma Terra Mágica",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/v0pT4E1LWv7U6cc1sRjAIwtEANF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nBKLrxnAsERDn3Kkz6tk1Xbn0zm.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 5.3,
-    "tmdbId": 1007696,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-terra-magica.json"
-  },
-  {
-    "id": "uma-tia-da-pesada",
-    "tipo": "filme",
-    "titulo": "Uma Tia da Pesada",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/2Hqi5IFKksTwmTnXmCk43aHaYej.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9AaFB9wQ9hityDxgDNCiPnD06eX.jpg",
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": null,
-    "tmdbId": 746429,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-tia-da-pesada.json"
-  },
-  {
-    "id": "uma-ultima-vez",
-    "tipo": "filme",
-    "titulo": "Uma Última Vez",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fagijncnjwnaww1AyaO1qAmcYyI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/oEUoeuHih105KjSgrrYTjpb7kvE.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 5.412,
-    "tmdbId": 531513,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-ultima-vez.json"
-  },
-  {
-    "id": "uma-valsa-de-natal-em-paris",
-    "tipo": "filme",
-    "titulo": "Uma Valsa de Natal em Paris",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uZ7nhakQaEZWpRyuxY1P7yVVFAB.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/njuO8TJQ4QSy3kxnuUgOCapnuDR.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.5,
-    "tmdbId": 1127936,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-valsa-de-natal-em-paris.json"
-  },
-  {
-    "id": "uma-viagem-ao-desconhecido",
-    "tipo": "filme",
-    "titulo": "Uma Viagem ao Desconhecido",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yA1ltwVBSgOpNqmldtcqmVknR2I.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/eeqkC7tgfkY3vgaSoqCBLNasqEe.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.481,
-    "tmdbId": 934606,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-viagem-ao-desconhecido.json"
-  },
-  {
-    "id": "uma-viagem-ao-infinito",
-    "tipo": "filme",
-    "titulo": "Uma Viagem ao Infinito",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/38KllKVpeTLvirHvuLWWy5I71rX.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6Bgd7xihK37b98ERPTvLOqQO1eu.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7.132,
-    "tmdbId": 1005031,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-viagem-ao-infinito.json"
-  },
-  {
-    "id": "uma-viagem-entre-amigos",
-    "tipo": "filme",
-    "titulo": "Uma Viagem Entre Amigos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/a1zEB3Jn5IuHj4HgYboVGBzeghA.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/33TRmLYDnDr6RjJycKeoincH1PW.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.5,
-    "tmdbId": 642124,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-viagem-entre-amigos.json"
-  },
-  {
-    "id": "uma-viagem-extraordinaria",
-    "tipo": "filme",
-    "titulo": "Uma Viagem Extraordinária",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iwghCDjSoP8dw5r3YYDKgesrrpk.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/q9wnyYMAyKhOvfycUERFNKTHEaL.jpg",
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 6.876,
-    "tmdbId": 157841,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-viagem-extraordinaria.json"
-  },
-  {
-    "id": "uma-viagem-incrivel-o-misterio-do-ovo",
-    "tipo": "filme",
-    "titulo": "Uma Viagem Incrível: O Mistério do Ovo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xFabvQ1qO4Y6Vl9FukpqjKn7icJ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kY6GF0WOrmVXm3oyo8tXJXnE9cF.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 5.8,
-    "tmdbId": 866319,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-viagem-incrivel-o-misterio-do-ovo.json"
-  },
-  {
-    "id": "uma-viagem-noite-adentro",
-    "tipo": "filme",
-    "titulo": "Uma Viagem Noite Adentro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/964dl05pWaHQV7TR6EqHEadTtrL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/w6SV4jjiu5hBwKL81c3YMHb0F2I.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.3,
-    "tmdbId": 875522,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-viagem-noite-adentro.json"
-  },
-  {
-    "id": "uma-viagem-para-grecia",
-    "tipo": "filme",
-    "titulo": "Uma Viagem para Grécia",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nF9NdEf3e3mFAjBD3dHCbbdCIA7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4melAXMgacNtfRhmH3K5XRSpq1u.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.2,
-    "tmdbId": 611179,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-viagem-para-grecia.json"
-  },
-  {
-    "id": "uma-viagem-para-paris",
-    "tipo": "filme",
-    "titulo": "Uma Viagem para Paris",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/phoSgQVtdQnwHTDE4PlY4JaOkeP.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dcGvSZstod5JYBJxHYy5efmr329.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 5.8,
-    "tmdbId": 643198,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-viagem-para-paris.json"
-  },
-  {
-    "id": "uma-viagem-para-recordar",
-    "tipo": "filme",
-    "titulo": "Uma Viagem para Recordar",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/8gzP5oGWk2UtM2LMALqqd3APDWO.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/oqOfd2kd1DArXYHUhKxaGDTfyNQ.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.4,
-    "tmdbId": 1245874,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-viagem-para-recordar.json"
-  },
-  {
-    "id": "uma-vida-a-historia-de-nicholas-winton",
-    "tipo": "filme",
-    "titulo": "Uma Vida: A História de Nicholas Winton",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/o65cLhzXPp9nBb5RvKRqLfZiMcH.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7kgDHoXEk0EySTczcmaYpPDBFQS.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.762,
-    "tmdbId": 760774,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-vida-a-historia-de-nicholas-winton.json"
-  },
-  {
-    "id": "uma-vida-com-proposito",
-    "tipo": "filme",
-    "titulo": "Uma Vida Com Propósito",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zu94JGXSzJldFxXjLwTvLhdUjbI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rsdFvneLY76JGXQ1rYovyeUtqyc.jpg",
-    "generos": [
-      "RELIGIOSOS"
-    ],
-    "nota": 7.112,
-    "tmdbId": 409502,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-vida-com-proposito.json"
-  },
-  {
-    "id": "uma-vida-de-esperanca",
-    "tipo": "filme",
-    "titulo": "Uma Vida de Esperança",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/cjodugwpEy2CRf7xUp1YxIy0MbF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rBo0yYQTruIYEuXdyCAyVVlNb2H.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA",
-      "4K"
-    ],
-    "nota": 7.677,
-    "tmdbId": 974036,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-vida-de-esperanca.json"
-  },
-  {
-    "id": "uma-vida-em-sete-dias",
-    "tipo": "filme",
-    "titulo": "Uma Vida em Sete Dias",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/g4T8KbMijAqQl1qZrXLwa3r2GOY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/AwkaTlvHAc5qQksrXg982CWMkYJ.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 5.682,
-    "tmdbId": 16643,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-vida-em-sete-dias.json"
-  },
-  {
-    "id": "uma-vida-honesta",
-    "tipo": "filme",
-    "titulo": "Uma Vida Honesta",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iiKy4p6Mcd0Qs3WD3VrR3INOWHr.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9anJSe71q4nwUI1GcbM1LCxMAAd.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 5.5,
-    "tmdbId": 1187436,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-vida-honesta.json"
-  },
-  {
-    "id": "uma-vida-inteira",
-    "tipo": "filme",
-    "titulo": "Uma Vida Inteira",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1nqHRjwwi2wRh7ImFaNM4plMUKN.jpg",
-    "banner": null,
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 4.8,
-    "tmdbId": 446934,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-vida-inteira.json"
-  },
-  {
-    "id": "uma-vida-oculta",
-    "tipo": "filme",
-    "titulo": "Uma Vida Oculta",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oh5cKQgC54MAu62YCXNHVPiKIoY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zxY1yP9FjJpV7T3hxqBBI5WNydx.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.191,
-    "tmdbId": 403300,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-vida-oculta.json"
-  },
-  {
-    "id": "uma-vida-quase-normal",
-    "tipo": "filme",
-    "titulo": "Uma Vida Quase Normal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/njuFQSSH0Ne9Hk978Exb1JJLOop.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/922OdyNwXHoP6UL6GtjIIaNpHij.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 5.333,
-    "tmdbId": 949087,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-vida-quase-normal.json"
-  },
-  {
-    "id": "uma-vida-sem-limites",
-    "tipo": "filme",
-    "titulo": "Uma Vida Sem Limites",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/36suub6HpNH0FIWDtmxcoETADkJ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6lqG65kS1z3WrquVosNmb3uhBY5.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.297,
-    "tmdbId": 6478,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-vida-sem-limites.json"
-  },
-  {
-    "id": "uma-vida-sem-roteiro",
-    "tipo": "filme",
-    "titulo": "Uma Vida Sem Roteiro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hq66KxEPZD15ycbKowB8YBp6e4A.jpg",
-    "banner": null,
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-vida-sem-roteiro.json"
-  },
-  {
-    "id": "uma-virada-do-destino",
-    "tipo": "filme",
-    "titulo": "Uma Virada do Destino",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dfrMP4fB1YOBLTDwWx1QmmWTKmf.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wE6Vw8eInRuscQE1MPCU2qnfmeE.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.097,
-    "tmdbId": 43535,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-virada-do-destino.json"
-  },
-  {
-    "id": "uma-visita-inesperada",
-    "tipo": "filme",
-    "titulo": "Uma Visita Inesperada",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/sKsKmsYC3fORI6feFsigztu0xYN.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sRB7EpSfQthmAnc9N5GQxviLB2I.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 7.186,
-    "tmdbId": 1095340,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-visita-inesperada.json"
-  },
-  {
-    "id": "uma-voz-contra-o-poder",
-    "tipo": "filme",
-    "titulo": "Uma Voz Contra o Poder",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nNHy4BM1viwqBQOkj5D4qBk3F72.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zjOXE4BHnZGbHvi0aXMArbDlR71.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.689,
-    "tmdbId": 548755,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-voz-contra-o-poder.json"
-  },
-  {
-    "id": "uma-xicara-de-cafe-e-sapatos-novos",
-    "tipo": "filme",
-    "titulo": "Uma Xícara de Café e Sapatos Novos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6aarjzUR8Hv4kVQtqKysrhGFqc8.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/iecRLgwzGeXqSiddlm4Bsq0R3S4.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 5,
-    "tmdbId": 1022641,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-xicara-de-cafe-e-sapatos-novos.json"
-  },
-  {
-    "id": "umbrella",
-    "tipo": "filme",
-    "titulo": "Umbrella",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/cB7ezflIP0ZZtylLNHfp2EBj3Yc.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4BJI8of50vE6rsz4UPgFG8t5eZj.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.4,
-    "tmdbId": 746274,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/umbrella.json"
-  },
-  {
-    "id": "umidade",
-    "tipo": "filme",
-    "titulo": "Umidade",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oJ52VKNDJgfP6dQEZWG1XRGu6L4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6KeCH0r0758eEvQonJA1vDZTsEt.jpg",
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": 9,
-    "tmdbId": 1280117,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/umidade.json"
-  },
-  {
-    "id": "umjolo-entre-dois-amores",
-    "tipo": "filme",
-    "titulo": "Umjolo: Entre Dois Amores",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/m1aZxghCHlQK07xymiqs1C4YdqC.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/22yzTjjiD0ZrR6BRSjVEKRTk6gF.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 7.806,
-    "tmdbId": 1403775,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/umjolo-entre-dois-amores.json"
-  },
-  {
-    "id": "umjolo-mais-que-amizade",
-    "tipo": "filme",
-    "titulo": "Umjolo: Mais que Amizade",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/PeuRWeJ6P7kQ02Tcyr8kQ7GyHH.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zo90mSFDzGhJpFunXA1x0uoakuI.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 7.714,
-    "tmdbId": 1395642,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/umjolo-mais-que-amizade.json"
-  },
-  {
-    "id": "umjolo-o-amor-nao-tem-cura",
-    "tipo": "filme",
-    "titulo": "Umjolo: O Amor Não Tem Cura",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/2JXvvx0JSKb3uZjLi7YRjZ9WgX9.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/eT1udCQQAXVuLkb26911aUwg76L.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 6.933,
-    "tmdbId": 1425200,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/umjolo-o-amor-nao-tem-cura.json"
-  },
-  {
-    "id": "un-actor-malo",
-    "tipo": "filme",
-    "titulo": "Un actor malo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/sBASNWe649hZ1GEYsVRRjnZ110U.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/hBPiwjiNCyI08gftr2IxOX3LYPg.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7.507,
-    "tmdbId": 1111869,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/un-actor-malo.json"
-  },
-  {
-    "id": "un-coup-de-maitre",
-    "tipo": "filme",
-    "titulo": "Un coup de maître",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/v9esi4z5PbI3aYVjMTqTBdEbJNW.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1IfMjeMmR4R9NZMN6aqF9ffO1Wg.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6,
-    "tmdbId": 979149,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/un-coup-de-maitre.json"
-  },
-  {
-    "id": "un-mondo-a-parte",
-    "tipo": "filme",
-    "titulo": "Um mundo à parte",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/9slc9Tz18zYTipO1TtzeKMBr9Sr.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2CtKnSi5SQ3aZc9Af25bsVv6Rcu.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.491,
-    "tmdbId": 1109306,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/un-mondo-a-parte.json"
-  },
-  {
-    "id": "unabomber-terrorista",
-    "tipo": "filme",
-    "titulo": "Unabomber: Terrorista",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/vuQorCeoBtR2hShbe8ECz0Oc3ad.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wArldRKTKmy7rhHe95SzQ6Ale9X.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.031,
-    "tmdbId": 660353,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/unabomber-terrorista.json"
-  },
-  {
-    "id": "unbelievable",
-    "tipo": "filme",
-    "titulo": "Unbelievable!!!!!",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dBZbwgrCQ8JcmCPQKhsQN25IwjM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/d1oTPkWSySEvcxCw4zrKMkaIrP6.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 4.313,
-    "tmdbId": 329621,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/unbelievable.json"
-  },
-  {
-    "id": "uncharted-fora-do-mapa",
-    "tipo": "filme",
-    "titulo": "Uncharted: Fora do Mapa",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qNAPgepJ4NHNA74ThVsxQEOUceJ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fwrqW8Lp5VQuppFrODd4iJ8LySE.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.883,
-    "tmdbId": 335787,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uncharted-fora-do-mapa.json"
-  },
-  {
-    "id": "uncle-tom",
-    "tipo": "filme",
-    "titulo": "Pai Tomás",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dXdRMmheHdPd8MKl7NntOdl6iro.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vkEAM4rPVADpFXLEuOqFk1Emfft.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7.7,
-    "tmdbId": 711340,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uncle-tom.json"
   }
 ]

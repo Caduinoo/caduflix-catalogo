@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Uma jovem bate o carro em um prédio, matando o namorado e o amigo dele. Este documentário mostra como um suposto acidente trágico se transforma em um caso de assassinato.",
   "generos": [
+    "LEGENDADOS",
     "LANÇAMENTOS"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/94AQpf6Rg6tblNpa65ogzYw4q6P.jpg",
@@ -12,6 +13,13 @@
   "tmdbId": 1662317,
   "nota": 6.295,
   "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050507,
+      "container": "mp4"
+    },
     {
       "nome": "Padrão",
       "idioma": "Não informado",

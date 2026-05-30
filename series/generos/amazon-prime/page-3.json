@@ -1,5 +1,69 @@
 [
   {
+    "id": "panhandle",
+    "tipo": "serie",
+    "titulo": "Florida: Calor e Crime",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mt8cGIRth22K0Uv22XZvUI0Xmkg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eNCPEsPzsAZAzd1mfS26FxJUCnU.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 6.9,
+    "tmdbId": 210095,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/panhandle.json"
+  },
+  {
+    "id": "panty-e-stocking-with-garterbelt",
+    "tipo": "serie",
+    "titulo": "Panty e Stocking With Garterbelt",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/RPiVM7JIoAsOZEX0rW8tKQFvCR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zX12leCOrQLCIyNKYXKcVPvAJiY.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 8,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 13,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/panty-e-stocking-with-garterbelt.json"
+  },
+  {
+    "id": "paper-girls",
+    "tipo": "serie",
+    "titulo": "Paper Girls",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6eaySyOW29li0CgXHqy7pgb0IUT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/otyDmwl75oagrC01LpVeegUknuP.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 7.267,
+    "tmdbId": 106431,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/paper-girls.json"
+  },
+  {
+    "id": "pela-metade",
+    "tipo": "serie",
+    "titulo": "Pela Metade",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/j6TXud3kXLyqZrPyVwtkIVs8mXd.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uvmn7g7G0cVj7OVeDRrklky4NfF.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 8.778,
+    "tmdbId": 257994,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/pela-metade.json"
+  },
+  {
     "id": "pelados-e-condenados",
     "tipo": "serie",
     "titulo": "Pelados e Condenados",
@@ -1643,6 +1707,22 @@
     "totalTemporadas": 1,
     "totalEpisodios": 10,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/spartacus-house-of-ashur.json"
+  },
+  {
+    "id": "spider-noir",
+    "tipo": "serie",
+    "titulo": "Spider-Noir",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rfrzXSaiuvRMLo8PRQds0TfFrZC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 9,
+    "tmdbId": 220102,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/spider-noir.json"
   },
   {
     "id": "sr-e-sra-smith",

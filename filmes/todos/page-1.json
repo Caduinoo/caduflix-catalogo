@@ -1274,6 +1274,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/12-vesperas-de-natal.json"
   },
   {
+    "id": "12-12-o-dia",
+    "tipo": "filme",
+    "titulo": "12.12: O Dia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lrNrZVDFM5qidZhf644TeHvxFC0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yOn8w3aGd6Rf9JYki7XaC9ZiyDg.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.5,
+    "tmdbId": 919207,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/12-12-o-dia.json"
+  },
+  {
     "id": "127-horas",
     "tipo": "filme",
     "titulo": "127 Horas",
@@ -1382,6 +1396,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/i5jBVwAMY8CxKX5ENUqLSHeJI2x.jpg",
     "banner": "https://image.tmdb.org/t/p/original/1zlHZDtV5KsX5VcBahNy5GDqUVt.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA",
       "LANÇAMENTOS"
     ],
@@ -1628,6 +1643,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/bLfcN4pTbG78sxS4rQGciJCoNAb.jpg",
     "banner": "https://image.tmdb.org/t/p/original/gkkBhctHPGg8hrmtWbO3ySZoj4z.jpg",
     "generos": [
+      "LEGENDADOS",
       "4K",
       "DRAMA"
     ],
@@ -4335,19 +4351,5 @@
     "nota": 5.48,
     "tmdbId": 480465,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-batalha-das-ardenas-a-ultima-ofensiva-de-hitler.json"
-  },
-  {
-    "id": "a-batalha-das-correntes",
-    "tipo": "filme",
-    "titulo": "A Batalha das Correntes",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1hXJRUdM785ogYuaOo0lXWjOCda.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jypNy38bThNz4K6IWDoE7h0xlP2.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.7,
-    "tmdbId": 418879,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-batalha-das-correntes.json"
   }
 ]

@@ -40,14 +40,6 @@
     "xtreamId": 2315884
   },
   {
-    "id": "canal-9241061",
-    "tipo": "canal",
-    "titulo": "RECORD BLUMENAU HD",
-    "categoria": "RECORD",
-    "capa": "https://i.ibb.co/DDn35v7/Novo-rederecord.png",
-    "xtreamId": 9241061
-  },
-  {
     "id": "canal-2315868",
     "tipo": "canal",
     "titulo": "RECORD BRASILIA FHD",
@@ -294,5 +286,13 @@
     "categoria": "RECORD",
     "capa": "https://i.ibb.co/DDn35v7/Novo-rederecord.png",
     "xtreamId": 2315883
+  },
+  {
+    "id": "canal-11063346",
+    "tipo": "canal",
+    "titulo": "RECORD VITORIA ES HD",
+    "categoria": "RECORD",
+    "capa": "https://i.ibb.co/DDn35v7/Novo-rederecord.png",
+    "xtreamId": 11063346
   }
 ]

@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Um relacionamento íntimo entre um humano e um androide testa os limites da natureza humana.",
   "generos": [
+    "LEGENDADOS",
     "AVENTURA | FICÇÃO | FANTASIA"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/houDX5mJ7lGd7mAgTmtmlnAVwTg.jpg",
@@ -13,6 +14,13 @@
   "nota": 4.965,
   "opcoes": [
     {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050512,
+      "container": "mp4"
+    },
+    {
       "nome": "Padrão",
       "idioma": "Não informado",
       "qualidade": "Não informado",
@@ -20,7 +28,7 @@
       "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1779198843,
+  "dataCriacaoXtream": 1779198848,
   "tituloOriginal": "A.I. Rising",
   "dataLancamento": "2018-02-25"
 }

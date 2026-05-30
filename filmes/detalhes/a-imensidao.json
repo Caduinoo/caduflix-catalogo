@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Na Roma da década de 1970, Clara e Felice acabam de se mudar para um novo apartamento. Eles não se amam mais, mas também não conseguem se separar e a criação dos filhos parece ser a única coisa que os mantêm juntos.",
   "generos": [
+    "LEGENDADOS",
     "DRAMA"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/rsz7QDn6r6HpWjaGJrDoU4EYHym.jpg",
@@ -13,6 +14,13 @@
   "nota": 6.3,
   "opcoes": [
     {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050443,
+      "container": "mp4"
+    },
+    {
       "nome": "Padrão",
       "idioma": "Não informado",
       "qualidade": "Não informado",
@@ -20,7 +28,7 @@
       "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1779198815,
+  "dataCriacaoXtream": 1779198820,
   "tituloOriginal": "L'immensità",
   "dataLancamento": "2022-09-15"
 }

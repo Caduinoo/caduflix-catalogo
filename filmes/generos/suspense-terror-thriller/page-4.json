@@ -1,5 +1,47 @@
 [
   {
+    "id": "fascinacao-mortal-a-vinganca-27",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.27",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-27.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-28",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.28",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-28.json"
+  },
+  {
+    "id": "fascinacao-mortal-a-vinganca-3",
+    "tipo": "filme",
+    "titulo": "Fascinacao Mortal A Vinganca.3",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
+    "banner": null,
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-3.json"
+  },
+  {
     "id": "fascinacao-mortal-a-vinganca-4",
     "tipo": "filme",
     "titulo": "Fascinacao Mortal A Vinganca.4",
@@ -1711,6 +1753,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/heranca.json"
   },
   {
+    "id": "heranca-maldita-2022",
+    "tipo": "filme",
+    "titulo": "Herança Maldita",
+    "ano": 2022,
+    "capa": "https://image.tmdb.org/t/p/w500/uUwIfpIxPUQnETRRqb17lzBWj84.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mKuwJENuTkasTdAgB1wot5eQRS8.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.248,
+    "tmdbId": 796256,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/heranca-maldita-2022.json"
+  },
+  {
     "id": "heranca-maldita",
     "tipo": "filme",
     "titulo": "Herança Maldita",
@@ -1752,20 +1809,6 @@
     "nota": 4.344,
     "tmdbId": 593655,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/heranca-maldita-2020.json"
-  },
-  {
-    "id": "heranca-maldita-2022",
-    "tipo": "filme",
-    "titulo": "Herança Maldita",
-    "ano": 2022,
-    "capa": "https://image.tmdb.org/t/p/w500/uUwIfpIxPUQnETRRqb17lzBWj84.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mKuwJENuTkasTdAgB1wot5eQRS8.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.248,
-    "tmdbId": 796256,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/heranca-maldita-2022.json"
   },
   {
     "id": "hereditario",
@@ -2360,6 +2403,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/in-the-earth.json"
   },
   {
+    "id": "incendiario",
+    "tipo": "filme",
+    "titulo": "Incendiário",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jJWBiaN0nCRdbKpFKEkUIZe3Q6b.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hIC9EA6IPdJLOZ7TqD534E8XjEF.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.386,
+    "tmdbId": 15705,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/incendiario.json"
+  },
+  {
     "id": "incisoes-perigosas",
     "tipo": "filme",
     "titulo": "Incisões Perigosas",
@@ -2613,6 +2671,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/insanidade.json"
   },
   {
+    "id": "insano",
+    "tipo": "filme",
+    "titulo": "Insano",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/61JftRXd1QZ0Jva4quPEQuu683B.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lCiYJCw88OFsbX8Zv20FyD0cVAj.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.929,
+    "tmdbId": 393070,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/insano.json"
+  },
+  {
     "id": "instinto-fatal",
     "tipo": "filme",
     "titulo": "Instinto Fatal",
@@ -2856,7 +2930,8 @@
     "banner": "https://image.tmdb.org/t/p/original/i8MupUe4xgmYXoRNAQMYvuoexSU.jpg",
     "generos": [
       "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
     ],
     "nota": 6.903,
     "tmdbId": 1038392,
@@ -3654,6 +3729,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/lar-dos-esquecidos.json"
   },
   {
+    "id": "legado-de-mentiras",
+    "tipo": "filme",
+    "titulo": "Legado de Mentiras",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5Drt7KqgGmC5PaKTWwrl933UhXW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nxxODhq9I05Ze9uLONGvfDrzaUO.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.529,
+    "tmdbId": 601165,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/legado-de-mentiras.json"
+  },
+  {
     "id": "legado-nos-ossos",
     "tipo": "filme",
     "titulo": "Legado nos Ossos",
@@ -4293,6 +4383,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/ubN87iHY2DyWtwU2JHS0SQ1KqJu.jpg",
     "banner": "https://image.tmdb.org/t/p/original/wMrV8SLne1jHLeYS0lLrA1Tf86P.jpg",
     "generos": [
+      "LEGENDADOS",
       "SUSPENSE | TERROR | THRILLER",
       "TOP 10",
       "4K"
@@ -4330,94 +4421,5 @@
     "nota": 4.9,
     "tmdbId": 1005854,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/maldicao-de-familia.json"
-  },
-  {
-    "id": "malditas-aranhas",
-    "tipo": "filme",
-    "titulo": "Malditas Aranhas!",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rTI1y2ePzTxqlHAJHpDtWZH0OCz.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/hOVtpgal5wWHP8vDczrEzZXkOEV.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.806,
-    "tmdbId": 8869,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/malditas-aranhas.json"
-  },
-  {
-    "id": "malicia",
-    "tipo": "filme",
-    "titulo": "Malícia",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6tqmwsDBpm4LS0HzZGFlWQYcqhp.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/eGqZyH83bQ1x5MKD5SggEfarPa.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 7.315,
-    "tmdbId": 44741,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/malicia.json"
-  },
-  {
-    "id": "maligno",
-    "tipo": "filme",
-    "titulo": "Maligno",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xnyGhzrfqENfFoiNZ9z4oy63Z9F.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.747,
-    "tmdbId": 619778,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/maligno.json"
-  },
-  {
-    "id": "malum",
-    "tipo": "filme",
-    "titulo": "Malum",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iuZ4rGnniWudvtRafwGJ2twrTqZ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jgGP3HxKUrYM7sPIFVH7L0k8Mmq.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.537,
-    "tmdbId": 1094403,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/malum.json"
-  },
-  {
-    "id": "mama",
-    "tipo": "filme",
-    "titulo": "Mama",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/NBSMhzMXs56Scq2MGF1AetAYFr.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cu3uaBqPORcfpKQWaIjA1GJbvEg.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.295,
-    "tmdbId": 132232,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mama.json"
-  },
-  {
-    "id": "mamae",
-    "tipo": "filme",
-    "titulo": "Mamãe Morreu",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4J73NTW1sBbhFG2x54CdPzKi6Ik.jpg",
-    "banner": null,
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER",
-      "4K"
-    ],
-    "nota": null,
-    "tmdbId": 719043,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mamae.json"
   }
 ]

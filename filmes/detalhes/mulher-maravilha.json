@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Treinada desde cedo para ser uma guerreira imbatível, Diana Prince nunca saiu da paradisíaca ilha em que é reconhecida como Princesa das Amazonas. Quando o piloto Steve Trevor se acidenta e cai numa praia do local, ela descobre que uma guerra sem precedentes está se espalhando pelo mundo e decide deixar seu lar certa de que pode parar o conflito. Lutando para acabar com todas as lutas, Diana percebe o alcance de seus poderes e sua verdadeira missão na Terra.",
   "generos": [
+    "LEGENDADOS",
     "AÇÃO | CRIME | GUERRA",
     "4K",
     "ANIMAÇÃO | INFANTIL | FAMILIA"
@@ -14,6 +15,13 @@
   "tmdbId": 297762,
   "nota": 7.209,
   "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11063381,
+      "container": "mp4"
+    },
     {
       "nome": "Padrão",
       "idioma": "Não informado",
@@ -36,7 +44,7 @@
       "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1773567060,
+  "dataCriacaoXtream": 1779786420,
   "tituloOriginal": "Wonder Woman",
   "dataLancamento": "2017-05-30"
 }

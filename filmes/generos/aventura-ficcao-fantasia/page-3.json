@@ -948,6 +948,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pinky.json"
   },
   {
+    "id": "pinoquio-2022",
+    "tipo": "filme",
+    "titulo": "Pinóquio",
+    "ano": 2022,
+    "capa": "https://image.tmdb.org/t/p/w500/2nvHcplURnWLL2RX6SQlwM63wu3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nnUQqlVZeEGuCRx8SaoCU4XVHJN.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA",
+      "4K"
+    ],
+    "nota": 6.291,
+    "tmdbId": 532639,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pinoquio-2022.json"
+  },
+  {
     "id": "pinoquio",
     "tipo": "filme",
     "titulo": "Pinóquio",
@@ -963,21 +979,6 @@
     "nota": 7.37,
     "tmdbId": 1248723,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pinoquio.json"
-  },
-  {
-    "id": "pinoquio-2022",
-    "tipo": "filme",
-    "titulo": "Pinóquio",
-    "ano": 2022,
-    "capa": "https://image.tmdb.org/t/p/w500/2nvHcplURnWLL2RX6SQlwM63wu3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nnUQqlVZeEGuCRx8SaoCU4XVHJN.jpg",
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA",
-      "4K"
-    ],
-    "nota": 6.291,
-    "tmdbId": 532639,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pinoquio-2022.json"
   },
   {
     "id": "piratas-das-galaxias",
@@ -1500,6 +1501,20 @@
     "nota": 6.8,
     "tmdbId": 1039571,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/quando-os-sinos-tocam.json"
+  },
+  {
+    "id": "r-i-p-agentes-do-alem",
+    "tipo": "filme",
+    "titulo": "R.I.P.D.: Agentes do Além",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gwrmdGGGFnylffZqZgkoJa31DOn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6KJcFFE1iBPC0Xj0iPCcmMvS5WK.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 5.859,
+    "tmdbId": 49524,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/r-i-p-agentes-do-alem.json"
   },
   {
     "id": "r-i-p-d-agentes-do-alem",

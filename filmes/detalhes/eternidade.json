@@ -34,9 +34,16 @@
       "qualidade": "Não informado",
       "xtreamId": 11049764,
       "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 11063348,
+      "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1778842360,
+  "dataCriacaoXtream": 1779786412,
   "tituloOriginal": "Eternity",
   "dataLancamento": "2025-11-26"
 }

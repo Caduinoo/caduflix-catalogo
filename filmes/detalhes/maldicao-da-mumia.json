@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "A filha de um jornalista desaparece num deserto sem deixar rastros, deixando a família dilacerada e em luto. Até que, oito anos mais tarde, a jovem garota reaparece, deixando todos chocados. O problema é que esse encontro aparentemente feliz se transforma em um pesadelo de proporções gigantes.",
   "generos": [
+    "LEGENDADOS",
     "SUSPENSE | TERROR | THRILLER",
     "TOP 10",
     "4K"
@@ -14,6 +15,13 @@
   "tmdbId": 1304313,
   "nota": 7.926,
   "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050514,
+      "container": "mp4"
+    },
     {
       "nome": "Padrão",
       "idioma": "Não informado",

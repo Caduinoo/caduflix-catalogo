@@ -18,9 +18,16 @@
       "qualidade": "Não informado",
       "xtreamId": 10772352,
       "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11084907,
+      "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1773567047,
+  "dataCriacaoXtream": 1780134578,
   "tituloOriginal": "Baywatch",
   "dataLancamento": "2017-05-25"
 }

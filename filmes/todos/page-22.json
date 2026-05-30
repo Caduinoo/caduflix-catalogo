@@ -1,5 +1,351 @@
 [
   {
+    "id": "freaks-um-de-nos",
+    "tipo": "filme",
+    "titulo": "Freaks: Um de Nós",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/q5vhnaaOLSUboRJwiJbYqoUsach.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/q9lf5lt1QWAPVdPXckFOzCeFB07.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 5.674,
+    "tmdbId": 658777,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/freaks-um-de-nos.json"
+  },
+  {
+    "id": "freaky",
+    "tipo": "filme",
+    "titulo": "Freaky: No Corpo de um Assassino",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/asCCNF72JPwxEDVoKXZc6u8fzRa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ngpC8wikrZDnhjkFQMEjWSh7HAV.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.563,
+    "tmdbId": 551804,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/freaky.json"
+  },
+  {
+    "id": "freaky-no-corpo-de-um-assassino",
+    "tipo": "filme",
+    "titulo": "Freaky: No Corpo de um Assassino",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/asCCNF72JPwxEDVoKXZc6u8fzRa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ngpC8wikrZDnhjkFQMEjWSh7HAV.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.563,
+    "tmdbId": 551804,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/freaky-no-corpo-de-um-assassino.json"
+  },
+  {
+    "id": "freaky-tales",
+    "tipo": "filme",
+    "titulo": "Freaky Tales",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lo5mfglsGeMYmAkSRXs9DATNJxk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/elZZLzhDzjRIIkGcIK0FGmZSUaq.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.284,
+    "tmdbId": 979660,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/freaky-tales.json"
+  },
+  {
+    "id": "freamhacha",
+    "tipo": "filme",
+    "titulo": "Fréamhacha",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pfLylbmY0uxQm6Sh63j6bpb7XB3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1OUEVe8VtA6F1eISGMzIEpyrmcD.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.148,
+    "tmdbId": 1189735,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/freamhacha.json"
+  },
+  {
+    "id": "free-guy-assumindo-o-controle",
+    "tipo": "filme",
+    "titulo": "Free Guy: Assumindo o Controle",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jXlGeLOg2RKHmV9CinVaIB4ijKU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7py8kUCYaOdFn1TfVS87BDBySOz.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA",
+      "4K"
+    ],
+    "nota": 7.451,
+    "tmdbId": 550988,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/free-guy-assumindo-o-controle.json"
+  },
+  {
+    "id": "free-willy",
+    "tipo": "filme",
+    "titulo": "Free Willy",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9iBgd9gi9ztWiVcYSG6zl8wDFBN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mXkUfzJfdWx9y4Zlm7wsvQ0uvYo.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.195,
+    "tmdbId": 1634,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/free-willy.json"
+  },
+  {
+    "id": "free-willy-a-grande-fuga",
+    "tipo": "filme",
+    "titulo": "Free Willy - A Grande Fuga",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xMzwGt0fI6HObAgLDm87pHEvEFv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6o81zIBccubOIlTSjY7hjcAr4e4.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.1,
+    "tmdbId": 34751,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/free-willy-a-grande-fuga.json"
+  },
+  {
+    "id": "free-willy-2-a-aventura-continua",
+    "tipo": "filme",
+    "titulo": "Free Willy 2 - A Aventura Continua",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rj2nIzMQG6AxYvl0fqMJomIGJYZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jiVuIZPan76T1l7oi1EfzqWvJ1Q.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 5.939,
+    "tmdbId": 9073,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/free-willy-2-a-aventura-continua.json"
+  },
+  {
+    "id": "free-willy-3-o-resgate",
+    "tipo": "filme",
+    "titulo": "Free Willy 3 - O Resgate",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/c5ADbz5BVaL1dBYLqaHvVCEag73.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/emAXd9Pj7ziQudv8TuxaXu2pHb2.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.105,
+    "tmdbId": 18519,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/free-willy-3-o-resgate.json"
+  },
+  {
+    "id": "free-road-to-the-world-the-dream",
+    "tipo": "filme",
+    "titulo": "Free! Road to the World - The Dream",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/f3ssgfTIyWFTP2udVAKShdrWueR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9KwjkPO6u9tGQOBOic4prH8EWaq.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 5.833,
+    "tmdbId": 576618,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/free-road-to-the-world-the-dream.json"
+  },
+  {
+    "id": "free-take-your-marks",
+    "tipo": "filme",
+    "titulo": "Free!: Take Your Marks",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oaUqYPYthBXHI2eD6Yos7Ge5kIm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6ucCjIA68VniqYWBq4hXDryXDIN.jpg",
+    "generos": [
+      "ANIMES"
+    ],
+    "nota": 6.8,
+    "tmdbId": 460398,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/free-take-your-marks.json"
+  },
+  {
+    "id": "freediver",
+    "tipo": "filme",
+    "titulo": "Respire Fundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/emII3Y5V6ZlHQ0kgNXU97v5Z0ra.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/glJcgJNrHe5qdHYy1LlHNJJf8cv.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.6,
+    "tmdbId": 1387739,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/freediver.json"
+  },
+  {
+    "id": "freelance",
+    "tipo": "filme",
+    "titulo": "Herói por Encomenda",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zM8RkIxq7cJ1V6hOqKQLbHDgkRq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zIYROrkHJPYB3VTiW1L9QVgaQO.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.408,
+    "tmdbId": 897087,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/freelance.json"
+  },
+  {
+    "id": "freestyle",
+    "tipo": "filme",
+    "titulo": "Batalhas: Freestyle",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vdgUNCruHI6jX9TU4vvplgpDtL7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8WpRRiz3qQqzBiifCTm1dW0b6bs.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.5,
+    "tmdbId": 785521,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/freestyle.json"
+  },
+  {
+    "id": "freiras-em-fuga",
+    "tipo": "filme",
+    "titulo": "Freiras em Fuga",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ui9Xn4WAwXAS4Ljwr4bNkUVYepp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/elBPA8Ra4DOe1ROoJkAVRaCU5kj.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 5.858,
+    "tmdbId": 11131,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/freiras-em-fuga.json"
+  },
+  {
+    "id": "fremont",
+    "tipo": "filme",
+    "titulo": "Fremont",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wJZovPXB3SWL1BL1GyLrCRrk4z9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jai2IePHlNTKwCNoOM5HQgMVUaj.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.362,
+    "tmdbId": 1048522,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fremont.json"
+  },
+  {
+    "id": "french-girl",
+    "tipo": "filme",
+    "titulo": "A Garota Francesa",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9DUeMtypGaIO9T3sxGePSFrOLbl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9hLE7hMDyIhtSfR6L7DJrsUzY2K.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.254,
+    "tmdbId": 1024452,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/french-girl.json"
+  },
+  {
+    "id": "french-lover",
+    "tipo": "filme",
+    "titulo": "French Lover",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/eMGi1vZiI0CeRsn8UMa147PaVCa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/p4OIGFfVo3vbROMD1evVF0u14Rf.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 6.112,
+    "tmdbId": 1289888,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/french-lover.json"
+  },
+  {
+    "id": "frente-a-frente",
+    "tipo": "filme",
+    "titulo": "Frente à Frente",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fqhZOmHlARkWiHZmy6D2DRrrxlZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qLtREPyJgxewgK3l68epEQeHTVR.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 7.041,
+    "tmdbId": 513692,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/frente-a-frente.json"
+  },
+  {
+    "id": "fresh",
+    "tipo": "filme",
+    "titulo": "Fresh",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tlu71AgaL3EQBBCNGsAwZLPbV5D.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oVv5l6L5Wi5j3gd4P2vt0YvVMOg.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.96,
+    "tmdbId": 787752,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fresh.json"
+  },
+  {
+    "id": "fresh-hell",
+    "tipo": "filme",
+    "titulo": "Terror Virtual",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pVRzCS3ylEsaQpE14tgG7vpIkGl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xoSnauACoBDUAZlrjeSXkSYxJWm.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 4.5,
+    "tmdbId": 873973,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fresh-hell.json"
+  },
+  {
+    "id": "fresh-hell-adolescentes-mortos",
+    "tipo": "filme",
+    "titulo": "Fresh Hell: Adolescentes Mortos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/z8Yr4ASYm52miXd0vl7pE3jDqys.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gZoKGUR1d5iLZhgDYOSCKPuBsfD.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 4.2,
+    "tmdbId": 1295144,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fresh-hell-adolescentes-mortos.json"
+  },
+  {
+    "id": "fresh-hell-lobos-contra-o-mundo",
+    "tipo": "filme",
+    "titulo": "Fresh Hell: Lobos Contra o Mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yL4vYPynrlw33rnkC7KXu4ol8pR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eB6vqb8V5aeTVAQsyravt8yH9tC.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 4.3,
+    "tmdbId": 1236416,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fresh-hell-lobos-contra-o-mundo.json"
+  },
+  {
     "id": "freud-alem-da-alma",
     "tipo": "filme",
     "titulo": "Freud: Além da Alma",
@@ -85,6 +431,20 @@
     "nota": null,
     "tmdbId": null,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fritada-pablo-marcal.json"
+  },
+  {
+    "id": "from-ground-zero-stories-from-gaza",
+    "tipo": "filme",
+    "titulo": "From Grounded Zero Stories From Gaza",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fa1awdcPtuKEIpQNM4AKu9vCPQh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/awE31KouiIBA8kkDoZ77YjjrwCE.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.528,
+    "tmdbId": 1326649,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/from-ground-zero-stories-from-gaza.json"
   },
   {
     "id": "from-the-ashes-the-pit",
@@ -1479,6 +1839,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/yDgpzZcyVklCbRY1zwpkvjYJJiA.jpg",
     "banner": "https://image.tmdb.org/t/p/original/nRBt4c7X56HexYhgt9Exl7upvRo.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA"
     ],
     "nota": 5.692,
@@ -1679,6 +2040,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/ssue24YN4ay40UmpRerXS4qAOOE.jpg",
     "banner": "https://image.tmdb.org/t/p/original/6UGAOEkFNT6RsOj8tSGcPo90oCp.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA"
     ],
     "nota": 5.524,
@@ -2968,6 +3330,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/gigolo-por-acidente.json"
   },
   {
+    "id": "gilberto-gil-tempo-rei",
+    "tipo": "filme",
+    "titulo": "Gilberto Gil: Tempo Rei",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zcI54dGgLNtUEHjrjXEb2jCatqp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fRnV3uylAo8BKjv4deaSi6waJdn.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": null,
+    "tmdbId": 269474,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/gilberto-gil-tempo-rei.json"
+  },
+  {
     "id": "gilberto-gil-um-deus-em-seu-jardim",
     "tipo": "filme",
     "titulo": "Gilberto Gil: Um Deus em seu Jardim",
@@ -3977,383 +4353,5 @@
     "nota": 5.582,
     "tmdbId": 890656,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/golpes-de-vinganca.json"
-  },
-  {
-    "id": "gone-in-the-night",
-    "tipo": "filme",
-    "titulo": "Perdidos na Noite",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qBT4gkpdORLOrZ5lCmuwAyFjkzl.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1179VQ6ckccWzgyS2PHxWMFDGKI.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.568,
-    "tmdbId": 874355,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/gone-in-the-night.json"
-  },
-  {
-    "id": "gonzaga-de-pai-pra-filho",
-    "tipo": "filme",
-    "titulo": "Gonzaga: De Pai pra Filho",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/8LRWQiq43cIc03sC5ZLGB8zYrjU.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zBFEeQtRUeJ0884IE8nipEv4bhu.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.2,
-    "tmdbId": 129705,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/gonzaga-de-pai-pra-filho.json"
-  },
-  {
-    "id": "good-bad-ugly",
-    "tipo": "filme",
-    "titulo": "Good Bad Ugly",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/8DbYYluzdiGDAZzsaP7DWGbwfLd.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/5CtvMLmCdksbYqqQd812WYML2wJ.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.944,
-    "tmdbId": 1259024,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/good-bad-ugly.json"
-  },
-  {
-    "id": "good-boys",
-    "tipo": "filme",
-    "titulo": "Bons Meninos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dg6RRpk0W1N8NWMmdLvPRgTsstD.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6Xsz9KHQmCcIcj3CoWQq5eLtVoT.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.834,
-    "tmdbId": 521777,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/good-boys.json"
-  },
-  {
-    "id": "good-news",
-    "tipo": "filme",
-    "titulo": "Good News",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kc09qEaxC1dyyJtkBIx4hgFqng3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dNYo4Qg3CnZFbzeet59d4cdhRkK.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 7,
-    "tmdbId": 1296404,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/good-news.json"
-  },
-  {
-    "id": "goodbye-butterfly",
-    "tipo": "filme",
-    "titulo": "Adeus, Borboleta",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/e0OJcPxS4vX3oUlWscl1zWq6lrS.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tAU5NmCzsaSnLEOUeBqy42i7Rnu.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.3,
-    "tmdbId": 786193,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/goodbye-butterfly.json"
-  },
-  {
-    "id": "goodbye-stranger",
-    "tipo": "filme",
-    "titulo": "Goodbye Stranger",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/bOtFTKrUqZ5sriwsuktQimnWztZ.jpg",
-    "banner": null,
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": null,
-    "tmdbId": 1356697,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/goodbye-stranger.json"
-  },
-  {
-    "id": "goosebumps-monstros-e-arrepios",
-    "tipo": "filme",
-    "titulo": "Goosebumps: Monstros e Arrepios",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/d1rkpUr64IY0ARTyWU6MrHJD2Wt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6mPe4rBHzDMal2oL6hVgOBkaHz9.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER",
-      "4K"
-    ],
-    "nota": 6.312,
-    "tmdbId": 257445,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/goosebumps-monstros-e-arrepios.json"
-  },
-  {
-    "id": "goosebumps-2-halloween-assombrado",
-    "tipo": "filme",
-    "titulo": "Goosebumps 2: Halloween Assombrado",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iP5MbYaPiD5zIUmLGVEhIA83A9A.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/h5BvesqaxL7V3vl1CmaR8waGyiM.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.096,
-    "tmdbId": 442062,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/goosebumps-2-halloween-assombrado.json"
-  },
-  {
-    "id": "gorongosa-o-paraiso-renasce",
-    "tipo": "filme",
-    "titulo": "Gorongosa: O Paraíso Renasce",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/y2pa1hNPVWeDvdXdaEFkk8P6NYd.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vyCVpgA43ohuRAOFiFqXlfqoEl.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.2,
-    "tmdbId": 1019362,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/gorongosa-o-paraiso-renasce.json"
-  },
-  {
-    "id": "goshu-o-violoncelista",
-    "tipo": "filme",
-    "titulo": "Goshu: O Violoncelista",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xp5QVSRBbviN2waDvWdxScYYTqb.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/akSm1tjJrUfOg8oGq9CzodRpH83.jpg",
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": 7.235,
-    "tmdbId": 41017,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/goshu-o-violoncelista.json"
-  },
-  {
-    "id": "gospel",
-    "tipo": "filme",
-    "titulo": "Gospel",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yXYnB3tNLaCg8YXJounvhybk0SH.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7qIKiMD5jyt0p8eUPc9gltwMPrd.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 8.7,
-    "tmdbId": 1069561,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/gospel.json"
-  },
-  {
-    "id": "gosto-infernal",
-    "tipo": "filme",
-    "titulo": "Gosto Infernal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rMuHUjtM3HptEXz9acWEEm8U1P4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vUn8FHaW44fU3IQgGyzLy8Sd8OA.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER",
-      "LANÇAMENTOS"
-    ],
-    "nota": 3.1,
-    "tmdbId": 1365149,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/gosto-infernal.json"
-  },
-  {
-    "id": "gotti-o-chefe-da-mafia",
-    "tipo": "filme",
-    "titulo": "Gotti - O Chefe da Máfia",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jbaXd6cF2tj2jqw99jtNegfWE3i.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2ONQC1jV5ucuNmbJjd4JtGx5NFp.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 5.315,
-    "tmdbId": 339103,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/gotti-o-chefe-da-mafia.json"
-  },
-  {
-    "id": "goyo",
-    "tipo": "filme",
-    "titulo": "Goyo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/vL7P1TM4wkVtNJf7XDIA8Y4CcPC.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1EiESIhVU4529hXWEfPw2XIrWjc.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 6.93,
-    "tmdbId": 1191610,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/goyo.json"
-  },
-  {
-    "id": "graca-e-coragem",
-    "tipo": "filme",
-    "titulo": "Graça e Coragem",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mvKxJFzbEIFOA2B8p1mSvIVpTQ0.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jHcn85pI9YvIjaCUwfudmBwASO.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 4.7,
-    "tmdbId": 347616,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/graca-e-coragem.json"
-  },
-  {
-    "id": "graca-e-perdao",
-    "tipo": "filme",
-    "titulo": "Graça e Perdão",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qQbgKemaOkv4aLPEFCqTQZMmXxJ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2JydCwD6rwwmkrXQoqLI5QZXSlf.jpg",
-    "generos": [
-      "RELIGIOSOS"
-    ],
-    "nota": 7.01,
-    "tmdbId": 45792,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/graca-e-perdao.json"
-  },
-  {
-    "id": "gracas-a-deus",
-    "tipo": "filme",
-    "titulo": "Graças a Deus",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pGON91viglFuiug8BIue0JADxI7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/f1k5jMK6QQ46E4jlwENmEBPf3Hk.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.143,
-    "tmdbId": 509364,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/gracas-a-deus.json"
-  },
-  {
-    "id": "grace",
-    "tipo": "filme",
-    "titulo": "Grace",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/96Ya0EXzfzsUk50hKnpn2q0xFdg.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4z80dZyUdgenW7GBmOfbPPB2ozJ.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.038,
-    "tmdbId": 546377,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/grace.json"
-  },
-  {
-    "id": "grace-entre-a-fe-e-a-fama",
-    "tipo": "filme",
-    "titulo": "Grace: Entre a Fé e a Fama",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fMfSS9W5eOCKbRkc8z2Dav7AsXL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/5WyJYVBB2wzzzJn6VF6YEYHIpF3.jpg",
-    "generos": [
-      "RELIGIOSOS"
-    ],
-    "nota": 5.944,
-    "tmdbId": 206284,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/grace-entre-a-fe-e-a-fama.json"
-  },
-  {
-    "id": "grace-by-night",
-    "tipo": "filme",
-    "titulo": "Além da Força, Além da Fé",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/NDpr8I9hjAaf5CHXD6iNGafNFy.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8yKcNPF2PmNlEVSwSPbSzt5wjSd.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA",
-      "LANÇAMENTOS"
-    ],
-    "nota": 6.7,
-    "tmdbId": 1378803,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/grace-by-night.json"
-  },
-  {
-    "id": "gracinha",
-    "tipo": "filme",
-    "titulo": "Gracinha",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qS47nqfqRzdXXsEsGhxi2i7VLoZ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/bHq49iDvQb8athO3v9yyRdXiPhu.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.6,
-    "tmdbId": 893656,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/gracinha.json"
-  },
-  {
-    "id": "grafted",
-    "tipo": "filme",
-    "titulo": "Grafted",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/u53wFzLoJD7om52Hjma8G27LS2h.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sSrU5zYRqraYqNl2xsQOonNQbhh.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.708,
-    "tmdbId": 1201262,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/grafted.json"
-  },
-  {
-    "id": "gran-torino",
-    "tipo": "filme",
-    "titulo": "Gran Torino",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/lnguNPnsaC4siq4TlzM2QEsTLsa.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1uyDZmTjUQsbflqfkUJZvAGV3bv.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.99,
-    "tmdbId": 13223,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/gran-torino.json"
-  },
-  {
-    "id": "gran-turismo-de-jogador-a-corredor",
-    "tipo": "filme",
-    "titulo": "Gran Turismo: De Jogador a Corredor",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qU60nhBRbKU23gIGrZi2CvUj6MQ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xFYpUmB01nswPgbzi8EOCT1ZYFu.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "4K",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.707,
-    "tmdbId": 980489,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/gran-turismo-de-jogador-a-corredor.json"
-  },
-  {
-    "id": "grand-finale",
-    "tipo": "filme",
-    "titulo": "Downton Abbey: O Grande Final",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yr3VU1spstT79VIddR08JjJ7r0Z.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jvzPTf0nhsqAXodYT6ILKb99IA2.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 7.062,
-    "tmdbId": 1289936,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/grand-finale.json"
   }
 ]

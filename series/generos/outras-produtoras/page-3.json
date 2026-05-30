@@ -1,5 +1,37 @@
 [
   {
+    "id": "pam-e-tommy",
+    "tipo": "serie",
+    "titulo": "Pam & Tommy",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nR8yFI8e0ZzDOclpedRTIhajeYz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/z6GVQ8DfyQ6u7YfU16O5XiHCDr5.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 7.224,
+    "tmdbId": 114925,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/pam-e-tommy.json"
+  },
+  {
+    "id": "panico",
+    "tipo": "serie",
+    "titulo": "Pânico Jovem Pan",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/p8u5IQWj7BZf6UGEKSW3nsycjWj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5sZvnK6hd3NC8MSI70avNzFVMGF.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 5.5,
+    "tmdbId": 222764,
+    "totalTemporadas": 1,
+    "totalEpisodios": 10,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/panico.json"
+  },
+  {
     "id": "papai",
     "tipo": "serie",
     "titulo": "Papai Coração",
@@ -4128,6 +4160,22 @@
     "totalTemporadas": 5,
     "totalEpisodios": 68,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/z-nation.json"
+  },
+  {
+    "id": "zatch-bell",
+    "tipo": "serie",
+    "titulo": "Zatch Bell!",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pb3WSOIWeI74Qczz7krYaCzF8ds.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/n4MfPSRk5PzHeVrm43NHam8oH5d.jpg",
+    "generos": [
+      "OUTRAS PRODUTORAS"
+    ],
+    "nota": 8.433,
+    "tmdbId": 35894,
+    "totalTemporadas": 1,
+    "totalEpisodios": 52,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/zatch-bell.json"
   },
   {
     "id": "zero",

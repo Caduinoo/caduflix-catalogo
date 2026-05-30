@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "O filme mostra a rotina de 14 soldados americanos durante a batalha brutal de dez dias pela conquista de Hill 937, no Vietnã. Além do estresse da guerra, o grupo precisa enfrentar as tensões raciais entre soldados brancos e negros.",
   "generos": [
+    "LEGENDADOS",
     "AÇÃO | CRIME | GUERRA"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/u2ZbbYAhsfzFVdUB8co9lHr1xO6.jpg",
@@ -13,6 +14,13 @@
   "nota": 6.568,
   "opcoes": [
     {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11060862,
+      "container": "mp4"
+    },
+    {
       "nome": "Padrão",
       "idioma": "Não informado",
       "qualidade": "Não informado",
@@ -20,7 +28,7 @@
       "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1773567044,
+  "dataCriacaoXtream": 1779613173,
   "tituloOriginal": "Hamburger Hill",
   "dataLancamento": "1987-08-07"
 }

@@ -26,9 +26,16 @@
       "qualidade": "Não informado",
       "xtreamId": 10775495,
       "container": "mp4"
+    },
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11084916,
+      "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1773567064,
+  "dataCriacaoXtream": 1780134581,
   "tituloOriginal": "Faith. Hope. Love.",
   "dataLancamento": "2021-02-01"
 }

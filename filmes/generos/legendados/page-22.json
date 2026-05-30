@@ -1,5 +1,1426 @@
 [
   {
+    "id": "os-cacadores-da-biblioteca-perdida",
+    "tipo": "filme",
+    "titulo": "Os Caçadores da Biblioteca Perdida",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4FoTNWvKIbr0wnq5hPEogYNBg2e.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/e3BodMSt25yP2GkPqJh4wmxTVNs.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6,
+    "tmdbId": 732684,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-cacadores-da-biblioteca-perdida.json"
+  },
+  {
+    "id": "os-canibais",
+    "tipo": "filme",
+    "titulo": "Os Canibais",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/eSZ7Z5okvU198FQijlpXmF0q8TS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gsLrV7oz46LPtQ7KdDfXD3KTxzX.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 7,
+    "tmdbId": 198450,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-canibais.json"
+  },
+  {
+    "id": "os-cantores",
+    "tipo": "filme",
+    "titulo": "Os Cantores",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4PYwVS6wEIEy734eoTPFScUS8AG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oTWgvLnMjjsVNdVTZjf5CEnihhw.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.725,
+    "tmdbId": 1442908,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-cantores.json"
+  },
+  {
+    "id": "os-caras-malvados",
+    "tipo": "filme",
+    "titulo": "Os Caras Malvados",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/aiJxdTjQdupyeMxnsmXOqDuw7qq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oXx1QZzeF5V3HMQ11q6WCkA2pQh.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.532,
+    "tmdbId": 629542,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-caras-malvados.json"
+  },
+  {
+    "id": "os-caras-malvados-2",
+    "tipo": "filme",
+    "titulo": "Os Caras Malvados 2",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dbpNAldCtWjotI4vEiphPrz8DJh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8FWLJHuWB72UXBmiMtxwTvQVumN.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA",
+      "4K"
+    ],
+    "nota": 7.656,
+    "tmdbId": 1175942,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-caras-malvados-2.json"
+  },
+  {
+    "id": "os-caras-malvados-assalto-assombrado",
+    "tipo": "filme",
+    "titulo": "Os Caras Malvados: Assalto Assombrado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tbR70ceR2Qw2fNMDj1cvOhmTfwa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rI9Mh0Q0XAtqTiSgKI0M2fflO1X.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.873,
+    "tmdbId": 1329336,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-caras-malvados-assalto-assombrado.json"
+  },
+  {
+    "id": "os-caras-malvados-um-natal-do-mal",
+    "tipo": "filme",
+    "titulo": "Os Caras Malvados: Um Natal do Mal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tHTEgWMPg7AdeotObEUqdOo98Zx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pJ39ZYZQetpNXn4lSmjBoib4NZL.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.482,
+    "tmdbId": 1046032,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-caras-malvados-um-natal-do-mal.json"
+  },
+  {
+    "id": "os-casagrandes-o-filme",
+    "tipo": "filme",
+    "titulo": "Os Casagrandes: O Filme",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yRD3xPQuEbANBcSWiEfiydKQRkz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9L6qUlNYbL6XgYTXPKOlMtphzSu.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.163,
+    "tmdbId": 1216512,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-casagrandes-o-filme.json"
+  },
+  {
+    "id": "os-cavaleiros-do-apocalipse",
+    "tipo": "filme",
+    "titulo": "Os Cavaleiros do Apocalipse",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/AvCOBgDUc1OjR7ujgJhm8ZhE6nT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tUlysdR3Sg4I3i5WCZPKl62SlKu.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.936,
+    "tmdbId": 18476,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-cavaleiros-do-apocalipse.json"
+  },
+  {
+    "id": "os-cavaleiros-do-zodiaco-saint-seiya-o-comeco",
+    "tipo": "filme",
+    "titulo": "Os Cavaleiros do Zodíaco - Saint Seiya: O Começo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1qos0X6EIi4KT9RmJiVGZB9Kw6l.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fLEsa5SKTFgrdUGMHbsWomniak6.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA",
+      "4K"
+    ],
+    "nota": 6.286,
+    "tmdbId": 455476,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-cavaleiros-do-zodiaco-saint-seiya-o-comeco.json"
+  },
+  {
+    "id": "os-ceus-do-norte-sobre-o-vazio",
+    "tipo": "filme",
+    "titulo": "Os Céus do Norte sobre o Vazio",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uCPbqPSwfmtOO0pNDSDVccLVq3c.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wHH0NliunO5HYH2O8L5bl9Gmj48.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.4,
+    "tmdbId": 926325,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-ceus-do-norte-sobre-o-vazio.json"
+  },
+  {
+    "id": "os-colonos",
+    "tipo": "filme",
+    "titulo": "Os Colonos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gBMAT45t5zAEjYolu4j4qqV58OJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kPFmVuiLK2Nkalhohsj3t7ph4aI.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "FAROESTE"
+    ],
+    "nota": 6.791,
+    "tmdbId": 989589,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-colonos.json"
+  },
+  {
+    "id": "os-conflitos-na-irlanda",
+    "tipo": "filme",
+    "titulo": "Os Conflitos na Irlanda",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/j5cddOCZYWqHdIxKaZ3z44Ckst6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3WjNqCMsRjK1opi9YbrAz6nJSHV.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.6,
+    "tmdbId": 1081464,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-conflitos-na-irlanda.json"
+  },
+  {
+    "id": "os-delinquentes",
+    "tipo": "filme",
+    "titulo": "Os Delinquentes",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/m11RmrrAW095CIAOlE8qE8ljNl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2XCXdWKzvpxo7ZbulvrDlMx1Vmb.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 4.9,
+    "tmdbId": 95399,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-delinquentes.json"
+  },
+  {
+    "id": "os-demonios-da-noite",
+    "tipo": "filme",
+    "titulo": "Contos do Além Túmulo: Os Demônios Da Noite",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mQ7GsqpHV5j29S5juZp89XuNnAp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/47WfbtmsreEhNy2OzEDBxk9ZlzG.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.9,
+    "tmdbId": 9059,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-demonios-da-noite.json"
+  },
+  {
+    "id": "os-desajustados",
+    "tipo": "filme",
+    "titulo": "Os Desajustados",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/i18cIp8A10A2JgByrfA9oIC9299.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bOgKCymrdPHPHozhRBNr9XhVD87.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "FAROESTE"
+    ],
+    "nota": 7.253,
+    "tmdbId": 13446,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-desajustados.json"
+  },
+  {
+    "id": "os-dois-hemisferios-de-lucca",
+    "tipo": "filme",
+    "titulo": "Os Dois Hemisférios de Lucca",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/u226mX8Fr6eHpRnB0SBvZbWgSrJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bVUB4WI2vTq46OHu2o1n9HdoloQ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 7.322,
+    "tmdbId": 1300607,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-dois-hemisferios-de-lucca.json"
+  },
+  {
+    "id": "os-domesticos",
+    "tipo": "filme",
+    "titulo": "Os Domésticos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/h6OReqEC3AQEG4LaWtLH6PIQ2aB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rwr038BaQBqRQbnP8yps4hXp5Dp.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.13,
+    "tmdbId": 426814,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-domesticos.json"
+  },
+  {
+    "id": "os-efeitos-da-mentira",
+    "tipo": "filme",
+    "titulo": "Os Efeitos da Mentira",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6Mx9PVxrPSM2wYRlSC2bW2fjEf9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1MoY81osDZtIdVLpt48pD1vEQmy.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 3,
+    "tmdbId": 1145052,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-efeitos-da-mentira.json"
+  },
+  {
+    "id": "os-emigrantes",
+    "tipo": "filme",
+    "titulo": "Os Emigrantes",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/59ihgrfeqiNgLPT9ltVpXQtAyxf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nbN4mD6AnUgUUcbCKymH0gMwzBG.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.7,
+    "tmdbId": 744733,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-emigrantes.json"
+  },
+  {
+    "id": "os-espinhos-do-mal",
+    "tipo": "filme",
+    "titulo": "Os Espinhos do Mal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xI3TjDd7ESOHQByfrRXqQzzbY9d.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nKYOODPP0Kt7XOn9e3deAUFES2d.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.84,
+    "tmdbId": 333653,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-espinhos-do-mal.json"
+  },
+  {
+    "id": "os-esquecidos",
+    "tipo": "filme",
+    "titulo": "Os Esquecidos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iRSVQ8VJwnERExzerSNM3EzUBvb.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": null,
+    "tmdbId": 957023,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-esquecidos.json"
+  },
+  {
+    "id": "os-esquecidos-cicatrizes",
+    "tipo": "filme",
+    "titulo": "Os Esquecidos: Cicatrizes",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/efAm6HMcYlaQHp5zYI7CBNpsp3f.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9lMcew1JBT0d8F0XmG4JHYXgjuN.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "LANÇAMENTOS"
+    ],
+    "nota": 5.758,
+    "tmdbId": 974927,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-esquecidos-cicatrizes.json"
+  },
+  {
+    "id": "os-estranhos-capitulo-1",
+    "tipo": "filme",
+    "titulo": "Os Estranhos: Capítulo 1",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vjyZvt5qMJ5xQAzQ8JvT0arlpkK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/59AJ2w9tKRSbBpnxKfB5UyIg6Jf.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 5.682,
+    "tmdbId": 1010600,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-estranhos-capitulo-1.json"
+  },
+  {
+    "id": "os-estranhos-capitulo-2",
+    "tipo": "filme",
+    "titulo": "Os Estranhos: Capítulo 2",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bMrUruq2lT3b7xwC5y3vEidGYfZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/AkzGC9vQbKMHGebetpjBF4bU4VS.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.097,
+    "tmdbId": 1010756,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-estranhos-capitulo-2.json"
+  },
+  {
+    "id": "os-estranhos-capitulo-final",
+    "tipo": "filme",
+    "titulo": "Os Estranhos: Capítulo Final",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jYaPXOzUFVlNIn5Cgn1dyVRYpRN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "LANÇAMENTOS"
+    ],
+    "nota": 5.679,
+    "tmdbId": 1010755,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-estranhos-capitulo-final.json"
+  },
+  {
+    "id": "os-eua-e-as-mudancas-climaticas-do-planeta",
+    "tipo": "filme",
+    "titulo": "Os EUA e as Mudanças Climáticas do Planeta",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uz1PDEn9rm0eR7NGBZOwQ2Yftj4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zNwgbo20nJrweRXl5I8Lqo2KfIP.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.7,
+    "tmdbId": 608590,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-eua-e-as-mudancas-climaticas-do-planeta.json"
+  },
+  {
+    "id": "os-fabelmans",
+    "tipo": "filme",
+    "titulo": "Os Fabelmans",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/meqKIZTsdSlbvv47uxvJH7Jcr7H.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xQyGkQ8ICa4lgifGr3oZjkm3AJ2.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA",
+      "4K"
+    ],
+    "nota": 7.57,
+    "tmdbId": 804095,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-fabelmans.json"
+  },
+  {
+    "id": "os-fantasmas-ainda-se-divertem-beetlejuice-beetlejuice",
+    "tipo": "filme",
+    "titulo": "Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/v33dHteDj03HLtAgUb9CFgA2to1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kF8ljC7Y4p1UsmKBi2LxelZpqw.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 6.9,
+    "tmdbId": 917496,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-fantasmas-ainda-se-divertem-beetlejuice-beetlejuice.json"
+  },
+  {
+    "id": "os-fantasmas-contra-atacam",
+    "tipo": "filme",
+    "titulo": "Os Fantasmas Contra-Atacam",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pbFQ2Dyw1OgxYQ3A4zK9azIk37P.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6Cld2xtKYfWnWK3w3gfJRRA82vd.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 6.788,
+    "tmdbId": 9647,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-fantasmas-contra-atacam.json"
+  },
+  {
+    "id": "os-fantasmas-da-segunda-feira",
+    "tipo": "filme",
+    "titulo": "Os Fantasmas da Segunda-Feira",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7NudZ8Q8cVt5jf5VAzkK59tLBus.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lnNORGNASLaSW8WC2vqcwYAJEko.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.2,
+    "tmdbId": 977866,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-fantasmas-da-segunda-feira.json"
+  },
+  {
+    "id": "os-fazendeiros",
+    "tipo": "filme",
+    "titulo": "Os Fazendeiros",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xCYU94Z1glxPnLCRRIKDr3QUDwx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3b8dr7c6njJFbxJowSqOHTLIjcG.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.285,
+    "tmdbId": 659994,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-fazendeiros.json"
+  },
+  {
+    "id": "os-filhos-bastardos",
+    "tipo": "filme",
+    "titulo": "Os Filhos Bastardos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nnu6KKOoebmoYADGqpzTaVKcqPq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/83chrDJQVUtR31j312FInqHkgpu.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 4,
+    "tmdbId": 1140738,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-filhos-bastardos.json"
+  },
+  {
+    "id": "os-filhos-de-katie-elder",
+    "tipo": "filme",
+    "titulo": "Os Filhos de Katie Elder",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/n6ox5IniBxxx6ISTol5pm36WoFr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/u9Yrx1ZYMSvtujeCRlLbNON8hR2.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "FAROESTE"
+    ],
+    "nota": 7.1,
+    "tmdbId": 16211,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-filhos-de-katie-elder.json"
+  },
+  {
+    "id": "os-futeboleiros",
+    "tipo": "filme",
+    "titulo": "Os Futeboleiros",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8ONtcNySNiAogcZWODCCGB1R6ZB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/echvrtoB5gdfH3WmBD7eUuJF1Bn.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 5.827,
+    "tmdbId": 517317,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-futeboleiros.json"
+  },
+  {
+    "id": "os-guardioes-da-estepe",
+    "tipo": "filme",
+    "titulo": "Os Guardiões da Estepe",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uATzvIXB3w4zO4m3x5elCwwY8NU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/g5eM794cTu2qb4pm9u6t2D5QzAE.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "FAROESTE"
+    ],
+    "nota": null,
+    "tmdbId": 1217480,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-guardioes-da-estepe.json"
+  },
+  {
+    "id": "os-herois-da-ferrovia",
+    "tipo": "filme",
+    "titulo": "Os Heróis Da Ferrovia",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-herois-da-ferrovia.json"
+  },
+  {
+    "id": "os-homens-preferem-as-loiras",
+    "tipo": "filme",
+    "titulo": "Os Homens Preferem as Loiras",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fOvvrLoISjUSVWZhHoYauWJO4CE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2clBxxclZJ4OK1xzhmCCXHEfy3r.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 7.3,
+    "tmdbId": 759,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-homens-preferem-as-loiras.json"
+  },
+  {
+    "id": "os-horrores-do-caddo-lake",
+    "tipo": "filme",
+    "titulo": "Os Horrores do Caddo Lake",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/41ywUbgGvxKsoWBm4dS8Bbb2Af5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jcpUCn3oFKitAnbwosoPqaMFccj.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 7.218,
+    "tmdbId": 863873,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-horrores-do-caddo-lake.json"
+  },
+  {
+    "id": "os-impactados",
+    "tipo": "filme",
+    "titulo": "Os Impactados",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vgLAFXclHdFQKoHqZTUbmuTvYnJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/evWP2wyjDaemPfXlbfvYw36Lr47.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.8,
+    "tmdbId": 1078805,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-impactados.json"
+  },
+  {
+    "id": "os-infaliveis",
+    "tipo": "filme",
+    "titulo": "Os Infalíveis",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mmaz2IESTJkKf77tSOKZ3PxV7NN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yHEFwHkU2NqRxBrAoGBfuhuqIL1.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA",
+      "4K"
+    ],
+    "nota": 6.3,
+    "tmdbId": 1143019,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-infaliveis.json"
+  },
+  {
+    "id": "os-inseparaveis",
+    "tipo": "filme",
+    "titulo": "Os Inseparáveis",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/agmVK43JaFqp7P9dALQyJnCg66T.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6rhFfbI03esU1FlhEsa0OvoGCym.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.5,
+    "tmdbId": 1059264,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-inseparaveis.json"
+  },
+  {
+    "id": "os-instrumentos-mortais-cidade-dos-ossos",
+    "tipo": "filme",
+    "titulo": "Os Instrumentos Mortais: Cidade dos Ossos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/glHqwsvFkQHFMFpA0FjFp8hPu6P.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/z4nKeZpPCrTifS6pzzK8vNleADl.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.427,
+    "tmdbId": 123553,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-instrumentos-mortais-cidade-dos-ossos.json"
+  },
+  {
+    "id": "os-invasores",
+    "tipo": "filme",
+    "titulo": "Os Invasores de Corpos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7j0fFHJrG6QYkSgnR4X1xHGg0uu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qBsQzHPQZIiSr57jQmc3T0QcD9j.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 7.2,
+    "tmdbId": 11850,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-invasores.json"
+  },
+  {
+    "id": "os-invasores-de-corpos-a-invasao-continua",
+    "tipo": "filme",
+    "titulo": "Os Invasores de Corpos - A Invasão Continua",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/r6tFSYCbjA72VAMfy2tKPH11ozT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2EO0OlRS9E1rSbjTogENd7OzrWx.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.2,
+    "tmdbId": 4722,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-invasores-de-corpos-a-invasao-continua.json"
+  },
+  {
+    "id": "os-irmaos-aventura-o-filme",
+    "tipo": "filme",
+    "titulo": "Os Irmãos Aventura: O Filme",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jomaAM3YB7fCa1ahTip7Jh18iZo.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wzZdAtGdnVgrbjiXEbhjarENs16.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.258,
+    "tmdbId": 828898,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-irmaos-aventura-o-filme.json"
+  },
+  {
+    "id": "os-irmaos-grimm",
+    "tipo": "filme",
+    "titulo": "Os Irmãos Grimm",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jerDxzhAVtNGPtDV0n9ePWCLlyK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aDfGKWdtNHzDmnHkdDyXz7zoDuy.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.856,
+    "tmdbId": 4442,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-irmaos-grimm.json"
+  },
+  {
+    "id": "os-japao",
+    "tipo": "filme",
+    "titulo": "Os Japão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sBiLI4x3fpNCpGAjc4Naeh7w3zz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tNcCDeHpC8t1jpGuCssUAxApffr.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 4.47,
+    "tmdbId": 529209,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-japao.json"
+  },
+  {
+    "id": "os-jovens-amantes",
+    "tipo": "filme",
+    "titulo": "Os Jovens Amantes",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6zJF4momHB9C2e5S6vpMDmSyr6h.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1s8Catsbd9n6KrfxQagF3a3jh5I.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 6.4,
+    "tmdbId": 811211,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-jovens-amantes.json"
+  },
+  {
+    "id": "os-jovens-titas-missao-toquio",
+    "tipo": "filme",
+    "titulo": "Os Jovens Titãs: Missão Tóquio",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oGBqTcA3sTLbcUy4s07RIYcGy2J.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fey7NzJ61KAAVPfUgcpaahW5gZ5.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.863,
+    "tmdbId": 16237,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-jovens-titas-missao-toquio.json"
+  },
+  {
+    "id": "os-malditos",
+    "tipo": "filme",
+    "titulo": "Os Malditos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fAXDQny8kEquc1BImiQHhYMGSsW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zGT6zikFjC5wRROXbPIipKahZn8.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.876,
+    "tmdbId": 850439,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-malditos.json"
+  },
+  {
+    "id": "os-meninos-super-poderosos",
+    "tipo": "filme",
+    "titulo": "Os Meninos Super Poderosos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8jJBOq36SMQOb6Bs1NxRkEmNPzK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/o9PfoKx0bFrhjrr8UCWA0HjNC02.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.7,
+    "tmdbId": 41995,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-meninos-super-poderosos.json"
+  },
+  {
+    "id": "os-meninos-voadores",
+    "tipo": "filme",
+    "titulo": "Os Meninos Voadores",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/onCHDC2RdUdzcZw7DVxfXZIAAY9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/q9YJ50IylRVYtAFGnwyu6GiDpaB.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7.543,
+    "tmdbId": 20789,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-meninos-voadores.json"
+  },
+  {
+    "id": "os-mercenarios-4",
+    "tipo": "filme",
+    "titulo": "Os Mercenários 4",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yH7750OmhoPcrTA9PZTHohDjpqP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 6.075,
+    "tmdbId": 299054,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-mercenarios-4.json"
+  },
+  {
+    "id": "os-misterios-dos-guerreiros-de-terracota",
+    "tipo": "filme",
+    "titulo": "Os Mistérios dos Guerreiros de Terracota",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/izD8QoAoyGD8y0tQGt4ksMX00GK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vdCFCvPXY7SZJs7NyMLeg32msOF.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.718,
+    "tmdbId": 1255028,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-misterios-dos-guerreiros-de-terracota.json"
+  },
+  {
+    "id": "os-mortos-nao-matam",
+    "tipo": "filme",
+    "titulo": "Os Mortos Não Matam",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ah9KNl5nolEGnfd2C2BZuSqpFPt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jyj5u40r8fIwzGWpUoYEICNsoTi.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "FAROESTE"
+    ],
+    "nota": 6.517,
+    "tmdbId": 1032425,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-mortos-nao-matam.json"
+  },
+  {
+    "id": "os-muitos-santos-de-newark-uma-historia-soprano",
+    "tipo": "filme",
+    "titulo": "Os Muitos Santos de Newark: Uma História Soprano",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jq9ycHFxR2z8D7sa8yZQFvc0Tw4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hrzoy8vvUrxQixOM11pwW9AX7Bu.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.312,
+    "tmdbId": 524369,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-muitos-santos-de-newark-uma-historia-soprano.json"
+  },
+  {
+    "id": "os-muppets",
+    "tipo": "filme",
+    "titulo": "Os Muppets",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/A4nLttpOU7FK2KhjNdapRZ45jVt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/60PR4UC3D20dycVAoWadUzFio5R.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.671,
+    "tmdbId": 64328,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-muppets.json"
+  },
+  {
+    "id": "os-musicos",
+    "tipo": "filme",
+    "titulo": "Os Grandes Músicos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5wUYwAD75BxtJ0Mp4da6XzHIFex.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4dZnJLpTzy6FKtrZmoViw3yh0CO.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.781,
+    "tmdbId": 13370,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-musicos.json"
+  },
+  {
+    "id": "os-nossos",
+    "tipo": "filme",
+    "titulo": "Os Nossos Medos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AQ9RLdv5Po91B7s7MNPQmqHtjt.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": null,
+    "tmdbId": 1536691,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-nossos.json"
+  },
+  {
+    "id": "os-novatos",
+    "tipo": "filme",
+    "titulo": "Os Novatos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8Ldu4ClHISHGz1SKzyClw6Yzzuk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1XmbgjIpqpdnSBaEzN0YaaaZObd.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA",
+      "4K"
+    ],
+    "nota": 6.228,
+    "tmdbId": 1008953,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-novatos.json"
+  },
+  {
+    "id": "os-novos-vingadores",
+    "tipo": "filme",
+    "titulo": "Os Novos Vingadores",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dSOaNS7gFUtJxqcQGksXLejNKkQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/r5uAQQahZzcTYyPdlomDggyxHkV.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 4.917,
+    "tmdbId": 538153,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-novos-vingadores.json"
+  },
+  {
+    "id": "os-observadores",
+    "tipo": "filme",
+    "titulo": "Os Observadores",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bJ3zy7UN8VoA23LSDkt7JlQg1a9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/whnFKx0Y54Ktg6o2TiwbnQfXdZf.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 6.351,
+    "tmdbId": 1086747,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-observadores.json"
+  },
+  {
+    "id": "os-odiados-do-casamento",
+    "tipo": "filme",
+    "titulo": "Os Odiados do Casamento",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kQZKw9jetOInPPdSZgbKFxJALHc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tkbiKQeizzkSFV2hvalcdc8e8Kn.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.3,
+    "tmdbId": 802372,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-odiados-do-casamento.json"
+  },
+  {
+    "id": "os-oito-odiados",
+    "tipo": "filme",
+    "titulo": "Os Oito Odiados",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jfTo9U9OgOXODEEspNnYFuZdR1q.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7g1zO5t0bd27Iqn5ZUDJmksOGPJ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 7.756,
+    "tmdbId": 273248,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-oito-odiados.json"
+  },
+  {
+    "id": "os-olhos-de-tammy-faye",
+    "tipo": "filme",
+    "titulo": "Os Olhos de Tammy Faye",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bxb83Bf5jLLzAv2CsXdRrAtHPNI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rskVKmBb83u7qbaASCxyJyLevkq.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.443,
+    "tmdbId": 601470,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-olhos-de-tammy-faye.json"
+  },
+  {
+    "id": "os-olhos-negros-de-marilyn",
+    "tipo": "filme",
+    "titulo": "Os Olhos Negros de Marilyn",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tlAzVwTlftb2u3wFI46T83It4bf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zOVxbbt8BrrjWBJ0eO21S2adUvo.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.735,
+    "tmdbId": 776328,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-olhos-negros-de-marilyn.json"
+  },
+  {
+    "id": "os-opostos-sempre-se-atraem",
+    "tipo": "filme",
+    "titulo": "Os Opostos Sempre Se Atraem",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/o1KfmIKXZb3zXYWFKWt31G3w8DI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wtbRUVxQVvU6QIJH1oGLDThJLib.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.057,
+    "tmdbId": 785985,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-opostos-sempre-se-atraem.json"
+  },
+  {
+    "id": "os-ovnis-dos-alamos",
+    "tipo": "filme",
+    "titulo": "Os Óvnis dos Álamos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nLRBZuO4tlcMbRMUNEHxPuqLyDT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3lQaWXitwC2pn1PqrOnax9tHeVm.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": null,
+    "tmdbId": 1450533,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-ovnis-dos-alamos.json"
+  },
+  {
+    "id": "os-pais",
+    "tipo": "filme",
+    "titulo": "Lá Vem os Pais",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rUWXKRKsbInckc8h5k6Tte8V8Zl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9VMG7cqK895IZ02RfgpJ3JIK71Y.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 5.462,
+    "tmdbId": 465109,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-pais.json"
+  },
+  {
+    "id": "os-parentes",
+    "tipo": "filme",
+    "titulo": "Os Parentes",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bm0iIemhxBrgU5D4Me0HQZCKTcD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/u7m85sSfi5FziizIWOh14nJDvKz.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.4,
+    "tmdbId": 717672,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-parentes.json"
+  },
+  {
+    "id": "os-patrulheiros-em-acao-salvam-o-natal",
+    "tipo": "filme",
+    "titulo": "Os Patrulheiros em Ação Salvam o Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/a6MUJa8xIBQnx0a5Us5pEe38l9P.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cnyQ4hiAKMSLvelXkxzjz4EFgDm.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 4.9,
+    "tmdbId": 1045636,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-patrulheiros-em-acao-salvam-o-natal.json"
+  },
+  {
+    "id": "os-pecados-do-padre",
+    "tipo": "filme",
+    "titulo": "Os Pecados do Padre",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ztYf1MA90Cn7kEFGAIblfykdaMl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4irutKm11zVNs4N6dKraYvLKG1A.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 7.5,
+    "tmdbId": 1202867,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-pecados-do-padre.json"
+  },
+  {
+    "id": "os-peludos",
+    "tipo": "filme",
+    "titulo": "Os Peludos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/q0poNkSayOtlwRzY6MKHTQcBauq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cH5mdqHFVUuZ7Votxfkki4pd4HT.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 7.376,
+    "tmdbId": 597845,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-peludos.json"
+  },
+  {
+    "id": "os-perdedores",
+    "tipo": "filme",
+    "titulo": "Os Perdedores",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4K87EAcsXhFfyyHLRuBvF34sAVx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hACMcim5NtMH3S62sQAWkdLVpIK.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.258,
+    "tmdbId": 34813,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-perdedores.json"
+  },
+  {
+    "id": "os-pestes",
+    "tipo": "filme",
+    "titulo": "Os Pestes",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1xw2Nl7QykRxZEQF07tI5arpwbO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/i4o2aPGlnsxfPmDPF5lmlgjScyv.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6,
+    "tmdbId": 927254,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-pestes.json"
+  },
+  {
+    "id": "os-piratas-da-rua-debaixo",
+    "tipo": "filme",
+    "titulo": "Os Piratas da Rua Debaixo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9p0uScG0xssIrANgcYLcDiNSLCK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/AePqBhnUYGzfmrHUxv6pN1HroXZ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.7,
+    "tmdbId": 645290,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-piratas-da-rua-debaixo.json"
+  },
+  {
+    "id": "os-piratas-em-busca-do-tesouro-perdido",
+    "tipo": "filme",
+    "titulo": "Os Piratas: Em Busca do Tesouro Perdido",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7TxDi9DhUIo23eZftFQPk86ojtN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pwpw1veVNW2Sls5sGbA9mqMYN49.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.515,
+    "tmdbId": 591120,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-piratas-em-busca-do-tesouro-perdido.json"
+  },
+  {
+    "id": "os-portais",
+    "tipo": "filme",
+    "titulo": "Os Portais",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/inOEAwyIveHVrg7rd3uu4bt7vDO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1pFSJ9lxMYLkgLS5gmnwm1AEiqx.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 4.833,
+    "tmdbId": 798141,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-portais.json"
+  },
+  {
+    "id": "os-provocadores",
+    "tipo": "filme",
+    "titulo": "Os Provocadores",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nKyeT6MaxfxojAoZSuMm5Fqx88e.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aA5B2OsN6rccwnhn8TEG4m4V3jI.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 6.144,
+    "tmdbId": 1059064,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-provocadores.json"
+  },
+  {
+    "id": "os-quatro-cavaleiros-do-apocalipse",
+    "tipo": "filme",
+    "titulo": "Os Quatro Cavaleiros do Apocalipse",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dCXz0x9HU4L8klUB3Lqwt6Q86em.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/47vaUixME69vAungk1fuAE9Y83A.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.9,
+    "tmdbId": 50474,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-quatro-cavaleiros-do-apocalipse.json"
+  },
+  {
+    "id": "os-quebra-nozes",
+    "tipo": "filme",
+    "titulo": "Os Quebra-Nozes",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dSTgGo0uR3oqVgsiwqdsVDc8vtZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jUYn9ytvxrquviR36OD6n2EqBgW.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA",
+      "4K"
+    ],
+    "nota": 5.85,
+    "tmdbId": 1203236,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-quebra-nozes.json"
+  },
+  {
+    "id": "os-radley",
+    "tipo": "filme",
+    "titulo": "Os Radley",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lElYnVpy7pjIarhz533cQGyfhup.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/c0O7XhOffGyxJ1UwUis1CkdMNH0.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 5.1,
+    "tmdbId": 1139713,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-radley.json"
+  },
+  {
+    "id": "os-ratos-uma-historia-de-the-witcher",
+    "tipo": "filme",
+    "titulo": "Os Ratos: Uma História de The Witcher",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kC3RUDlTk0KcOFWEPWlgtDxcTTz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/en0NbTEjf3qKokHvwGeaq9DBPIP.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.424,
+    "tmdbId": 1571470,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-ratos-uma-historia-de-the-witcher.json"
+  },
+  {
+    "id": "os-reformados",
+    "tipo": "filme",
+    "titulo": "Os Reformados",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5sh6DdGkp6qLfNkN5CmocsuPyYR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pqjrBtIHyzRlzypAGAcPkrULUSo.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.188,
+    "tmdbId": 248401,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-reformados.json"
+  },
+  {
+    "id": "os-reis-da-rua-mulberry-que-reine-o-amor",
+    "tipo": "filme",
+    "titulo": "Os Reis da Rua Mulberry: Que Reine o Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3Tr5ziHzI6nEJyXwcyr0z29mA77.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iEbvRRsmgFzIJLy35UK7qI5nM76.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 5.625,
+    "tmdbId": 1108258,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-reis-da-rua-mulberry-que-reine-o-amor.json"
+  },
+  {
+    "id": "os-reis-de-queenstown",
+    "tipo": "filme",
+    "titulo": "Os Reis de Queenstown",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3TuRHUEecBSZgPx40JZWOemzAwx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hxI1gyYZudOOjiiEdOBqrcnOI7D.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.8,
+    "tmdbId": 1193708,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-reis-de-queenstown.json"
+  },
+  {
+    "id": "os-reis-do-mundo",
+    "tipo": "filme",
+    "titulo": "Os Reis do Mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/s4QmLssxhPS9BlUvUQFvyZnv91a.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rkUAAoBXsqlegp8bLTLZSIsRZbg.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 7.593,
+    "tmdbId": 848112,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-reis-do-mundo.json"
+  },
+  {
+    "id": "os-renegados",
+    "tipo": "filme",
+    "titulo": "Os Renegados",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vrYpppKn5UimPMwsuL8cM2aoFXL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6FzuNrApEc71aJ3CwwkpadbNled.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.452,
+    "tmdbId": 581644,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-renegados.json"
+  },
+  {
+    "id": "os-rifles-da-desforra",
+    "tipo": "filme",
+    "titulo": "Os Rifles da Desforra",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jyIw7iw40epEMCOilkdrAH5trks.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6Nz73hPTfFuBUXaINATITdtO86D.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "FAROESTE"
+    ],
+    "nota": 5.295,
+    "tmdbId": 38680,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-rifles-da-desforra.json"
+  },
+  {
+    "id": "os-roses-ate-que-a-morte-os-separe",
+    "tipo": "filme",
+    "titulo": "Os Roses: Até Que a Morte Os Separe",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/JJOQF1c90qs35YNE3QLhBQQJJe.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3CPQc1pgYu0iWr1UNk2nwy2ylDE.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "CINEMA | RUIM | CAM | PROPAGANDA",
+      "COMÉDIA"
+    ],
+    "nota": 6.678,
+    "tmdbId": 1267905,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-roses-ate-que-a-morte-os-separe.json"
+  },
+  {
+    "id": "os-sacerdotes",
+    "tipo": "filme",
+    "titulo": "Os Sacerdotes",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7L9kaFMJ1d6GCoSv4bKy3r82BUD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/woz3cl1L87MsYPOLKehPVkS0FTM.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.86,
+    "tmdbId": 360551,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-sacerdotes.json"
+  },
+  {
+    "id": "os-segredos-da-comuna",
+    "tipo": "filme",
+    "titulo": "Os Segredos da Comuna",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gOb2CuvyuexykXkdE2KPiQ7DCXf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xcYw7aiXLoMYLYMEqwuQRy6bVkW.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 4.8,
+    "tmdbId": 831689,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-segredos-da-comuna.json"
+  },
+  {
+    "id": "os-segredos-do-castelo",
+    "tipo": "filme",
+    "titulo": "Os Segredos do Castelo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ur3uasD8CkiNOWUu5Hti3HW2Cv3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wm5QhKgitszib5KjaWeNK6yAgoj.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.534,
+    "tmdbId": 411144,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-segredos-do-castelo.json"
+  },
+  {
     "id": "os-segredos-dos-neandertais",
     "tipo": "filme",
     "titulo": "Os Segredos dos Neandertais",
@@ -3082,1418 +4503,5 @@
     "nota": 7.7,
     "tmdbId": 566219,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/perseguicao-em-alto-mar-especies-em-risco.json"
-  },
-  {
-    "id": "perseguicao-em-malta",
-    "tipo": "filme",
-    "titulo": "Perseguição em Malta",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oRgj0ZaCZxcRhRNMOnGwr495q4z.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/f2semWNQKTsg0NOS9dJ8MOykfAp.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.8,
-    "tmdbId": 899557,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/perseguicao-em-malta.json"
-  },
-  {
-    "id": "perseguicao-em-taipei",
-    "tipo": "filme",
-    "titulo": "Perseguição em Taipei",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/2CQIo4IWQTsRwuFrp3PW1G1vkHB.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9n2gwsUiCmDVLjaIkbaOSHxcEsI.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.373,
-    "tmdbId": 1167271,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/perseguicao-em-taipei.json"
-  },
-  {
-    "id": "perseguicao-fatal",
-    "tipo": "filme",
-    "titulo": "Perseguição Fatal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/lqCsHkEeLbB4zyapUzAa1k9SDm4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/5YpBFomF7QMe8vJP050E2E8BqcO.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.8,
-    "tmdbId": 1456859,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/perseguicao-fatal.json"
-  },
-  {
-    "id": "perseguicao-implacavel",
-    "tipo": "filme",
-    "titulo": "Breakdown: Implacável Perseguição",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qOAa9olK9bhFkZYPvixacglbo3N.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/e86x1nXqfXRlqATuy60MmzFUFQr.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.921,
-    "tmdbId": 2163,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/perseguicao-implacavel.json"
-  },
-  {
-    "id": "perseguicao-mortal",
-    "tipo": "filme",
-    "titulo": "Perseguição Mortal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pa20WNcppTVj5fCeAhCr2Jn3Pzt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ySOUNwHkQtI2lexrX4oC6cUmsd2.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.6,
-    "tmdbId": 26444,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/perseguicao-mortal.json"
-  },
-  {
-    "id": "perseguicao-nas-alturas",
-    "tipo": "filme",
-    "titulo": "Perseguição nas Alturas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yFjL4xFc6uxrfxBuZLei6L268SM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/bAoxTHZXJNsWxeH6fo6fdM5j7P8.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.542,
-    "tmdbId": 924482,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/perseguicao-nas-alturas.json"
-  },
-  {
-    "id": "perseguicao-radical",
-    "tipo": "filme",
-    "titulo": "Perseguição Radical",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gQXkJmlv9PhNLFK5HELT2MUW51k.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tCdn64qkXdoQeHKabU5QCWccFJw.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.9,
-    "tmdbId": 412361,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/perseguicao-radical.json"
-  },
-  {
-    "id": "perseguicao-sem-tregua",
-    "tipo": "filme",
-    "titulo": "Perseguição Sem Trégua",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/cSwwhQdug1GU9n7OzEHPlYXqU18.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/71z6chLCv5wAJptUD7SSrdRlBXU.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.421,
-    "tmdbId": 52825,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/perseguicao-sem-tregua.json"
-  },
-  {
-    "id": "perseguicao-virtual",
-    "tipo": "filme",
-    "titulo": "Perseguição Virtual",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1yuVxbvMIX7uokGJygi2fWDp77v.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6YZnVLBpXdIleygcyh75NKrV9I5.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.119,
-    "tmdbId": 151368,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/perseguicao-virtual.json"
-  },
-  {
-    "id": "perseguindo-o-assassino",
-    "tipo": "filme",
-    "titulo": "Perseguindo o Assassino",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7eqeXy5lfICazE4ey8epnwtyhNJ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/f6lQzo9REaVzSatgECUoeXgY1pw.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.1,
-    "tmdbId": 443849,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/perseguindo-o-assassino.json"
-  },
-  {
-    "id": "persuasao",
-    "tipo": "filme",
-    "titulo": "Persuasão",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3MwunVE65fGNJRuXC4lJzaPzDty.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/evCHYeumw4Y4hikG4AG9o5yZXUW.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 7.155,
-    "tmdbId": 17015,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/persuasao.json"
-  },
-  {
-    "id": "perto-de-voce",
-    "tipo": "filme",
-    "titulo": "Perto de Você",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oaYSFBujHjoExYJAoTyYXSkvt88.jpg",
-    "banner": null,
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": null,
-    "tmdbId": 878372,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/perto-de-voce.json"
-  },
-  {
-    "id": "perversa-paixao",
-    "tipo": "filme",
-    "titulo": "Perversa Paixão",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/aIcXXH4hBL2XqeWLNHlR85bGr6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1sxD7U9Ysy0hST6xsuyjR2HmbG8.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.6,
-    "tmdbId": 15393,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/perversa-paixao.json"
-  },
-  {
-    "id": "pesadelo-americano",
-    "tipo": "filme",
-    "titulo": "Pesadelo Americano",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1GikvdDanJwSQOb0oCWY5FqFTxZ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cuuwXiiLlNd24H8eYFXTzUjybkW.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.667,
-    "tmdbId": 15366,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pesadelo-americano.json"
-  },
-  {
-    "id": "pesadelo-em-familia",
-    "tipo": "filme",
-    "titulo": "Pesadelo em Família",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/60lkuP2ADwljjqOPccjkAve88bM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jzSG3dkFJWu4KaTOMdlDapMBUiN.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.5,
-    "tmdbId": 766008,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pesadelo-em-familia.json"
-  },
-  {
-    "id": "pesadelo-na-montanha",
-    "tipo": "filme",
-    "titulo": "Pesadelo na Montanha",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ioQWsGM5SmwNxyEBrRQ942Q34mC.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/j9IlhhsM1ScVAPO70d8euJ85PUQ.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER",
-      "LANÇAMENTOS"
-    ],
-    "nota": 4.1,
-    "tmdbId": 1127546,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pesadelo-na-montanha.json"
-  },
-  {
-    "id": "pesadelos-macabros",
-    "tipo": "filme",
-    "titulo": "Pesadelos Macabros",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fBLxOJiQUaVh8y9yrlBkcXHNBGM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lE7EAyNcpjfb2A79PcJ9gQYkYZp.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 4.3,
-    "tmdbId": 1022103,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pesadelos-macabros.json"
-  },
-  {
-    "id": "pesadelos-reais",
-    "tipo": "filme",
-    "titulo": "Pesadelos Reais",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/bgtyyIzmu01ALSl0MRZuJMdbasf.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/h67hFCz0W7EbXXQHpaMFDFjBTV3.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 3.8,
-    "tmdbId": 723393,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pesadelos-reais.json"
-  },
-  {
-    "id": "pescando-confusao",
-    "tipo": "filme",
-    "titulo": "Pescando Confusão",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/lGRHE7s2iGgJ0JNO9gxm8BJKelt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3J0N0ZdNucjJHVKhyUxII7GAuyw.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 4.896,
-    "tmdbId": 9054,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pescando-confusao.json"
-  },
-  {
-    "id": "pesos-pesados",
-    "tipo": "filme",
-    "titulo": "Pesos Pesados",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/9asfY7y9qhonc888JdTrYRNXjE8.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/hBUgtysIiuvJite0NX0C0FHJ90m.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.18,
-    "tmdbId": 14819,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pesos-pesados.json"
-  },
-  {
-    "id": "pet-sematary",
-    "tipo": "filme",
-    "titulo": "Cemitério Maldito",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5sBCDm9sFRS2LmlvBH7381Q53Wm.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xWq3T9P4NU2pTdZ3hXFygsNnAq4.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.652,
-    "tmdbId": 8913,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pet-sematary.json"
-  },
-  {
-    "id": "petalas-ao-vento",
-    "tipo": "filme",
-    "titulo": "Pétalas ao Vento",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/bXqWCnxSM3AiwqWT5mioWL1PfXi.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/bxnjCoEMJOVxJwWxfQIuoUXuAz9.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 6.525,
-    "tmdbId": 267793,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/petalas-ao-vento.json"
-  },
-  {
-    "id": "peter-pan-e-wendy",
-    "tipo": "filme",
-    "titulo": "Peter Pan & Wendy",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/AkWxiUsc32qJHLwt7vt5AvUFNlx.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8HfjrSxfTVKmjNh8cJjbu5eXzcX.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA",
-      "4K"
-    ],
-    "nota": 5.429,
-    "tmdbId": 420808,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/peter-pan-e-wendy.json"
-  },
-  {
-    "id": "peter-pan-a-procura-do-livro-do-nunca",
-    "tipo": "filme",
-    "titulo": "Peter Pan: À Procura do Livro do Nunca",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yorpiDdIQYMzhpcwn6HRErbP3F0.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/67eGUVpD2wkDjI4xhG7YyVfzdUE.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.7,
-    "tmdbId": 557181,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/peter-pan-a-procura-do-livro-do-nunca.json"
-  },
-  {
-    "id": "peter-pan-pesadelo-na-terra-do-nunca",
-    "tipo": "filme",
-    "titulo": "Peter Pan: Pesadelo na Terra do Nunca",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5p0wQ24CWJ4rBxcJtBNs0uc4ech.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/w3R8LTPU3ocl6oXuNkXmqw5bIFi.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.7,
-    "tmdbId": 1020414,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/peter-pan-pesadelo-na-terra-do-nunca.json"
-  },
-  {
-    "id": "petra-cidade-das-riquezas",
-    "tipo": "filme",
-    "titulo": "Petra: Cidade das Riquezas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/n48K1cYBC6t3J8s7g3e9oA6iFPL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cCscBSXCpi0hX0WbtOM2PAMMXiK.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 8.7,
-    "tmdbId": 756985,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/petra-cidade-das-riquezas.json"
-  },
-  {
-    "id": "pets-em-acao",
-    "tipo": "filme",
-    "titulo": "Pets em Ação!",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/15qZcDm6v9QB8Wcx8su3KNOPKH2.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/AjTodtZJlQxycfRPktnUTpknblv.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.898,
-    "tmdbId": 1207830,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pets-em-acao.json"
-  },
-  {
-    "id": "petta",
-    "tipo": "filme",
-    "titulo": "Serafino Petta racconta Portela della Ginestra",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kx2t0vE8rpDdnsEtXLLL7haY851.jpg",
-    "banner": null,
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": null,
-    "tmdbId": 699089,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/petta.json"
-  },
-  {
-    "id": "pg-psycho-goreman",
-    "tipo": "filme",
-    "titulo": "PG: Psycho Goreman",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fz3261KdHpub6O3FuyQRQsNT64P.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/aLDQl8iUzrapHOob3VHgmyX1ijj.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 6.033,
-    "tmdbId": 670428,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pg-psycho-goreman.json"
-  },
-  {
-    "id": "phobias",
-    "tipo": "filme",
-    "titulo": "Phobias",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zpecci4IooFiwMVGknhm8Jz2FHo.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4pPReWGKlZE0yDsLOQ34WKyySZK.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 4.6,
-    "tmdbId": 793967,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/phobias.json"
-  },
-  {
-    "id": "phoenix-a-ultima-cartada",
-    "tipo": "filme",
-    "titulo": "Phoenix: A Última Cartada",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zI9b68GmX0KIIFrrwcQiOYN720Z.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/h0pxtAQCGWcArbPxqudW5NbmUNc.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.474,
-    "tmdbId": 28047,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/phoenix-a-ultima-cartada.json"
-  },
-  {
-    "id": "piano-de-familia",
-    "tipo": "filme",
-    "titulo": "Piano de Família",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pn641f57Yn4U28D1ACFgLnzuWOi.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ytorq8y3v9g1P4sXDFv2tbNg7Ms.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA",
-      "4K"
-    ],
-    "nota": 5.818,
-    "tmdbId": 804406,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/piano-de-familia.json"
-  },
-  {
-    "id": "pica-pau-as-ferias-no-acampamento",
-    "tipo": "filme",
-    "titulo": "Pica-Pau: As Férias no Acampamento",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dtZcntP9YCOi04iga6tR6UnZqAO.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cIztAxDn3H8JylRaJwiHHpkGe53.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.453,
-    "tmdbId": 1239146,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pica-pau-as-ferias-no-acampamento.json"
-  },
-  {
-    "id": "pickings",
-    "tipo": "filme",
-    "titulo": "Pickings",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/s8NQvpJMOM1iC8hiFwvR5hywxO9.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/n9x2kDfHjj3wNP1d2NQZqBJUMO1.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.9,
-    "tmdbId": 457312,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pickings.json"
-  },
-  {
-    "id": "pig-a-vinganca",
-    "tipo": "filme",
-    "titulo": "Pig: A Vingança",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ldSc98XLtjCSVPhzYjsFSJZlxux.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uFvueAhlKsXQacjiKxGBgnBqarf.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.626,
-    "tmdbId": 635731,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pig-a-vinganca.json"
-  },
-  {
-    "id": "pig-killer-o-assassino-de-mulheres",
-    "tipo": "filme",
-    "titulo": "Pig Killer - O Assassino de Mulheres",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5cbg92I6Ezmiaq9uShbxCldIDrw.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1gHa4lFwuYullMAilL1H4qObvud.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 4.972,
-    "tmdbId": 1018829,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pig-killer-o-assassino-de-mulheres.json"
-  },
-  {
-    "id": "pilotos-de-combate",
-    "tipo": "filme",
-    "titulo": "Pilotos de combate",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/s1rGlUhLSaEdhkxnDplRnH9CksI.jpg",
-    "banner": null,
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.667,
-    "tmdbId": 604387,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pilotos-de-combate.json"
-  },
-  {
-    "id": "pilotos-de-guerra",
-    "tipo": "filme",
-    "titulo": "Pilotos de Guerra",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/c3EnvbwhnT6u7HAiEVunDpNSYv0.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/yjCSTlT2Ni4hXdvQZLwAyTh3LqY.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 8.088,
-    "tmdbId": 818415,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pilotos-de-guerra.json"
-  },
-  {
-    "id": "pimp-rainha-do-gueto",
-    "tipo": "filme",
-    "titulo": "Pimp - Rainha do Gueto",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/90h7Gmi1QShMBQJWtAoFA2y8Q58.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wyMd7nQ1REmWTc1OHfr08BCGpdF.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.179,
-    "tmdbId": 417688,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pimp-rainha-do-gueto.json"
-  },
-  {
-    "id": "pimpinero-sangue-e-gasolina",
-    "tipo": "filme",
-    "titulo": "Pimpinero: Sangue e Gasolina",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/8XDidaDgghQhcZoNwspuEGFLJAW.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/r4Xn4eWOyxye8m3dR80I8TPhfE5.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 6.117,
-    "tmdbId": 1326059,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pimpinero-sangue-e-gasolina.json"
-  },
-  {
-    "id": "pinball-o-homem-que-salvou-o-jogo",
-    "tipo": "filme",
-    "titulo": "Pinball: O Homem que Salvou o Jogo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fE7JDJOdjkFodV3YWWV3uPFhnk9.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/iDTcJtM7MTRxkOpy1h7FuoS4t7i.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7.065,
-    "tmdbId": 855262,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pinball-o-homem-que-salvou-o-jogo.json"
-  },
-  {
-    "id": "pinky",
-    "tipo": "filme",
-    "titulo": "O Que a Carne Herda",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4KF6DKLq5vVVjLriBnCttJGTiHA.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/hh33QdKGio3Vdr4dpvP3M7JDZD9.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 7.12,
-    "tmdbId": 62727,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pinky.json"
-  },
-  {
-    "id": "pinocchio",
-    "tipo": "filme",
-    "titulo": "Pinóquio",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rJTpz9LJFmDflvibkY2Y7IFOGua.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/crKA6WzkjWhvGdzvonRnGr1ZFv8.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.109,
-    "tmdbId": 10895,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pinocchio.json"
-  },
-  {
-    "id": "pinocchio-o-menino-de-madeira",
-    "tipo": "filme",
-    "titulo": "Pinocchio: O Menino de Madeira",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5B5dWRlUOpmHjtvY0jQlsdMbHhY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dEsNMjOL5znJJrQbHyRyRsWXd9C.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 2.9,
-    "tmdbId": 597840,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pinocchio-o-menino-de-madeira.json"
-  },
-  {
-    "id": "pinoquio",
-    "tipo": "filme",
-    "titulo": "Pinóquio",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hZ6N6lvCbXsRYfy13nZ26AeZIz0.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/r3oPwy5HILetFqKlTI6BElFoAWf.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA",
-      "4K",
-      "LANÇAMENTOS"
-    ],
-    "nota": 7.37,
-    "tmdbId": 1248723,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pinoquio.json"
-  },
-  {
-    "id": "pinoquio-3000",
-    "tipo": "filme",
-    "titulo": "Pinóquio 3000",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ipYHDeZQSm2NbGmtvxB587O8T3a.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9viXmNTZczTzVQbQpImNr1hUsxO.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 4.414,
-    "tmdbId": 23056,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pinoquio-3000.json"
-  },
-  {
-    "id": "pinoquio-por-guillermo-del-toro",
-    "tipo": "filme",
-    "titulo": "Pinóquio por Guillermo del Toro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/x3IkO2sW4rSSVluFDz8isr6YDm8.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qXOxYzPSPY9viZTgs7O6vNBOB7Y.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA",
-      "4K"
-    ],
-    "nota": 8,
-    "tmdbId": 555604,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pinoquio-por-guillermo-del-toro.json"
-  },
-  {
-    "id": "pipeline-o-grande-roubo",
-    "tipo": "filme",
-    "titulo": "Pipeline: O Grande Roubo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7gUuEzlIn9WBVRzYICEiEtRgKbo.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dPFCnfKw0o8tQasFO76jCZ5WqTv.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.9,
-    "tmdbId": 618200,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pipeline-o-grande-roubo.json"
-  },
-  {
-    "id": "piratas-do-caribe-a-vinganca-de-salazar",
-    "tipo": "filme",
-    "titulo": "Piratas do Caribe: A Vingança de Salazar",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1bXv1lIkXE1TXYsyd6HHQr4dfw4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tZvdyLP2F6x2TTuh292ceH87qZT.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.657,
-    "tmdbId": 166426,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/piratas-do-caribe-a-vinganca-de-salazar.json"
-  },
-  {
-    "id": "piratas-do-caribe-no-fim-do-mundo",
-    "tipo": "filme",
-    "titulo": "Piratas do Caribe: No Fim do Mundo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/j15lZasREutscon6e61LSSNJoN7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.27,
-    "tmdbId": 285,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/piratas-do-caribe-no-fim-do-mundo.json"
-  },
-  {
-    "id": "pisando-na-bola",
-    "tipo": "filme",
-    "titulo": "Pisando na Bola",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7zyOEJjBOHFpDhvybnvJOhXKP1c.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/bSE6JsSOvY350NhaT2nhUhl5hUE.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 5.599,
-    "tmdbId": 26441,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pisando-na-bola.json"
-  },
-  {
-    "id": "piscina-infinita",
-    "tipo": "filme",
-    "titulo": "Piscina Infinita",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ykhdcaaPn2ELaKMz2UBlLrXGJ0E.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1xhcEecvRJXQ2OAVO7l9btlrN6D.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER",
-      "4K"
-    ],
-    "nota": 6.062,
-    "tmdbId": 667216,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/piscina-infinita.json"
-  },
-  {
-    "id": "pisque-duas-vezes",
-    "tipo": "filme",
-    "titulo": "Pisque Duas Vezes",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1BCZ1rOI41cGkae6RZgLVVmYczE.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/NqqLef2ITlK8olXT4iFuUXFwSh.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER",
-      "4K"
-    ],
-    "nota": 6.679,
-    "tmdbId": 840705,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pisque-duas-vezes.json"
-  },
-  {
-    "id": "pistoleiros-maos-que-matam",
-    "tipo": "filme",
-    "titulo": "Pistoleiros: Mãos que Matam",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/eNFL2RokVHXl1Mwv0oW6kaboAZN.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/iT20SrmRIbkF2faNV20jr7CrcDW.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "FAROESTE"
-    ],
-    "nota": 6.6,
-    "tmdbId": 1145358,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pistoleiros-maos-que-matam.json"
-  },
-  {
-    "id": "pistoleiros-do-entardecer",
-    "tipo": "filme",
-    "titulo": "Pistoleiro do Entardecer",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mHHKHU8JDOK2F263FBR0EHgxN2W.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/k3LNz41azkj0n6hukp752bOARyS.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "FAROESTE"
-    ],
-    "nota": 7.059,
-    "tmdbId": 36206,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pistoleiros-do-entardecer.json"
-  },
-  {
-    "id": "pitbull-forca-bruta",
-    "tipo": "filme",
-    "titulo": "Pitbull - Força Bruta",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hwbw4Ng7dV9EBA136a3sNiFwVZw.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vXRjGugXoQxC78V2WyK50Bp1PyI.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.104,
-    "tmdbId": 857700,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pitbull-forca-bruta.json"
-  },
-  {
-    "id": "pixie",
-    "tipo": "filme",
-    "titulo": "Pixie",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zvQpvZneVLM3dssUyqYvnQsHovk.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dSgQ7Er6VLYw8mZiha38Coa4iih.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 5.838,
-    "tmdbId": 651610,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pixie.json"
-  },
-  {
-    "id": "pizza-3-the-mummy",
-    "tipo": "filme",
-    "titulo": "Pizza 3: The Mummy",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/AozhsNFfa5Qn2ETztnhpALmlWIy.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/aKoTbSQBpR52pndadiGg97gj2aq.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 4.4,
-    "tmdbId": 807606,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pizza-3-the-mummy.json"
-  },
-  {
-    "id": "pizza-movie",
-    "tipo": "filme",
-    "titulo": "Noite da Pizza",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/9WfKoeclHZwg6dztZZwT6VShA81.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/75UkXLlLedidOGo0VogF0A0NPfC.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.417,
-    "tmdbId": 1493859,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pizza-movie.json"
-  },
-  {
-    "id": "placa-de-acero",
-    "tipo": "filme",
-    "titulo": "Placa de Acero",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/deiJ0Z1Jzu0octbBp07y8Ku7cSx.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9fbJYWVO89zdl383VXUNqFb7MrO.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7.8,
-    "tmdbId": 586344,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/placa-de-acero.json"
-  },
-  {
-    "id": "planeta-dos-macacos-o-reinado",
-    "tipo": "filme",
-    "titulo": "Planeta dos Macacos: O Reinado",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hBGnLm2A1TapONoPo7QrMpj2B6B.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fypydCipcWDKDTTCoPucBsdGYXW.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA",
-      "4K"
-    ],
-    "nota": 7.055,
-    "tmdbId": 653346,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/planeta-dos-macacos-o-reinado.json"
-  },
-  {
-    "id": "planeta-dos-solteiros-aventura-na-grecia",
-    "tipo": "filme",
-    "titulo": "Planeta dos Solteiros: Aventura na Grécia",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/l7V0EI8Pq3izRCoFmMlbg2YxHM0.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uWx7AScgVcG8fdEju6oKgzAxXIl.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 5.283,
-    "tmdbId": 1468789,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/planeta-dos-solteiros-aventura-na-grecia.json"
-  },
-  {
-    "id": "planeta-duna",
-    "tipo": "filme",
-    "titulo": "Planeta Duna",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7MRtUoNmVvwE5NNOFo5YdRTPIx3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3BBwgGaZmM8KqEdCqovoTwLQHBY.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.1,
-    "tmdbId": 881460,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/planeta-duna.json"
-  },
-  {
-    "id": "planeta-janet",
-    "tipo": "filme",
-    "titulo": "Planeta Janet",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4n539sFGFBjv4RlIR6dHJ8d2M7P.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fuv2TxJb1retWu3XMwsVJqm8ylr.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA",
-      "4K"
-    ],
-    "nota": 6.043,
-    "tmdbId": 1037035,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/planeta-janet.json"
-  },
-  {
-    "id": "plankton-o-filme",
-    "tipo": "filme",
-    "titulo": "Plankton: O Filme",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xODFawcWmxx2vn7rCw3KrdZmtmy.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lsgT602GYV8ts97sKH1gWFtQs1k.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.693,
-    "tmdbId": 1104845,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/plankton-o-filme.json"
-  },
-  {
-    "id": "plano-a",
-    "tipo": "filme",
-    "titulo": "Plano A",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/bjEvnE8eQb7qrRDQBy927VbfuHD.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wHmhUVSUpFynmxcpFrR9zcxdJF9.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.155,
-    "tmdbId": 714968,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/plano-a.json"
-  },
-  {
-    "id": "plano-b",
-    "tipo": "filme",
-    "titulo": "Plano B",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yCzwV4a5SYEYLImbVfG0cSqhtoD.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vjgMvcgwZwYdB4YZwvaVeanYJ2M.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 9,
-    "tmdbId": 1092711,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/plano-b.json"
-  },
-  {
-    "id": "plano-de-aposentadoria",
-    "tipo": "filme",
-    "titulo": "Plano de Aposentadoria",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gMhOPN5kl7R8hwdUAnFgDuGuM44.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tMi07ApKsBuyHPmbznWnBedWFmf.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 5.928,
-    "tmdbId": 866346,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/plano-de-aposentadoria.json"
-  },
-  {
-    "id": "plano-de-aula",
-    "tipo": "filme",
-    "titulo": "Plano de Aula",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/akK0REohti8YWwGZGD1MHPZvBRh.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dsWxCsAdsocMNQFbhe39ynAOhBa.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.027,
-    "tmdbId": 1049233,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/plano-de-aula.json"
-  },
-  {
-    "id": "plano-em-familia",
-    "tipo": "filme",
-    "titulo": "Plano em Família 2",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/aLgvLNWETZ2wtPzU3E7lavEpCJw.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7nAVXGHHtaNcdsqvDXmY6R9N0fG.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 6.565,
-    "tmdbId": 1363123,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/plano-em-familia.json"
-  },
-  {
-    "id": "plano-em-familia-2",
-    "tipo": "filme",
-    "titulo": "Plano em Família 2",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/aLgvLNWETZ2wtPzU3E7lavEpCJw.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7nAVXGHHtaNcdsqvDXmY6R9N0fG.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.565,
-    "tmdbId": 1363123,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/plano-em-familia-2.json"
-  },
-  {
-    "id": "planos-diabolicos",
-    "tipo": "filme",
-    "titulo": "Planos Diabólicos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/p52n7VdIhB7TlPDBL9FEBZ6cjc3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4ATMHvq7islHTcbvYKbOIMQeP7n.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.1,
-    "tmdbId": 401313,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/planos-diabolicos.json"
-  },
-  {
-    "id": "plantao-de-natal",
-    "tipo": "filme",
-    "titulo": "Plantão de Natal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hNXR0bHx8H87ThYZVkJhSI6XxDX.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8Vuj1BCn91aVuDVpOiLVB3GE44N.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.9,
-    "tmdbId": 746040,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/plantao-de-natal.json"
-  },
-  {
-    "id": "plantao-noturno",
-    "tipo": "filme",
-    "titulo": "Plantão Noturno",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1SIpCUiVn0G8neLbWOtdkrAnYnA.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/o5vasl0xbZWWKQnAlaBTSgntHH2.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.392,
-    "tmdbId": 1208808,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/plantao-noturno.json"
-  },
-  {
-    "id": "play-dead-nos-bastidores-da-morte",
-    "tipo": "filme",
-    "titulo": "Play Dead: Nos Bastidores Da Morte",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zeiwFQzyMNp6JBwCfSspG5ZcoLp.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lUbt7o9maj8DHEhnHvSv5tIzivg.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.105,
-    "tmdbId": 1020696,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/play-dead-nos-bastidores-da-morte.json"
-  },
-  {
-    "id": "players-club",
-    "tipo": "filme",
-    "titulo": "Players Club",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zq6D4HBRK6GMaJj4w5n5QsKXkLF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tlUudS5G6oZfDTjFgE7NHp2CRiC.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.352,
-    "tmdbId": 19848,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/players-club.json"
-  },
-  {
-    "id": "playmobil-o-filme",
-    "tipo": "filme",
-    "titulo": "Playmobil: O Filme",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iOtzxWZbveKez2wUGLlH9QkIA5E.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9RykqvfLhZ47ZHEmQUjyMI64zDm.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 5.752,
-    "tmdbId": 366668,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/playmobil-o-filme.json"
-  },
-  {
-    "id": "plutao",
-    "tipo": "filme",
-    "titulo": "Plutão",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/89GjCyq1SGFGtCRLg9bRNfQtjTm.jpg",
-    "banner": null,
-    "generos": [
-      "LEGENDADOS",
-      "NACIONAIS"
-    ],
-    "nota": 2,
-    "tmdbId": 282151,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/plutao.json"
-  },
-  {
-    "id": "pobres-criaturas",
-    "tipo": "filme",
-    "titulo": "Pobres Criaturas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iOdcXYSVzBgmBJzNIlIMOZ6fz0F.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zh6IdheEYinU4TPtorWsjx6qPQE.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "OSCAR",
-      "4K"
-    ],
-    "nota": 7.6,
-    "tmdbId": 792307,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pobres-criaturas.json"
-  },
-  {
-    "id": "pocahontas-ii-uma-jornada-para-o-novo-mundo",
-    "tipo": "filme",
-    "titulo": "Pocahontas II: Uma Jornada Para o Novo Mundo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xNsHnGRoGYziVpz0D6hS4x78y2A.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fzAnRGmaKJtm8sZuZ8a1nwSNTd3.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 5.534,
-    "tmdbId": 13761,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pocahontas-ii-uma-jornada-para-o-novo-mundo.json"
-  },
-  {
-    "id": "pode-me-chamar-de-noel",
-    "tipo": "filme",
-    "titulo": "Pode me Chamar de Noel",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/vHFsc0v5qufPeF5SMZb5tEbO7by.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tfxqUsrqvBcFDxQU9qpQQ21klmk.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 5.745,
-    "tmdbId": 17007,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pode-me-chamar-de-noel.json"
-  },
-  {
-    "id": "pode-ser-seu-proprio-heroi-ou-vilao",
-    "tipo": "filme",
-    "titulo": "Valentino, Pode Ser Seu Próprio Herói Ou Vilão",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3YViYlgufUsJT61HE0qsKsdXmn6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/44uN89Zt0qXGUBw9R39DhOmJCIJ.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 7.3,
-    "tmdbId": 841045,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pode-ser-seu-proprio-heroi-ou-vilao.json"
-  },
-  {
-    "id": "poder-alem-da-vida",
-    "tipo": "filme",
-    "titulo": "Poder Além da Vida",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dt6YQouXmXAwFktUA1F5xwajNlh.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/6nee7F86T21kBqNifjKr9t6jqQw.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 7.445,
-    "tmdbId": 13689,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/poder-alem-da-vida.json"
-  },
-  {
-    "id": "poder-do-amor",
-    "tipo": "filme",
-    "titulo": "O Poder do Amor",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gfAwtqbZQq9EXjjdPof5bWQhdUC.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cnUl10UxyT6yluGckYHwr7vycx7.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.635,
-    "tmdbId": 18402,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/poder-do-amor.json"
-  },
-  {
-    "id": "poder-policial",
-    "tipo": "filme",
-    "titulo": "Poder Policial",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5nYbyTa3w8Ijid53exglHX25A3x.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/y4RyZA2XegDb7suu8CzBmN2lPQk.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.9,
-    "tmdbId": 1214558,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/poder-policial.json"
-  },
-  {
-    "id": "poder-sem-limites",
-    "tipo": "filme",
-    "titulo": "Poder Sem Limites",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/d66KHiNTQU020qXJn3H5FyzXkDa.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rgNzvSagnlc32TuMEBa529QFIig.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 6.85,
-    "tmdbId": 76726,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/poder-sem-limites.json"
-  },
-  {
-    "id": "podres-de-ricos",
-    "tipo": "filme",
-    "titulo": "Podres de Ricos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kYqS2lRNNAhSHpTWGMCHfBlzjTz.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7tTCnQcKzUkabDV3BJMe7LIzlEs.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA",
-      "4K"
-    ],
-    "nota": 7.051,
-    "tmdbId": 455207,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/podres-de-ricos.json"
-  },
-  {
-    "id": "pokemon-as-cronicas-de-arceus",
-    "tipo": "filme",
-    "titulo": "Pokémon As Crônicas de Arceus",
-    "ano": null,
-    "capa": null,
-    "banner": null,
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pokemon-as-cronicas-de-arceus.json"
-  },
-  {
-    "id": "pokemon-detective-pikachu",
-    "tipo": "filme",
-    "titulo": "Pokémon: Detetive Pikachu",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/p72utWsmz5ZAmvVQPUhovq0jFK3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/yXybBEC45p84D0Ky7GmQQYrclVr.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "4K",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.906,
-    "tmdbId": 447404,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pokemon-detective-pikachu.json"
-  },
-  {
-    "id": "poker-face",
-    "tipo": "filme",
-    "titulo": "Jogo Perfeito",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7562jkiLinfNmHwHVFSozJvXjOi.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4vkJmo7wqtEzJ2aCsHVJH16jOss.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA",
-      "4K"
-    ],
-    "nota": 5.582,
-    "tmdbId": 842934,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/poker-face.json"
-  },
-  {
-    "id": "polaris",
-    "tipo": "filme",
-    "titulo": "Polaris",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/reh2NjYkhG3EoAsrzKEatcnwlIt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wmR3nyZBYPitWrsbphgP7HyVbzy.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 4.3,
-    "tmdbId": 988539,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/polaris.json"
-  },
-  {
-    "id": "polaroid",
-    "tipo": "filme",
-    "titulo": "Morte Instantânea",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nfLTCqZMlE7EN4iw5cOq4cfBQ5r.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lECfRcKuZzIm3uyIt6K7SuudDfN.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.022,
-    "tmdbId": 431075,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/polaroid.json"
-  },
-  {
-    "id": "polemico-e-fugitivo",
-    "tipo": "filme",
-    "titulo": "John McAfee: Gênio, Polêmico e Fugitivo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uTqjzvCJSPjpuRRsTy5GNqkI6zN.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jII9mJZ4EWAodGIhALpBPc6MuPB.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.293,
-    "tmdbId": 1005342,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/polemico-e-fugitivo.json"
-  },
-  {
-    "id": "police-story-4-primeiro-impacto",
-    "tipo": "filme",
-    "titulo": "Police Story 4: Primeiro Impacto",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/isCnmtLE2YnpEadEivtzE5Clhl6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/pvJhP6L8h1LHhosbt7YJBAe4W3f.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.493,
-    "tmdbId": 9404,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/police-story-4-primeiro-impacto.json"
   }
 ]

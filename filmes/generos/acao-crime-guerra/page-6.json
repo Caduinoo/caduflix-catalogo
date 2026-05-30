@@ -1,5 +1,64 @@
 [
   {
+    "id": "o-assassino-americano",
+    "tipo": "filme",
+    "titulo": "O Assassino Americano",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yApYYf92j8OgCQyMQNTFbxRrTbU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sw0mnuNrdSuO7QQNTZTtzTF3dEs.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.4,
+    "tmdbId": 768449,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-assassino-americano.json"
+  },
+  {
+    "id": "o-assassino-em-serie-de-long-island",
+    "tipo": "filme",
+    "titulo": "O Assassino em Série de Long Island",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lTRTHmMBoJAynzGC0VrutOpgph9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jTRzRK9xqBFkxeyl4iDw1QI1hW4.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7,
+    "tmdbId": 826029,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-assassino-em-serie-de-long-island.json"
+  },
+  {
+    "id": "o-assassino-o-primeiro-alvo",
+    "tipo": "filme",
+    "titulo": "O Assassino: O Primeiro Alvo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/juJrnDHS8kIDzdjtLkP9329bmah.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wb78lmqAXsUVG84xrmAOJBfgZHr.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.416,
+    "tmdbId": 415842,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-assassino-o-primeiro-alvo.json"
+  },
+  {
+    "id": "o-assassino-perfeito",
+    "tipo": "filme",
+    "titulo": "O Assassino Perfeito",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/62DJXEJbCazNo1woUU6Jr7l7rgQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/Aqldsq65Nj1KAkQD2MzkZsAk5N5.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 7.033,
+    "tmdbId": 846433,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-assassino-perfeito.json"
+  },
+  {
     "id": "o-ataque",
     "tipo": "filme",
     "titulo": "O Ataque",
@@ -2807,6 +2866,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-pacificador.json"
   },
   {
+    "id": "o-pacto-2023",
+    "tipo": "filme",
+    "titulo": "O Pacto",
+    "ano": 2023,
+    "capa": "https://image.tmdb.org/t/p/w500/pTQZT9R6YjKrweJ0llPtq57j1Z0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 7.719,
+    "tmdbId": 882569,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-pacto-2023.json"
+  },
+  {
     "id": "o-pacto",
     "tipo": "filme",
     "titulo": "O Pacto",
@@ -2835,21 +2910,6 @@
     "nota": 6.736,
     "tmdbId": 6312,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-pacto-2011.json"
-  },
-  {
-    "id": "o-pacto-2023",
-    "tipo": "filme",
-    "titulo": "O Pacto",
-    "ano": 2023,
-    "capa": "https://image.tmdb.org/t/p/w500/pTQZT9R6YjKrweJ0llPtq57j1Z0.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 7.719,
-    "tmdbId": 882569,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-pacto-2023.json"
   },
   {
     "id": "o-padeiro",
@@ -3343,6 +3403,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/tCo1U9Yec13jToCkUNkBv9IspSr.jpg",
     "banner": "https://image.tmdb.org/t/p/original/6nCy4OrV7gxhDc3lBSUxkNALPej.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA",
       "LANÇAMENTOS"
     ],
@@ -4181,6 +4242,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/z4xRCWvGklpYxvb7yL0wi1x4b18.jpg",
     "banner": null,
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA"
     ],
     "nota": 7,
@@ -4320,64 +4382,5 @@
     "nota": 6.23,
     "tmdbId": 928480,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-verao-que-mudou-tudo.json"
-  },
-  {
-    "id": "o-vidente",
-    "tipo": "filme",
-    "titulo": "O Vidente",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fFehtsCSORmECTCgs6mntAYFvL4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8OAuQm5Bxg4k4HIYfmcga5rYSzU.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.129,
-    "tmdbId": 1738,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-vidente.json"
-  },
-  {
-    "id": "o-vingador",
-    "tipo": "filme",
-    "titulo": "O Vingador do Futuro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/cCaj2DvRVnzkb3T4rkwyY56UGNR.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/x2wOlXuK4NzPDQ0OBZiJjNNOp6Y.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.3,
-    "tmdbId": 861,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-vingador.json"
-  },
-  {
-    "id": "o-vingador-da-iugoslavia",
-    "tipo": "filme",
-    "titulo": "O Vingador da Iugoslávia 2",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fSrBQXN5u0EeG9Acv2SBX84yuBY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/17FVlH4yYTG5qChmC4VcwT0V15N.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.711,
-    "tmdbId": 1215162,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-vingador-da-iugoslavia.json"
-  },
-  {
-    "id": "o-vingador-da-iugoslavia-2",
-    "tipo": "filme",
-    "titulo": "O Vingador da Iugoslávia 2",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fSrBQXN5u0EeG9Acv2SBX84yuBY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/17FVlH4yYTG5qChmC4VcwT0V15N.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 6.711,
-    "tmdbId": 1215162,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-vingador-da-iugoslavia-2.json"
   }
 ]

@@ -5,6 +5,7 @@
   "ano": 2022,
   "descricao": "O conto do boneco de madeira em uma arrepiante aventura para virar um menino de verdade, recontado.",
   "generos": [
+    "LEGENDADOS",
     "AVENTURA | FICÇÃO | FANTASIA",
     "4K"
   ],
@@ -13,6 +14,13 @@
   "tmdbId": 532639,
   "nota": 6.291,
   "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050361,
+      "container": "mp4"
+    },
     {
       "nome": "Padrão",
       "idioma": "Não informado",
@@ -28,7 +36,7 @@
       "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1779194334,
+  "dataCriacaoXtream": 1779196838,
   "tituloOriginal": "Pinocchio",
   "dataLancamento": "2022-09-07"
 }

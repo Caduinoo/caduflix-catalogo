@@ -57,6 +57,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/i5jBVwAMY8CxKX5ENUqLSHeJI2x.jpg",
     "banner": "https://image.tmdb.org/t/p/original/1zlHZDtV5KsX5VcBahNy5GDqUVt.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA",
       "LANÇAMENTOS"
     ],
@@ -324,6 +325,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/kYQ7nDESAkYR08RSz4PQe7J0YlO.jpg",
     "banner": "https://image.tmdb.org/t/p/original/fl36Z9J81DMOcmTW26UCmzr5LkY.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA",
       "LANÇAMENTOS"
     ],
@@ -339,6 +341,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/geFc71rCYM8fErbROLY6n1LfAS6.jpg",
     "banner": "https://image.tmdb.org/t/p/original/es6wAAA72qIKGecMggiRZNQK0fa.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA",
       "LANÇAMENTOS"
     ],
@@ -387,6 +390,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/2ujZDnUE0g309LxhLtQFIDQgGyM.jpg",
     "banner": "https://image.tmdb.org/t/p/original/uzXLCqPWYbsVzPU3pGz3oPqO4lE.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA",
       "LANÇAMENTOS"
     ],
@@ -465,6 +469,7 @@
     "capa": null,
     "banner": null,
     "generos": [
+      "LEGENDADOS",
       "DRAMA",
       "LANÇAMENTOS"
     ],
@@ -520,6 +525,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/agentes-muito-especiais.json"
   },
   {
+    "id": "alberto",
+    "tipo": "filme",
+    "titulo": "Oi, Alberto",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/njLC9j6Cfa2VuXWQGPD2tqjbzbx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qXctHIfK4LAgHH7qZiJJVCPclaY.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 7.4,
+    "tmdbId": 876716,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/alberto.json"
+  },
+  {
     "id": "alem-de-um-olhar",
     "tipo": "filme",
     "titulo": "Além de um Olhar",
@@ -543,6 +564,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/tVJVueBmMmGwuel02Z8XeudNoq4.jpg",
     "banner": "https://image.tmdb.org/t/p/original/mHm73HhpvGWfRkXNErcwc15Czrv.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA",
       "LANÇAMENTOS"
     ],
@@ -724,6 +746,21 @@
     "nota": null,
     "tmdbId": 1270694,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ate-que-a-vida-nos-separe-uma-biografia-de-nelson-carneiro.json"
+  },
+  {
+    "id": "ato-noturno",
+    "tipo": "filme",
+    "titulo": "Ato Noturno",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/o0uHoWYGsZaGSC6O9iTRy4sAz5J.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sgWDs8ViH0WPSty46TJfgbKREuD.jpg",
+    "generos": [
+      "NACIONAIS",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.7,
+    "tmdbId": 1403903,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ato-noturno.json"
   },
   {
     "id": "avatar-fogo-e-cinzas",
@@ -971,6 +1008,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/94AQpf6Rg6tblNpa65ogzYw4q6P.jpg",
     "banner": "https://image.tmdb.org/t/p/original/2iqLoDsatVBwAvHTEzI71p3qBe9.jpg",
     "generos": [
+      "LEGENDADOS",
       "LANÇAMENTOS"
     ],
     "nota": 6.295,
@@ -1010,6 +1048,22 @@
     "nota": 8.976,
     "tmdbId": 1007757,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/como-magica.json"
+  },
+  {
+    "id": "companhia-assassina",
+    "tipo": "filme",
+    "titulo": "Companhia Assassina",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/WeVazQDp2gYmrsGxZ5gK0gVrVJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eDVp3J8HqkXXMagnVKlm53dYJvJ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6,
+    "tmdbId": 1285247,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/companhia-assassina.json"
   },
   {
     "id": "confrontando-o-passado",
@@ -1234,6 +1288,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/devoradores-de-estrelas.json"
   },
   {
+    "id": "dibu-martinez-o-garoto-que-parava-o-tempo-2026",
+    "tipo": "filme",
+    "titulo": "Dibu Martínez: O Garoto que Parava o Tempo",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/ns7hOXCSuDtoVUyqx1v806y0XGF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1xV4Yv3Ma2Cu92GwT4tYUQCaEos.jpg",
+    "generos": [
+      "LANÇAMENTOS"
+    ],
+    "nota": 4.5,
+    "tmdbId": 1686326,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dibu-martinez-o-garoto-que-parava-o-tempo-2026.json"
+  },
+  {
     "id": "disappeared-the-bradley-sisters",
     "tipo": "filme",
     "titulo": "Disappeared: The Bradley Sisters",
@@ -1256,6 +1324,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/q1nqUry5Sd3bDDRCcKGYdr2VnrO.jpg",
     "banner": "https://image.tmdb.org/t/p/original/bBFpkBVlOR2qeT6oE3W9uPkfNOr.jpg",
     "generos": [
+      "LEGENDADOS",
       "DRAMA",
       "LANÇAMENTOS"
     ],
@@ -1348,6 +1417,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/bg4KbU1M53QRFKGtoHOJPjFonbu.jpg",
     "banner": "https://image.tmdb.org/t/p/original/o5WFZISFD8rW2K2WVOSiu73Lgf6.jpg",
     "generos": [
+      "LEGENDADOS",
       "4K",
       "NACIONAIS",
       "LANÇAMENTOS"
@@ -1628,6 +1698,34 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/grace-by-night.json"
   },
   {
+    "id": "grand-prix-of-europe-2025",
+    "tipo": "filme",
+    "titulo": "Grand Prix: A Toda Velocidade",
+    "ano": 2025,
+    "capa": "https://image.tmdb.org/t/p/w500/cStiqpPNuzvjCzzI8voKhtsxjoL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/keToI4XlwYVtImAXjoeoaLJKnfc.jpg",
+    "generos": [
+      "LANÇAMENTOS"
+    ],
+    "nota": 7.1,
+    "tmdbId": 1316147,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/grand-prix-of-europe-2025.json"
+  },
+  {
+    "id": "grizzly-night-2026",
+    "tipo": "filme",
+    "titulo": "Urso Sangrento: A Noite do Terror",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/lGS6aiYtZjh08ci3UAhunoAiBWk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/i275mAQP4KhPtYUpMUgBGMmK4WN.jpg",
+    "generos": [
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.3,
+    "tmdbId": 1249508,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/grizzly-night-2026.json"
+  },
+  {
     "id": "halloween-o-espantalho-assassino",
     "tipo": "filme",
     "titulo": "Halloween - O Espantalho Assassino",
@@ -1714,6 +1812,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/fWsWD1IIYtZFvKmOBMZKGUYyXeA.jpg",
     "banner": "https://image.tmdb.org/t/p/original/9L5Ekpoy4zT6o00qKUmZTeTkaVf.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA",
       "LANÇAMENTOS"
     ],
@@ -1736,6 +1835,22 @@
     "nota": 6.048,
     "tmdbId": 37958,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/imortais.json"
+  },
+  {
+    "id": "insano",
+    "tipo": "filme",
+    "titulo": "Insano",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/61JftRXd1QZ0Jva4quPEQuu683B.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lCiYJCw88OFsbX8Zv20FyD0cVAj.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.929,
+    "tmdbId": 393070,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/insano.json"
   },
   {
     "id": "inteligencia-humana",
@@ -1831,6 +1946,20 @@
     "nota": null,
     "tmdbId": 1453928,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/krishnamurti-a-revolucao-do-silencio.json"
+  },
+  {
+    "id": "ladies-first-2026",
+    "tipo": "filme",
+    "titulo": "Primeiro as Damas",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/tW10rRdxMwJC4r1zldQzxcyzEUS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
+    "generos": [
+      "LANÇAMENTOS"
+    ],
+    "nota": 5.949,
+    "tmdbId": 1368881,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ladies-first-2026.json"
   },
   {
     "id": "ladrar",
@@ -2009,6 +2138,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mikaela.json"
   },
   {
+    "id": "milagre-vivo",
+    "tipo": "filme",
+    "titulo": "Milagre Vivo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gCfpSg8AXcfFRkouhLniHnWINZ9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/j6ZPiUjaa7IlNVBGyAj3dMi4U5Q.jpg",
+    "generos": [
+      "NACIONAIS",
+      "LANÇAMENTOS"
+    ],
+    "nota": null,
+    "tmdbId": 1389501,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/milagre-vivo.json"
+  },
+  {
     "id": "minha-querida-senhorita",
     "tipo": "filme",
     "titulo": "Minha Querida Senhorita",
@@ -2103,6 +2247,21 @@
     "nota": null,
     "tmdbId": 690581,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/nauru.json"
+  },
+  {
+    "id": "no",
+    "tipo": "filme",
+    "titulo": "O Atirador: Sem Nação",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gGhjs14pomQA6N8parCw5Bl3qoh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
+    "generos": [
+      "NACIONAIS",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.4,
+    "tmdbId": 1641319,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/no.json"
   },
   {
     "id": "no-rastro-do-perigo",
@@ -2222,6 +2381,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/fmoIVtw5a1Yl8kydzYSke4z4S2O.jpg",
     "banner": "https://image.tmdb.org/t/p/original/anm4weP3FrUWMllycTI6jV1aepC.jpg",
     "generos": [
+      "LEGENDADOS",
       "DRAMA",
       "LANÇAMENTOS"
     ],
@@ -2411,6 +2571,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/tCo1U9Yec13jToCkUNkBv9IspSr.jpg",
     "banner": "https://image.tmdb.org/t/p/original/6nCy4OrV7gxhDc3lBSUxkNALPej.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA",
       "LANÇAMENTOS"
     ],
@@ -2700,6 +2861,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/aefbl9hqx44kU4jqmwQY6CXZYWK.jpg",
     "banner": "https://image.tmdb.org/t/p/original/7Xb6T5B2wQy0dcKVlgriyVqYDdt.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA",
       "LANÇAMENTOS"
     ],
@@ -2793,6 +2955,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/tW10rRdxMwJC4r1zldQzxcyzEUS.jpg",
     "banner": "https://image.tmdb.org/t/p/original/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA",
       "LANÇAMENTOS"
     ],
@@ -2815,6 +2978,20 @@
     "nota": 6.879,
     "tmdbId": 726139,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/projeto-silencio.json"
+  },
+  {
+    "id": "propeller-one-way-night-coach-2026",
+    "tipo": "filme",
+    "titulo": "Aventuras nas Alturas",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/2CfaoWBSBUA1wquEa0CF45f4Aaa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ldUVeDfA5ID2vchHGejrEltoBSN.jpg",
+    "generos": [
+      "LANÇAMENTOS"
+    ],
+    "nota": 5.7,
+    "tmdbId": 1662414,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/propeller-one-way-night-coach-2026.json"
   },
   {
     "id": "push-no-limite-do-medo",
@@ -3184,6 +3361,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/the-moment.json"
   },
   {
+    "id": "the-old-woman-with-the-knife-2025",
+    "tipo": "filme",
+    "titulo": "A Velha Com a Faca",
+    "ano": 2025,
+    "capa": "https://image.tmdb.org/t/p/w500/du65x58CJrMMThuiT85kBFMYi0Z.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fepnF3W4VP3s8ui8nDtrlsFVYwO.jpg",
+    "generos": [
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.542,
+    "tmdbId": 1247002,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/the-old-woman-with-the-knife-2025.json"
+  },
+  {
     "id": "treinada-para-matar",
     "tipo": "filme",
     "titulo": "Treinada para Matar",
@@ -3223,6 +3414,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/3Vqz9ZHlaXZ8zwp1tzdtY2XKmJu.jpg",
     "banner": "https://image.tmdb.org/t/p/original/rkpAE4uIp2ch2QGvwfSxnxLTrAV.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA",
       "LANÇAMENTOS"
     ],
@@ -3324,6 +3516,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-lugar-para-recomecar.json"
   },
   {
+    "id": "um-simples-favor",
+    "tipo": "filme",
+    "titulo": "Um Simples Favor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6hGBllrcPJMZsZ9rqbuDRkerKiH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/snERqChY3FMzVV95hTAW4DpzTBQ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.1,
+    "tmdbId": 1089979,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-simples-favor.json"
+  },
+  {
     "id": "um-sonho-de-natal",
     "tipo": "filme",
     "titulo": "Um Sonho de Natal",
@@ -3369,6 +3577,22 @@
     "nota": 5.7,
     "tmdbId": 1013482,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-stalker-apaixonado.json"
+  },
+  {
+    "id": "uma-batalha-apos-a-outra",
+    "tipo": "filme",
+    "titulo": "Uma Batalha Após a Outra",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2peYXW6CoruehDnKJGMjl2NuaNB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hiazLNa1UXuX35OTnMQRKOx3eTk.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 7.361,
+    "tmdbId": 1054867,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-batalha-apos-a-outra.json"
   },
   {
     "id": "uma-casa-em-chamas",
@@ -3464,6 +3688,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vale-dos-vermes-do-rei-xian-e-lampada-fantasma.json"
   },
   {
+    "id": "velhos-bandidos-2026",
+    "tipo": "filme",
+    "titulo": "Velhos Bandidos",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/eYZUzJMumKoUPX5Q40xBsgFs6dY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nqYTmfzyOSDVihUDnW0skBIFytp.jpg",
+    "generos": [
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.786,
+    "tmdbId": 1362786,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/velhos-bandidos-2026.json"
+  },
+  {
     "id": "venganza",
     "tipo": "filme",
     "titulo": "Vingança Brutal",
@@ -3503,6 +3741,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/ld9ciaBKcNB1Dl7YncfhHKLgBgl.jpg",
     "banner": "https://image.tmdb.org/t/p/original/opNdWurarqYxrzqpVRPyZrbWb3K.jpg",
     "generos": [
+      "LEGENDADOS",
       "SUSPENSE | TERROR | THRILLER",
       "LANÇAMENTOS"
     ],

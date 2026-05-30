@@ -1,5 +1,34 @@
 [
   {
+    "id": "texano-por-acidente",
+    "tipo": "filme",
+    "titulo": "Texano Por Acidente",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6c4v8x9xHHLX5FRTUewLNLwj1M8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2e50o5n6KaFP8utQHlclpTybtIv.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.118,
+    "tmdbId": 1109940,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/texano-por-acidente.json"
+  },
+  {
+    "id": "the-after-party",
+    "tipo": "filme",
+    "titulo": "The After Party",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wFPGheX6X4bt1ZqP1870MPlUvGu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7tGLqxYjjdE7JaYKhgfHiUpZS3S.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.095,
+    "tmdbId": 538604,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/the-after-party.json"
+  },
+  {
     "id": "the-banana-splits-movie",
     "tipo": "filme",
     "titulo": "Banana Splits - O Filme",
@@ -746,6 +775,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/3Vqz9ZHlaXZ8zwp1tzdtY2XKmJu.jpg",
     "banner": "https://image.tmdb.org/t/p/original/rkpAE4uIp2ch2QGvwfSxnxLTrAV.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA",
       "LANÇAMENTOS"
     ],
@@ -1832,20 +1862,6 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-heroi-de-brinquedo.json"
   },
   {
-    "id": "um-homem-de-familia",
-    "tipo": "filme",
-    "titulo": "Um Homem de Família",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/y5NhCKNzua21rQYiFNq7t4kUyHv.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gnosJeDIDQXy9uDewXphEpDWNYT.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.819,
-    "tmdbId": 5994,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-homem-de-familia.json"
-  },
-  {
     "id": "um-homem-de-familia-2000",
     "tipo": "filme",
     "titulo": "Um Homem de Família",
@@ -1858,6 +1874,21 @@
     "nota": 6.819,
     "tmdbId": 5994,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-homem-de-familia-2000.json"
+  },
+  {
+    "id": "um-homem-de-familia",
+    "tipo": "filme",
+    "titulo": "Um Homem de Família",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/y5NhCKNzua21rQYiFNq7t4kUyHv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gnosJeDIDQXy9uDewXphEpDWNYT.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.819,
+    "tmdbId": 5994,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-homem-de-familia.json"
   },
   {
     "id": "um-homem-diferente",
@@ -2431,6 +2462,22 @@
     "nota": 7.229,
     "tmdbId": 257211,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-senhor-estagiario.json"
+  },
+  {
+    "id": "um-simples-favor",
+    "tipo": "filme",
+    "titulo": "Um Simples Favor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6hGBllrcPJMZsZ9rqbuDRkerKiH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/snERqChY3FMzVV95hTAW4DpzTBQ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.1,
+    "tmdbId": 1089979,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-simples-favor.json"
   },
   {
     "id": "um-sinal-de-esperanca",
@@ -4323,50 +4370,5 @@
     "nota": 4.888,
     "tmdbId": 1058100,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/voltando-as-pistas.json"
-  },
-  {
-    "id": "voltando-para-casa",
-    "tipo": "filme",
-    "titulo": "Voltando para casa",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xNUtOJSG5n5FCyPvilU99aQ8.jpg",
-    "banner": null,
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 1,
-    "tmdbId": 652316,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/voltando-para-casa.json"
-  },
-  {
-    "id": "volte-sempre",
-    "tipo": "filme",
-    "titulo": "Volte Sempre!",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dKM5MnEgPSwDXaAyZhN4NtpJy9B.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ugb03YpXlsORMyZg8WGswqHiTNO.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 7.1,
-    "tmdbId": 1092193,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/volte-sempre.json"
-  },
-  {
-    "id": "vovo-baba",
-    "tipo": "filme",
-    "titulo": "Vovó Babá",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iU9XlZqSUsMmcaw6KQQ1rjPOS81.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/czoiqnqQwLlXqy3c0Tsx33jIqJY.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.542,
-    "tmdbId": 649755,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vovo-baba.json"
   }
 ]

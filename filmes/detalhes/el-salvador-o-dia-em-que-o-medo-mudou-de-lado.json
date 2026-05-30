@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Viajamos a El Salvador para investigar como o país deixou de ser o mais violento do mundo para se tornar um símbolo da linha dura. Através de entrevistas com ministros, opositores e criminosos, o documentário analisa as decisões de Nayib Bukele e a realidade dos presídios. Uma imersão profunda na política que retomou o controle das ruas, ouvindo todos os lados dessa transformação.",
   "generos": [
+    "LEGENDADOS",
     "4K",
     "NACIONAIS",
     "LANÇAMENTOS"
@@ -14,6 +15,13 @@
   "tmdbId": 1699414,
   "nota": 8.5,
   "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11060858,
+      "container": "mp4"
+    },
     {
       "nome": "4K",
       "idioma": "Não informado",

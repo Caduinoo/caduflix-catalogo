@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Três mães se esforçam ao máximo para impedir que seus filhos terminem com o que elas acreditam ser as namoradas erradas para eles.",
   "generos": [
+    "LEGENDADOS",
     "COMÉDIA",
     "LANÇAMENTOS"
   ],
@@ -13,6 +14,13 @@
   "tmdbId": 1192846,
   "nota": 7.2,
   "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050527,
+      "container": "mp4"
+    },
     {
       "nome": "Padrão",
       "idioma": "Não informado",

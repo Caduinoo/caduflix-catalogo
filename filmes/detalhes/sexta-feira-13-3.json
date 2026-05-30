@@ -18,9 +18,16 @@
       "qualidade": "Não informado",
       "xtreamId": 10781445,
       "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11084933,
+      "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1773567059,
+  "dataCriacaoXtream": 1780134586,
   "tituloOriginal": "Friday the 13th Part III",
   "dataLancamento": "1982-08-13"
 }

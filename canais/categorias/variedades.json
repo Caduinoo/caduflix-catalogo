@@ -56,14 +56,6 @@
     "xtreamId": 2315279
   },
   {
-    "id": "canal-3523449",
-    "tipo": "canal",
-    "titulo": "CHEF TV HD",
-    "categoria": "VARIEDADES",
-    "capa": "https://i.ibb.co/gDVVfw2/cheftv.png",
-    "xtreamId": 3523449
-  },
-  {
     "id": "canal-2315280",
     "tipo": "canal",
     "titulo": "CURTA! FHD",
@@ -342,14 +334,6 @@
     "categoria": "VARIEDADES",
     "capa": "https://i.ibb.co/N3qVWfZ/multishow.png",
     "xtreamId": 2315307
-  },
-  {
-    "id": "canal-3575737",
-    "tipo": "canal",
-    "titulo": "REDE SUPER TV",
-    "categoria": "VARIEDADES",
-    "capa": "https://i.ibb.co/bm5S2xW/IMG-20241012-WA0030.jpg",
-    "xtreamId": 3575737
   },
   {
     "id": "canal-2315322",

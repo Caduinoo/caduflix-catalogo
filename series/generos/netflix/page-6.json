@@ -1,5 +1,21 @@
 [
   {
+    "id": "the-midnight-gospel",
+    "tipo": "serie",
+    "titulo": "The Midnight Gospel",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/me3kxfiFRkdto6SmDQv0nczjfmP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xCcFixrguEYfVOXonSWzMyjG9Nq.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 8.277,
+    "tmdbId": 96713,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-midnight-gospel.json"
+  },
+  {
     "id": "the-oa",
     "tipo": "serie",
     "titulo": "The OA",

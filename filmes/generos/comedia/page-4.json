@@ -900,6 +900,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/yc1GQhNw5MvznrtPmPY52dKsdrm.jpg",
     "banner": "https://image.tmdb.org/t/p/original/7VrvHUlc2UU51uVqZyMShCB5Axe.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA"
     ],
     "nota": 5.3,
@@ -1439,6 +1440,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/fWsWD1IIYtZFvKmOBMZKGUYyXeA.jpg",
     "banner": "https://image.tmdb.org/t/p/original/9L5Ekpoy4zT6o00qKUmZTeTkaVf.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA",
       "LANÇAMENTOS"
     ],
@@ -3567,6 +3569,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/rwmVAGodqvd3g5V3qIjI8Jw7ltr.jpg",
     "banner": "https://image.tmdb.org/t/p/original/4TnGcUsyd6ixuLWHaaEG5BGkAIp.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA"
     ],
     "nota": 7.705,

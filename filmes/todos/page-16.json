@@ -1,5 +1,239 @@
 [
   {
+    "id": "danificado",
+    "tipo": "filme",
+    "titulo": "Danificado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2cXxEXhVGDMTMXspbAhHs2RXEA9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hPU12uDcsVyaz368yjxa4BjDHXB.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 5.579,
+    "tmdbId": 1105407,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/danificado.json"
+  },
+  {
+    "id": "dano-colateral",
+    "tipo": "filme",
+    "titulo": "Dano Colateral",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6fhqb5JegWJGMuomR3Jqmo0Skqn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ux6gkGSKNFtp2NFYxwYFxVWdnGa.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.052,
+    "tmdbId": 874948,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dano-colateral.json"
+  },
+  {
+    "id": "danos-colaterais",
+    "tipo": "filme",
+    "titulo": "Danos Colaterais",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tw2bWYb3bn6TcqxpBe5OOKfZR5X.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aSglK0vFI50etQENUq4EIcwfoMR.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.89,
+    "tmdbId": 808023,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/danos-colaterais.json"
+  },
+  {
+    "id": "darby-a-jovem-sensitiva",
+    "tipo": "filme",
+    "titulo": "Darby: A Jovem Sensitiva",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dfgKwPUMc8WVzm40eJ5ox6DSk1L.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7XdV5Iyh40QMIdJdMggMC4NSqDQ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA",
+      "4K"
+    ],
+    "nota": 5.916,
+    "tmdbId": 898308,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/darby-a-jovem-sensitiva.json"
+  },
+  {
+    "id": "darc",
+    "tipo": "filme",
+    "titulo": "Darc",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bBxHNF0risAugpPJeAgLkiUW0P1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5k3LdPahZNPu7ineIgzEOq9AHcX.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.103,
+    "tmdbId": 521647,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/darc.json"
+  },
+  {
+    "id": "dark-country",
+    "tipo": "filme",
+    "titulo": "Dark Country",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/w3DE4rxX5vY4ybq08zxQWrmbFaU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7vEIJNKjOwKoMYYQjJGwju7y6ul.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.405,
+    "tmdbId": 23382,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dark-country.json"
+  },
+  {
+    "id": "dark-phoenix",
+    "tipo": "filme",
+    "titulo": "X-Men: Fênix Negra",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/w4mvEKtjawXdYaq1bORuodLX6ti.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cjRUhKyt2Jo3V1KNzc5tpPNfccG.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 5.965,
+    "tmdbId": 320288,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dark-phoenix.json"
+  },
+  {
+    "id": "dark-web-cicada-3301",
+    "tipo": "filme",
+    "titulo": "Dark Web: Cicada 3301",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tJlLfuvIBBn5aFoyW1IQWeFHl6v.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mE9TXKcVsnfDW1n7k8qrAQMwk1F.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.874,
+    "tmdbId": 791469,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dark-web-cicada-3301.json"
+  },
+  {
+    "id": "dark-windows",
+    "tipo": "filme",
+    "titulo": "Dark Windows",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hANd38mgGlOzA3lt12vfXMZbj90.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wpdiBaOot1q3RORdsGPHUieZZaB.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 5.106,
+    "tmdbId": 1089228,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dark-windows.json"
+  },
+  {
+    "id": "darken-o-universo-paralelo",
+    "tipo": "filme",
+    "titulo": "Darken – O Universo Paralelo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/NiAom7x6McYHZxGHi3r8fUgH1F.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zhoYj0OCQtuOFsFhRx7ivcjM8C.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 5.6,
+    "tmdbId": 460952,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/darken-o-universo-paralelo.json"
+  },
+  {
+    "id": "darkland-o-retorno",
+    "tipo": "filme",
+    "titulo": "Darkland: O Retorno",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/q9dJSPEBJXblcxbrWAoSwQv69MB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pUaRgy7grfehKq5dWLSfk1yy02p.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.432,
+    "tmdbId": 1085218,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/darkland-o-retorno.json"
+  },
+  {
+    "id": "darkman-2-o-retorno-de-durant",
+    "tipo": "filme",
+    "titulo": "Darkman 2: O Retorno de Durant",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lanzh3CCocWfunp4pIzk5ZehZAo.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/a31Z5OtHALOWIlcIoOaI2OYNFEt.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.652,
+    "tmdbId": 18998,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/darkman-2-o-retorno-de-durant.json"
+  },
+  {
+    "id": "darkman-3-enfrentando-a-morte",
+    "tipo": "filme",
+    "titulo": "Darkman 3: Enfrentando a Morte",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4R3ZNl616kU6b6NF8DZbsMSJ1pi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tSAxLcyLD2x6x2hqpGBSamqcblH.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.252,
+    "tmdbId": 19002,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/darkman-3-enfrentando-a-morte.json"
+  },
+  {
+    "id": "darkman-vinganca-sem-rosto",
+    "tipo": "filme",
+    "titulo": "Darkman: Vingança Sem Rosto",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kj80DkouUVUVxZ18gHqRBm2Kk21.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/AmYRSICb6OjblGlyAEFiJ4cMfKF.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.4,
+    "tmdbId": 9556,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/darkman-vinganca-sem-rosto.json"
+  },
+  {
+    "id": "darling-nikki",
+    "tipo": "filme",
+    "titulo": "Darling Nikki",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/luMCcqPwQV2mSEMqeaTDByrH6Dw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vCBEZMgNNNA91TlROYIOOgikUX5.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 2.2,
+    "tmdbId": 777774,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/darling-nikki.json"
+  },
+  {
+    "id": "darlings",
+    "tipo": "filme",
+    "titulo": "Darlings",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lyA7kXCIAG17hVuvFOxlMmmv31A.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uBDbyoufp7TGaDDVTHOCxl3dz8p.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.963,
+    "tmdbId": 801526,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/darlings.json"
+  },
+  {
     "id": "darrow-e-darrow-assossiados-vestigios-de-um-crime",
     "tipo": "filme",
     "titulo": "Darrow & Darrow Assossiados Vestígios de Um Crime",
@@ -1205,6 +1439,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/cYtSGwqq5fbfYckCqYplchg3MCo.jpg",
     "banner": "https://image.tmdb.org/t/p/original/pxpEFY66yYr5bA1N4PCm5b4uz40.jpg",
     "generos": [
+      "LEGENDADOS",
       "DRAMA"
     ],
     "nota": 6.094,
@@ -1219,6 +1454,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/60cmS9njm7eHQSRSPTTBpxCWJeL.jpg",
     "banner": "https://image.tmdb.org/t/p/original/mwY3D4dgWrIZRMZPKDqZESog5ws.jpg",
     "generos": [
+      "LEGENDADOS",
       "ANIMAÇÃO | INFANTIL | FAMILIA"
     ],
     "nota": 4.7,
@@ -2903,6 +3139,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/desafie-a-escuridao.json"
   },
   {
+    "id": "desafio-a-corrupcao",
+    "tipo": "filme",
+    "titulo": "Desafio à Corrupção",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/f5MZDPjzyuDfVQInT2CEtFLZfmO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1aspiiXDHVizaCYTNaWwRQSmXCh.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 7.672,
+    "tmdbId": 990,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/desafio-a-corrupcao.json"
+  },
+  {
     "id": "desafio-mortal",
     "tipo": "filme",
     "titulo": "Desafio Mortal",
@@ -3534,6 +3784,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/gI9sCrVmDPYthCeOk6UGAxr8D3t.jpg",
     "banner": "https://image.tmdb.org/t/p/original/f2d419xzKDbtVpToJorTxlKMvgQ.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA"
     ],
     "nota": 6.687,
@@ -4101,254 +4352,5 @@
     "nota": 6.9,
     "tmdbId": 632666,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/desgravida.json"
-  },
-  {
-    "id": "desligue",
-    "tipo": "filme",
-    "titulo": "Desligue!",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wqKMWmVp3ikis54weAzATE2mB56.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qbbx3NDw6FrtQSrKdxn9n72xJzO.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.75,
-    "tmdbId": 1630433,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/desligue.json"
-  },
-  {
-    "id": "deslizando-pela-vida",
-    "tipo": "filme",
-    "titulo": "Deslizando pela Vida",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6Q53nx651SCGCZFWIbethzQhyfZ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8gtogcxiWiODHR4BMscTsHplbH9.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.077,
-    "tmdbId": 913129,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/deslizando-pela-vida.json"
-  },
-  {
-    "id": "deslizando-pela-vida-2",
-    "tipo": "filme",
-    "titulo": "Deslizando pela Vida 2",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kYhfg9OkOqnJl0RFJYRY7djvngq.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kgzDl3kp37StXuy7M6IJxSmc8Fx.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 5.8,
-    "tmdbId": 1310086,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/deslizando-pela-vida-2.json"
-  },
-  {
-    "id": "deslumbrado",
-    "tipo": "filme",
-    "titulo": "Deslumbrado",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/its1Oa9uZvVgEsxgWPnJjxy8519.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kMGZK18hxu8y2HeNRvF94pkdefq.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.688,
-    "tmdbId": 1407862,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/deslumbrado.json"
-  },
-  {
-    "id": "desobediencia",
-    "tipo": "filme",
-    "titulo": "Desobediência",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jxTaF3jMaZ5Bui7Qva2vCaD3Dix.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uTT0yYYgD5S4cDpNOJxuvCITAeC.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.886,
-    "tmdbId": 419743,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/desobediencia.json"
-  },
-  {
-    "id": "desolados",
-    "tipo": "filme",
-    "titulo": "Desolados",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3q0jJJaLlQ5FkSfbQL3EnGvnI2s.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gKjx8pxKAPuirZOIgwavMeOfT3r.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 5.6,
-    "tmdbId": 613844,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/desolados.json"
-  },
-  {
-    "id": "despedida-em-grande-estilo",
-    "tipo": "filme",
-    "titulo": "Despedida em Grande Estilo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6nge1qOYikif7e6dN80KOQuRTtT.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uARnuPezr7eZkOsHj2ujFQz6EKE.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 6.691,
-    "tmdbId": 353070,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/despedida-em-grande-estilo.json"
-  },
-  {
-    "id": "despedida-em-las-vegas",
-    "tipo": "filme",
-    "titulo": "Despedida em Las Vegas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fqgYqr5Nse89cU9a7dVHhd5lrPg.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uqYjy4MwB4vZScpUPGdINVaSeTd.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.3,
-    "tmdbId": 451,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/despedida-em-las-vegas.json"
-  },
-  {
-    "id": "desperados",
-    "tipo": "filme",
-    "titulo": "Desperados",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hoUzSMxGu4Bm73EvH6B3iceFwW8.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/k8H6Qp4uJ9WHArPQwDqCaW9g3Sj.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.974,
-    "tmdbId": 706510,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/desperados.json"
-  },
-  {
-    "id": "desperate-riders",
-    "tipo": "filme",
-    "titulo": "Cavaleiros Desesperados",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/vMfcyQAb1YybrQEazNPZlPiG1ag.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/i5dUmY2xRzgkmjHJYKNj8kPX1Xx.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "4K"
-    ],
-    "nota": 5.682,
-    "tmdbId": 928999,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/desperate-riders.json"
-  },
-  {
-    "id": "desperation-road",
-    "tipo": "filme",
-    "titulo": "Rota Sem Saída",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zJuVfZVP7Tdpy9kOBQCuzNeGsDz.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vGyWFIyTN3U7SvbnT0BWQvXXzM5.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.6,
-    "tmdbId": 1039690,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/desperation-road.json"
-  },
-  {
-    "id": "despertar-de-um-pesadelo",
-    "tipo": "filme",
-    "titulo": "Despertar de um Pesadelo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iPOXTAUguRqlRXJYBMWWVZGLBe3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/s4s38yygyyeVacxQimu0jbuPjYk.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.589,
-    "tmdbId": 11412,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/despertar-de-um-pesadelo.json"
-  },
-  {
-    "id": "despertar-dos-mortos-vivos",
-    "tipo": "filme",
-    "titulo": "Despertar dos Mortos Vivos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jDskPIzjRFUvAJ4HQU6McXVq0j6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gh3jJBbB5wAyilg39xzfJqLWLWp.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 4.583,
-    "tmdbId": 858159,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/despertar-dos-mortos-vivos.json"
-  },
-  {
-    "id": "desperte-o-medo",
-    "tipo": "filme",
-    "titulo": "Desperte o Medo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iL5IWRrxOYCr9hKLL3sH7ddmlri.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/btCB8b2p6jRuLdCrLr5fAPVwjB.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.147,
-    "tmdbId": 853157,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/desperte-o-medo.json"
-  },
-  {
-    "id": "destacamento-blood",
-    "tipo": "filme",
-    "titulo": "Destacamento Blood",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/sl2qDR4aRHW5bAJdfiFC4H2NKWZ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/Aq5Zhj9iaTF6BEKNk05dlUxeHKa.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.443,
-    "tmdbId": 581859,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/destacamento-blood.json"
-  },
-  {
-    "id": "destemida",
-    "tipo": "filme",
-    "titulo": "Destemida",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7JGAiwq6s43aKHlJrM0ka0iOZcu.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dA34DDakXgvbjnyKocOcLJtKz0.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA",
-      "4K"
-    ],
-    "nota": 6.983,
-    "tmdbId": 739986,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/destemida.json"
-  },
-  {
-    "id": "desterro",
-    "tipo": "filme",
-    "titulo": "Desterro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/w3y7C8p2CfenguopR2yCOlIthP0.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/odeFPEK2o4gWDFuVEcjF7kTE7iw.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 4.8,
-    "tmdbId": 656531,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/desterro.json"
   }
 ]

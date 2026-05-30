@@ -3694,6 +3694,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/voce-e-linda.json"
   },
   {
+    "id": "voce-e-o-meu-amor-destinado-2026",
+    "tipo": "serie",
+    "titulo": "Você é o Meu Amor Destinado",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/gv3iOYJU2yXHZxuDW34vq0b478R.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cWs510A3RhRL8KiUhSgIaDTCyIx.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 6.5,
+    "tmdbId": 283961,
+    "totalTemporadas": 1,
+    "totalEpisodios": 1,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/voce-e-o-meu-amor-destinado-2026.json"
+  },
+  {
     "id": "voce-precisa-ir",
     "tipo": "serie",
     "titulo": "Você Precisa Ir?",

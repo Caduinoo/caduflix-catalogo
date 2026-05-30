@@ -1,5 +1,21 @@
 [
   {
+    "id": "familia-larva",
+    "tipo": "serie",
+    "titulo": "Família Larva",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5WYKClgu17xq0IcHkvYYfa25TTW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sLiTiKXysid6o0yt7kjfz96Jewc.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.4,
+    "tmdbId": 224047,
+    "totalTemporadas": 1,
+    "totalEpisodios": 9,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/familia-larva.json"
+  },
+  {
     "id": "familia-upshaw",
     "tipo": "serie",
     "titulo": "Família Upshaw",
@@ -4778,21 +4794,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 3,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/marinheiro-de-guerra.json"
-  },
-  {
-    "id": "marlon",
-    "tipo": "serie",
-    "titulo": "Marlon",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7jCZupMTSyS3SohvE14T3xVT36n.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/j03TYAifcf6VCQe2RZxGseVd1Sx.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 6.657,
-    "tmdbId": 71887,
-    "totalTemporadas": 2,
-    "totalEpisodios": 20,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/marlon.json"
   }
 ]

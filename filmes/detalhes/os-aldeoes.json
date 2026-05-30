@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "O desaparecimento de uma estudante expõe os segredos de uma cidade que prefere fingir que nada aconteceu.",
   "generos": [
+    "LEGENDADOS",
     "AÇÃO | CRIME | GUERRA"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/yqkeaEllNPCBVvVchlzbRzwqKx5.jpg",
@@ -13,6 +14,13 @@
   "nota": 7.519,
   "opcoes": [
     {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11060872,
+      "container": "mp4"
+    },
+    {
       "nome": "Padrão",
       "idioma": "Não informado",
       "qualidade": "Não informado",
@@ -20,7 +28,7 @@
       "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1779613156,
+  "dataCriacaoXtream": 1779613176,
   "tituloOriginal": "동네사람들",
   "dataLancamento": "2018-11-07"
 }

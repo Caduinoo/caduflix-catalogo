@@ -5,6 +5,7 @@
   "ano": 2021,
   "descricao": "Após oito meses de separação, Eric Rodgers deve lidar com a morte repentina de sua esposa e o processo emocional de se reconectar com sua filha, Rachel.",
   "generos": [
+    "LEGENDADOS",
     "DRAMA"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/3iqcd55lnoWJuhooovDLwXa711j.jpg",
@@ -13,6 +14,13 @@
   "nota": 3.5,
   "opcoes": [
     {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050351,
+      "container": "mp4"
+    },
+    {
       "nome": "Padrão",
       "idioma": "Não informado",
       "qualidade": "Não informado",
@@ -20,7 +28,7 @@
       "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1779190877,
+  "dataCriacaoXtream": 1779194697,
   "tituloOriginal": "Where the Land Meets the Sky",
   "dataLancamento": "2021-09-06"
 }

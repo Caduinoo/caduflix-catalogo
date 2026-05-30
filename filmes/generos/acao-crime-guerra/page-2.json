@@ -1076,6 +1076,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/5BFwjwDyoAkulZjKtUZpVLZ5DFa.jpg",
     "banner": "https://image.tmdb.org/t/p/original/gzmKA50LtpHSDYC7lKjUqLtK7Kn.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA"
     ],
     "nota": 5.592,
@@ -1838,6 +1839,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/zHhLhzCiB0N1VLjTK6Qqg5kAkxO.jpg",
     "banner": "https://image.tmdb.org/t/p/original/3foxJvx5JQqpfdpjtXg4aj13Dk1.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA"
     ],
     "nota": 4.3,
@@ -3484,6 +3486,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cells-at-work.json"
   },
   {
+    "id": "celular-um-grito-de-socorro",
+    "tipo": "filme",
+    "titulo": "Celular: Um Grito de Socorro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dGuEWEfHJydS4AfkcfPLDVADYI0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/AjHQO6ZNDHNSg6nWR5xeRruhTOf.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.398,
+    "tmdbId": 9759,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/celular-um-grito-de-socorro.json"
+  },
+  {
     "id": "centauro",
     "tipo": "filme",
     "titulo": "Centauro",
@@ -4369,31 +4386,19 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/como-virei-gangster.json"
   },
   {
-    "id": "con-air-a-rota-da-fuga",
+    "id": "companhia-assassina",
     "tipo": "filme",
-    "titulo": "Con Air: A Rota da Fuga",
+    "titulo": "Companhia Assassina",
     "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5PKm5WG7cBGFmnfmPqZjOEyw0lp.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vsmlShNNHrYlERZaqMOsZ3YctoO.jpg",
+    "capa": "https://image.tmdb.org/t/p/w500/WeVazQDp2gYmrsGxZ5gK0gVrVJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eDVp3J8HqkXXMagnVKlm53dYJvJ.jpg",
     "generos": [
-      "AÇÃO | CRIME | GUERRA"
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "LANÇAMENTOS"
     ],
-    "nota": 6.772,
-    "tmdbId": 1701,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/con-air-a-rota-da-fuga.json"
-  },
-  {
-    "id": "conan",
-    "tipo": "filme",
-    "titulo": "Conan, o Bárbaro",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7pXoGVgYSLQpc4N3fGBcDzJHiL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4rICId8WQBhOIzl7iZCVvc0QoJW.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.805,
-    "tmdbId": 9387,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/conan.json"
+    "nota": 6,
+    "tmdbId": 1285247,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/companhia-assassina.json"
   }
 ]

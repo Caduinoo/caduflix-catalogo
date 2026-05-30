@@ -26,9 +26,23 @@
       "qualidade": "4K",
       "xtreamId": 10782046,
       "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 11084902,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11084906,
+      "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1773567059,
+  "dataCriacaoXtream": 1780134578,
   "tituloOriginal": "Holidate",
   "dataLancamento": "2020-10-27"
 }

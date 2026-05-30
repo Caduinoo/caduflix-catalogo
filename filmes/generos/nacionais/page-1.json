@@ -1398,6 +1398,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/as-maos-de-meu-filho.json"
   },
   {
+    "id": "as-massagistas-profissionais",
+    "tipo": "filme",
+    "titulo": "As Massagistas Profissionais",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/upXeBZEYtwiI74MB4cLrV1C6fv4.jpg",
+    "banner": null,
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 3.714,
+    "tmdbId": 268258,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/as-massagistas-profissionais.json"
+  },
+  {
     "id": "as-orfas-da-rainha",
     "tipo": "filme",
     "titulo": "As Órfãs da Rainha",
@@ -1481,6 +1495,21 @@
     "nota": null,
     "tmdbId": 1270694,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ate-que-a-vida-nos-separe-uma-biografia-de-nelson-carneiro.json"
+  },
+  {
+    "id": "ato-noturno",
+    "tipo": "filme",
+    "titulo": "Ato Noturno",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/o0uHoWYGsZaGSC6O9iTRy4sAz5J.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sgWDs8ViH0WPSty46TJfgbKREuD.jpg",
+    "generos": [
+      "NACIONAIS",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.7,
+    "tmdbId": 1403903,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ato-noturno.json"
   },
   {
     "id": "atraves-da-sombra",
@@ -3458,6 +3487,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/bg4KbU1M53QRFKGtoHOJPjFonbu.jpg",
     "banner": "https://image.tmdb.org/t/p/original/o5WFZISFD8rW2K2WVOSiu73Lgf6.jpg",
     "generos": [
+      "LEGENDADOS",
       "4K",
       "NACIONAIS",
       "LANÇAMENTOS"
@@ -4056,6 +4086,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/getulio.json"
   },
   {
+    "id": "gilberto-gil-tempo-rei",
+    "tipo": "filme",
+    "titulo": "Gilberto Gil: Tempo Rei",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zcI54dGgLNtUEHjrjXEb2jCatqp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fRnV3uylAo8BKjv4deaSi6waJdn.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": null,
+    "tmdbId": 269474,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/gilberto-gil-tempo-rei.json"
+  },
+  {
     "id": "gilberto-gil-um-deus-em-seu-jardim",
     "tipo": "filme",
     "titulo": "Gilberto Gil: Um Deus em seu Jardim",
@@ -4227,47 +4271,5 @@
     "nota": 5.5,
     "tmdbId": 199736,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/horizonte.json"
-  },
-  {
-    "id": "idade-da-agua",
-    "tipo": "filme",
-    "titulo": "Idade da Água",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/p0iJ4QQ6zKqzgeP9cZtcr7HE1du.jpg",
-    "banner": null,
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": 6,
-    "tmdbId": 728000,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/idade-da-agua.json"
-  },
-  {
-    "id": "ilha",
-    "tipo": "filme",
-    "titulo": "O Monstro da Ilha",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mvGem9E8avZEg33F9csGHGBT7kM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/hdLsZ3dCjKt5A6xDpoo3UFgcTSm.jpg",
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": 4.571,
-    "tmdbId": 1426822,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ilha.json"
-  },
-  {
-    "id": "imagem-da-incompletude",
-    "tipo": "filme",
-    "titulo": "Torquato, Imagem da Incompletude",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wDv6FKwBDgbCYtBJr3FVQuQ35zG.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/n8V40EupuRxcNrhPwRa26bi0Enb.jpg",
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": null,
-    "tmdbId": 791389,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/imagem-da-incompletude.json"
   }
 ]

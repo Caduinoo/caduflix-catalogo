@@ -18,121 +18,166 @@
     "xtreamId": 2318977
   },
   {
-    "id": "canal-11060780",
+    "id": "canal-11084884",
     "tipo": "canal",
-    "titulo": "10h Parma X Sassuolo (X Sports)",
-    "tituloNormalizado": "10h parma x sassuolo (x sports)",
+    "titulo": "09h Escócia X Curacao (Espn 1)",
+    "tituloNormalizado": "09h escocia x curacao (espn 1)",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11060780
+    "xtreamId": 11084884
   },
   {
-    "id": "canal-11060781",
+    "id": "canal-11084885",
     "tipo": "canal",
-    "titulo": "12h Crystal Palace X Arsenal (Espn 1)",
-    "tituloNormalizado": "12h crystal palace x arsenal (espn 1)",
+    "titulo": "13h PSG X Arsenal (SBT SP)",
+    "tituloNormalizado": "13h psg x arsenal (sbt sp)",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11060781
+    "xtreamId": 11084885
   },
   {
-    "id": "canal-11060783",
+    "id": "canal-11084886",
     "tipo": "canal",
-    "titulo": "12h Liverpool X Brentford (X Sports)",
-    "tituloNormalizado": "12h liverpool x brentford (x sports)",
+    "titulo": "13h PSG X Arsenal (TNT)",
+    "tituloNormalizado": "13h psg x arsenal (tnt)",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11060783
+    "xtreamId": 11084886
   },
   {
-    "id": "canal-11060782",
+    "id": "canal-11084896",
     "tipo": "canal",
-    "titulo": "12h Tottenham X Everton (Espn 3)",
-    "tituloNormalizado": "12h tottenham x everton (espn 3)",
+    "titulo": "13h PSG X Arsenal (TNT)*",
+    "tituloNormalizado": "13h psg x arsenal (tnt)*",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11060782
+    "xtreamId": 11084896
   },
   {
-    "id": "canal-11060784",
+    "id": "canal-11084887",
     "tipo": "canal",
-    "titulo": "15h30 River Plate X Belgrano (Espn 1)",
-    "tituloNormalizado": "15h30 river plate x belgrano (espn 1)",
+    "titulo": "16h Athletico PR X Mirassol (Premiere 4)",
+    "tituloNormalizado": "16h athletico pr x mirassol (premiere 4)",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11060784
+    "xtreamId": 11084887
   },
   {
-    "id": "canal-11060785",
+    "id": "canal-11084897",
     "tipo": "canal",
-    "titulo": "15h40 Milan X Cagliari (Espn 3)",
-    "tituloNormalizado": "15h40 milan x cagliari (espn 3)",
+    "titulo": "16h Athletico PR X Mirassol (Premiere 4)*",
+    "tituloNormalizado": "16h athletico pr x mirassol (premiere 4)*",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11060785
+    "xtreamId": 11084897
   },
   {
-    "id": "canal-11060786",
+    "id": "canal-11084889",
     "tipo": "canal",
-    "titulo": "16h Cruzeiro X Chapecoense (Prime Video)",
-    "tituloNormalizado": "16h cruzeiro x chapecoense (prime video)",
+    "titulo": "16h Avai X Criciúma (Espn 1)",
+    "tituloNormalizado": "16h avai x criciuma (espn 1)",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11060786
+    "xtreamId": 11084889
   },
   {
-    "id": "canal-11060787",
+    "id": "canal-11084888",
     "tipo": "canal",
-    "titulo": "16h Remo X Athletico PR (Premiere 3)",
-    "tituloNormalizado": "16h remo x athletico pr (premiere 3)",
+    "titulo": "16h Flamengo X Coritiba (Sportv 1)",
+    "tituloNormalizado": "16h flamengo x coritiba (sportv 1)",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11060787
+    "xtreamId": 11084888
   },
   {
-    "id": "canal-11060788",
+    "id": "canal-11084898",
     "tipo": "canal",
-    "titulo": "16h30 CRB X Ponte Preta (X Sports)",
-    "tituloNormalizado": "16h30 crb x ponte preta (x sports)",
+    "titulo": "16h Flamengo X Coritiba (Sportv 1)*",
+    "tituloNormalizado": "16h flamengo x coritiba (sportv 1)*",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11060788
+    "xtreamId": 11084898
   },
   {
-    "id": "canal-11060790",
+    "id": "canal-11084890",
     "tipo": "canal",
-    "titulo": "18h30 América MG X Vila Nova (Espn 1)",
-    "tituloNormalizado": "18h30 america mg x vila nova (espn 1)",
+    "titulo": "17h30 Bahia X Botafogo (Globo RJ)",
+    "tituloNormalizado": "17h30 bahia x botafogo (globo rj)",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11060790
+    "xtreamId": 11084890
   },
   {
-    "id": "canal-11060789",
+    "id": "canal-11084899",
     "tipo": "canal",
-    "titulo": "18h30 Corinthians X Atlético MG (Record SP)",
-    "tituloNormalizado": "18h30 corinthians x atletico mg (record sp)",
+    "titulo": "17h30 Bahia X Botafogo (Globo RJ)*",
+    "tituloNormalizado": "17h30 bahia x botafogo (globo rj)*",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11060789
+    "xtreamId": 11084899
   },
   {
-    "id": "canal-11060791",
+    "id": "canal-11084891",
     "tipo": "canal",
-    "titulo": "19h Avai X Goiás (X Sports)",
-    "tituloNormalizado": "19h avai x goias (x sports)",
+    "titulo": "17h30 Bahia X Botafogo (Premiere 2)",
+    "tituloNormalizado": "17h30 bahia x botafogo (premiere 2)",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11060791
+    "xtreamId": 11084891
   },
   {
-    "id": "canal-11060792",
+    "id": "canal-11084894",
     "tipo": "canal",
-    "titulo": "20h30 Vasco X Bragantino (Sportv 1)",
-    "tituloNormalizado": "20h30 vasco x bragantino (sportv 1)",
+    "titulo": "17h30 Grêmio X Corinthians (GE TV)",
+    "tituloNormalizado": "17h30 gremio x corinthians (ge tv)",
     "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
     "categoria": "JOGOS DO DIA",
-    "xtreamId": 11060792
+    "xtreamId": 11084894
+  },
+  {
+    "id": "canal-11084892",
+    "tipo": "canal",
+    "titulo": "17h30 Grêmio X Corinthians (Globo SP)",
+    "tituloNormalizado": "17h30 gremio x corinthians (globo sp)",
+    "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
+    "categoria": "JOGOS DO DIA",
+    "xtreamId": 11084892
+  },
+  {
+    "id": "canal-11084900",
+    "tipo": "canal",
+    "titulo": "17h30 Grêmio X Corinthians (Globo SP)*",
+    "tituloNormalizado": "17h30 gremio x corinthians (globo sp)*",
+    "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
+    "categoria": "JOGOS DO DIA",
+    "xtreamId": 11084900
+  },
+  {
+    "id": "canal-11084893",
+    "tipo": "canal",
+    "titulo": "17h30 Grêmio X Corinthians (Premiere 3)",
+    "tituloNormalizado": "17h30 gremio x corinthians (premiere 3)",
+    "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
+    "categoria": "JOGOS DO DIA",
+    "xtreamId": 11084893
+  },
+  {
+    "id": "canal-11084895",
+    "tipo": "canal",
+    "titulo": "20h Santos X Vitória (Sportv 1)",
+    "tituloNormalizado": "20h santos x vitoria (sportv 1)",
+    "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
+    "categoria": "JOGOS DO DIA",
+    "xtreamId": 11084895
+  },
+  {
+    "id": "canal-11084901",
+    "tipo": "canal",
+    "titulo": "20h Santos X Vitória (Sportv 1)*",
+    "tituloNormalizado": "20h santos x vitoria (sportv 1)*",
+    "capa": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
+    "categoria": "JOGOS DO DIA",
+    "xtreamId": 11084901
   },
   {
     "id": "canal-2330463",
@@ -232,24 +277,6 @@
     "capa": "https://i.ibb.co/Pm0XY0P/24hdesenhos.png",
     "categoria": "CINE DESENHOS HD 24HRS",
     "xtreamId": 2330465
-  },
-  {
-    "id": "canal-11039277",
-    "tipo": "canal",
-    "titulo": "A CASA DO PATRAO 01",
-    "tituloNormalizado": "a casa do patrao 01",
-    "capa": "http://i.ibb.co/Z1xd9XjY/AKC2y0K.png",
-    "categoria": "A CASA DO PATRAO",
-    "xtreamId": 11039277
-  },
-  {
-    "id": "canal-11039278",
-    "tipo": "canal",
-    "titulo": "A CASA DO PATRAO 02",
-    "tituloNormalizado": "a casa do patrao 02",
-    "capa": "http://i.ibb.co/Z1xd9XjY/AKC2y0K.png",
-    "categoria": "A CASA DO PATRAO",
-    "xtreamId": 11039278
   },
   {
     "id": "canal-2330466",
@@ -592,15 +619,6 @@
     "capa": "https://i.ibb.co/z2Dw1hy/tv-agro-brasil.png",
     "categoria": "ABERTOS",
     "xtreamId": 2315204
-  },
-  {
-    "id": "canal-2315205",
-    "tipo": "canal",
-    "titulo": "AGROMAIS SD",
-    "tituloNormalizado": "agromais sd",
-    "capa": "https://i.ibb.co/z2Dw1hy/tv-agro-brasil.png",
-    "categoria": "ABERTOS",
-    "xtreamId": 2315205
   },
   {
     "id": "canal-2330472",
@@ -1701,15 +1719,6 @@
     "xtreamId": 2315227
   },
   {
-    "id": "canal-2315228",
-    "tipo": "canal",
-    "titulo": "CANAL DO BOI SD",
-    "tituloNormalizado": "canal do boi sd",
-    "capa": "https://i.ibb.co/Fs70Gph/Logo-Canal-do-Boi.png",
-    "categoria": "ABERTOS",
-    "xtreamId": 2315228
-  },
-  {
     "id": "canal-1141491",
     "tipo": "canal",
     "titulo": "CANAL GOAT 01",
@@ -1944,6 +1953,96 @@
     "xtreamId": 2357703
   },
   {
+    "id": "canal-11039277",
+    "tipo": "canal",
+    "titulo": "CASA DO PATRAO 01",
+    "tituloNormalizado": "casa do patrao 01",
+    "capa": "http://i.ibb.co/Z1xd9XjY/AKC2y0K.png",
+    "categoria": "A CASA DO PATRAO",
+    "xtreamId": 11039277
+  },
+  {
+    "id": "canal-11039278",
+    "tipo": "canal",
+    "titulo": "CASA DO PATRAO 01*",
+    "tituloNormalizado": "casa do patrao 01*",
+    "capa": "http://i.ibb.co/Z1xd9XjY/AKC2y0K.png",
+    "categoria": "A CASA DO PATRAO",
+    "xtreamId": 11039278
+  },
+  {
+    "id": "canal-11063338",
+    "tipo": "canal",
+    "titulo": "CASA DO PATRAO 02",
+    "tituloNormalizado": "casa do patrao 02",
+    "capa": "http://i.ibb.co/Z1xd9XjY/AKC2y0K.png",
+    "categoria": "A CASA DO PATRAO",
+    "xtreamId": 11063338
+  },
+  {
+    "id": "canal-11063339",
+    "tipo": "canal",
+    "titulo": "CASA DO PATRAO 03: SALA E COZINHA",
+    "tituloNormalizado": "casa do patrao 03: sala e cozinha",
+    "capa": "http://i.ibb.co/Z1xd9XjY/AKC2y0K.png",
+    "categoria": "A CASA DO PATRAO",
+    "xtreamId": 11063339
+  },
+  {
+    "id": "canal-11063340",
+    "tipo": "canal",
+    "titulo": "CASA DO PATRAO 04: QUARTO COLETIVO",
+    "tituloNormalizado": "casa do patrao 04: quarto coletivo",
+    "capa": "http://i.ibb.co/Z1xd9XjY/AKC2y0K.png",
+    "categoria": "A CASA DO PATRAO",
+    "xtreamId": 11063340
+  },
+  {
+    "id": "canal-11063341",
+    "tipo": "canal",
+    "titulo": "CASA DO PATRAO 05: SUITE DO PATRAO",
+    "tituloNormalizado": "casa do patrao 05: suite do patrao",
+    "capa": "http://i.ibb.co/Z1xd9XjY/AKC2y0K.png",
+    "categoria": "A CASA DO PATRAO",
+    "xtreamId": 11063341
+  },
+  {
+    "id": "canal-11063342",
+    "tipo": "canal",
+    "titulo": "CASA DO PATRAO 06: QUARTO DOS PARCAS",
+    "tituloNormalizado": "casa do patrao 06: quarto dos parcas",
+    "capa": "http://i.ibb.co/Z1xd9XjY/AKC2y0K.png",
+    "categoria": "A CASA DO PATRAO",
+    "xtreamId": 11063342
+  },
+  {
+    "id": "canal-11063343",
+    "tipo": "canal",
+    "titulo": "CASA DO PATRAO 07: CASA CONVIVENCIA",
+    "tituloNormalizado": "casa do patrao 07: casa convivencia",
+    "capa": "http://i.ibb.co/Z1xd9XjY/AKC2y0K.png",
+    "categoria": "A CASA DO PATRAO",
+    "xtreamId": 11063343
+  },
+  {
+    "id": "canal-11063344",
+    "tipo": "canal",
+    "titulo": "CASA DO PATRAO 08: PISCINA",
+    "tituloNormalizado": "casa do patrao 08: piscina",
+    "capa": "http://i.ibb.co/Z1xd9XjY/AKC2y0K.png",
+    "categoria": "A CASA DO PATRAO",
+    "xtreamId": 11063344
+  },
+  {
+    "id": "canal-11063345",
+    "tipo": "canal",
+    "titulo": "CASA DO PATRAO 09",
+    "tituloNormalizado": "casa do patrao 09",
+    "capa": "http://i.ibb.co/Z1xd9XjY/AKC2y0K.png",
+    "categoria": "A CASA DO PATRAO",
+    "xtreamId": 11063345
+  },
+  {
     "id": "canal-2330771",
     "tipo": "canal",
     "titulo": "CASAMENTO AS CEGAS 01",
@@ -2167,15 +2266,6 @@
     "capa": "http://xvbroker.click:80/images/dsAt8cMDBjbP3mVNdeYR4Vln2ZyBZpf6UImqVMpJX6g5QngYjG1K5Rghi2qcfLTA.png",
     "categoria": "CINE ESPECIAL HD 24HRS",
     "xtreamId": 2330774
-  },
-  {
-    "id": "canal-3523449",
-    "tipo": "canal",
-    "titulo": "CHEF TV HD",
-    "tituloNormalizado": "chef tv hd",
-    "capa": "https://i.ibb.co/gDVVfw2/cheftv.png",
-    "categoria": "VARIEDADES",
-    "xtreamId": 3523449
   },
   {
     "id": "canal-2331617",
@@ -3744,15 +3834,6 @@
     "xtreamId": 9258741
   },
   {
-    "id": "canal-9258750",
-    "tipo": "canal",
-    "titulo": "DISNEY 01 [ALT]",
-    "tituloNormalizado": "disney 01 [alt]",
-    "capa": "https://i.ibb.co/r2gy6RT/ciedisney.png",
-    "categoria": "DISNEY PPV",
-    "xtreamId": 9258750
-  },
-  {
     "id": "canal-9258742",
     "tipo": "canal",
     "titulo": "DISNEY 02",
@@ -3760,15 +3841,6 @@
     "capa": "https://i.ibb.co/r2gy6RT/ciedisney.png",
     "categoria": "DISNEY PPV",
     "xtreamId": 9258742
-  },
-  {
-    "id": "canal-9258751",
-    "tipo": "canal",
-    "titulo": "DISNEY 02 [ALT]",
-    "tituloNormalizado": "disney 02 [alt]",
-    "capa": "https://i.ibb.co/r2gy6RT/ciedisney.png",
-    "categoria": "DISNEY PPV",
-    "xtreamId": 9258751
   },
   {
     "id": "canal-9258743",
@@ -3780,15 +3852,6 @@
     "xtreamId": 9258743
   },
   {
-    "id": "canal-9258752",
-    "tipo": "canal",
-    "titulo": "DISNEY 03 [ALT]",
-    "tituloNormalizado": "disney 03 [alt]",
-    "capa": "https://i.ibb.co/r2gy6RT/ciedisney.png",
-    "categoria": "DISNEY PPV",
-    "xtreamId": 9258752
-  },
-  {
     "id": "canal-9258744",
     "tipo": "canal",
     "titulo": "DISNEY 04",
@@ -3796,15 +3859,6 @@
     "capa": "https://i.ibb.co/r2gy6RT/ciedisney.png",
     "categoria": "DISNEY PPV",
     "xtreamId": 9258744
-  },
-  {
-    "id": "canal-9258753",
-    "tipo": "canal",
-    "titulo": "DISNEY 04 [ALT]",
-    "tituloNormalizado": "disney 04 [alt]",
-    "capa": "https://i.ibb.co/r2gy6RT/ciedisney.png",
-    "categoria": "DISNEY PPV",
-    "xtreamId": 9258753
   },
   {
     "id": "canal-9258745",
@@ -3816,15 +3870,6 @@
     "xtreamId": 9258745
   },
   {
-    "id": "canal-9258754",
-    "tipo": "canal",
-    "titulo": "DISNEY 05 [ALT]",
-    "tituloNormalizado": "disney 05 [alt]",
-    "capa": "https://i.ibb.co/r2gy6RT/ciedisney.png",
-    "categoria": "DISNEY PPV",
-    "xtreamId": 9258754
-  },
-  {
     "id": "canal-9258746",
     "tipo": "canal",
     "titulo": "DISNEY 06",
@@ -3832,15 +3877,6 @@
     "capa": "https://i.ibb.co/r2gy6RT/ciedisney.png",
     "categoria": "DISNEY PPV",
     "xtreamId": 9258746
-  },
-  {
-    "id": "canal-9258755",
-    "tipo": "canal",
-    "titulo": "DISNEY 06 [ALT]",
-    "tituloNormalizado": "disney 06 [alt]",
-    "capa": "https://i.ibb.co/r2gy6RT/ciedisney.png",
-    "categoria": "DISNEY PPV",
-    "xtreamId": 9258755
   },
   {
     "id": "canal-9258747",
@@ -3852,15 +3888,6 @@
     "xtreamId": 9258747
   },
   {
-    "id": "canal-9258756",
-    "tipo": "canal",
-    "titulo": "DISNEY 07 [ALT]",
-    "tituloNormalizado": "disney 07 [alt]",
-    "capa": "https://i.ibb.co/r2gy6RT/ciedisney.png",
-    "categoria": "DISNEY PPV",
-    "xtreamId": 9258756
-  },
-  {
     "id": "canal-9258748",
     "tipo": "canal",
     "titulo": "DISNEY 08",
@@ -3870,15 +3897,6 @@
     "xtreamId": 9258748
   },
   {
-    "id": "canal-9258757",
-    "tipo": "canal",
-    "titulo": "DISNEY 08 [ALT]",
-    "tituloNormalizado": "disney 08 [alt]",
-    "capa": "https://i.ibb.co/r2gy6RT/ciedisney.png",
-    "categoria": "DISNEY PPV",
-    "xtreamId": 9258757
-  },
-  {
     "id": "canal-9258749",
     "tipo": "canal",
     "titulo": "DISNEY 09",
@@ -3886,15 +3904,6 @@
     "capa": "https://i.ibb.co/r2gy6RT/ciedisney.png",
     "categoria": "DISNEY PPV",
     "xtreamId": 9258749
-  },
-  {
-    "id": "canal-9258758",
-    "tipo": "canal",
-    "titulo": "DISNEY 09 [ALT]",
-    "tituloNormalizado": "disney 09 [alt]",
-    "capa": "https://i.ibb.co/r2gy6RT/ciedisney.png",
-    "categoria": "DISNEY PPV",
-    "xtreamId": 9258758
   },
   {
     "id": "canal-9258738",
@@ -5238,42 +5247,6 @@
     "xtreamId": 5153612
   },
   {
-    "id": "canal-5153611",
-    "tipo": "canal",
-    "titulo": "GLOBO ALTAMIRA SD",
-    "tituloNormalizado": "globo altamira sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 5153611
-  },
-  {
-    "id": "canal-4748138",
-    "tipo": "canal",
-    "titulo": "GLOBO ANAPOLIS FHD",
-    "tituloNormalizado": "globo anapolis fhd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 4748138
-  },
-  {
-    "id": "canal-4748137",
-    "tipo": "canal",
-    "titulo": "GLOBO ANAPOLIS HD",
-    "tituloNormalizado": "globo anapolis hd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 4748137
-  },
-  {
-    "id": "canal-4748136",
-    "tipo": "canal",
-    "titulo": "GLOBO ANAPOLIS SD",
-    "tituloNormalizado": "globo anapolis sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 4748136
-  },
-  {
     "id": "canal-5153697",
     "tipo": "canal",
     "titulo": "GLOBO ARAGUA FHD",
@@ -5290,15 +5263,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 5153696
-  },
-  {
-    "id": "canal-5153695",
-    "tipo": "canal",
-    "titulo": "GLOBO ARAGUA SD",
-    "tituloNormalizado": "globo aragua sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 5153695
   },
   {
     "id": "canal-5153598",
@@ -5326,15 +5290,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 5153657
-  },
-  {
-    "id": "canal-5153656",
-    "tipo": "canal",
-    "titulo": "GLOBO BAGE SD",
-    "tituloNormalizado": "globo bage sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 5153656
   },
   {
     "id": "canal-2315697",
@@ -5382,15 +5337,6 @@
     "xtreamId": 5153573
   },
   {
-    "id": "canal-5153572",
-    "tipo": "canal",
-    "titulo": "GLOBO BALSAS SD",
-    "tituloNormalizado": "globo balsas sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 5153572
-  },
-  {
     "id": "canal-2315736",
     "tipo": "canal",
     "titulo": "GLOBO BELEM FHD",
@@ -5436,15 +5382,6 @@
     "xtreamId": 2315740
   },
   {
-    "id": "canal-2315741",
-    "tipo": "canal",
-    "titulo": "GLOBO BOA VISTA SD",
-    "tituloNormalizado": "globo boa vista sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315741
-  },
-  {
     "id": "canal-2315690",
     "tipo": "canal",
     "titulo": "GLOBO BRASILIA FHD",
@@ -5461,15 +5398,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 2315691
-  },
-  {
-    "id": "canal-2315692",
-    "tipo": "canal",
-    "titulo": "GLOBO BRASILIA HD [ALT]",
-    "tituloNormalizado": "globo brasilia hd [alt]",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315692
   },
   {
     "id": "canal-2315693",
@@ -5497,15 +5425,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 5153636
-  },
-  {
-    "id": "canal-5153635",
-    "tipo": "canal",
-    "titulo": "GLOBO CAMPINA GRANDE SD",
-    "tituloNormalizado": "globo campina grande sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 5153635
   },
   {
     "id": "canal-5153660",
@@ -5634,15 +5553,6 @@
     "xtreamId": 5153663
   },
   {
-    "id": "canal-5153662",
-    "tipo": "canal",
-    "titulo": "GLOBO ERECHIM SD",
-    "tituloNormalizado": "globo erechim sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 5153662
-  },
-  {
     "id": "canal-2315779",
     "tipo": "canal",
     "titulo": "GLOBO FLORIANOPOLIS FHD",
@@ -5724,15 +5634,6 @@
     "xtreamId": 5153609
   },
   {
-    "id": "canal-5153608",
-    "tipo": "canal",
-    "titulo": "GLOBO GOVERNADOR VALADARES SD",
-    "tituloNormalizado": "globo governador valadares sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 5153608
-  },
-  {
     "id": "canal-5153700",
     "tipo": "canal",
     "titulo": "GLOBO GURUPI FHD",
@@ -5749,15 +5650,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 5153699
-  },
-  {
-    "id": "canal-5153698",
-    "tipo": "canal",
-    "titulo": "GLOBO GURUPI SD",
-    "tituloNormalizado": "globo gurupi sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 5153698
   },
   {
     "id": "canal-2315845",
@@ -5794,15 +5686,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 2315719
-  },
-  {
-    "id": "canal-2315718",
-    "tipo": "canal",
-    "titulo": "GLOBO INTER TV CABUGI HD",
-    "tituloNormalizado": "globo inter tv cabugi hd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315718
   },
   {
     "id": "canal-2315851",
@@ -5859,15 +5742,6 @@
     "xtreamId": 5153594
   },
   {
-    "id": "canal-5153593",
-    "tipo": "canal",
-    "titulo": "GLOBO ITUIUTABA SD",
-    "tituloNormalizado": "globo ituiutaba sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 5153593
-  },
-  {
     "id": "canal-4748144",
     "tipo": "canal",
     "titulo": "GLOBO ITUMBIARA FHD",
@@ -5884,15 +5758,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 4748143
-  },
-  {
-    "id": "canal-4748142",
-    "tipo": "canal",
-    "titulo": "GLOBO ITUMBIARA SD",
-    "tituloNormalizado": "globo itumbiara sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 4748142
   },
   {
     "id": "canal-4748117",
@@ -5913,15 +5778,6 @@
     "xtreamId": 4748116
   },
   {
-    "id": "canal-4748115",
-    "tipo": "canal",
-    "titulo": "GLOBO JUAZEIRO SD",
-    "tituloNormalizado": "globo juazeiro sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 4748115
-  },
-  {
     "id": "canal-4748129",
     "tipo": "canal",
     "titulo": "GLOBO LINHARES FHD",
@@ -5938,15 +5794,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 4748128
-  },
-  {
-    "id": "canal-4748127",
-    "tipo": "canal",
-    "titulo": "GLOBO LINHARES SD",
-    "tituloNormalizado": "globo linhares sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 4748127
   },
   {
     "id": "canal-4748093",
@@ -5967,15 +5814,6 @@
     "xtreamId": 4748092
   },
   {
-    "id": "canal-4748091",
-    "tipo": "canal",
-    "titulo": "GLOBO MACAPA SD",
-    "tituloNormalizado": "globo macapa sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 4748091
-  },
-  {
     "id": "canal-4748090",
     "tipo": "canal",
     "titulo": "GLOBO MACEIO FHD",
@@ -5992,15 +5830,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 4748089
-  },
-  {
-    "id": "canal-4748088",
-    "tipo": "canal",
-    "titulo": "GLOBO MACEIO SD",
-    "tituloNormalizado": "globo maceio sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 4748088
   },
   {
     "id": "canal-4748105",
@@ -6021,15 +5850,6 @@
     "xtreamId": 4748104
   },
   {
-    "id": "canal-4748103",
-    "tipo": "canal",
-    "titulo": "GLOBO MANACAPURU SD",
-    "tituloNormalizado": "globo manacapuru sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 4748103
-  },
-  {
     "id": "canal-5153619",
     "tipo": "canal",
     "titulo": "GLOBO MARABA FHD",
@@ -6046,15 +5866,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 5153618
-  },
-  {
-    "id": "canal-5153617",
-    "tipo": "canal",
-    "titulo": "GLOBO MARABA SD",
-    "tituloNormalizado": "globo maraba sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 5153617
   },
   {
     "id": "canal-1127788",
@@ -6120,15 +5931,6 @@
     "xtreamId": 4748086
   },
   {
-    "id": "canal-4748085",
-    "tipo": "canal",
-    "titulo": "GLOBO MOGI DAS CRUZES SD",
-    "tituloNormalizado": "globo mogi das cruzes sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 4748085
-  },
-  {
     "id": "canal-5153607",
     "tipo": "canal",
     "titulo": "GLOBO MONTES CLAROS FHD",
@@ -6145,15 +5947,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 5153606
-  },
-  {
-    "id": "canal-5153605",
-    "tipo": "canal",
-    "titulo": "GLOBO MONTES CLAROS SD",
-    "tituloNormalizado": "globo montes claros sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 5153605
   },
   {
     "id": "canal-1127823",
@@ -6255,15 +6048,6 @@
     "xtreamId": 2315784
   },
   {
-    "id": "canal-2315785",
-    "tipo": "canal",
-    "titulo": "GLOBO NSC TV BLUMENAU SD",
-    "tituloNormalizado": "globo nsc tv blumenau sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315785
-  },
-  {
     "id": "canal-2315789",
     "tipo": "canal",
     "titulo": "GLOBO NSC TV CHAPECO FHD",
@@ -6280,15 +6064,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 2315790
-  },
-  {
-    "id": "canal-2315791",
-    "tipo": "canal",
-    "titulo": "GLOBO NSC TV CHAPECO SD",
-    "tituloNormalizado": "globo nsc tv chapeco sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315791
   },
   {
     "id": "canal-2315792",
@@ -6309,15 +6084,6 @@
     "xtreamId": 2315793
   },
   {
-    "id": "canal-2315794",
-    "tipo": "canal",
-    "titulo": "GLOBO NSC TV CRICIUMA SD",
-    "tituloNormalizado": "globo nsc tv criciuma sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315794
-  },
-  {
     "id": "canal-2315786",
     "tipo": "canal",
     "titulo": "GLOBO NSC TV JOINVILLE FHD",
@@ -6334,15 +6100,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 2315787
-  },
-  {
-    "id": "canal-2315788",
-    "tipo": "canal",
-    "titulo": "GLOBO NSC TV JOINVILLE SD",
-    "tituloNormalizado": "globo nsc tv joinville sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315788
   },
   {
     "id": "canal-4748084",
@@ -6471,15 +6228,6 @@
     "xtreamId": 2315805
   },
   {
-    "id": "canal-2315806",
-    "tipo": "canal",
-    "titulo": "GLOBO RBS TV PASSO FUNDO SD",
-    "tituloNormalizado": "globo rbs tv passo fundo sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315806
-  },
-  {
     "id": "canal-2315807",
     "tipo": "canal",
     "titulo": "GLOBO RBS TV PELOTAS FHD",
@@ -6498,15 +6246,6 @@
     "xtreamId": 2315808
   },
   {
-    "id": "canal-2315809",
-    "tipo": "canal",
-    "titulo": "GLOBO RBS TV PELOTAS SD",
-    "tituloNormalizado": "globo rbs tv pelotas sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315809
-  },
-  {
     "id": "canal-2315810",
     "tipo": "canal",
     "titulo": "GLOBO RBS TV SANTA MARIA FHD",
@@ -6523,15 +6262,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 2315811
-  },
-  {
-    "id": "canal-2315812",
-    "tipo": "canal",
-    "titulo": "GLOBO RBS TV SANTA MARIA SD",
-    "tituloNormalizado": "globo rbs tv santa maria sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315812
   },
   {
     "id": "canal-4720200",
@@ -6570,15 +6300,6 @@
     "xtreamId": 5153651
   },
   {
-    "id": "canal-5153650",
-    "tipo": "canal",
-    "titulo": "GLOBO RESENDE SD",
-    "tituloNormalizado": "globo resende sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 5153650
-  },
-  {
     "id": "canal-5153568",
     "tipo": "canal",
     "titulo": "GLOBO RIO VERDE FHD",
@@ -6595,15 +6316,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 5153567
-  },
-  {
-    "id": "canal-5153566",
-    "tipo": "canal",
-    "titulo": "GLOBO RIO VERDE SD",
-    "tituloNormalizado": "globo rio verde sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 5153566
   },
   {
     "id": "canal-2315676",
@@ -6640,15 +6352,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 2315679
-  },
-  {
-    "id": "canal-2315761",
-    "tipo": "canal",
-    "titulo": "GLOBO RPC  TV MARINGA FHD",
-    "tituloNormalizado": "globo rpc  tv maringa fhd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315761
   },
   {
     "id": "canal-2315757",
@@ -6714,15 +6417,6 @@
     "xtreamId": 2315770
   },
   {
-    "id": "canal-2315771",
-    "tipo": "canal",
-    "titulo": "GLOBO RPC FOZ DO IGUACU SD",
-    "tituloNormalizado": "globo rpc foz do iguacu sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315771
-  },
-  {
     "id": "canal-2315764",
     "tipo": "canal",
     "titulo": "GLOBO RPC PONTA GROSSA FHD",
@@ -6739,15 +6433,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 2315765
-  },
-  {
-    "id": "canal-2315767",
-    "tipo": "canal",
-    "titulo": "GLOBO RPC PONTA GROSSA SD",
-    "tituloNormalizado": "globo rpc ponta grossa sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315767
   },
   {
     "id": "canal-2315776",
@@ -6768,6 +6453,15 @@
     "xtreamId": 2315778
   },
   {
+    "id": "canal-2315761",
+    "tipo": "canal",
+    "titulo": "GLOBO RPC TV MARINGA FHD",
+    "tituloNormalizado": "globo rpc tv maringa fhd",
+    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
+    "categoria": "GLOBO",
+    "xtreamId": 2315761
+  },
+  {
     "id": "canal-2315762",
     "tipo": "canal",
     "titulo": "GLOBO RPC TV MARINGA HD",
@@ -6775,15 +6469,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 2315762
-  },
-  {
-    "id": "canal-2315763",
-    "tipo": "canal",
-    "titulo": "Globo RPC TV MARINGA SD",
-    "tituloNormalizado": "globo rpc tv maringa sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315763
   },
   {
     "id": "canal-2315772",
@@ -6912,15 +6597,6 @@
     "xtreamId": 5153582
   },
   {
-    "id": "canal-5153581",
-    "tipo": "canal",
-    "titulo": "GLOBO TANGARA DA SERRA SD",
-    "tituloNormalizado": "globo tangara da serra sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 5153581
-  },
-  {
     "id": "canal-2315694",
     "tipo": "canal",
     "titulo": "GLOBO TV ANHANGUERA GOIANIA FHD",
@@ -6984,15 +6660,6 @@
     "xtreamId": 2315752
   },
   {
-    "id": "canal-2315753",
-    "tipo": "canal",
-    "titulo": "GLOBO TV CENTRO AMERICA SD",
-    "tituloNormalizado": "globo tv centro america sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315753
-  },
-  {
     "id": "canal-2315727",
     "tipo": "canal",
     "titulo": "GLOBO TV CLUBE TERESINA FHD",
@@ -7009,15 +6676,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 2315728
-  },
-  {
-    "id": "canal-2315729",
-    "tipo": "canal",
-    "titulo": "GLOBO TV CLUBE TERESINA SD",
-    "tituloNormalizado": "globo tv clube teresina sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315729
   },
   {
     "id": "canal-2315706",
@@ -7065,15 +6723,6 @@
     "xtreamId": 2315684
   },
   {
-    "id": "canal-2315685",
-    "tipo": "canal",
-    "titulo": "GLOBO TV GAZETA SUL ES SD",
-    "tituloNormalizado": "globo tv gazeta sul es sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315685
-  },
-  {
     "id": "canal-2315733",
     "tipo": "canal",
     "titulo": "GLOBO TV MIRANTE COCAIS FHD",
@@ -7101,15 +6750,6 @@
     "xtreamId": 2315731
   },
   {
-    "id": "canal-2315732",
-    "tipo": "canal",
-    "titulo": "GLOBO TV MIRANTE SAO LUIS SD",
-    "tituloNormalizado": "globo tv mirante sao luis sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315732
-  },
-  {
     "id": "canal-2315754",
     "tipo": "canal",
     "titulo": "GLOBO TV MORENA CAMPO GRANDE FHD",
@@ -7128,15 +6768,6 @@
     "xtreamId": 2315755
   },
   {
-    "id": "canal-2315756",
-    "tipo": "canal",
-    "titulo": "GLOBO TV MORENA CAMPO GRANDE SD",
-    "tituloNormalizado": "globo tv morena campo grande sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315756
-  },
-  {
     "id": "canal-2315742",
     "tipo": "canal",
     "titulo": "GLOBO TV REDE AMAZONICA MANAUS FHD",
@@ -7153,15 +6784,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 2315743
-  },
-  {
-    "id": "canal-2315744",
-    "tipo": "canal",
-    "titulo": "GLOBO TV REDE AMAZONICA MANAUS SD",
-    "tituloNormalizado": "globo tv rede amazonica manaus sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315744
   },
   {
     "id": "canal-2315749",
@@ -7189,15 +6811,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 2315746
-  },
-  {
-    "id": "canal-2315747",
-    "tipo": "canal",
-    "titulo": "GLOBO TV REDE AMAZÔNICA RIO BRANCO SD",
-    "tituloNormalizado": "globo tv rede amazonica rio branco sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315747
   },
   {
     "id": "canal-2315849",
@@ -7234,15 +6847,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 2315814
-  },
-  {
-    "id": "canal-2315815",
-    "tipo": "canal",
-    "titulo": "GLOBO TV SANTA CRUZ SD",
-    "tituloNormalizado": "globo tv santa cruz sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315815
   },
   {
     "id": "canal-2315701",
@@ -7288,15 +6892,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 2315825
-  },
-  {
-    "id": "canal-2315826",
-    "tipo": "canal",
-    "titulo": "GLOBO TV TEM ITAPETININGA SD",
-    "tituloNormalizado": "globo tv tem itapetininga sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315826
   },
   {
     "id": "canal-2315840",
@@ -7380,15 +6975,6 @@
     "xtreamId": 2315830
   },
   {
-    "id": "canal-2315831",
-    "tipo": "canal",
-    "titulo": "GLOBO TV VANGUARDA TAUBATE SD",
-    "tituloNormalizado": "globo tv vanguarda taubate sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315831
-  },
-  {
     "id": "canal-2315720",
     "tipo": "canal",
     "titulo": "GLOBO TV VERDES MARES FORTALEZA FHD",
@@ -7416,15 +7002,6 @@
     "xtreamId": 2315722
   },
   {
-    "id": "canal-2315723",
-    "tipo": "canal",
-    "titulo": "GLOBO TV VERDES MARES FORTALEZA SD",
-    "tituloNormalizado": "globo tv verdes mares fortaleza sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315723
-  },
-  {
     "id": "canal-5153601",
     "tipo": "canal",
     "titulo": "GLOBO UBERABA FHD",
@@ -7443,15 +7020,6 @@
     "xtreamId": 5153600
   },
   {
-    "id": "canal-5153599",
-    "tipo": "canal",
-    "titulo": "GLOBO UBERABA SD",
-    "tituloNormalizado": "globo uberaba sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 5153599
-  },
-  {
     "id": "canal-5153592",
     "tipo": "canal",
     "titulo": "GLOBO UBERLANDIA FHD",
@@ -7468,15 +7036,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 5153591
-  },
-  {
-    "id": "canal-5153590",
-    "tipo": "canal",
-    "titulo": "GLOBO UBERLANDIA SD",
-    "tituloNormalizado": "globo uberlandia sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 5153590
   },
   {
     "id": "canal-5153673",
@@ -8982,15 +8541,6 @@
     "xtreamId": 2330596
   },
   {
-    "id": "canal-4304180",
-    "tipo": "canal",
-    "titulo": "LUTA WWE RAW NETFLIX",
-    "tituloNormalizado": "luta wwe raw netflix",
-    "capa": "http://i.ibb.co/0VcSwY6/wwe-raw.jpg",
-    "categoria": "LUTAS",
-    "xtreamId": 4304180
-  },
-  {
     "id": "canal-2330597",
     "tipo": "canal",
     "titulo": "MAD",
@@ -9153,15 +8703,6 @@
     "xtreamId": 9258696
   },
   {
-    "id": "canal-9258704",
-    "tipo": "canal",
-    "titulo": "MAX 01 [ALT]",
-    "tituloNormalizado": "max 01 [alt]",
-    "capa": "https://i.ibb.co/8bxPPxS/max-hbo.png",
-    "categoria": "HBO MAX PPV",
-    "xtreamId": 9258704
-  },
-  {
     "id": "canal-9258697",
     "tipo": "canal",
     "titulo": "MAX 02",
@@ -9169,15 +8710,6 @@
     "capa": "https://i.ibb.co/8bxPPxS/max-hbo.png",
     "categoria": "HBO MAX PPV",
     "xtreamId": 9258697
-  },
-  {
-    "id": "canal-9258705",
-    "tipo": "canal",
-    "titulo": "MAX 02 [ALT]",
-    "tituloNormalizado": "max 02 [alt]",
-    "capa": "https://i.ibb.co/8bxPPxS/max-hbo.png",
-    "categoria": "HBO MAX PPV",
-    "xtreamId": 9258705
   },
   {
     "id": "canal-9258698",
@@ -9189,15 +8721,6 @@
     "xtreamId": 9258698
   },
   {
-    "id": "canal-9258706",
-    "tipo": "canal",
-    "titulo": "MAX 03 [ALT]",
-    "tituloNormalizado": "max 03 [alt]",
-    "capa": "https://i.ibb.co/8bxPPxS/max-hbo.png",
-    "categoria": "HBO MAX PPV",
-    "xtreamId": 9258706
-  },
-  {
     "id": "canal-9258699",
     "tipo": "canal",
     "titulo": "MAX 04",
@@ -9205,15 +8728,6 @@
     "capa": "https://i.ibb.co/8bxPPxS/max-hbo.png",
     "categoria": "HBO MAX PPV",
     "xtreamId": 9258699
-  },
-  {
-    "id": "canal-9258707",
-    "tipo": "canal",
-    "titulo": "MAX 04 [ALT]",
-    "tituloNormalizado": "max 04 [alt]",
-    "capa": "https://i.ibb.co/8bxPPxS/max-hbo.png",
-    "categoria": "HBO MAX PPV",
-    "xtreamId": 9258707
   },
   {
     "id": "canal-9258700",
@@ -9225,15 +8739,6 @@
     "xtreamId": 9258700
   },
   {
-    "id": "canal-9258708",
-    "tipo": "canal",
-    "titulo": "MAX 05 [ALT]",
-    "tituloNormalizado": "max 05 [alt]",
-    "capa": "https://i.ibb.co/8bxPPxS/max-hbo.png",
-    "categoria": "HBO MAX PPV",
-    "xtreamId": 9258708
-  },
-  {
     "id": "canal-9258701",
     "tipo": "canal",
     "titulo": "MAX 06",
@@ -9241,15 +8746,6 @@
     "capa": "https://i.ibb.co/8bxPPxS/max-hbo.png",
     "categoria": "HBO MAX PPV",
     "xtreamId": 9258701
-  },
-  {
-    "id": "canal-9258709",
-    "tipo": "canal",
-    "titulo": "MAX 06 [ALT]",
-    "tituloNormalizado": "max 06 [alt]",
-    "capa": "https://i.ibb.co/8bxPPxS/max-hbo.png",
-    "categoria": "HBO MAX PPV",
-    "xtreamId": 9258709
   },
   {
     "id": "canal-9258702",
@@ -9261,15 +8757,6 @@
     "xtreamId": 9258702
   },
   {
-    "id": "canal-9258710",
-    "tipo": "canal",
-    "titulo": "MAX 07 [ALT]",
-    "tituloNormalizado": "max 07 [alt]",
-    "capa": "https://i.ibb.co/8bxPPxS/max-hbo.png",
-    "categoria": "HBO MAX PPV",
-    "xtreamId": 9258710
-  },
-  {
     "id": "canal-9258703",
     "tipo": "canal",
     "titulo": "MAX 08",
@@ -9277,51 +8764,6 @@
     "capa": "https://i.ibb.co/8bxPPxS/max-hbo.png",
     "categoria": "HBO MAX PPV",
     "xtreamId": 9258703
-  },
-  {
-    "id": "canal-9258711",
-    "tipo": "canal",
-    "titulo": "MAX 08 [ALT]",
-    "tituloNormalizado": "max 08 [alt]",
-    "capa": "https://i.ibb.co/8bxPPxS/max-hbo.png",
-    "categoria": "HBO MAX PPV",
-    "xtreamId": 9258711
-  },
-  {
-    "id": "canal-9258712",
-    "tipo": "canal",
-    "titulo": "MAX 09 [ALT]",
-    "tituloNormalizado": "max 09 [alt]",
-    "capa": "https://i.ibb.co/8bxPPxS/max-hbo.png",
-    "categoria": "HBO MAX PPV",
-    "xtreamId": 9258712
-  },
-  {
-    "id": "canal-9258713",
-    "tipo": "canal",
-    "titulo": "MAX 10 [ALT]",
-    "tituloNormalizado": "max 10 [alt]",
-    "capa": "https://i.ibb.co/8bxPPxS/max-hbo.png",
-    "categoria": "HBO MAX PPV",
-    "xtreamId": 9258713
-  },
-  {
-    "id": "canal-9258714",
-    "tipo": "canal",
-    "titulo": "MAX 11 [ALT]",
-    "tituloNormalizado": "max 11 [alt]",
-    "capa": "https://i.ibb.co/8bxPPxS/max-hbo.png",
-    "categoria": "HBO MAX PPV",
-    "xtreamId": 9258714
-  },
-  {
-    "id": "canal-9258715",
-    "tipo": "canal",
-    "titulo": "MAX MOSAICO [ALT]",
-    "tituloNormalizado": "max mosaico [alt]",
-    "capa": "https://i.ibb.co/8bxPPxS/max-hbo.png",
-    "categoria": "HBO MAX PPV",
-    "xtreamId": 9258715
   },
   {
     "id": "canal-9258693",
@@ -9808,24 +9250,6 @@
     "capa": "https://i.ibb.co/0rwyKC3/nfl.jpg",
     "categoria": "ESPORTES PPV",
     "xtreamId": 505952
-  },
-  {
-    "id": "canal-9249025",
-    "tipo": "canal",
-    "titulo": "NHK WORLD JAPAO FHD",
-    "tituloNormalizado": "nhk world japao fhd",
-    "capa": "http://i.ibb.co/9VFc585/nhk.png",
-    "categoria": "NOTICIAS",
-    "xtreamId": 9249025
-  },
-  {
-    "id": "canal-9249026",
-    "tipo": "canal",
-    "titulo": "NHK WORLD JAPAO HD",
-    "tituloNormalizado": "nhk world japao hd",
-    "capa": "http://i.ibb.co/9VFc585/nhk.png",
-    "categoria": "NOTICIAS",
-    "xtreamId": 9249026
   },
   {
     "id": "canal-2357719",
@@ -11925,15 +11349,6 @@
     "xtreamId": 2315884
   },
   {
-    "id": "canal-9241061",
-    "tipo": "canal",
-    "titulo": "RECORD BLUMENAU HD",
-    "tituloNormalizado": "record blumenau hd",
-    "capa": "https://i.ibb.co/DDn35v7/Novo-rederecord.png",
-    "categoria": "RECORD",
-    "xtreamId": 9241061
-  },
-  {
     "id": "canal-2315868",
     "tipo": "canal",
     "titulo": "RECORD BRASILIA FHD",
@@ -12249,6 +11664,15 @@
     "xtreamId": 2315883
   },
   {
+    "id": "canal-11063346",
+    "tipo": "canal",
+    "titulo": "RECORD VITORIA ES HD",
+    "tituloNormalizado": "record vitoria es hd",
+    "capa": "https://i.ibb.co/DDn35v7/Novo-rederecord.png",
+    "categoria": "RECORD",
+    "xtreamId": 11063346
+  },
+  {
     "id": "canal-2314877",
     "tipo": "canal",
     "titulo": "REDE GOSPEL HD",
@@ -12256,15 +11680,6 @@
     "capa": "https://i.ibb.co/1nPZdsb/redegospel.png",
     "categoria": "RELIGIOSOS",
     "xtreamId": 2314877
-  },
-  {
-    "id": "canal-3575737",
-    "tipo": "canal",
-    "titulo": "REDE SUPER TV",
-    "tituloNormalizado": "rede super tv",
-    "capa": "https://i.ibb.co/bm5S2xW/IMG-20241012-WA0030.jpg",
-    "categoria": "VARIEDADES",
-    "xtreamId": 3575737
   },
   {
     "id": "canal-2315210",
@@ -13943,8 +13358,8 @@
   {
     "id": "canal-9774765",
     "tipo": "canal",
-    "titulo": "TERRA VIVA HD",
-    "tituloNormalizado": "terra viva hd",
+    "titulo": "TERRA VIVA",
+    "tituloNormalizado": "terra viva",
     "capa": "https://i.ibb.co/sjxnMCG/terra-viva-logo.png",
     "categoria": "ABERTOS",
     "xtreamId": 9774765
@@ -15068,8 +14483,8 @@
   {
     "id": "canal-9250355",
     "tipo": "canal",
-    "titulo": "TV A CRITICA HD",
-    "tituloNormalizado": "tv a critica hd",
+    "titulo": "TV A CRITICA",
+    "tituloNormalizado": "tv a critica",
     "capa": "https://i.ibb.co/607HMz9s/acritica.png",
     "categoria": "ABERTOS",
     "xtreamId": 9250355
@@ -15109,15 +14524,6 @@
     "capa": "https://i.ibb.co/2NtQV8R/TV-Brasil-logo.png",
     "categoria": "ABERTOS",
     "xtreamId": 2315215
-  },
-  {
-    "id": "canal-2315216",
-    "tipo": "canal",
-    "titulo": "TV BRASIL SD",
-    "tituloNormalizado": "tv brasil sd",
-    "capa": "https://i.ibb.co/2NtQV8R/TV-Brasil-logo.png",
-    "categoria": "ABERTOS",
-    "xtreamId": 2315216
   },
   {
     "id": "canal-2315225",
@@ -15172,15 +14578,6 @@
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "categoria": "GLOBO",
     "xtreamId": 2315725
-  },
-  {
-    "id": "canal-2315726",
-    "tipo": "canal",
-    "titulo": "TV DIARIO FORTALEZA SD",
-    "tituloNormalizado": "tv diario fortaleza sd",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "categoria": "GLOBO",
-    "xtreamId": 2315726
   },
   {
     "id": "canal-2314873",
@@ -15748,6 +15145,15 @@
     "capa": "https://i.ibb.co/qDqK8Lx/woohoo.png",
     "categoria": "ESPORTES",
     "xtreamId": 2315485
+  },
+  {
+    "id": "canal-4304180",
+    "tipo": "canal",
+    "titulo": "WWE CHANNEL LIVE",
+    "tituloNormalizado": "wwe channel live",
+    "capa": "http://i.ibb.co/0VcSwY6/wwe-raw.jpg",
+    "categoria": "LUTAS",
+    "xtreamId": 4304180
   },
   {
     "id": "canal-8008810",

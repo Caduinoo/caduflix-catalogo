@@ -1,5 +1,37 @@
 [
   {
+    "id": "brasil-70-a-saga-do-tri",
+    "tipo": "serie",
+    "titulo": "Brasil 70: A Saga do Tri",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/AbacRmw60119iQEiDf0dfseVDuk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zmHbIGIgFN9zYK78ei7ZnpnrOEV.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": null,
+    "tmdbId": 292532,
+    "totalTemporadas": 1,
+    "totalEpisodios": 5,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/brasil-70-a-saga-do-tri.json"
+  },
+  {
+    "id": "spider-noir",
+    "tipo": "serie",
+    "titulo": "Spider-Noir",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rfrzXSaiuvRMLo8PRQds0TfFrZC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 9,
+    "tmdbId": 220102,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/spider-noir.json"
+  },
+  {
     "id": "futuro-deserto",
     "tipo": "serie",
     "titulo": "Futuro Deserto",
@@ -78,6 +110,22 @@
     "totalTemporadas": 1,
     "totalEpisodios": 1,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/smile-after-tears-2026.json"
+  },
+  {
+    "id": "e-t-edu-e-tata",
+    "tipo": "serie",
+    "titulo": "E.T. - Edu e Tatá",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bUtCxtYPaSm7LdbrBA3Zk8CqVt9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pKzvS5DerPHCirVJYcdYaEH3WCN.jpg",
+    "generos": [
+      "GLOBOPLAY"
+    ],
+    "nota": null,
+    "tmdbId": 323069,
+    "totalTemporadas": 1,
+    "totalEpisodios": 2,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/e-t-edu-e-tata.json"
   },
   {
     "id": "prazer-maximo-garantido",
@@ -1073,6 +1121,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/santita.json"
   },
   {
+    "id": "e-o-bebe",
+    "tipo": "serie",
+    "titulo": "Quem É O Pai do Meu Bebê?",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hXNAxH2zIbvsTt3xhX5gqCnDdtZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oG5GrWQjf5ZXZHODBkZigijYCMT.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": null,
+    "tmdbId": 320648,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/e-o-bebe.json"
+  },
+  {
     "id": "mazatlan-shore",
     "tipo": "serie",
     "titulo": "Mazatlán Shore",
@@ -1215,69 +1279,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 7,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/dente-de-leao.json"
-  },
-  {
-    "id": "ronaldinho-gaucho",
-    "tipo": "serie",
-    "titulo": "Ronaldinho Gaúcho",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zYdSaQLM8w3NMuBnjRPjqpiUnyp.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ztLJb3fjLwr0CK3rnntaaoCZ2nZ.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 7.486,
-    "tmdbId": 316544,
-    "totalTemporadas": 1,
-    "totalEpisodios": 3,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/ronaldinho-gaucho.json"
-  },
-  {
-    "id": "the-night-i-got-pregnant-by-the-ceo",
-    "tipo": "serie",
-    "titulo": "Aquela Noite, Engravidei do Presidente",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3p9VxyAXgBPTVEPxRqilGWvF6NV.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lhgvPJjfTvgXLgzfgKiu2reWjit.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": null,
-    "tmdbId": 317787,
-    "totalTemporadas": 1,
-    "totalEpisodios": 1,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-night-i-got-pregnant-by-the-ceo.json"
-  },
-  {
-    "id": "the-night-i-got-pregnant-by-the-ceo-2026",
-    "tipo": "serie",
-    "titulo": "Aquela Noite, Engravidei do Presidente",
-    "ano": 2026,
-    "capa": "https://image.tmdb.org/t/p/w500/3p9VxyAXgBPTVEPxRqilGWvF6NV.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lhgvPJjfTvgXLgzfgKiu2reWjit.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": null,
-    "tmdbId": 317787,
-    "totalTemporadas": 1,
-    "totalEpisodios": 4,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/the-night-i-got-pregnant-by-the-ceo-2026.json"
-  },
-  {
-    "id": "alguem-tem-que-saber",
-    "tipo": "serie",
-    "titulo": "Alguém Tem Que Saber",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/aT546sv3yxC6s3iJAQ96Zviyce8.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 6.4,
-    "tmdbId": 297454,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/alguem-tem-que-saber.json"
   }
 ]

@@ -26,9 +26,23 @@
       "qualidade": "Não informado",
       "xtreamId": 11033920,
       "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11084912,
+      "container": "mp4"
+    },
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11084914,
+      "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1776246173,
+  "dataCriacaoXtream": 1780134580,
   "tituloOriginal": "Battle for Terra",
   "dataLancamento": "2007-09-06"
 }

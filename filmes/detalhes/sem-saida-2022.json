@@ -5,6 +5,7 @@
   "ano": 2022,
   "descricao": "Darby Thorne é uma mulher que viaja devido a uma emergência familiar, fica presa em nevasca e é forçada a se abrigar numa área de descanso na estrada com um grupo de desconhecidos. Ao topar com uma garota sequestrada numa van, ela encara uma terrível luta de vida ou morte para descobrir quem é o sequestrador.",
   "generos": [
+    "LEGENDADOS",
     "SUSPENSE | TERROR | THRILLER",
     "4K"
   ],
@@ -13,6 +14,13 @@
   "tmdbId": 833425,
   "nota": 6.84,
   "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050363,
+      "container": "mp4"
+    },
     {
       "nome": "Padrão",
       "idioma": "Não informado",
@@ -28,7 +36,7 @@
       "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1779194371,
+  "dataCriacaoXtream": 1779197105,
   "tituloOriginal": "No Exit",
   "dataLancamento": "2022-02-24"
 }

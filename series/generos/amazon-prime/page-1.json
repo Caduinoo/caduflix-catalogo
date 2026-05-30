@@ -1456,6 +1456,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/anjos-da-guarda.json"
   },
   {
+    "id": "anjos-na-america",
+    "tipo": "serie",
+    "titulo": "Anjos na América",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rrV0kCmzcP8oB00gemSZDns90rb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ijs6Ilt8B2xHyZeePXZivQI15Cc.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 7.553,
+    "tmdbId": 11245,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/anjos-na-america.json"
+  },
+  {
     "id": "anos-luz",
     "tipo": "serie",
     "titulo": "Anos-luz",
@@ -1831,7 +1847,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/Adjn7rsb1picDMUcYNjEDobhvAk.jpg",
     "banner": "https://image.tmdb.org/t/p/original/6dXyUXZ4HsY6M3Tae9e0KZsFCo1.jpg",
     "generos": [
-      "AMAZON PRIME"
+      "AMAZON PRIME",
+      "TURCAS | MEXICANAS"
     ],
     "nota": 6.25,
     "tmdbId": 245914,
@@ -2254,6 +2271,22 @@
     "totalTemporadas": 4,
     "totalEpisodios": 52,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bob-o-construtor.json"
+  },
+  {
+    "id": "bob-zoom",
+    "tipo": "serie",
+    "titulo": "Bob Zoom",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yr83vGcXQmSfzEEOVj44nOrS3oP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uiDdufOOShTuayCXZiAM92GjXop.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": 7,
+    "tmdbId": 65842,
+    "totalTemporadas": 1,
+    "totalEpisodios": 22,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/bob-zoom.json"
   },
   {
     "id": "body-by-beth",
@@ -4094,6 +4127,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/do-amor-e-de-luta.json"
   },
   {
+    "id": "do-pelo-ao-cabelo-autoestima-por-um-fio",
+    "tipo": "serie",
+    "titulo": "Do Pelo ao Cabelo - Autoestima por um Fio",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/llCaS53Hrygl3QJa1K2xNP13mug.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fgFqP9jnrHXnj84U5MGQk9yD9fy.jpg",
+    "generos": [
+      "AMAZON PRIME"
+    ],
+    "nota": null,
+    "tmdbId": 209278,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/do-pelo-ao-cabelo-autoestima-por-um-fio.json"
+  },
+  {
     "id": "doc-uma-nova-vida",
     "tipo": "serie",
     "titulo": "DOC – Uma Nova Vida",
@@ -4747,53 +4796,5 @@
     "totalTemporadas": 2,
     "totalEpisodios": 16,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/fallout.json"
-  },
-  {
-    "id": "familia-gil",
-    "tipo": "serie",
-    "titulo": "Família Gil",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wHvrIikxLHxgKN67JHOLRGeDEY7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sCdlt5MTU6J9f1knr97qGe4fB4o.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 6,
-    "tmdbId": 201477,
-    "totalTemporadas": 2,
-    "totalEpisodios": 11,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/familia-gil.json"
-  },
-  {
-    "id": "fantasmas",
-    "tipo": "serie",
-    "titulo": "Fantasmas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/plHXxDancifffCR249yhkfoqteZ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 7.986,
-    "tmdbId": 126027,
-    "totalTemporadas": 4,
-    "totalEpisodios": 72,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/fantasmas.json"
-  },
-  {
-    "id": "fargo",
-    "tipo": "serie",
-    "titulo": "Fargo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zu3rkBP4uxmfyOHstfr6KbEGUdz.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4jrSbRpLqpvYJtLKncaxZVC47EW.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 8.29,
-    "tmdbId": 60622,
-    "totalTemporadas": 5,
-    "totalEpisodios": 51,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/fargo.json"
   }
 ]

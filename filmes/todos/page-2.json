@@ -1,5 +1,19 @@
 [
   {
+    "id": "a-batalha-das-correntes",
+    "tipo": "filme",
+    "titulo": "A Batalha das Correntes",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1hXJRUdM785ogYuaOo0lXWjOCda.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jypNy38bThNz4K6IWDoE7h0xlP2.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.7,
+    "tmdbId": 418879,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-batalha-das-correntes.json"
+  },
+  {
     "id": "a-batalha-de-kruty-1918",
     "tipo": "filme",
     "titulo": "A Batalha de Kruty",
@@ -958,6 +972,20 @@
     "nota": null,
     "tmdbId": 251118,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-cancao-do-amor.json"
+  },
+  {
+    "id": "a-cancao-do-mar",
+    "tipo": "filme",
+    "titulo": "A Canção do Mar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/39aOJwueG1BX1OZqNdm9tnMUVjE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mVLZvSe1Aa8CFKx0cInTamVZJrW.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.994,
+    "tmdbId": 110416,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-cancao-do-mar.json"
   },
   {
     "id": "a-cancao-do-sul",
@@ -3279,6 +3307,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-entidade-2.json"
   },
   {
+    "id": "a-epidemia",
+    "tipo": "filme",
+    "titulo": "Cooties: A Epidemia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cDbclzPox0H0dn5nq1O9rcJQcEM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3w1MTEvhwPkgPr81wPhFEOXRuel.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.911,
+    "tmdbId": 241843,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-epidemia.json"
+  },
+  {
     "id": "a-epoca-mais-maravilhosa-do-ano",
     "tipo": "filme",
     "titulo": "A Época Mais Maravilhosa do Ano",
@@ -4311,48 +4354,5 @@
     "nota": 6.7,
     "tmdbId": 369657,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-face-da-morte.json"
-  },
-  {
-    "id": "a-face-da-verdade",
-    "tipo": "filme",
-    "titulo": "A Face da Verdade",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/2dXA5dNh3kqDQwRt08TxxgldTOW.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8yUVptQ82wWax8h3X9lURadGZ0d.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.759,
-    "tmdbId": 22067,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-face-da-verdade.json"
-  },
-  {
-    "id": "a-face-da-vinganca",
-    "tipo": "filme",
-    "titulo": "A Face da Vingança",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tlMVU37EuUzgfc737cuusJMTQlr.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dcZ8QpzVBRKPdYM6lPTucd2hFJM.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.8,
-    "tmdbId": 1135229,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-face-da-vinganca.json"
-  },
-  {
-    "id": "a-fada-do-dente",
-    "tipo": "filme",
-    "titulo": "A Fada do Dente",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7Biyu5aP0o86GjxnffsHThYN4h1.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/p4o1xEIHdQVuchXzkFSQORh3gWx.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.125,
-    "tmdbId": 681303,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-fada-do-dente.json"
   }
 ]

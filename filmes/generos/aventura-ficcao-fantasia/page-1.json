@@ -2956,6 +2956,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/black-mirror-bandersnatch.json"
   },
   {
+    "id": "blade-runner-2049",
+    "tipo": "filme",
+    "titulo": "Blade Runner",
+    "ano": 2049,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "4K",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/blade-runner-2049.json"
+  },
+  {
     "id": "blade-runner",
     "tipo": "filme",
     "titulo": "Blade Runner: O Caçador de Andróides",
@@ -2968,21 +2984,6 @@
     "nota": 7.938,
     "tmdbId": 78,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/blade-runner.json"
-  },
-  {
-    "id": "blade-runner-2049",
-    "tipo": "filme",
-    "titulo": "Blade Runner",
-    "ano": 2049,
-    "capa": "https://image.tmdb.org/t/p/w500/49pANIZXRAdHUiWjjBv4vxPeqRC.jpg",
-    "banner": null,
-    "generos": [
-      "4K",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/blade-runner-2049.json"
   },
   {
     "id": "blade-runner-o-cacador-de-androides",

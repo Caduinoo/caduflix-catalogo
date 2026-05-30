@@ -1,5 +1,36 @@
 [
   {
+    "id": "o-jogo-da-garrafa",
+    "tipo": "filme",
+    "titulo": "O Jogo da Garrafa",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/n1lf2grrVfu7cRPrIvQr3FH0dC5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xTRnlDvGPXKI81zAXpZDT1J8i4Y.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 4.852,
+    "tmdbId": 1030983,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-jogo-da-garrafa.json"
+  },
+  {
+    "id": "o-jogo-da-viuva",
+    "tipo": "filme",
+    "titulo": "O Jogo da Viúva",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/txiHphuGlemWdD9Lv4FfkJU4uS9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pOR4Aye28KLZ5Jogu8zc3yiqBpT.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 6.221,
+    "tmdbId": 1397832,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-jogo-da-viuva.json"
+  },
+  {
     "id": "o-jogo-da-viuva-dv",
     "tipo": "filme",
     "titulo": "O Jogo da Viúva [DV]",
@@ -450,6 +481,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-natal-do-pequeno-batman.json"
   },
   {
+    "id": "o-pacto-2023",
+    "tipo": "filme",
+    "titulo": "O Pacto",
+    "ano": 2023,
+    "capa": "https://image.tmdb.org/t/p/w500/pTQZT9R6YjKrweJ0llPtq57j1Z0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 7.719,
+    "tmdbId": 882569,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-pacto-2023.json"
+  },
+  {
     "id": "o-pacto",
     "tipo": "filme",
     "titulo": "O Pacto",
@@ -464,21 +511,6 @@
     "nota": 7.719,
     "tmdbId": 882569,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-pacto.json"
-  },
-  {
-    "id": "o-pacto-2023",
-    "tipo": "filme",
-    "titulo": "O Pacto",
-    "ano": 2023,
-    "capa": "https://image.tmdb.org/t/p/w500/pTQZT9R6YjKrweJ0llPtq57j1Z0.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 7.719,
-    "tmdbId": 882569,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-pacto-2023.json"
   },
   {
     "id": "o-pai-da-noiva",
@@ -2423,6 +2455,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pimpinero-sangue-e-gasolina.json"
   },
   {
+    "id": "pinoquio-2022",
+    "tipo": "filme",
+    "titulo": "Pinóquio",
+    "ano": 2022,
+    "capa": "https://image.tmdb.org/t/p/w500/2nvHcplURnWLL2RX6SQlwM63wu3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nnUQqlVZeEGuCRx8SaoCU4XVHJN.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA",
+      "4K"
+    ],
+    "nota": 6.291,
+    "tmdbId": 532639,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pinoquio-2022.json"
+  },
+  {
     "id": "pinoquio",
     "tipo": "filme",
     "titulo": "Pinóquio",
@@ -2438,21 +2486,6 @@
     "nota": 7.37,
     "tmdbId": 1248723,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pinoquio.json"
-  },
-  {
-    "id": "pinoquio-2022",
-    "tipo": "filme",
-    "titulo": "Pinóquio",
-    "ano": 2022,
-    "capa": "https://image.tmdb.org/t/p/w500/2nvHcplURnWLL2RX6SQlwM63wu3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nnUQqlVZeEGuCRx8SaoCU4XVHJN.jpg",
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA",
-      "4K"
-    ],
-    "nota": 6.291,
-    "tmdbId": 532639,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pinoquio-2022.json"
   },
   {
     "id": "pinoquio-por-guillermo-del-toro",
@@ -2784,6 +2817,20 @@
     "nota": 5.454,
     "tmdbId": 1510745,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/presenca.json"
+  },
+  {
+    "id": "primeiro-as-damas-dv",
+    "tipo": "filme",
+    "titulo": "Primeiro as Damas [DV]",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW10rRdxMwJC4r1zldQzxcyzEUS.jpg",
+    "banner": null,
+    "generos": [
+      "4K"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/primeiro-as-damas-dv.json"
   },
   {
     "id": "principes-perigosos",
@@ -3801,6 +3848,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/dvTTuRqwvM6wkDuA0JviE58NSRp.jpg",
     "banner": "https://image.tmdb.org/t/p/original/epE4VnwJkqWEQIYLvWYxBj277W3.jpg",
     "generos": [
+      "LEGENDADOS",
       "SUSPENSE | TERROR | THRILLER",
       "4K"
     ],
@@ -4672,53 +4720,5 @@
     "nota": 7.5,
     "tmdbId": 1226572,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/superboys-de-malegaon.json"
-  },
-  {
-    "id": "superman",
-    "tipo": "filme",
-    "titulo": "Superman",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xeZ8oG6W60fEPf9yCjERUXiHRBF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA",
-      "4K"
-    ],
-    "nota": 7.34,
-    "tmdbId": 1061474,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/superman.json"
-  },
-  {
-    "id": "suzume",
-    "tipo": "filme",
-    "titulo": "Suzume",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/QcS3MhdUiOEUOjY451FOFInZXF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4tdV5AeojEdbvn6VpeQrbuDlmzs.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA",
-      "4K"
-    ],
-    "nota": 7.886,
-    "tmdbId": 916224,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/suzume.json"
-  },
-  {
-    "id": "sweethearts",
-    "tipo": "filme",
-    "titulo": "Sweethearts",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/890UDXYal6i8A9NbMV5TAxZpOzH.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/us8T8e2bSkyORss8xanwCDZCZxG.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA",
-      "4K"
-    ],
-    "nota": 5.75,
-    "tmdbId": 999890,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sweethearts.json"
   }
 ]

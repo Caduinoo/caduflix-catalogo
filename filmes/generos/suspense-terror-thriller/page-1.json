@@ -1386,6 +1386,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-entidade-2.json"
   },
   {
+    "id": "a-epidemia",
+    "tipo": "filme",
+    "titulo": "Cooties: A Epidemia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cDbclzPox0H0dn5nq1O9rcJQcEM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3w1MTEvhwPkgPr81wPhFEOXRuel.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.911,
+    "tmdbId": 241843,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-epidemia.json"
+  },
+  {
     "id": "a-escuridao",
     "tipo": "filme",
     "titulo": "A Escuridão Sorrateira",
@@ -2618,6 +2633,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/eQcLh0SMoY1It2tAJScnh6GAuNr.jpg",
     "banner": "https://image.tmdb.org/t/p/original/3xLT29KkCwLqRgRRtaUHGG6OaZ5.jpg",
     "generos": [
+      "LEGENDADOS",
       "SUSPENSE | TERROR | THRILLER"
     ],
     "nota": 5.9,
@@ -4377,20 +4393,5 @@
     "nota": 5.793,
     "tmdbId": 82505,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-casa-da-rua.json"
-  },
-  {
-    "id": "a-ultima-coisa-que-mary-viu",
-    "tipo": "filme",
-    "titulo": "A Última Coisa que Mary Viu",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gVFwfzPXfUcRI3mpb6rSX1LYtMj.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/blOCPsMn7szkQ0b51AIXGgut6WR.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.071,
-    "tmdbId": 681986,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-coisa-que-mary-viu.json"
   }
 ]

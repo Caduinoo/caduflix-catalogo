@@ -1,5 +1,461 @@
 [
   {
+    "id": "jogador-no-1",
+    "tipo": "filme",
+    "titulo": "Jogador No 1",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sn3dMJYxhxCJ6cMCXAtBUjAeg1.jpg",
+    "banner": null,
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogador-no-1.json"
+  },
+  {
+    "id": "jogador-numero-1",
+    "tipo": "filme",
+    "titulo": "Jogador N° 1",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sN46sgCsWqwgHMu4mEtKJ19knVr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 7.585,
+    "tmdbId": 333339,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogador-numero-1.json"
+  },
+  {
+    "id": "jogando-a-linha",
+    "tipo": "filme",
+    "titulo": "Jogando a Linha",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tQpEqBoOWkNJRGpSQDTTsXCxVVL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yQS4QB3JDa6zIrn9b6SNAELJGwb.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA",
+      "4K"
+    ],
+    "nota": 6.6,
+    "tmdbId": 863858,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogando-a-linha.json"
+  },
+  {
+    "id": "jogando-com-o-amor",
+    "tipo": "filme",
+    "titulo": "Jogando com o Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rYicWsnzTi9uTLE9KpUjogWcLNC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/i5H1ogNI1pXSTG9hDsIYzFawe5U.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 8.2,
+    "tmdbId": 672772,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogando-com-o-amor.json"
+  },
+  {
+    "id": "jogando-com-prazer",
+    "tipo": "filme",
+    "titulo": "Jogando com Prazer",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rcLtc8T9Yp1D3WK0CiUW6RkVfxB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/s9F5NR4Iic3RaE9qk1MkjA1mz3B.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 5.549,
+    "tmdbId": 19918,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogando-com-prazer.json"
+  },
+  {
+    "id": "jogando-sujo",
+    "tipo": "filme",
+    "titulo": "Jogando Sujo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/AnCIBm29ybL8dhS6zFFIUCyIAtf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gnTrxJs6tuNnZ9AYUFhrZGtD4KM.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 3.875,
+    "tmdbId": 31979,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogando-sujo.json"
+  },
+  {
+    "id": "jogo-assassino",
+    "tipo": "filme",
+    "titulo": "Jogo Assassino",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/afjec1ENGENQHQljFc34CZWachX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6rJAeP8xlq0bHUdCNg5epBvrFVa.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.57,
+    "tmdbId": 441282,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-assassino.json"
+  },
+  {
+    "id": "jogo-bonito",
+    "tipo": "filme",
+    "titulo": "Jogo Bonito",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lYR7Ob8qmtwxjNzrfGaPNjvbIln.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/el8IsSzuHcwQeDgsCoEdTPgKxQ0.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.285,
+    "tmdbId": 857655,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-bonito.json"
+  },
+  {
+    "id": "jogo-bruto",
+    "tipo": "filme",
+    "titulo": "Jogo Bruto",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1s5yAP5Se4FKO2tvNzgo0gCgJ7P.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eJ1UkFvKCQUqVW5lswBMYMRKn4Q.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.838,
+    "tmdbId": 2099,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-bruto.json"
+  },
+  {
+    "id": "jogo-da-vida",
+    "tipo": "filme",
+    "titulo": "Jogo da Vida",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5K7apdKt56f7A3XRCT3By0lvIVR.jpg",
+    "banner": null,
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": null,
+    "tmdbId": 1010808,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-da-vida.json"
+  },
+  {
+    "id": "jogo-das-traicoes",
+    "tipo": "filme",
+    "titulo": "Jogo das Traições",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kNM2gZTBxzoZJ8vm7v1BqPK4VFx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9UQHswzgHm9DKDuUGhqYKlMlh3h.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.389,
+    "tmdbId": 692233,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-das-traicoes.json"
+  },
+  {
+    "id": "jogo-de-amor-em-florenca",
+    "tipo": "filme",
+    "titulo": "Jogo de Amor em Florença",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rqm6jMPNh8UnuIeCkc1WebgCqet.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/f63tvH8xi7TqPMEqu7JBKVgw6hH.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 4.7,
+    "tmdbId": 431244,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-de-amor-em-florenca.json"
+  },
+  {
+    "id": "jogo-de-amor-em-las-vegas",
+    "tipo": "filme",
+    "titulo": "Jogo de Amor em Las Vegas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wPfCkAZjxcgbCN7X65Aut8Vtq4c.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bNzptaU34tK2AHU859M5ca0devW.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.114,
+    "tmdbId": 9029,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-de-amor-em-las-vegas.json"
+  },
+  {
+    "id": "jogo-de-assassinato",
+    "tipo": "filme",
+    "titulo": "Jogo de Assassinato",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zHBnfCzPJq4cQtXzsIxMGeRz3od.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3EO8O7t9BI1PiKSGpN1RzEmQdhJ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 3.5,
+    "tmdbId": 812666,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-de-assassinato.json"
+  },
+  {
+    "id": "jogo-de-bruxas",
+    "tipo": "filme",
+    "titulo": "Jogo de Bruxas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jnJpUGzPdey2bj0jDtODGRu1SBY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gIYgzSRz3w3cvNrj8awd4lCo9l8.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.8,
+    "tmdbId": 1067833,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-de-bruxas.json"
+  },
+  {
+    "id": "jogo-de-espioes",
+    "tipo": "filme",
+    "titulo": "Jogo de Espiões",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8eRA7GVsO3qvwu4sU0idFR0Qce3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7Hfatv0lZkMyxw8UBZmiK2qSXDR.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.918,
+    "tmdbId": 1535,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-de-espioes.json"
+  },
+  {
+    "id": "jogo-de-interesses",
+    "tipo": "filme",
+    "titulo": "Cleanskin: Jogo de Interesses",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/o0LLHdQ2vukZulbD71ep7RlS44S.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/piCrF7kAkTRPAziDUmigIzdJ5ho.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 5.647,
+    "tmdbId": 95516,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-de-interesses.json"
+  },
+  {
+    "id": "jogo-de-intrigas",
+    "tipo": "filme",
+    "titulo": "Jogo de Intrigas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8dO92o0yg4BGvGidbwjDWkJdSPQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kPOizQXpSS5uK0M4BcUHzK93nmg.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 5.919,
+    "tmdbId": 11065,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-de-intrigas.json"
+  },
+  {
+    "id": "jogo-de-poder",
+    "tipo": "filme",
+    "titulo": "Jogo de Poder",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jrn42HnchO2SArF7HG6p0z8EI5V.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2PmX0FeigeZa2UBK7UYeQYS5ZL4.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.451,
+    "tmdbId": 38363,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-de-poder.json"
+  },
+  {
+    "id": "jogo-de-risco",
+    "tipo": "filme",
+    "titulo": "Jogo de Risco",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2wiDZ8phnCQbUfh3luPJ0vntvbU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uookmLyx9dKDBrjXJDDp175meg4.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.111,
+    "tmdbId": 14527,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-de-risco.json"
+  },
+  {
+    "id": "jogo-de-sacrificio",
+    "tipo": "filme",
+    "titulo": "Jogo de Sacrifício",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jtDma2QSBGfYNybBNerl4erecAb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qwQCMlF4QI7XqHCBmkDW28Q1ZUP.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.847,
+    "tmdbId": 973471,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-de-sacrificio.json"
+  },
+  {
+    "id": "jogo-de-seducao",
+    "tipo": "filme",
+    "titulo": "Jogo de Sedução",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/q8jpufdxejUfoBgJ0YWQl41n0K5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cNGpwYkko2GvU6sDDkoSwefN0Zm.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6,
+    "tmdbId": 18538,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-de-seducao.json"
+  },
+  {
+    "id": "jogo-de-traicoes-a-origem",
+    "tipo": "filme",
+    "titulo": "Jogo de Traições - A Origem",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lnk1z8hhHrEstiVsROxIXKv8dU6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9Z0D2TcrebYBnd3iViFHT4khdQh.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.775,
+    "tmdbId": 467432,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-de-traicoes-a-origem.json"
+  },
+  {
+    "id": "jogo-do-amor",
+    "tipo": "filme",
+    "titulo": "Jogo do Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cnOvRDoYqcrOVjOBqRAP5NlhpkS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2RmFdep76gJKPQFcbPgfkcobdQL.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 6.082,
+    "tmdbId": 888479,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-do-amor.json"
+  },
+  {
+    "id": "jogo-do-destino",
+    "tipo": "filme",
+    "titulo": "Borderlands: O Destino do Universo Está em Jogo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pZFUo4exLI3WuOaMhlj9plRdOta.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mKOBdgaEFguADkJhfFslY7TYxIh.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.599,
+    "tmdbId": 365177,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-do-destino.json"
+  },
+  {
+    "id": "jogo-do-dinheiro",
+    "tipo": "filme",
+    "titulo": "Jogo do Dinheiro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9aXEVxM9B137yc46G0yjhCiz8sr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ct5kjqyBwzH6OSxuOIluChs3FFN.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.432,
+    "tmdbId": 303858,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-do-dinheiro.json"
+  },
+  {
+    "id": "jogo-duplo",
+    "tipo": "filme",
+    "titulo": "Jogo Duplo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lqNiRYErqND6A0pSyEy4EPBQndt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/q6M9TRlUKaiwiueHQMnZYkklLWZ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.905,
+    "tmdbId": 537617,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-duplo.json"
+  },
+  {
+    "id": "jogo-justo",
+    "tipo": "filme",
+    "titulo": "Jogo Justo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/AteINDGu2VqyI1M8mBZXYMA7Yhs.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/50Wq7fY21obXVRICuljdlSigWvH.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA",
+      "4K"
+    ],
+    "nota": 6.326,
+    "tmdbId": 910571,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-justo.json"
+  },
+  {
+    "id": "jogo-pela-sobrevivencia",
+    "tipo": "filme",
+    "titulo": "Jogo Pela Sobrevivência",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/v45dAZ1vI4NUqcYcLUmGVXHGYFj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/j2CyAwoBsumow7KvlQdLwGZmJv3.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.611,
+    "tmdbId": 9753,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-pela-sobrevivencia.json"
+  },
+  {
+    "id": "jogo-perigoso-2022",
+    "tipo": "filme",
+    "titulo": "Jogo Perigoso: Vítimas da Herança",
+    "ano": 2022,
+    "capa": "https://image.tmdb.org/t/p/w500/r3cbG9vXgbP3PypCR9ILP7b6aSE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qobm3A9oXZAqVyKapoANeBgsG0M.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.043,
+    "tmdbId": 1027385,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-perigoso-2022.json"
+  },
+  {
+    "id": "jogo-perigoso",
+    "tipo": "filme",
+    "titulo": "Jogo Perigoso",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kYFyeWz6AfKq9e3PEY2GREZ39Ay.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/t9HChjSJi8B1PXSVh5Ec3pcDsAM.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA",
+      "LEGENDADOS"
+    ],
+    "nota": 6.399,
+    "tmdbId": 343674,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jogo-perigoso.json"
+  },
+  {
     "id": "jogo-perigoso-2017",
     "tipo": "filme",
     "titulo": "Jogo Perigoso",
@@ -199,6 +655,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/ndfJ6JElIfXn3lCByLHkS359Lhw.jpg",
     "banner": "https://image.tmdb.org/t/p/original/9GDHBrOowFg8op7UQpYGfwnuhbr.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA"
     ],
     "nota": 6.332,
@@ -3862,446 +4319,5 @@
     "nota": 7.167,
     "tmdbId": 1189199,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kizumonogatari-koyomi-vamp.json"
-  },
-  {
-    "id": "kizumonogatari-i-sangue-de-ferro",
-    "tipo": "filme",
-    "titulo": "Kizumonogatari I Sangue de Ferro",
-    "ano": null,
-    "capa": null,
-    "banner": null,
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kizumonogatari-i-sangue-de-ferro.json"
-  },
-  {
-    "id": "kizumonogatari-ii-sangue-quente",
-    "tipo": "filme",
-    "titulo": "Kizumonogatari II - Sangue Quente",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRknveOnc7dgTQHDHjePgHFPy6P.jpg",
-    "banner": null,
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kizumonogatari-ii-sangue-quente.json"
-  },
-  {
-    "id": "kizumonogatari-iii-sangue-frio",
-    "tipo": "filme",
-    "titulo": "Kizumonogatari III - Sangue Frio",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QEJlbDt6VTh24Hq9J0JZKQPaZY.jpg",
-    "banner": null,
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kizumonogatari-iii-sangue-frio.json"
-  },
-  {
-    "id": "klaus",
-    "tipo": "filme",
-    "titulo": "Klaus",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/guyZW9AQdTMp2F4esttjyIMMK1k.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cYQvXNPZLow73lhspVQ7CYlT3Mi.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 8.224,
-    "tmdbId": 508965,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/klaus.json"
-  },
-  {
-    "id": "km17",
-    "tipo": "filme",
-    "titulo": "KM17",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rmBAwMJRYF9K6BOVRe40bctBdtR.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2h5OHy4wLQwTmOI6XRNwg0ss6oD.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": null,
-    "tmdbId": 1321549,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/km17.json"
-  },
-  {
-    "id": "kneecap-musica-e-liberdade",
-    "tipo": "filme",
-    "titulo": "Kneecap: Música e Liberdade",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uafQEdiSQasBQipcnolkJN2Pj8W.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nH6VTXjf5YbtrFKrFBl86bxclk1.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 7.28,
-    "tmdbId": 1180629,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kneecap-musica-e-liberdade.json"
-  },
-  {
-    "id": "knives-and-skin",
-    "tipo": "filme",
-    "titulo": "Knives and Skin",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/u80rybIz75SZ862YcYU2ZRXGvFm.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/A2eSBZ1mMoOyfyCpIQ5NeCCGTtn.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.2,
-    "tmdbId": 575730,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/knives-and-skin.json"
-  },
-  {
-    "id": "knives-out",
-    "tipo": "filme",
-    "titulo": "Entre Facas e Segredos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/9H8PNc4JJRjPnfSh8gGukD0CbqQ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7.84,
-    "tmdbId": 546554,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/knives-out.json"
-  },
-  {
-    "id": "knuckleball",
-    "tipo": "filme",
-    "titulo": "Sozinho com o Inimigo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uWFmqu579OOxmNuqfACTyYh5ECZ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2oI5YyrFV7L5nZgYAHQnHgPh0WR.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.9,
-    "tmdbId": 466174,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/knuckleball.json"
-  },
-  {
-    "id": "koko-di-koko-da",
-    "tipo": "filme",
-    "titulo": "Koko-di Koko-da",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/45AhARdSylYfml2Vkq2UFuafXty.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dxe4F1ZOiwNNIiHBZNhgOZ2jNhJ.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.8,
-    "tmdbId": 565373,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/koko-di-koko-da.json"
-  },
-  {
-    "id": "kokuho-o-preco-da-perfeicao",
-    "tipo": "filme",
-    "titulo": "Kokuho: O Preço da Perfeição",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/vXGU5Wu6RCbmuVglUODeOEOKTgl.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3C8yAIuXlH4BGCpTwEetIv0VBt8.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 8,
-    "tmdbId": 1379266,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kokuho-o-preco-da-perfeicao.json"
-  },
-  {
-    "id": "kolya",
-    "tipo": "filme",
-    "titulo": "Kolya",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/c1OC2HnXYx5zrx4XCUOrPQ0mRSl.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/q9GAThBRXMeXFLArzxt1tpbjK7E.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.4,
-    "tmdbId": 784,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kolya.json"
-  },
-  {
-    "id": "koma",
-    "tipo": "filme",
-    "titulo": "Koma",
-    "ano": null,
-    "capa": null,
-    "banner": null,
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5,
-    "tmdbId": 589834,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/koma.json"
-  },
-  {
-    "id": "kombucha-ruim",
-    "tipo": "filme",
-    "titulo": "Kombucha RUIM",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoPLfMbNYYuk3X2iVGhfaM6vxIP.jpg",
-    "banner": null,
-    "generos": [
-      "CINEMA | RUIM | CAM | PROPAGANDA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kombucha-ruim.json"
-  },
-  {
-    "id": "kompromat-o-dossie-russo",
-    "tipo": "filme",
-    "titulo": "Kompromat: O Dossiê Russo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yakB8fDVhqmqiocjILPVh1aBze2.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xp6ZNacNFf9GmJe648fUqfbdyph.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.332,
-    "tmdbId": 852427,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kompromat-o-dossie-russo.json"
-  },
-  {
-    "id": "kong-a-ilha-da-caveira",
-    "tipo": "filme",
-    "titulo": "Kong: A Ilha da Caveira",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/y7ZdnfEA8AEyCFdojYBxeevtZtc.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nVodCGKYLpqNC8YwQAbivKlWCgZ.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.553,
-    "tmdbId": 293167,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kong-a-ilha-da-caveira.json"
-  },
-  {
-    "id": "konosuba-god-s-blessing-on-this-wonderful-world-legend-of-crimson",
-    "tipo": "filme",
-    "titulo": "KonoSuba: God's Blessing on This Wonderful World! - Legend of Crimson",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/t37cFbjqWzcteiA3XrkNOUswPLa.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wqpTrmGiqMJ6onAq3zrBhfomIJl.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 8,
-    "tmdbId": 532067,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/konosuba-god-s-blessing-on-this-wonderful-world-legend-of-crimson.json"
-  },
-  {
-    "id": "kontinental-25",
-    "tipo": "filme",
-    "titulo": "Kontinental '25",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gdM2n4RrZY10x7musX0QvzRnTpf.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1FOSov1BN00fJAWl3fF91Bihykr.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.431,
-    "tmdbId": 1410189,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kontinental-25.json"
-  },
-  {
-    "id": "koukaku-kidoutai-2-0",
-    "tipo": "filme",
-    "titulo": "O Fantasma do Futuro 2.0",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7OsWlh6v5J0ORQSaYxfmYEg1TyY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/f7EQtjydqW0F76fUpBvxqxKskjd.jpg",
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": 7.4,
-    "tmdbId": 14092,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/koukaku-kidoutai-2-0.json"
-  },
-  {
-    "id": "koutetsujou-no-kabaneri-movi2",
-    "tipo": "filme",
-    "titulo": "Koutetsujou no Kabaneri Movi2",
-    "ano": null,
-    "capa": null,
-    "banner": null,
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/koutetsujou-no-kabaneri-movi2.json"
-  },
-  {
-    "id": "koutetsujou-no-kabaneri-movie1",
-    "tipo": "filme",
-    "titulo": "Kabaneri of the Iron Fortress: Light That Gathers",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/r7NrE2L43pKl0sAUI72E3z9pp4f.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/aqpw8FjW800Pu9CwfhyRKrhfdHb.jpg",
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": 7.5,
-    "tmdbId": 431802,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/koutetsujou-no-kabaneri-movie1.json"
-  },
-  {
-    "id": "kraken",
-    "tipo": "filme",
-    "titulo": "Kraken",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/lb8lEHDWRAflGr0daGsmJVoey2d.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/oV472EbPedkc5QzqolGc7sCgCnn.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.819,
-    "tmdbId": 1110034,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kraken.json"
-  },
-  {
-    "id": "kraven-o-cacador",
-    "tipo": "filme",
-    "titulo": "Kraven: O Caçador",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pWvQsP9o1MQ4vQNjpL9QeYFXKOs.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/bGGjyPqtNc8hhGkPo8W8D8t90bW.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 6.438,
-    "tmdbId": 539972,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kraven-o-cacador.json"
-  },
-  {
-    "id": "krazy-house",
-    "tipo": "filme",
-    "titulo": "Krazy House",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uWExAP2AslsVc70qw6ydmFG8E5.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/etgX6vgk0NXhV0UAPBTFH0rG4TK.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 4.875,
-    "tmdbId": 607338,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/krazy-house.json"
-  },
-  {
-    "id": "krishnamurti-a-revolucao-do-silencio",
-    "tipo": "filme",
-    "titulo": "Krishnamurti: A Revolução do Silêncio",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zjVka6tCsdTtmCbAyFNxnOU6EO8.jpg",
-    "banner": null,
-    "generos": [
-      "LEGENDADOS",
-      "LANÇAMENTOS"
-    ],
-    "nota": null,
-    "tmdbId": 1453928,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/krishnamurti-a-revolucao-do-silencio.json"
-  },
-  {
-    "id": "kronos-o-fim-da-humanidade",
-    "tipo": "filme",
-    "titulo": "Kronos: O Fim Da Humanidade?",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tAlGYFGssx7BoWtAPsz76uYCPWG.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8qEYZSeFAKehqQtJume2mAv1xe0.jpg",
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 3.672,
-    "tmdbId": 484886,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kronos-o-fim-da-humanidade.json"
-  },
-  {
-    "id": "krwawe-trofeum",
-    "tipo": "filme",
-    "titulo": "Troféu de Sangue",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4dpEIgAonNKqFDSuts71ErDZC9J.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7Uwy7rmSDn4IuoEAPbcfpPHJKNO.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7.5,
-    "tmdbId": 1482165,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/krwawe-trofeum.json"
-  },
-  {
-    "id": "kryptic",
-    "tipo": "filme",
-    "titulo": "Enigma Sombrio",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tO4PLOx2Ey9PZunmwEAsGhc4Ah0.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/m9k4N5KKGzSyJRyzvYfF0FUmyv8.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.115,
-    "tmdbId": 1229910,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kryptic.json"
-  },
-  {
-    "id": "kubo-e-as-cordas-magicas",
-    "tipo": "filme",
-    "titulo": "Kubo e as Cordas Mágicas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ict1oX2qqv59k2NKnlAX4rXdGeg.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/bhspYsRMHgMqzUlxiVpIY8OrqMt.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.632,
-    "tmdbId": 313297,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kubo-e-as-cordas-magicas.json"
-  },
-  {
-    "id": "kung-fu-futebol-clube",
-    "tipo": "filme",
-    "titulo": "Kung Fu Futebol Clube",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rO1YoR49hs9QPla0vwCxrMLln33.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lMRX4cLx4hxYth3iQ96c0E1RHGB.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 7.161,
-    "tmdbId": 11770,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kung-fu-futebol-clube.json"
-  },
-  {
-    "id": "kung-fu-panda-1",
-    "tipo": "filme",
-    "titulo": "Kung Fu Panda: Legends of Awesomeness 1 : The Scorpion Sting",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7ghEy5r7JhQLFUtA8AG7C2KEbrD.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dlODKohSlDR5mKzaPCYZ83Flx2r.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.4,
-    "tmdbId": 325854,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kung-fu-panda-1.json"
   }
 ]

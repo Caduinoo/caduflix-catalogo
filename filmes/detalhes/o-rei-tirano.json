@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Em 1520, o notório e sedento por poder rei dinamarquês Christian II da Dinamarca está determinado a tomar a coroa sueca de Sten Sture, custe o que custar. Enquanto isso, as irmãs Freja e Anne fazem uma promessa solene de se vingar dos homens que assassinaram brutalmente sua família.  Tudo chega ao auge no coração de Estocolmo, onde as irmãs são arrastadas para uma impiedosa disputa política entre Suécia e Dinamarca, culminando em uma execução em massa presidida pelo enlouquecido rei “Christian, o Tirano”, conhecida como o Banho de Sangue de Estocolmo.",
   "generos": [
+    "LEGENDADOS",
     "AÇÃO | CRIME | GUERRA",
     "LANÇAMENTOS"
   ],
@@ -13,6 +14,13 @@
   "tmdbId": 1051486,
   "nota": 6.2,
   "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050520,
+      "container": "mp4"
+    },
     {
       "nome": "Padrão",
       "idioma": "Não informado",

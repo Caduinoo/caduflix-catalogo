@@ -1,17 +1,17 @@
 {
-  "total": 1771,
+  "total": 1705,
   "todos": "https://caduinoo.github.io/caduflix-catalogo/canais/todos.json",
   "categorias": [
     {
       "slug": "a-casa-do-patrao",
       "nome": "A CASA DO PATRAO",
-      "total": 2,
+      "total": 10,
       "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/a-casa-do-patrao.json"
     },
     {
       "slug": "abertos",
       "nome": "ABERTOS",
-      "total": 29,
+      "total": 26,
       "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/abertos.json"
     },
     {
@@ -65,7 +65,7 @@
     {
       "slug": "disney-ppv",
       "nome": "DISNEY PPV",
-      "total": 21,
+      "total": 12,
       "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/disney-ppv.json"
     },
     {
@@ -101,7 +101,7 @@
     {
       "slug": "globo",
       "nome": "GLOBO",
-      "total": 252,
+      "total": 201,
       "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/globo.json"
     },
     {
@@ -113,7 +113,7 @@
     {
       "slug": "hbo-max-ppv",
       "nome": "HBO MAX PPV",
-      "total": 26,
+      "total": 14,
       "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/hbo-max-ppv.json"
     },
     {
@@ -125,7 +125,7 @@
     {
       "slug": "jogos-do-dia",
       "nome": "JOGOS DO DIA",
-      "total": 14,
+      "total": 19,
       "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/jogos-do-dia.json"
     },
     {
@@ -143,7 +143,7 @@
     {
       "slug": "noticias",
       "nome": "NOTICIAS",
-      "total": 25,
+      "total": 23,
       "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/noticias.json"
     },
     {
@@ -197,7 +197,7 @@
     {
       "slug": "variedades",
       "nome": "VARIEDADES",
-      "total": 46,
+      "total": 44,
       "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/variedades.json"
     }
   ]

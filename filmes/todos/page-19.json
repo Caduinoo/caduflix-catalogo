@@ -1,5 +1,311 @@
 [
   {
+    "id": "elon-nao-acredita-na-morte",
+    "tipo": "filme",
+    "titulo": "Elon Não Acredita na Morte",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yxtvQWW27MwEJPQZEr8f0EoxZEx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cRVpCUy6eVGglYZASLz6MWAOtrH.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 5.433,
+    "tmdbId": 409306,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/elon-nao-acredita-na-morte.json"
+  },
+  {
+    "id": "elton-john-never-too-late",
+    "tipo": "filme",
+    "titulo": "Elton John: Never Too Late",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zFvflqdWsrKLwh28VgOurgRlnPe.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pV3BtaHjZjwFa22rS5jYW9kntS8.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.5,
+    "tmdbId": 977326,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/elton-john-never-too-late.json"
+  },
+  {
+    "id": "elvira-a-rainha-das-trevas",
+    "tipo": "filme",
+    "titulo": "Elvira: a Rainha das Trevas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1qqnoUwNYv2cRkS1jZLZFVcRDIA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iIQJ3clyNpHOFcUYOom8cG3NmgV.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 6.694,
+    "tmdbId": 5680,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/elvira-a-rainha-das-trevas.json"
+  },
+  {
+    "id": "elvis",
+    "tipo": "filme",
+    "titulo": "Elvis",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rva3UhKaMeiB0Vej5A2pm1leX7K.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xyS0NgcQ2pbGWcwvSSu3xKEBhoO.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA",
+      "4K"
+    ],
+    "nota": 7.461,
+    "tmdbId": 614934,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/elvis.json"
+  },
+  {
+    "id": "elvis-e-anabelle-o-despertar-de-um-amor",
+    "tipo": "filme",
+    "titulo": "Elvis & Anabelle: O Despertar de Um Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/x6AgxjqoZwAOqJLs3uXT4DFdup1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9cy44nYsWmNblqcqCuPXZc74FuU.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.776,
+    "tmdbId": 19554,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/elvis-e-anabelle-o-despertar-de-um-amor.json"
+  },
+  {
+    "id": "elvis-e-nixon",
+    "tipo": "filme",
+    "titulo": "Elvis & Nixon",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pwUXhwUAOq3J7ixxwOIWpMAFbje.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4qqX8rBDa4Dzqf6pSSumpFoEHMB.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 5.985,
+    "tmdbId": 301348,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/elvis-e-nixon.json"
+  },
+  {
+    "id": "elway",
+    "tipo": "filme",
+    "titulo": "Elway",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bPOEtWhI7lGpW0OxZZGjt545OXy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dM6EbI3T5O2PruUS5K7cbVAexON.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.6,
+    "tmdbId": 1583500,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/elway.json"
+  },
+  {
+    "id": "elyas",
+    "tipo": "filme",
+    "titulo": "Elyas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zuwf11mv6ju9Kf8PtlUjB0OzrBg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/b4vPyaCEP53fVDBj0HqFukICiyk.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.2,
+    "tmdbId": 1154215,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/elyas.json"
+  },
+  {
+    "id": "elyse-a-coragem-vem-do-coracao",
+    "tipo": "filme",
+    "titulo": "Elyse - A Coragem Vem do Coração",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/agOc0OEXdLr7bB8IgzbUBeEhOB9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3d4z0477YSBHh7rMRKFwytIDJuJ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.1,
+    "tmdbId": 759688,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/elyse-a-coragem-vem-do-coracao.json"
+  },
+  {
+    "id": "elysium",
+    "tipo": "filme",
+    "titulo": "Elysium",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2QxAzqKf56IMHMMbPkaIkb3Ul6S.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oo9GyiNKvR4CU1etuYl081UJ1LE.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 6.52,
+    "tmdbId": 68724,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/elysium.json"
+  },
+  {
+    "id": "em-aguas-agitadas",
+    "tipo": "filme",
+    "titulo": "Em Águas Agitadas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3PpCag294nEPeX9JQSiJCQO4kV5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hOF5a2fzxKJqPE8Yqk82ocEzvAh.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.2,
+    "tmdbId": 655311,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-aguas-agitadas.json"
+  },
+  {
+    "id": "em-algum-lugar-do-passado",
+    "tipo": "filme",
+    "titulo": "Em Algum Lugar do Passado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/aKGMcizZuTMKMkqmdP9cRECtwyQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/d7gEJYEookiF0SHPD8fMXcCgpC9.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 7.53,
+    "tmdbId": 16633,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-algum-lugar-do-passado.json"
+  },
+  {
+    "id": "em-algum-lugar-do-queens",
+    "tipo": "filme",
+    "titulo": "Em Algum Lugar do Queens",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2XjTOxrE69VJUmENvfQOfmqv6bR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/upoaYa4aVhGE3ByouVV5WpdBwto.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.3,
+    "tmdbId": 829774,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-algum-lugar-do-queens.json"
+  },
+  {
+    "id": "em-algum-momento-alem-de-agora",
+    "tipo": "filme",
+    "titulo": "Em Algum Momento Além de Agora",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/v2ByxH2BkupnCcTFYQG5uTQzgE6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xXRNJY0egQ8EYxyz2N5j446dE1c.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.5,
+    "tmdbId": 796595,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-algum-momento-alem-de-agora.json"
+  },
+  {
+    "id": "em-busca-da-carta-proibida",
+    "tipo": "filme",
+    "titulo": "Em Busca da Carta Proibida",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/knrIT27GVsP2gUDOVS4kUo0b6ie.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bt38mdnq0ea4y9LX1nG4dqQaUKO.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 6.4,
+    "tmdbId": 378423,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-da-carta-proibida.json"
+  },
+  {
+    "id": "em-busca-da-eterna-juventude",
+    "tipo": "filme",
+    "titulo": "Em Busca da Eterna Juventude",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lhCQc23RjqfJkKK3iApwvoqnZ9s.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9P0PvhVRJQ3PqIpKqapvCkRrlic.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 4.375,
+    "tmdbId": 666265,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-da-eterna-juventude.json"
+  },
+  {
+    "id": "em-busca-da-fama",
+    "tipo": "filme",
+    "titulo": "Hairspray: Em Busca da Fama",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6xIvGhsiZeY5wKTKw8o0Fi7bey8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oO55Z71apssUy4Cf0obsK2kX3oK.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.664,
+    "tmdbId": 2976,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-da-fama.json"
+  },
+  {
+    "id": "em-busca-da-justica",
+    "tipo": "filme",
+    "titulo": "Em Busca da Justiça",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/eAqBjWgs67vzh5JhNFvIsj284G9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2mD9ymKeLNpCUejzvrwMzPkeCbP.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "FAROESTE"
+    ],
+    "nota": 5.83,
+    "tmdbId": 174751,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-da-justica.json"
+  },
+  {
+    "id": "em-busca-da-liberdade",
+    "tipo": "filme",
+    "titulo": "Em Busca da Liberdade",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mFF6kbPZZ4A3oySfW40s9CClNcg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/47DRMaLMJyOEuGJHXulW6ECjnNe.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.704,
+    "tmdbId": 346684,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-da-liberdade.json"
+  },
+  {
+    "id": "em-busca-da-verdade",
+    "tipo": "filme",
+    "titulo": "Em Busca da Verdade",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uJoUACUPB1gN1PiCATIWn4OrG6K.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": null,
+    "tmdbId": 1115142,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-da-verdade.json"
+  },
+  {
+    "id": "em-busca-da-vitoria",
+    "tipo": "filme",
+    "titulo": "Em Busca da Vitória",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/o9Jp5ItzqM0c9oL5gvLIztOMN7y.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/waUvIPIUxDRZOigwjEEOWGVIPDX.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.369,
+    "tmdbId": 30069,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-busca-da-vitoria.json"
+  },
+  {
     "id": "em-busca-da-vitoria-2019",
     "tipo": "filme",
     "titulo": "Em Busca da Vitória",
@@ -4038,304 +4344,5 @@
     "nota": 4,
     "tmdbId": 548392,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/espada-de-deus-a-ultima-cruzada.json"
-  },
-  {
-    "id": "espantalho",
-    "tipo": "filme",
-    "titulo": "Espantalho",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/sAzd46sO7weouZpEDaGuYQXXFDM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lRwNkxoe0LCXIaC3NcWB5qM8rer.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6,
-    "tmdbId": 651753,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/espantalho.json"
-  },
-  {
-    "id": "espantosa-e-horrorosa",
-    "tipo": "filme",
-    "titulo": "Alexandre e a Viagem Terrível, Horrível, Espantosa e Horrorosa",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6tkZERPpbqMzAuGu2YMLC8V4wSP.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/aJZ33UhVlInyFENbH4GK4s0k6E0.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA",
-      "4K"
-    ],
-    "nota": 6.241,
-    "tmdbId": 774100,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/espantosa-e-horrorosa.json"
-  },
-  {
-    "id": "espartalhoes",
-    "tipo": "filme",
-    "titulo": "Espartalhões",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3wvTTv6J4R53kGKP1Tj6IMcxnl.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8D3dBwSoPSGWRusbTYS8oR1tAu9.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 4.091,
-    "tmdbId": 7278,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/espartalhoes.json"
-  },
-  {
-    "id": "especial-beleza-fatal",
-    "tipo": "filme",
-    "titulo": "Especial Beleza Fatal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nXlmi60bayyqqJY85Fx9nKkRogp.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/eVAqRHbLnRD03xyVgG7wtNJY9RW.jpg",
-    "generos": [
-      "4K"
-    ],
-    "nota": 10,
-    "tmdbId": 1598778,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/especial-beleza-fatal.json"
-  },
-  {
-    "id": "especial-de-natal-porta-dos-fundos-a-primeira-tentacao-de-cristo",
-    "tipo": "filme",
-    "titulo": "Especial de Natal Porta dos Fundos: A Primeira Tentação de Cristo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/znAUgmoJKXDrCzkju51zyhtTZeN.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uUPsIfuQVDTijFg3sSh1AhVA7gh.jpg",
-    "generos": [
-      "NATALINO"
-    ],
-    "nota": 5.6,
-    "tmdbId": 652020,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/especial-de-natal-porta-dos-fundos-a-primeira-tentacao-de-cristo.json"
-  },
-  {
-    "id": "especialista-em-crise",
-    "tipo": "filme",
-    "titulo": "Especialista em Crise",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/m5UUZiCXEfaMAHIHb3ZfbvFYYi7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cZo0oHZA9dG06vkTcYR0khALAHf.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.867,
-    "tmdbId": 10317,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/especialista-em-crise.json"
-  },
-  {
-    "id": "especies-em-perigo",
-    "tipo": "filme",
-    "titulo": "Espécies em Perigo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/irlz2mCcTUZXMLTUGtHTs1JwnFx.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/A0xW7GgeFQoQmPOn7HcHkBQ5nlb.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.716,
-    "tmdbId": 817451,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/especies-em-perigo.json"
-  },
-  {
-    "id": "espelho-meu",
-    "tipo": "filme",
-    "titulo": "Espelho Meu",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yX3ZIoNOF6h8VIKTQDPVUJsR6W8.jpg",
-    "banner": null,
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": null,
-    "tmdbId": 546695,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/espelho-meu.json"
-  },
-  {
-    "id": "espelhos-do-medo",
-    "tipo": "filme",
-    "titulo": "Espelhos do Medo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1hnjHdVSsfnblSK1Q40cHpEumUa.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9zMbyilain3lcbX16fZwEkIBMLB.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.284,
-    "tmdbId": 13515,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/espelhos-do-medo.json"
-  },
-  {
-    "id": "esperando-os-barbaros",
-    "tipo": "filme",
-    "titulo": "Esperando os Bárbaros",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/n4rZH8kkE3fxPJbYJREXFXXePmq.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/l0vUzd701TzvN3jywXex9G01zpd.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 5.925,
-    "tmdbId": 505707,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/esperando-os-barbaros.json"
-  },
-  {
-    "id": "esperando-pela-chuva",
-    "tipo": "filme",
-    "titulo": "Esperando Pela Chuva",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6JOmpLCtPFyFUKF1dugh8QpAr8Y.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sFdw6IINCaXBhi3WKWuwaf0vtxu.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 5.9,
-    "tmdbId": 656159,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/esperando-pela-chuva.json"
-  },
-  {
-    "id": "espetaculo-de-sangue",
-    "tipo": "filme",
-    "titulo": "Espetáculo de Sangue",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/2bWAMWmwULOehWD1Ge7GOJ7Kksc.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cMpnczREJPgDAE8HDvnfLqtBre5.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.681,
-    "tmdbId": 42689,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/espetaculo-de-sangue.json"
-  },
-  {
-    "id": "espiao-por-acidente",
-    "tipo": "filme",
-    "titulo": "Espião por Acidente",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1kdhlCXBRZWhJTODezC4lJKiDFy.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2vQfPfzcFylZdPUBN6yNRusqe5X.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6,
-    "tmdbId": 11847,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/espiao-por-acidente.json"
-  },
-  {
-    "id": "espioes-sem-rosto",
-    "tipo": "filme",
-    "titulo": "Espiões Sem Rosto",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/j1oS0hE1uD19yTvNffDjc0QEKHU.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/eYFImyTNHVbm6NH5IQe6djw1BAR.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.071,
-    "tmdbId": 12505,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/espioes-sem-rosto.json"
-  },
-  {
-    "id": "espionagem-em-londres",
-    "tipo": "filme",
-    "titulo": "Espionagem em Londres",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/asP02uJm1ziJnm7FY3U7lvVAt5f.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xyWgUmrQyo29PRVcsmAFIIxAeWR.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.5,
-    "tmdbId": 734819,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/espionagem-em-londres.json"
-  },
-  {
-    "id": "espionagem-em-londres-2020",
-    "tipo": "filme",
-    "titulo": "Espionagem em Londres",
-    "ano": 2020,
-    "capa": "https://image.tmdb.org/t/p/w500/asP02uJm1ziJnm7FY3U7lvVAt5f.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xyWgUmrQyo29PRVcsmAFIIxAeWR.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.5,
-    "tmdbId": 734819,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/espionagem-em-londres-2020.json"
-  },
-  {
-    "id": "espiral-de-violencia",
-    "tipo": "filme",
-    "titulo": "Espiral de Violência",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pJaZoEXO7UECELw98Amm8sbuG9W.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jc2yc0ogabwS9eryK2WorQNiZxW.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6,
-    "tmdbId": 1187125,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/espiral-de-violencia.json"
-  },
-  {
-    "id": "espiral-o-legado-de-jogos-mortais",
-    "tipo": "filme",
-    "titulo": "Espiral: O Legado de Jogos Mortais",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jJ7eIqsVLtRwLCX6KeJNeQYjPar.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/g15PR8eQV9DehSWlagvdnJZqoRq.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.897,
-    "tmdbId": 602734,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/espiral-o-legado-de-jogos-mortais.json"
-  },
-  {
-    "id": "espirito-de-familia",
-    "tipo": "filme",
-    "titulo": "Espírito de Família",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/a621qVL1n3d7sKSx9MJb4GhVqmt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xlqYq0ry7OPpoLZboUW9jeonisU.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.5,
-    "tmdbId": 308151,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/espirito-de-familia.json"
-  },
-  {
-    "id": "espirito-jovem",
-    "tipo": "filme",
-    "titulo": "Espírito Jovem",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zEZlO2bjC6zS9aWaOXv8ug7Cjje.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3KvBX0KTSZgw0mVIn8vaeEkEktV.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.041,
-    "tmdbId": 440918,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/espirito-jovem.json"
-  },
-  {
-    "id": "espirito-selvagem",
-    "tipo": "filme",
-    "titulo": "Espírito Selvagem",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/sh5WND2VQl5OvKY1BXEWFTCZu2o.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7U6WJ0qri2sACtcGa0wEpM9eAM1.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 5.725,
-    "tmdbId": 21355,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/espirito-selvagem.json"
   }
 ]

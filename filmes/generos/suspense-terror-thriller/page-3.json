@@ -1,5 +1,51 @@
 [
   {
+    "id": "cemiterio-maldito-a-origem",
+    "tipo": "filme",
+    "titulo": "Cemitério Maldito - A Origem",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cTtrFUxMKUX4ZGfMfydym2AZQba.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vsrYscw6M5g1OEPxll9QTy6C9IK.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 5.556,
+    "tmdbId": 830764,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cemiterio-maldito-a-origem.json"
+  },
+  {
+    "id": "censor",
+    "tipo": "filme",
+    "titulo": "Censor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1FOEEtGFPp5cgpLfPQVMB0UNVpI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/biUrxGIyrJjMGwASrPECVbrh6w4.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.856,
+    "tmdbId": 663866,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/censor.json"
+  },
+  {
+    "id": "ceu-vermelho-sangue",
+    "tipo": "filme",
+    "titulo": "Céu Vermelho-Sangue",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zacyfceQWlgA1PbL7PCs8bRTPsI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/s15olg5LwRqTjgDd5KIfVXhcoqs.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 6.793,
+    "tmdbId": 760883,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ceu-vermelho-sangue.json"
+  },
+  {
     "id": "chamado-noturno",
     "tipo": "filme",
     "titulo": "Chamado Noturno",
@@ -4358,47 +4404,5 @@
     "nota": null,
     "tmdbId": null,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-26.json"
-  },
-  {
-    "id": "fascinacao-mortal-a-vinganca-27",
-    "tipo": "filme",
-    "titulo": "Fascinacao Mortal A Vinganca.27",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
-    "banner": null,
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-27.json"
-  },
-  {
-    "id": "fascinacao-mortal-a-vinganca-28",
-    "tipo": "filme",
-    "titulo": "Fascinacao Mortal A Vinganca.28",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
-    "banner": null,
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-28.json"
-  },
-  {
-    "id": "fascinacao-mortal-a-vinganca-3",
-    "tipo": "filme",
-    "titulo": "Fascinacao Mortal A Vinganca.3",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGGoBMxJBPVzc46eABFPIXxahfX.jpg",
-    "banner": null,
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/fascinacao-mortal-a-vinganca-3.json"
   }
 ]

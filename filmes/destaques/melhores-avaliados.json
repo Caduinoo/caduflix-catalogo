@@ -557,6 +557,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/juventude-e-ternura.json"
   },
   {
+    "id": "kyle-larson-e-o-double",
+    "tipo": "filme",
+    "titulo": "Kyle Larson e o Double",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yv7GVnJXG5k9vLnxpq8h4DdTkbB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nMWBf7in8treOjEiuU0rxcpKVvW.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 10,
+    "tmdbId": 1688575,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/kyle-larson-e-o-double.json"
+  },
+  {
     "id": "luccas-neto-em-uma-aventura-no-zoologico",
     "tipo": "filme",
     "titulo": "Luccas Neto em: Uma Aventura no Zoológico",
@@ -1129,20 +1143,5 @@
     "nota": 9.7,
     "tmdbId": 1646341,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rory-mcilroy-the-masters-wait.json"
-  },
-  {
-    "id": "o-terceiro-verso",
-    "tipo": "filme",
-    "titulo": "O Terceiro Verso",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qRhOZtIV8aelt1LaYRTEYaDU1X3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/z5y3dNZiyFZSqPjtUaMFknawv36.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 9.667,
-    "tmdbId": 290519,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-terceiro-verso.json"
   }
 ]

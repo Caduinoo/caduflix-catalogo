@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Alex Danyliuk cansou de viver rodeado dos diversos problemas financeiros de sua família e tomou uma decisão drástica: entrar para o mundo do crime e mudar a vida de seus pais. Ao lado de Sye e da hacker Kira, que conhecem bem o mundo obscuro da criminalidade online, eles se tornam uma pedra no sapato do mercado financeiro e chegam aos ouvidos de Z, líder da organização Anonymous.",
   "generos": [
+    "LEGENDADOS",
     "AÇÃO | CRIME | GUERRA"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/6zHdhfnreagE3Bv6n7BXtC8gk6r.jpg",
@@ -13,6 +14,13 @@
   "nota": 6.286,
   "opcoes": [
     {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11060861,
+      "container": "mp4"
+    },
+    {
       "nome": "Padrão",
       "idioma": "Não informado",
       "qualidade": "Não informado",
@@ -20,7 +28,7 @@
       "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1779613166,
+  "dataCriacaoXtream": 1779613173,
   "tituloOriginal": "Hacker",
   "dataLancamento": "2016-09-15"
 }

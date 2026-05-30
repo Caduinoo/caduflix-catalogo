@@ -391,7 +391,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/nNfRa4VVGaVkBDXXBo3a57hIHJL.jpg",
     "banner": "https://image.tmdb.org/t/p/original/hEa2aJebDQtTAG0jOz7YS8R9lPD.jpg",
     "generos": [
-      "TURCAS | MEXICANAS²"
+      "TURCAS | MEXICANAS²",
+      "TURCAS | MEXICANAS"
     ],
     "nota": 8.4,
     "tmdbId": 48041,
@@ -573,6 +574,21 @@
     "totalTemporadas": 1,
     "totalEpisodios": 5,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/30-segundos.json"
+  },
+  {
+    "id": "32-horas-seddulbahir-32-saat",
+    "tipo": "serie",
+    "titulo": "32 Horas - Seddülbahir 32 Saat",
+    "ano": null,
+    "capa": null,
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 0,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/32-horas-seddulbahir-32-saat.json"
   },
   {
     "id": "365-days-to-the-wedding",
@@ -893,6 +909,22 @@
     "totalTemporadas": 1,
     "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/8-em-istambul.json"
+  },
+  {
+    "id": "8-em-istambul-bir-baskadir",
+    "tipo": "serie",
+    "titulo": "8 em Istambul",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5VBqM6qbUrCOr5csR96MjraPAnz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/peOoKDVMbXdBMwZd9SeOxtOfCXD.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 7.7,
+    "tmdbId": 112745,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/8-em-istambul-bir-baskadir.json"
   },
   {
     "id": "8-regrinhas-basicas-para-namorar-minhas-filhas-adolescentes",
@@ -1245,6 +1277,22 @@
     "totalTemporadas": 1,
     "totalEpisodios": 149,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-agencia.json"
+  },
+  {
+    "id": "a-agencia-ligue-para-o-meu-agente-menajerimi-ara",
+    "tipo": "serie",
+    "titulo": "A Agencia - Ligue Para o Meu Agente - Menajerimi Ara",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRgfl4J0tVt3twmQ3C2zs8N5rG9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fNA0mMdHlRwVrQSRlYONmSAO8Su.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 7,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 45,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-agencia-ligue-para-o-meu-agente-menajerimi-ara.json"
   },
   {
     "id": "a-agente",
@@ -2013,6 +2061,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-caminho-do-ceu.json"
   },
   {
+    "id": "a-cancao-de-ninar-de-balkan-balkan-ninnisi",
+    "tipo": "serie",
+    "titulo": "A Cançao de Ninar de Balkan - Balkan Ninnisi",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rBsb7VeWiVNP6hq5EtDFI7SD7X.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vmW46DgZOnh8OHWzXqTXLJrwJro.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 8,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 12,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-cancao-de-ninar-de-balkan-balkan-ninnisi.json"
+  },
+  {
     "id": "a-cancao-do-samurai",
     "tipo": "serie",
     "titulo": "A Canção do Samurai",
@@ -2606,6 +2670,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-criatura.json"
   },
   {
+    "id": "a-criatura-yaratilan",
+    "tipo": "serie",
+    "titulo": "A Criatura",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1IBmmqlj4XgA57JYkVFUpWJeAr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6kC51Z17J5h7rLEokyud4bojPyr.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 6.96,
+    "tmdbId": 214081,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-criatura-yaratilan.json"
+  },
+  {
     "id": "a-crise-dos-caras",
     "tipo": "serie",
     "titulo": "A Crise dos Caras",
@@ -2958,6 +3038,69 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-enciclopedia-de-istambul.json"
   },
   {
+    "id": "a-enciclopedia-de-istambul-istanbul-ansiklopedisi",
+    "tipo": "serie",
+    "titulo": "A Enciclopédia de Istambul",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qQWoQCEVAmy3rROkbydP7ogKgv8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uLrgsKBc3SLHmF4ReRy03jP2ZzI.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 5.8,
+    "tmdbId": 278004,
+    "totalTemporadas": 1,
+    "totalEpisodios": 8,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-enciclopedia-de-istambul-istanbul-ansiklopedisi.json"
+  },
+  {
+    "id": "a-epopeia-da-arvore-negra-kara-agac-destan",
+    "tipo": "serie",
+    "titulo": "A Epopeia da arvore Negra - Kara Ağaç Destanı",
+    "ano": null,
+    "capa": null,
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 0,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 30,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-epopeia-da-arvore-negra-kara-agac-destan.json"
+  },
+  {
+    "id": "a-era-das-tulipas-lale-devri",
+    "tipo": "serie",
+    "titulo": "A Era das Tulipas - Lale Devri",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKjUVnDcCRoOGrija4GDuKPuzML.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zsCOeqTDfalPKmmqoV4RRFlpexa.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 5,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 11,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-era-das-tulipas-lale-devri.json"
+  },
+  {
+    "id": "a-era-do-gelo-icerde",
+    "tipo": "serie",
+    "titulo": "A Era do Gelo - Icerde",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cf0BfoQKBrnGRNQEsIC86z1vApg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/d6bd55iIpEd5iuTSxJNvW4ATdwq.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 7,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 38,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-era-do-gelo-icerde.json"
+  },
+  {
     "id": "a-era-dos-dados",
     "tipo": "serie",
     "titulo": "A Era dos Dados",
@@ -3052,6 +3195,54 @@
     "totalTemporadas": 1,
     "totalEpisodios": 31,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-escolha.json"
+  },
+  {
+    "id": "a-escolha-babil",
+    "tipo": "serie",
+    "titulo": "A Escolha",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ojNBwSNzIje9hyJkYLIbKXwt10N.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xQIXAaorpH8SW9tzzRHnQVfQoBG.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 5.889,
+    "tmdbId": 97293,
+    "totalTemporadas": 1,
+    "totalEpisodios": 31,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-escolha-babil.json"
+  },
+  {
+    "id": "a-escolhida-elk-z",
+    "tipo": "serie",
+    "titulo": "A Escolhida - Elkızı",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyuyVUMu6koCruwBZtjo5lTCn7x.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sJ1yTK7lJAQBG11tm7f9WNbweWR.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 8,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 13,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-escolhida-elk-z.json"
+  },
+  {
+    "id": "a-escolhida-o-canto-do-passaro-yali-capkini",
+    "tipo": "serie",
+    "titulo": "O Canto do Pássaro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1nJA6ARS2UCZi3iyP0JnVUPPf2n.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vDqCoaMU5FUAuUs0EvL4OAUCxJk.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 8.297,
+    "tmdbId": 210865,
+    "totalTemporadas": 3,
+    "totalEpisodios": 332,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-escolhida-o-canto-do-passaro-yali-capkini.json"
   },
   {
     "id": "a-escolinha-do-golias",
@@ -3166,6 +3357,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-estrada-de-lichia.json"
   },
   {
+    "id": "a-estranha-no-espelho-aynadaki-yabanci",
+    "tipo": "serie",
+    "titulo": "A Estranha no Espelho - Aynadaki Yabanci",
+    "ano": null,
+    "capa": null,
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 0,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 7,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-estranha-no-espelho-aynadaki-yabanci.json"
+  },
+  {
     "id": "a-etica-do-silencio",
     "tipo": "serie",
     "titulo": "A Ética do Silêncio",
@@ -3260,6 +3466,38 @@
     "totalTemporadas": 1,
     "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-familia-baldwin.json"
+  },
+  {
+    "id": "a-familia-do-meu-marido-kocam-n-ailesi",
+    "tipo": "serie",
+    "titulo": "A Familia do meu Marido - Kocamın Ailesi",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LSdbSl7g2gPsC7HZdmnOubT5yr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hE8ChyCcSdcaoSqLNn6xEBIGDXy.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 6,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 26,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-familia-do-meu-marido-kocam-n-ailesi.json"
+  },
+  {
+    "id": "a-familia-e-um-teste-a-b-i-aile-bir-imtihandir",
+    "tipo": "serie",
+    "titulo": "A Familia e um Teste - A.B.I. - Aile Bir Imtihandir",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLRKKJtsLWGVSGd5exT3fz4hibb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pGGfpAmNT3Ru2opCFPjUdOnohyi.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 8,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 16,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-familia-e-um-teste-a-b-i-aile-bir-imtihandir.json"
   },
   {
     "id": "a-familia-hathaway",
@@ -3470,6 +3708,70 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-flor-mais-bela.json"
   },
   {
+    "id": "a-forca-do-amor-kizilcik-serbeti",
+    "tipo": "serie",
+    "titulo": "A Força do Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fXATVTtJDNizWjKpHgJEZegr6R2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3paG54nO8n9U8Wmi9NqE5JYOHo7.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 6.7,
+    "tmdbId": 213194,
+    "totalTemporadas": 3,
+    "totalEpisodios": 340,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-forca-do-amor-kizilcik-serbeti.json"
+  },
+  {
+    "id": "a-forca-do-amor-sevdam-alabora",
+    "tipo": "serie",
+    "titulo": "A Forca do Amor - Sevdam Alabora",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXATVTtJDNizWjKpHgJEZegr6R2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3paG54nO8n9U8Wmi9NqE5JYOHo7.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 7,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-forca-do-amor-sevdam-alabora.json"
+  },
+  {
+    "id": "a-forca-do-amor-sorvete-de-cranberry-kizilcik-serbeti",
+    "tipo": "serie",
+    "titulo": "A Forca do Amor - Sorvete de Cranberry - Kizilcik Serbeti",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXATVTtJDNizWjKpHgJEZegr6R2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3paG54nO8n9U8Wmi9NqE5JYOHo7.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 7,
+    "tmdbId": null,
+    "totalTemporadas": 2,
+    "totalEpisodios": 27,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-forca-do-amor-sorvete-de-cranberry-kizilcik-serbeti.json"
+  },
+  {
+    "id": "a-forca-do-destino-cennet-in-gozyaslari",
+    "tipo": "serie",
+    "titulo": "A Forca do Destino - Cennet in Gozyaslari",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sU2rwzyOtJnuH4skf0gh65wpm3h.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uGk2W0XWhz6d66MmKE8FuJCEMBx.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 8,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 116,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-forca-do-destino-cennet-in-gozyaslari.json"
+  },
+  {
     "id": "a-forca-do-querer",
     "tipo": "serie",
     "titulo": "A Força do Querer",
@@ -3579,6 +3881,21 @@
     "totalTemporadas": 1,
     "totalEpisodios": 8,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-furia-de-paris.json"
+  },
+  {
+    "id": "a-gaiola-dourada-alt-n-kafes",
+    "tipo": "serie",
+    "titulo": "A Gaiola Dourada - Altın Kafes",
+    "ano": null,
+    "capa": null,
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 0,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 4,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-gaiola-dourada-alt-n-kafes.json"
   },
   {
     "id": "a-gangue-da-luva-verde",
@@ -4189,6 +4506,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-hora-do-diabo.json"
   },
   {
+    "id": "a-horda-dourada",
+    "tipo": "serie",
+    "titulo": "A Horda Dourada",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxbOJGdoJ6dCdPPuMRiEgLptr3i.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/uaXqpI38MQtLhaE0kDxspiMm1jh.jpg",
+    "generos": [
+      "TURCAS | MEXICANAS"
+    ],
+    "nota": 0,
+    "tmdbId": null,
+    "totalTemporadas": 1,
+    "totalEpisodios": 16,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-horda-dourada.json"
+  },
+  {
     "id": "a-hospede",
     "tipo": "serie",
     "titulo": "A Hóspede",
@@ -4459,341 +4792,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 151,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-intrusa.json"
-  },
-  {
-    "id": "a-inundacao-do-milenio",
-    "tipo": "serie",
-    "titulo": "A Inundação do Milênio",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/siALqcr4el9rHhvxfx5oXX4WIX6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/786hICnGF8TYBykbFJ9Q8sRMH0I.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 6.776,
-    "tmdbId": 130477,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-inundacao-do-milenio.json"
-  },
-  {
-    "id": "a-irma-do-meio",
-    "tipo": "serie",
-    "titulo": "A Irmã do Meio",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/bLbwlZzhiA1jWjoCvjpowLipq0J.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4yFC6KpX7bq45qNulUgP57wWP3r.jpg",
-    "generos": [
-      "DISNEY+"
-    ],
-    "nota": 7.7,
-    "tmdbId": 65291,
-    "totalTemporadas": 1,
-    "totalEpisodios": 17,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-irma-do-meio.json"
-  },
-  {
-    "id": "a-isca",
-    "tipo": "serie",
-    "titulo": "A Isca",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oJr0vrpzW3UI7ev1daY9eiKfd1u.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vk7AdYfhmCuWsRrTPMg7Yif8AAt.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 6.375,
-    "tmdbId": 257519,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-isca.json"
-  },
-  {
-    "id": "a-jogada-da-vitoria",
-    "tipo": "serie",
-    "titulo": "A Jogada da Vitória",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ilYn5vYyhigN6wmVBs7dH2TJ7LS.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/c7hvVM7wky5XdsnWSdAOGrQbaaC.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 8.586,
-    "tmdbId": 250463,
-    "totalTemporadas": 1,
-    "totalEpisodios": 12,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-jogada-da-vitoria.json"
-  },
-  {
-    "id": "a-jogadora-2025",
-    "tipo": "serie",
-    "titulo": "A Jogadora",
-    "ano": 2025,
-    "capa": "https://image.tmdb.org/t/p/w500/vyvsJk2eBoLPYUgy4Y5fbjCrqgH.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/AcWD3xRx0nXVF178vqlL7Qtoa0N.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 6.143,
-    "tmdbId": 291459,
-    "totalTemporadas": 1,
-    "totalEpisodios": 12,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-jogadora-2025.json"
-  },
-  {
-    "id": "a-jornada-da-lenda",
-    "tipo": "serie",
-    "titulo": "A Jornada da Lenda",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6w63DQzFY7S5dg9e0L57S9LfLSn.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7dH63uoQDQu6pfYJLNKQYLXJ38m.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 7,
-    "tmdbId": 263034,
-    "totalTemporadas": 1,
-    "totalEpisodios": 40,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-jornada-da-lenda.json"
-  },
-  {
-    "id": "a-jornada-heroica-do-principe-ivandoe",
-    "tipo": "serie",
-    "titulo": "A Jornada Heroica do Príncipe Ivandoé",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xnqDc8dskwA0ThU4TjQsniUrXL0.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/b3AEDhjeiqjv33wNDJMw332i0OA.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 7.6,
-    "tmdbId": 75367,
-    "totalTemporadas": 5,
-    "totalEpisodios": 37,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-jornada-heroica-do-principe-ivandoe.json"
-  },
-  {
-    "id": "a-journey-through-another-world-raising-kids-while-adventuring",
-    "tipo": "serie",
-    "titulo": "A Journey Through Another World: Raising Kids While Adventuring",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1uAbyIVfe1LQQnLCX0dlAiUx1yP.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1MoXMLA1pEQNh9l61f9NsxndVM7.jpg",
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": 7.205,
-    "tmdbId": 240633,
-    "totalTemporadas": 1,
-    "totalEpisodios": 11,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-journey-through-another-world-raising-kids-while-adventuring.json"
-  },
-  {
-    "id": "a-juiza-do-inferno",
-    "tipo": "serie",
-    "titulo": "A Juíza do Inferno",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iRbJ9bPnoLDgvmsVJcp4cpPzWIJ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dNwVnRWE4LRLJ9f3WIWOnIURPwn.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 8.519,
-    "tmdbId": 235577,
-    "totalTemporadas": 1,
-    "totalEpisodios": 14,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-juiza-do-inferno.json"
-  },
-  {
-    "id": "a-killer-paradox",
-    "tipo": "serie",
-    "titulo": "A Killer Paradox",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dNZyFS8iviJQiBTieLe76iatcxn.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/viQZtznvR20oTTSbXp6MPAWkGB2.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 7.369,
-    "tmdbId": 202783,
-    "totalTemporadas": 1,
-    "totalEpisodios": 8,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-killer-paradox.json"
-  },
-  {
-    "id": "a-lei-e-o-crime",
-    "tipo": "serie",
-    "titulo": "A Lei e o Crime",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/38M0eEKfpZvtckmr3sry8UCUxHx.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4wkpQnDtj6Me6itOlDUdxj3o9p8.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 4.7,
-    "tmdbId": 16400,
-    "totalTemporadas": 1,
-    "totalEpisodios": 21,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-lei-e-o-crime.json"
-  },
-  {
-    "id": "a-lenda-da-generala",
-    "tipo": "serie",
-    "titulo": "A Lenda da Generala",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/u30rXyglmxL2U0YLIhjBsHrEjtE.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mwiG510fVcOrzWUSDSV7B5tRMrb.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 8.029,
-    "tmdbId": 240686,
-    "totalTemporadas": 1,
-    "totalEpisodios": 36,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-lenda-da-generala.json"
-  },
-  {
-    "id": "a-lenda-de-lady-ferrari",
-    "tipo": "serie",
-    "titulo": "A Lenda de Lady Ferrari",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/e514tqmZnLAwW6qajz2bChGoPOq.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kHPGHo3wgBmKfZYAO2P0Wkj0fyF.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 3,
-    "tmdbId": 98680,
-    "totalTemporadas": 1,
-    "totalEpisodios": 12,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-lenda-de-lady-ferrari.json"
-  },
-  {
-    "id": "a-lenda-de-shahmaran",
-    "tipo": "serie",
-    "titulo": "A Lenda de Shahmaran",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1fKsga4dTxTRNFp1ktUWUa7P1Ib.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/bkdZHK0Nh1YaRXkk2j8vUGYQd6i.jpg",
-    "generos": [
-      "TURCAS | MEXICANAS"
-    ],
-    "nota": 6.7,
-    "tmdbId": 214078,
-    "totalTemporadas": 2,
-    "totalEpisodios": 14,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-lenda-de-shahmaran.json"
-  },
-  {
-    "id": "a-lenda-de-shenli",
-    "tipo": "serie",
-    "titulo": "A Lenda de ShenLi",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/33P9LPNomp3qJsoXwOPvpBSrPCF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4J8znHxVaZY3vKb05IWqWfzczXR.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 8.5,
-    "tmdbId": 207668,
-    "totalTemporadas": 1,
-    "totalEpisodios": 39,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-lenda-de-shenli.json"
-  },
-  {
-    "id": "a-lenda-de-sleepy-hollow",
-    "tipo": "serie",
-    "titulo": "A Lenda de Sleepy Hollow",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/xloe1l4RLrupq49YT0Z6dyl3lce.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jHkeqXYUU4khZEig88AFLMUOmep.jpg",
-    "generos": [
-      "APPLE+"
-    ],
-    "nota": 7.429,
-    "tmdbId": 50825,
-    "totalTemporadas": 4,
-    "totalEpisodios": 61,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-lenda-de-sleepy-hollow.json"
-  },
-  {
-    "id": "a-lenda-de-vox-machina",
-    "tipo": "serie",
-    "titulo": "A Lenda de Vox Machina",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hgQ1sQybq3pvdQcaYE18TR3CqRL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xRQNXmR9HG32FJqaRh8TqVUMfTA.jpg",
-    "generos": [
-      "AMAZON PRIME"
-    ],
-    "nota": 8.213,
-    "tmdbId": 135934,
-    "totalTemporadas": 3,
-    "totalEpisodios": 36,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-lenda-de-vox-machina.json"
-  },
-  {
-    "id": "a-lenda-de-zhuohua",
-    "tipo": "serie",
-    "titulo": "A Lenda de Zhuohua",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ql2IbB0Fo40m2wORPTgpxNM8rKx.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/176XSgarT3rc4qwvlx6MhBY7fxI.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 6.6,
-    "tmdbId": 229210,
-    "totalTemporadas": 1,
-    "totalEpisodios": 40,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-lenda-de-zhuohua.json"
-  },
-  {
-    "id": "a-lenda-do-tesouro-perdido-no-limiar-da-historia",
-    "tipo": "serie",
-    "titulo": "A Lenda do Tesouro Perdido: No Limiar da História",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/dCYWk5cqGLaQ1pqXgV8AxeNGoCh.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/y2s4Xdi99Mu2Nh85Y89YZrbY5r6.jpg",
-    "generos": [
-      "DISNEY+"
-    ],
-    "nota": 6.754,
-    "tmdbId": 137437,
-    "totalTemporadas": 1,
-    "totalEpisodios": 10,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-lenda-do-tesouro-perdido-no-limiar-da-historia.json"
-  },
-  {
-    "id": "a-licao",
-    "tipo": "serie",
-    "titulo": "A Lição",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/bnTXjwOwdUz8MKFyQCNf0hG4fdL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/AjwoDj77HLlqcpwEGqsnvMXm5my.jpg",
-    "generos": [
-      "DORAMAS"
-    ],
-    "nota": 8.464,
-    "tmdbId": 136283,
-    "totalTemporadas": 1,
-    "totalEpisodios": 16,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-licao.json"
-  },
-  {
-    "id": "a-linha-invisivel",
-    "tipo": "serie",
-    "titulo": "A Linha Invisível",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4evwYwGpGjW3XWlyBSFh7hSpdCC.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cg3ZraNmvCgjLO6JpV7xKRFnBNv.jpg",
-    "generos": [
-      "OUTRAS PRODUTORAS"
-    ],
-    "nota": 6.5,
-    "tmdbId": 95925,
-    "totalTemporadas": 1,
-    "totalEpisodios": 6,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-linha-invisivel.json"
   }
 ]

@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Um filme histórico sobre o cerco da Fortaleza de Ansi e os épicos oitenta e oito dias de batalha quando Yang Man-chun e as tropas de Goguryeo lutaram contra 500.000 homens invasores da dinastia Tang para defendê-lo.",
   "generos": [
+    "LEGENDADOS",
     "AÇÃO | CRIME | GUERRA"
   ],
   "capa": "https://image.tmdb.org/t/p/w500/uFRIkBs1t0RBonzlkO2Ix27oTqA.jpg",
@@ -13,6 +14,13 @@
   "nota": 6.8,
   "opcoes": [
     {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050442,
+      "container": "mp4"
+    },
+    {
       "nome": "Padrão",
       "idioma": "Não informado",
       "qualidade": "Não informado",
@@ -20,7 +28,7 @@
       "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1779198810,
+  "dataCriacaoXtream": 1779198819,
   "tituloOriginal": "안시성",
   "dataLancamento": "2018-09-19"
 }

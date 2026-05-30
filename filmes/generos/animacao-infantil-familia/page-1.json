@@ -202,6 +202,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-caminho-da-lua.json"
   },
   {
+    "id": "a-cancao-do-mar",
+    "tipo": "filme",
+    "titulo": "A Canção do Mar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/39aOJwueG1BX1OZqNdm9tnMUVjE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mVLZvSe1Aa8CFKx0cInTamVZJrW.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.994,
+    "tmdbId": 110416,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-cancao-do-mar.json"
+  },
+  {
     "id": "a-carta-de-natal",
     "tipo": "filme",
     "titulo": "A Carta de Natal",
@@ -1253,6 +1267,20 @@
     "nota": 8.222,
     "tmdbId": 995133,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-raposa-e-o-cavalo.json"
+  },
+  {
+    "id": "a-ratinha-valente",
+    "tipo": "filme",
+    "titulo": "A Ratinha Valente",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ydHOcvSIZNgp80r5fCrJf8jBevR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4Q0C49l6KkRbnVlE3N86IljtAXH.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.5,
+    "tmdbId": 11704,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ratinha-valente.json"
   },
   {
     "id": "a-rinoceronte",
@@ -4324,36 +4352,5 @@
     "nota": 7.678,
     "tmdbId": 13187,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/charlie-brown.json"
-  },
-  {
-    "id": "charlie-brown-s-all-stars",
-    "tipo": "filme",
-    "titulo": "Charlie Brown's All-Stars!",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/43yzLBevC6lprNslYejaLrQyydZ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/y7S1JNJ9g9Qa5tsZ2ths8B3FQuK.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.5,
-    "tmdbId": 52952,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/charlie-brown-s-all-stars.json"
-  },
-  {
-    "id": "charlie-o-super-cao",
-    "tipo": "filme",
-    "titulo": "Charlie: O Super Cão",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/uvXHs10CYWRyerGSX2WuN2dzxse.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2skPNvhiF3B0pUigNm1L5KLWvrk.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA",
-      "LANÇAMENTOS"
-    ],
-    "nota": 6.605,
-    "tmdbId": 1276521,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/charlie-o-super-cao.json"
   }
 ]

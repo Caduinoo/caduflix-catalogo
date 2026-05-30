@@ -1,5 +1,533 @@
 [
   {
+    "id": "dates-de-formatura",
+    "tipo": "filme",
+    "titulo": "Dates de Formatura",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kPsne0NJ3pS3QdAh4T0h2z0i56u.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/57IDXM3ULgE1BvpS3stJhTaytjq.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 5.372,
+    "tmdbId": 1227780,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dates-de-formatura.json"
+  },
+  {
+    "id": "dave-chappelle-sonhador",
+    "tipo": "filme",
+    "titulo": "Dave Chappelle: Sonhador",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/AfRIwykHu9taHgq9DHktdwVLmWC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7cFqrkl1CGOGYyGntgPRqQqbafn.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.903,
+    "tmdbId": 1215439,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dave-chappelle-sonhador.json"
+  },
+  {
+    "id": "davi-nasce-um-rei",
+    "tipo": "filme",
+    "titulo": "Davi: Nasce Um Rei",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kr5Owq7ixs2gsOMZm1MferN8qZX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mZ6J2g6HCV2gj3iuCdSxcyBXq9c.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA",
+      "4K"
+    ],
+    "nota": 8.058,
+    "tmdbId": 1167307,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/davi-nasce-um-rei.json"
+  },
+  {
+    "id": "david-contra-os-bancos",
+    "tipo": "filme",
+    "titulo": "David contra os Bancos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nYM7ooxIqyMcywcC1QDanyc9Hh8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wcka0WH6otb1xueWk62Rpxqh3nm.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.8,
+    "tmdbId": 937220,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/david-contra-os-bancos.json"
+  },
+  {
+    "id": "david-e-os-duendes-de-natal",
+    "tipo": "filme",
+    "titulo": "David e os Duendes de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bGAkhpLoDsNddSRybFsrNM6kfAF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/13MNZaAKNoSZpOs5HULVNQwZYjB.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 6.1,
+    "tmdbId": 882093,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/david-e-os-duendes-de-natal.json"
+  },
+  {
+    "id": "dc-liga-dos-superpets",
+    "tipo": "filme",
+    "titulo": "DC Liga dos Superpets",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/k7WPHoOczduva8rI0UPnnrOTRXH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xfNHRI2f5kHGvogxLd0C5sB90L7.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA",
+      "4K"
+    ],
+    "nota": 7.156,
+    "tmdbId": 539681,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dc-liga-dos-superpets.json"
+  },
+  {
+    "id": "dc-showcase-superman-e-shazam-o-retorno-do-adao-negro",
+    "tipo": "filme",
+    "titulo": "DC Showcase: Superman & Shazam! - O Retorno do Adão Negro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4KL9OHLaXtWkymC8ib5fhDR5ITQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kLgVWIK20xWWcIubbHqqLeuxSzY.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.05,
+    "tmdbId": 43641,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dc-showcase-superman-e-shazam-o-retorno-do-adao-negro.json"
+  },
+  {
+    "id": "dc-showcase-the-phantom-stranger",
+    "tipo": "filme",
+    "titulo": "DC Showcase: Vingador Fantasma",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/akauuYAyzR07bIYtZzFAqzguhp6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vQkGZ0u9E8PgBbjg8vo61KHxQDc.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.73,
+    "tmdbId": 618352,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dc-showcase-the-phantom-stranger.json"
+  },
+  {
+    "id": "de-agora-em-diante",
+    "tipo": "filme",
+    "titulo": "De Agora Em Diante",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sl7uXQhX8IM5rdiHbRWHdv4pKKB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/q2gBEVJmmUZjnGYO0afNGPi5Pxm.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.2,
+    "tmdbId": 779548,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-agora-em-diante.json"
+  },
+  {
+    "id": "de-cabelos-em-pe",
+    "tipo": "filme",
+    "titulo": "De Cabelos em Pé",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/efBqrNubCcWbL6qeZj41KB2c0gj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/t3zwpukBDm3URvXXiPg0wfMkrtV.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 5.906,
+    "tmdbId": 17203,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-cabelos-em-pe.json"
+  },
+  {
+    "id": "de-carona-com-o-perigo",
+    "tipo": "filme",
+    "titulo": "De Carona com o Perigo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rXR7NnlT4XLpJ1HnrpJzNZbit3b.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bk9XwFgsRrheh8bZbjZD4wdH3kA.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 4.9,
+    "tmdbId": 539797,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-carona-com-o-perigo.json"
+  },
+  {
+    "id": "de-corpo-e-alma",
+    "tipo": "filme",
+    "titulo": "De Corpo e Alma",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmvyURT2GXOHZ1QwQ2vkpZrGUjN.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": null,
+    "tmdbId": 110251,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-corpo-e-alma.json"
+  },
+  {
+    "id": "de-costas-para-o-mundo",
+    "tipo": "filme",
+    "titulo": "De Costas Para o Mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/74exd8HNYE3ERzuJWvJ6ifuVUkL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vEKNoA6Rf2FBsxIySq7bZjFCc7v.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": null,
+    "tmdbId": 951476,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-costas-para-o-mundo.json"
+  },
+  {
+    "id": "de-dentro-da-escuridao",
+    "tipo": "filme",
+    "titulo": "De Dentro da Escuridão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6ngnGcJOSUQBp1GWAIFkQWkMJMo.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8VZt1Uo07F3CMhzpl8BjIzVOdBh.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.304,
+    "tmdbId": 1202863,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-dentro-da-escuridao.json"
+  },
+  {
+    "id": "de-encontro-com-o-amor",
+    "tipo": "filme",
+    "titulo": "De Encontro com o Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zAugaFKkGYjM5UwPbt1YitvoWmc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qT04pLZst3z1HVRhpIzTVGc17wF.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.2,
+    "tmdbId": 12547,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-encontro-com-o-amor.json"
+  },
+  {
+    "id": "de-ferias-da-familia",
+    "tipo": "filme",
+    "titulo": "De Férias da Família",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mGPFbEmWdaDVxO5V64xYwv6v8j.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5FFpcmPzD5mhLom7bymZq7Py8eT.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 5.855,
+    "tmdbId": 862551,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-ferias-da-familia.json"
+  },
+  {
+    "id": "de-ferias-para-o-amor",
+    "tipo": "filme",
+    "titulo": "De Férias para o Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/67Q6ga3DoVnTkxmFsW1p5hbTMMC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4rvufaSiInmntRlKYF0O6BhYYe8.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.4,
+    "tmdbId": 893222,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-ferias-para-o-amor.json"
+  },
+  {
+    "id": "de-frente",
+    "tipo": "filme",
+    "titulo": "Linha de Frente",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/eDkJozkyJ2izomuyeo0H4tSGpVd.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/259QYLcZEkTqwAZAWSC5GeSthaF.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.939,
+    "tmdbId": 204082,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-frente.json"
+  },
+  {
+    "id": "de-maos-atadas",
+    "tipo": "filme",
+    "titulo": "De Mãos Atadas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6VATA27N5XyMEyFGjLrYuAiltEt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9ZHjMUGGWKhYL4vasJvcVDaVuYh.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 3.5,
+    "tmdbId": 1045170,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-maos-atadas.json"
+  },
+  {
+    "id": "de-novo-natal",
+    "tipo": "filme",
+    "titulo": "De Novo Natal?",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mo13I9sQURkQCkGxbNjMSiUkGsI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mFDUO48v1Cik3MToFgBsF2Milvv.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 6.578,
+    "tmdbId": 762879,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-novo-natal.json"
+  },
+  {
+    "id": "de-novo",
+    "tipo": "filme",
+    "titulo": "De Novo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vuQhFSCS2dKsoaxOY7wkuzmM9pg.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA",
+      "4K"
+    ],
+    "nota": null,
+    "tmdbId": 233168,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-novo.json"
+  },
+  {
+    "id": "de-olhos-bem-abertos",
+    "tipo": "filme",
+    "titulo": "De Olhos Bem Abertos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mgteCoPVupMqCj9HjWcWki1gZjF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7U6sslMcPXPs9MIH5IvAl8ttTth.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "LANÇAMENTOS"
+    ],
+    "nota": 5.271,
+    "tmdbId": 1530127,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-olhos-bem-abertos.json"
+  },
+  {
+    "id": "de-olhos-bem-fechados",
+    "tipo": "filme",
+    "titulo": "De Olhos Bem Fechados",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pmU8WQ2fOdxLuYaNe1kHE2L8SlI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aC6wW62V6b0csr5iUnbOjYAqfhg.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 7.5,
+    "tmdbId": 345,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-olhos-bem-fechados.json"
+  },
+  {
+    "id": "de-portas-abertas-para-o-natal",
+    "tipo": "filme",
+    "titulo": "De Portas Abertas Para o Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/unx4NqfNrgjQakldngLN8fIDxYX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/24ZhTVRu36SwwiCi4urE1IqYspl.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 5,
+    "tmdbId": 1014038,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-portas-abertas-para-o-natal.json"
+  },
+  {
+    "id": "de-repente-70",
+    "tipo": "filme",
+    "titulo": "De Repente 70",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fvPQQKCTbMRK4Mo6C91nPVcjFeA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wVxXFz8VLmUts2dpJ0rK38Mi4Qv.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA",
+      "4K"
+    ],
+    "nota": 5.459,
+    "tmdbId": 808087,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-repente-70.json"
+  },
+  {
+    "id": "de-repente-e-amor",
+    "tipo": "filme",
+    "titulo": "De Repente é Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tapstDw4Wi0VJwUIBV1CczvK3M4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kRpzc3knsyOzLFOi4C4ZUbLPScu.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 6.829,
+    "tmdbId": 8976,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-repente-e-amor.json"
+  },
+  {
+    "id": "de-repente-o-amor-acontece",
+    "tipo": "filme",
+    "titulo": "De Repente o Amor Acontece",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dGGjlCUklKmBKXEKuTh0seMMIX3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7jHw8bU4KqL4tv0MH3aYBsJ56f2.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 5.8,
+    "tmdbId": 767350,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-repente-o-amor-acontece.json"
+  },
+  {
+    "id": "de-repente-pai",
+    "tipo": "filme",
+    "titulo": "De Repente Pai",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4iviSGM2KWEUDhU4m8ujyN9MI6K.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sbFcNaLJUwMr4XlqwfJiZhy7c6u.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.249,
+    "tmdbId": 146239,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-repente-pai.json"
+  },
+  {
+    "id": "de-repente-e-natal",
+    "tipo": "filme",
+    "titulo": "De Repente... É Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4fZOZSJYEWcp8MboU8AHH3Db8tP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nHVu6GrQy0LZbMrZxh6c1ApdCHw.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 5.354,
+    "tmdbId": 981987,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-repente-e-natal.json"
+  },
+  {
+    "id": "de-roger-corman-corrida-mortal-2050",
+    "tipo": "filme",
+    "titulo": "De Roger Corman Corrida Mortal",
+    "ano": 2050,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVLgEozCt7Sws03V2dIVphBsFYK.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-roger-corman-corrida-mortal-2050.json"
+  },
+  {
+    "id": "de-sombra-e-silencio",
+    "tipo": "filme",
+    "titulo": "De Sombra e Silêncio",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dOuPJKkK6ks5V435jgrANVD0OyO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xD0mGhKI7aYwu7Sdw9J6jSfTgqR.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.8,
+    "tmdbId": 1027618,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-sombra-e-silencio.json"
+  },
+  {
+    "id": "de-tirar-o-folego",
+    "tipo": "filme",
+    "titulo": "De Tirar o Fôlego",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pmIXPqjZl50UP2dbglEKDfOOBZV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8J0gmuwmq8z7TI4YuWDTclHoB75.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.6,
+    "tmdbId": 1058647,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-tirar-o-folego.json"
+  },
+  {
+    "id": "de-tyler-perry-duplicidade",
+    "tipo": "filme",
+    "titulo": "De Tyler Perry: Duplicidade",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qo2NF3cybNajzf1nP71X3KQk7AJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qSh3Aav8Kcoe2D2Azr8Bh1J0HAa.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA",
+      "4K"
+    ],
+    "nota": 6.561,
+    "tmdbId": 1145725,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-tyler-perry-duplicidade.json"
+  },
+  {
+    "id": "de-tyler-perry-em-busca-da-felicidade",
+    "tipo": "filme",
+    "titulo": "De Tyler Perry: Em Busca da Felicidade",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iMs19K15L0Z7tWrlQRCN51uRn99.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ss8aaeGyPRmOs9l9o9lL7FvcmbQ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.9,
+    "tmdbId": 1252382,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-tyler-perry-em-busca-da-felicidade.json"
+  },
+  {
+    "id": "de-volta-a-acao",
+    "tipo": "filme",
+    "titulo": "De Volta à Ação",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/m4gzzzeYRmrwasrBdJmjhBmjS3U.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mkxGpqh4yOYqtENv01IrDcesFRf.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "4K"
+    ],
+    "nota": 6.433,
+    "tmdbId": 993710,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-volta-a-acao.json"
+  },
+  {
     "id": "de-volta-a-ativa",
     "tipo": "filme",
     "titulo": "De Volta à Ativa",
@@ -148,6 +676,36 @@
     "nota": 7.259,
     "tmdbId": 948163,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-volta-aos-dinossauros.json"
+  },
+  {
+    "id": "de-volta-para-casa-2018",
+    "tipo": "filme",
+    "titulo": "De Volta Para Casa",
+    "ano": 2018,
+    "capa": "https://image.tmdb.org/t/p/w500/cYtSGwqq5fbfYckCqYplchg3MCo.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pxpEFY66yYr5bA1N4PCm5b4uz40.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.094,
+    "tmdbId": 427900,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-volta-para-casa-2018.json"
+  },
+  {
+    "id": "de-volta-para-casa-2020",
+    "tipo": "filme",
+    "titulo": "De Volta para Casa",
+    "ano": 2020,
+    "capa": "https://image.tmdb.org/t/p/w500/60cmS9njm7eHQSRSPTTBpxCWJeL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mwY3D4dgWrIZRMZPKDqZESog5ws.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 4.7,
+    "tmdbId": 665762,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/de-volta-para-casa-2020.json"
   },
   {
     "id": "de-volta-para-casa",
@@ -1565,6 +2123,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/desconhecida.json"
   },
   {
+    "id": "desconhecido",
+    "tipo": "filme",
+    "titulo": "Desconhecido",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gI9sCrVmDPYthCeOk6UGAxr8D3t.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/f2d419xzKDbtVpToJorTxlKMvgQ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.687,
+    "tmdbId": 48138,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/desconhecido.json"
+  },
+  {
     "id": "desconhecidos",
     "tipo": "filme",
     "titulo": "Desconhecidos",
@@ -2869,7 +3442,8 @@
     "banner": "https://image.tmdb.org/t/p/original/hjWxngV6tidwDkfJDEgMjHD2KEz.jpg",
     "generos": [
       "LEGENDADOS",
-      "DRAMA"
+      "DRAMA",
+      "4K"
     ],
     "nota": 7.793,
     "tmdbId": 976893,
@@ -3037,6 +3611,34 @@
     "nota": 7.533,
     "tmdbId": 97787,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/digimon-adventure-o-filme.json"
+  },
+  {
+    "id": "dinheiro-facil-2023",
+    "tipo": "filme",
+    "titulo": "Dinheiro Fácil",
+    "ano": 2023,
+    "capa": "https://image.tmdb.org/t/p/w500/l3pI4Nbe9vRC2cd7WsHtiMGZW0T.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dTOQaHP4PjDXU2JwDF6UYqGqRT0.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.681,
+    "tmdbId": 792293,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dinheiro-facil-2023.json"
+  },
+  {
+    "id": "dinheiro-facil-2019",
+    "tipo": "filme",
+    "titulo": "Dinheiro Fácil",
+    "ano": 2019,
+    "capa": "https://image.tmdb.org/t/p/w500/gUaNDUTQ3sVlcRMBpJDEdu4aDsj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fUqnTeGgbChmYWxL6IupmlO3Vg8.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.5,
+    "tmdbId": 620025,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dinheiro-facil-2019.json"
   },
   {
     "id": "dinheiro-facil",
@@ -3287,6 +3889,22 @@
     "nota": 6.263,
     "tmdbId": 467660,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/disturbio.json"
+  },
+  {
+    "id": "ditto-conexoes-do-amor",
+    "tipo": "filme",
+    "titulo": "Ditto: Conexões do Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/q1nqUry5Sd3bDDRCcKGYdr2VnrO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bBFpkBVlOR2qeT6oE3W9uPkfNOr.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.8,
+    "tmdbId": 962489,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ditto-conexoes-do-amor.json"
   },
   {
     "id": "diversao-a-tres",
@@ -3839,613 +4457,5 @@
     "nota": 4.672,
     "tmdbId": 660267,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dois-amigos-e-uma-ameaca-alienigena.json"
-  },
-  {
-    "id": "dois-coracoes",
-    "tipo": "filme",
-    "titulo": "Dois Corações",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3AeCHiYQMOudsuEcSn68hqiwgv6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dKORNnVv8tZlePo0roy4AELL6U2.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 5.3,
-    "tmdbId": 822042,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dois-coracoes.json"
-  },
-  {
-    "id": "dois-parceiros-em-apuros",
-    "tipo": "filme",
-    "titulo": "Dois Parceiros em Apuros",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ELUbssa0CbcbmtmnR4gfplFmxQ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dTPGduoNN2h9kQdetddVOo8tfKt.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 5.84,
-    "tmdbId": 18080,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dois-parceiros-em-apuros.json"
-  },
-  {
-    "id": "dois-procuradores",
-    "tipo": "filme",
-    "titulo": "Dois Procuradores",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/2RnG8jrSpRYEoVpPZuY0eekcfA6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3bFyBL1gFghrWH3FG0wNwZc1BGp.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.887,
-    "tmdbId": 1257406,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dois-procuradores.json"
-  },
-  {
-    "id": "dolittle",
-    "tipo": "filme",
-    "titulo": "Dolittle",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tsa2NZ3QzR6zHg2e20yJfSOhUnS.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xcUf6yIheo78btFqihlRLftdR3M.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA",
-      "4K"
-    ],
-    "nota": 6.579,
-    "tmdbId": 448119,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dolittle.json"
-  },
-  {
-    "id": "dolly-a-boneca-maldita",
-    "tipo": "filme",
-    "titulo": "Dolly: A Boneca Maldita",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gA6KpMPrixKiAgXvzVNrgQKv9bj.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rhuEN18ZimDOva3guaWZA4hYgLB.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "CINEMA | RUIM | CAM | PROPAGANDA"
-    ],
-    "nota": 6.271,
-    "tmdbId": 1309083,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dolly-a-boneca-maldita.json"
-  },
-  {
-    "id": "dolly-kitty-and-those-twinkling-stars",
-    "tipo": "filme",
-    "titulo": "Dolly Kitty e as Estrelas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/roAdnSeFEfZeIoSt3k4SrqeX3q7.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/Ad604TQ5rqXShdjY92BpHpSmLy9.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.1,
-    "tmdbId": 639414,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dolly-kitty-and-those-twinkling-stars.json"
-  },
-  {
-    "id": "domingo-de-pascoa",
-    "tipo": "filme",
-    "titulo": "Domingo de Páscoa",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/eTCROWXdNEP6Hip7MQ4oGrCxZS8.jpg",
-    "banner": null,
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": null,
-    "tmdbId": 1526936,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/domingo-de-pascoa.json"
-  },
-  {
-    "id": "dominique",
-    "tipo": "filme",
-    "titulo": "Dominique",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jvug7Esd89yNLJwGvUfeQ9j69cE.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uGjvdT5CAPIlTBYAXnHPzoEIgkC.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 6.669,
-    "tmdbId": 1331375,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dominique.json"
-  },
-  {
-    "id": "don-t-look-a-morte-te-aguarda",
-    "tipo": "filme",
-    "titulo": "Don't Look: A Morte te Aguarda",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3AlvJYQhQ62XRmUk9tMpzeUEBI3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3lxrpr6kGgj2WtPd09abNsKfyrA.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 2.8,
-    "tmdbId": 447383,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/don-t-look-a-morte-te-aguarda.json"
-  },
-  {
-    "id": "don-t-tell-a-soul",
-    "tipo": "filme",
-    "titulo": "Segredos Ocultos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/9hTbHoUtdFKvmlnNEUxiDqMGSmx.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rBD8nvf9K3RvZqlwSM4p9pUiEmh.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.614,
-    "tmdbId": 572400,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/don-t-tell-a-soul.json"
-  },
-  {
-    "id": "don-t-turn-out-the-lights",
-    "tipo": "filme",
-    "titulo": "Não Apaguem as Luzes",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3WGCOoVlVot8e3lO94AUNiL2f6B.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/e034NcsMOyC1M9d9q1s4IQFdlRo.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 4.455,
-    "tmdbId": 1186023,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/don-t-turn-out-the-lights.json"
-  },
-  {
-    "id": "dona-lurdes-o-filme",
-    "tipo": "filme",
-    "titulo": "Dona Lurdes: O Filme",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gKS02ZDoNbEPY1mMtnj1iwJJIxE.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/34QdEVimpAT0xcoN4Te11WvUaim.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "4K"
-    ],
-    "nota": 7.3,
-    "tmdbId": 1175785,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dona-lurdes-o-filme.json"
-  },
-  {
-    "id": "donald-e-pateta-os-tres-mosqueteiros",
-    "tipo": "filme",
-    "titulo": "Mickey, Donald e Pateta: Os Três Mosqueteiros",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/euce4fzdZOLM0ytoQJv5ZJCorhy.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uLMSOtPaZDggYXdClvxnHaO094h.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.729,
-    "tmdbId": 21385,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/donald-e-pateta-os-tres-mosqueteiros.json"
-  },
-  {
-    "id": "donnie-darko",
-    "tipo": "filme",
-    "titulo": "Donnie Darko",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/sv7D4vlfIH25lNjQYoXzoOFCYaz.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 7.764,
-    "tmdbId": 141,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/donnie-darko.json"
-  },
-  {
-    "id": "donnybrook-luta-pela-redencao",
-    "tipo": "filme",
-    "titulo": "Donnybrook - Luta Pela Redenção",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jbw7jGT9PFLJQqyoxuXLqbhQmWQ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9UQ7QnTWz7PlcfJiyKNBTaHm5ql.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 5.246,
-    "tmdbId": 504599,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/donnybrook-luta-pela-redencao.json"
-  },
-  {
-    "id": "dont-let-them-in",
-    "tipo": "filme",
-    "titulo": "Don't Let Them In",
-    "ano": null,
-    "capa": null,
-    "banner": null,
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": null,
-    "tmdbId": 926467,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dont-let-them-in.json"
-  },
-  {
-    "id": "dont-tell-a-soul",
-    "tipo": "filme",
-    "titulo": "Segredos Ocultos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/9hTbHoUtdFKvmlnNEUxiDqMGSmx.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rBD8nvf9K3RvZqlwSM4p9pUiEmh.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.614,
-    "tmdbId": 572400,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dont-tell-a-soul.json"
-  },
-  {
-    "id": "donzela",
-    "tipo": "filme",
-    "titulo": "Donzela",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/2edvwBRhOY34bFDHj0bcokZGdJg.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/deLWkOLZmBNkm8p16igfapQyqeq.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 6.984,
-    "tmdbId": 763215,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/donzela.json"
-  },
-  {
-    "id": "doom-annihilation",
-    "tipo": "filme",
-    "titulo": "Doom: Annihilation",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/b7pEmwnayMZCVlnSq33izWcOlPI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/iODdFR98xOeOzj95ptMKnCkhniN.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 4.912,
-    "tmdbId": 520901,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/doom-annihilation.json"
-  },
-  {
-    "id": "doors",
-    "tipo": "filme",
-    "titulo": "Fire Doors",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/cB3CEzB92CzYQnWpNe8oDoDOoJe.jpg",
-    "banner": null,
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": null,
-    "tmdbId": 1495815,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/doors.json"
-  },
-  {
-    "id": "dora-and-the-lost-city-of-gold",
-    "tipo": "filme",
-    "titulo": "Dora e a Cidade Perdida",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zn6uvrCTymyl9dYkoU2XDODC8IC.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ltt9yiCGmCQZunmxtkhtPxzmDzx.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.629,
-    "tmdbId": 499701,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dora-and-the-lost-city-of-gold.json"
-  },
-  {
-    "id": "dora-e-a-busca-por-sol-dorado",
-    "tipo": "filme",
-    "titulo": "Dora e a Busca por Sol Dorado",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3A0xtSvnwa7BikiWr55AQLPWMvs.jpg",
-    "banner": null,
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dora-e-a-busca-por-sol-dorado.json"
-  },
-  {
-    "id": "dormindo-com-o-inimigo",
-    "tipo": "filme",
-    "titulo": "Dormindo com o Inimigo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/MDHMzwa1xkTZDhed68kviLIIj2.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/apUbdi4nGrD5VGIaxErtpsn7ST8.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.505,
-    "tmdbId": 7442,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dormindo-com-o-inimigo.json"
-  },
-  {
-    "id": "dormindo-com-seu-idolo",
-    "tipo": "filme",
-    "titulo": "Dormindo com seu Ídolo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oB5DoPDrxnoLwoZTgbcTG62LQU4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/i2reWgXQ4bPH6APxZNcZXppSmYw.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 4.9,
-    "tmdbId": 1196366,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dormindo-com-seu-idolo.json"
-  },
-  {
-    "id": "dose-dupla",
-    "tipo": "filme",
-    "titulo": "Dose Dupla",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/u5X9qjUfIZDmlVJXJ7xJVyyHZFa.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/swyPgOP2lffHfMjeZKNnNFR9P88.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.541,
-    "tmdbId": 136400,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dose-dupla.json"
-  },
-  {
-    "id": "double-blind",
-    "tipo": "filme",
-    "titulo": "Fique Acordado",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/izPVZlS3FcfVjiQ4kjQKppIwja0.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/pcjWAV4Iw7sl3dpV1dfIoxbbTuu.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.102,
-    "tmdbId": 1140648,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/double-blind.json"
-  },
-  {
-    "id": "double-world",
-    "tipo": "filme",
-    "titulo": "Lego Jurassic World: Double Trouble",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4Z0UoPW7DudK6sbpBjUVPZugi1X.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/l05w9k1GFc8yTlwi9yMdcfmNvkF.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": null,
-    "tmdbId": 1575968,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/double-world.json"
-  },
-  {
-    "id": "doula",
-    "tipo": "filme",
-    "titulo": "Doula",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/4v6zhPBZuuxuFGN2CwMu97Z8u3l.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9rEvJdEHb7WEOO0N3Hqpu653sCc.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 4.3,
-    "tmdbId": 956496,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/doula.json"
-  },
-  {
-    "id": "doutor-estranho-no-multiverso-da-loucura",
-    "tipo": "filme",
-    "titulo": "Doutor Estranho no Multiverso da Loucura",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7pLIVfovuIf2KQOOvMsKx3Lanrg.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/AdyJH8kDm8xT8IKTlgpEC15ny4u.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA",
-      "4K"
-    ],
-    "nota": 7.228,
-    "tmdbId": 453395,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/doutor-estranho-no-multiverso-da-loucura.json"
-  },
-  {
-    "id": "dovlatov",
-    "tipo": "filme",
-    "titulo": "Довлатов",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pTHjRkKNDD1O3pzXGf5YqCkNAHH.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/vCIcsaXTo2JFVC4Qevo3GeZOW5A.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.8,
-    "tmdbId": 493655,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dovlatov.json"
-  },
-  {
-    "id": "downhill",
-    "tipo": "filme",
-    "titulo": "Downhill",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ruLqLb2bfWKykckxVlVZayuBOgW.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nvZuBYHUGbrFl3LmDnmbRgrQ8xa.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 5.237,
-    "tmdbId": 560391,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/downhill.json"
-  },
-  {
-    "id": "downton-abbey",
-    "tipo": "filme",
-    "titulo": "Downton Abbey - O Filme",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/lXoUmgHslfmC6kIhy814unBhptx.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lgQQ6n1vPw40buW7QGc1DxDzQS9.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "4K"
-    ],
-    "nota": 7.134,
-    "tmdbId": 535544,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/downton-abbey.json"
-  },
-  {
-    "id": "downton-abbey-o-filme",
-    "tipo": "filme",
-    "titulo": "Downton Abbey - O Filme",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/lXoUmgHslfmC6kIhy814unBhptx.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lgQQ6n1vPw40buW7QGc1DxDzQS9.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 7.134,
-    "tmdbId": 535544,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/downton-abbey-o-filme.json"
-  },
-  {
-    "id": "downton-abbey-ii-uma-nova-era",
-    "tipo": "filme",
-    "titulo": "Downton Abbey II: Uma Nova Era",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/bbYN97IJhezFG9bGnSSG42Cz3lm.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nBHKT3pm5DmidZd5VS4bD5Hc2S3.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 7.199,
-    "tmdbId": 820446,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/downton-abbey-ii-uma-nova-era.json"
-  },
-  {
-    "id": "downton-abbey-o-grande-final",
-    "tipo": "filme",
-    "titulo": "Downton Abbey: O Grande Final",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/yr3VU1spstT79VIddR08JjJ7r0Z.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jvzPTf0nhsqAXodYT6ILKb99IA2.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 7.062,
-    "tmdbId": 1289936,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/downton-abbey-o-grande-final.json"
-  },
-  {
-    "id": "downtown-owl",
-    "tipo": "filme",
-    "titulo": "Downtown Owl: Uma Nova Vida",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/faDNFxp3reZcGMSTxEBt9T3h4Eb.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nch2vrJhqSY7PbdZKUbVZzVZoBl.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 5.47,
-    "tmdbId": 960251,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/downtown-owl.json"
-  },
-  {
-    "id": "doze-e-demais",
-    "tipo": "filme",
-    "titulo": "Doze é Demais",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/8TytUmOaJbI3O7pedgGErvdcVOV.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/h1jqCWsSWudxQv7uYguDkXaAjPF.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.287,
-    "tmdbId": 11007,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/doze-e-demais.json"
-  },
-  {
-    "id": "dr-death-cutthroat-conman",
-    "tipo": "filme",
-    "titulo": "Dr. Death: Cutthroat Conman",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/16MvBZ65pUOdSCz2ngQQ7KLwYaa.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/frn6rWY8EHeiO0wTqP93ozEpinI.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.9,
-    "tmdbId": 1217348,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dr-death-cutthroat-conman.json"
-  },
-  {
-    "id": "dr-semmelweis",
-    "tipo": "filme",
-    "titulo": "Dr. Semmelweis",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ea105uIesnD56ajaPsRDVTm3Fmm.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2tD6lbeSHx0sYDsu0BoS2d1qrbZ.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 7.783,
-    "tmdbId": 1016683,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dr-semmelweis.json"
-  },
-  {
-    "id": "dra-sandra-lee-um-natal-sem-cravos",
-    "tipo": "filme",
-    "titulo": "Dra. Sandra Lee: Um Natal sem Cravos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kMQgMTmGbrwzsOOub8SCenOw1z8.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2YPGhWmWftzkvcdsxAdCbxzWC73.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": null,
-    "tmdbId": 1062294,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dra-sandra-lee-um-natal-sem-cravos.json"
-  },
-  {
-    "id": "dracula-ele-ainda-esta-vivo",
-    "tipo": "filme",
-    "titulo": "Drácula – Ele Ainda Está Vivo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/weZUBP2WvRwso1wTMNp3JK96ULS.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wfdc6HVUiIluKxFxe7deJUvnwN0.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 5.075,
-    "tmdbId": 928015,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dracula-ele-ainda-esta-vivo.json"
   }
 ]

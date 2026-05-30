@@ -16,38 +16,6 @@
     "xtreamId": 5153612
   },
   {
-    "id": "canal-5153611",
-    "tipo": "canal",
-    "titulo": "GLOBO ALTAMIRA SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 5153611
-  },
-  {
-    "id": "canal-4748138",
-    "tipo": "canal",
-    "titulo": "GLOBO ANAPOLIS FHD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 4748138
-  },
-  {
-    "id": "canal-4748137",
-    "tipo": "canal",
-    "titulo": "GLOBO ANAPOLIS HD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 4748137
-  },
-  {
-    "id": "canal-4748136",
-    "tipo": "canal",
-    "titulo": "GLOBO ANAPOLIS SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 4748136
-  },
-  {
     "id": "canal-5153697",
     "tipo": "canal",
     "titulo": "GLOBO ARAGUA FHD",
@@ -62,14 +30,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 5153696
-  },
-  {
-    "id": "canal-5153695",
-    "tipo": "canal",
-    "titulo": "GLOBO ARAGUA SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 5153695
   },
   {
     "id": "canal-5153598",
@@ -94,14 +54,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 5153657
-  },
-  {
-    "id": "canal-5153656",
-    "tipo": "canal",
-    "titulo": "GLOBO BAGE SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 5153656
   },
   {
     "id": "canal-2315697",
@@ -144,14 +96,6 @@
     "xtreamId": 5153573
   },
   {
-    "id": "canal-5153572",
-    "tipo": "canal",
-    "titulo": "GLOBO BALSAS SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 5153572
-  },
-  {
     "id": "canal-2315736",
     "tipo": "canal",
     "titulo": "GLOBO BELEM FHD",
@@ -192,14 +136,6 @@
     "xtreamId": 2315740
   },
   {
-    "id": "canal-2315741",
-    "tipo": "canal",
-    "titulo": "GLOBO BOA VISTA SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315741
-  },
-  {
     "id": "canal-2315690",
     "tipo": "canal",
     "titulo": "GLOBO BRASILIA FHD",
@@ -214,14 +150,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 2315691
-  },
-  {
-    "id": "canal-2315692",
-    "tipo": "canal",
-    "titulo": "GLOBO BRASILIA HD [ALT]",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315692
   },
   {
     "id": "canal-2315693",
@@ -246,14 +174,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 5153636
-  },
-  {
-    "id": "canal-5153635",
-    "tipo": "canal",
-    "titulo": "GLOBO CAMPINA GRANDE SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 5153635
   },
   {
     "id": "canal-5153660",
@@ -368,14 +288,6 @@
     "xtreamId": 5153663
   },
   {
-    "id": "canal-5153662",
-    "tipo": "canal",
-    "titulo": "GLOBO ERECHIM SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 5153662
-  },
-  {
     "id": "canal-2315779",
     "tipo": "canal",
     "titulo": "GLOBO FLORIANOPOLIS FHD",
@@ -448,14 +360,6 @@
     "xtreamId": 5153609
   },
   {
-    "id": "canal-5153608",
-    "tipo": "canal",
-    "titulo": "GLOBO GOVERNADOR VALADARES SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 5153608
-  },
-  {
     "id": "canal-5153700",
     "tipo": "canal",
     "titulo": "GLOBO GURUPI FHD",
@@ -470,14 +374,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 5153699
-  },
-  {
-    "id": "canal-5153698",
-    "tipo": "canal",
-    "titulo": "GLOBO GURUPI SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 5153698
   },
   {
     "id": "canal-2315845",
@@ -510,14 +406,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 2315719
-  },
-  {
-    "id": "canal-2315718",
-    "tipo": "canal",
-    "titulo": "GLOBO INTER TV CABUGI HD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315718
   },
   {
     "id": "canal-2315851",
@@ -568,14 +456,6 @@
     "xtreamId": 5153594
   },
   {
-    "id": "canal-5153593",
-    "tipo": "canal",
-    "titulo": "GLOBO ITUIUTABA SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 5153593
-  },
-  {
     "id": "canal-4748144",
     "tipo": "canal",
     "titulo": "GLOBO ITUMBIARA FHD",
@@ -590,14 +470,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 4748143
-  },
-  {
-    "id": "canal-4748142",
-    "tipo": "canal",
-    "titulo": "GLOBO ITUMBIARA SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 4748142
   },
   {
     "id": "canal-4748117",
@@ -616,14 +488,6 @@
     "xtreamId": 4748116
   },
   {
-    "id": "canal-4748115",
-    "tipo": "canal",
-    "titulo": "GLOBO JUAZEIRO SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 4748115
-  },
-  {
     "id": "canal-4748129",
     "tipo": "canal",
     "titulo": "GLOBO LINHARES FHD",
@@ -638,14 +502,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 4748128
-  },
-  {
-    "id": "canal-4748127",
-    "tipo": "canal",
-    "titulo": "GLOBO LINHARES SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 4748127
   },
   {
     "id": "canal-4748093",
@@ -664,14 +520,6 @@
     "xtreamId": 4748092
   },
   {
-    "id": "canal-4748091",
-    "tipo": "canal",
-    "titulo": "GLOBO MACAPA SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 4748091
-  },
-  {
     "id": "canal-4748090",
     "tipo": "canal",
     "titulo": "GLOBO MACEIO FHD",
@@ -686,14 +534,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 4748089
-  },
-  {
-    "id": "canal-4748088",
-    "tipo": "canal",
-    "titulo": "GLOBO MACEIO SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 4748088
   },
   {
     "id": "canal-4748105",
@@ -712,14 +552,6 @@
     "xtreamId": 4748104
   },
   {
-    "id": "canal-4748103",
-    "tipo": "canal",
-    "titulo": "GLOBO MANACAPURU SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 4748103
-  },
-  {
     "id": "canal-5153619",
     "tipo": "canal",
     "titulo": "GLOBO MARABA FHD",
@@ -734,14 +566,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 5153618
-  },
-  {
-    "id": "canal-5153617",
-    "tipo": "canal",
-    "titulo": "GLOBO MARABA SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 5153617
   },
   {
     "id": "canal-2315686",
@@ -792,14 +616,6 @@
     "xtreamId": 4748086
   },
   {
-    "id": "canal-4748085",
-    "tipo": "canal",
-    "titulo": "GLOBO MOGI DAS CRUZES SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 4748085
-  },
-  {
     "id": "canal-5153607",
     "tipo": "canal",
     "titulo": "GLOBO MONTES CLAROS FHD",
@@ -814,14 +630,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 5153606
-  },
-  {
-    "id": "canal-5153605",
-    "tipo": "canal",
-    "titulo": "GLOBO MONTES CLAROS SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 5153605
   },
   {
     "id": "canal-2315709",
@@ -872,14 +680,6 @@
     "xtreamId": 2315784
   },
   {
-    "id": "canal-2315785",
-    "tipo": "canal",
-    "titulo": "GLOBO NSC TV BLUMENAU SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315785
-  },
-  {
     "id": "canal-2315789",
     "tipo": "canal",
     "titulo": "GLOBO NSC TV CHAPECO FHD",
@@ -894,14 +694,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 2315790
-  },
-  {
-    "id": "canal-2315791",
-    "tipo": "canal",
-    "titulo": "GLOBO NSC TV CHAPECO SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315791
   },
   {
     "id": "canal-2315792",
@@ -920,14 +712,6 @@
     "xtreamId": 2315793
   },
   {
-    "id": "canal-2315794",
-    "tipo": "canal",
-    "titulo": "GLOBO NSC TV CRICIUMA SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315794
-  },
-  {
     "id": "canal-2315786",
     "tipo": "canal",
     "titulo": "GLOBO NSC TV JOINVILLE FHD",
@@ -942,14 +726,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 2315787
-  },
-  {
-    "id": "canal-2315788",
-    "tipo": "canal",
-    "titulo": "GLOBO NSC TV JOINVILLE SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315788
   },
   {
     "id": "canal-4748084",
@@ -1064,14 +840,6 @@
     "xtreamId": 2315805
   },
   {
-    "id": "canal-2315806",
-    "tipo": "canal",
-    "titulo": "GLOBO RBS TV PASSO FUNDO SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315806
-  },
-  {
     "id": "canal-2315807",
     "tipo": "canal",
     "titulo": "GLOBO RBS TV PELOTAS FHD",
@@ -1088,14 +856,6 @@
     "xtreamId": 2315808
   },
   {
-    "id": "canal-2315809",
-    "tipo": "canal",
-    "titulo": "GLOBO RBS TV PELOTAS SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315809
-  },
-  {
     "id": "canal-2315810",
     "tipo": "canal",
     "titulo": "GLOBO RBS TV SANTA MARIA FHD",
@@ -1110,14 +870,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 2315811
-  },
-  {
-    "id": "canal-2315812",
-    "tipo": "canal",
-    "titulo": "GLOBO RBS TV SANTA MARIA SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315812
   },
   {
     "id": "canal-4720200",
@@ -1152,14 +904,6 @@
     "xtreamId": 5153651
   },
   {
-    "id": "canal-5153650",
-    "tipo": "canal",
-    "titulo": "GLOBO RESENDE SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 5153650
-  },
-  {
     "id": "canal-5153568",
     "tipo": "canal",
     "titulo": "GLOBO RIO VERDE FHD",
@@ -1174,14 +918,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 5153567
-  },
-  {
-    "id": "canal-5153566",
-    "tipo": "canal",
-    "titulo": "GLOBO RIO VERDE SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 5153566
   },
   {
     "id": "canal-2315676",
@@ -1214,14 +950,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 2315679
-  },
-  {
-    "id": "canal-2315761",
-    "tipo": "canal",
-    "titulo": "GLOBO RPC  TV MARINGA FHD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315761
   },
   {
     "id": "canal-2315757",
@@ -1280,14 +1008,6 @@
     "xtreamId": 2315770
   },
   {
-    "id": "canal-2315771",
-    "tipo": "canal",
-    "titulo": "GLOBO RPC FOZ DO IGUACU SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315771
-  },
-  {
     "id": "canal-2315764",
     "tipo": "canal",
     "titulo": "GLOBO RPC PONTA GROSSA FHD",
@@ -1302,14 +1022,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 2315765
-  },
-  {
-    "id": "canal-2315767",
-    "tipo": "canal",
-    "titulo": "GLOBO RPC PONTA GROSSA SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315767
   },
   {
     "id": "canal-2315776",
@@ -1328,20 +1040,20 @@
     "xtreamId": 2315778
   },
   {
+    "id": "canal-2315761",
+    "tipo": "canal",
+    "titulo": "GLOBO RPC TV MARINGA FHD",
+    "categoria": "GLOBO",
+    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
+    "xtreamId": 2315761
+  },
+  {
     "id": "canal-2315762",
     "tipo": "canal",
     "titulo": "GLOBO RPC TV MARINGA HD",
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 2315762
-  },
-  {
-    "id": "canal-2315763",
-    "tipo": "canal",
-    "titulo": "Globo RPC TV MARINGA SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315763
   },
   {
     "id": "canal-2315772",
@@ -1448,14 +1160,6 @@
     "xtreamId": 5153582
   },
   {
-    "id": "canal-5153581",
-    "tipo": "canal",
-    "titulo": "GLOBO TANGARA DA SERRA SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 5153581
-  },
-  {
     "id": "canal-2315694",
     "tipo": "canal",
     "titulo": "GLOBO TV ANHANGUERA GOIANIA FHD",
@@ -1512,14 +1216,6 @@
     "xtreamId": 2315752
   },
   {
-    "id": "canal-2315753",
-    "tipo": "canal",
-    "titulo": "GLOBO TV CENTRO AMERICA SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315753
-  },
-  {
     "id": "canal-2315727",
     "tipo": "canal",
     "titulo": "GLOBO TV CLUBE TERESINA FHD",
@@ -1534,14 +1230,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 2315728
-  },
-  {
-    "id": "canal-2315729",
-    "tipo": "canal",
-    "titulo": "GLOBO TV CLUBE TERESINA SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315729
   },
   {
     "id": "canal-2315706",
@@ -1584,14 +1272,6 @@
     "xtreamId": 2315684
   },
   {
-    "id": "canal-2315685",
-    "tipo": "canal",
-    "titulo": "GLOBO TV GAZETA SUL ES SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315685
-  },
-  {
     "id": "canal-2315733",
     "tipo": "canal",
     "titulo": "GLOBO TV MIRANTE COCAIS FHD",
@@ -1616,14 +1296,6 @@
     "xtreamId": 2315731
   },
   {
-    "id": "canal-2315732",
-    "tipo": "canal",
-    "titulo": "GLOBO TV MIRANTE SAO LUIS SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315732
-  },
-  {
     "id": "canal-2315754",
     "tipo": "canal",
     "titulo": "GLOBO TV MORENA CAMPO GRANDE FHD",
@@ -1640,14 +1312,6 @@
     "xtreamId": 2315755
   },
   {
-    "id": "canal-2315756",
-    "tipo": "canal",
-    "titulo": "GLOBO TV MORENA CAMPO GRANDE SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315756
-  },
-  {
     "id": "canal-2315742",
     "tipo": "canal",
     "titulo": "GLOBO TV REDE AMAZONICA MANAUS FHD",
@@ -1662,14 +1326,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 2315743
-  },
-  {
-    "id": "canal-2315744",
-    "tipo": "canal",
-    "titulo": "GLOBO TV REDE AMAZONICA MANAUS SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315744
   },
   {
     "id": "canal-2315749",
@@ -1694,14 +1350,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 2315746
-  },
-  {
-    "id": "canal-2315747",
-    "tipo": "canal",
-    "titulo": "GLOBO TV REDE AMAZÔNICA RIO BRANCO SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315747
   },
   {
     "id": "canal-2315849",
@@ -1734,14 +1382,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 2315814
-  },
-  {
-    "id": "canal-2315815",
-    "tipo": "canal",
-    "titulo": "GLOBO TV SANTA CRUZ SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315815
   },
   {
     "id": "canal-2315701",
@@ -1782,14 +1422,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 2315825
-  },
-  {
-    "id": "canal-2315826",
-    "tipo": "canal",
-    "titulo": "GLOBO TV TEM ITAPETININGA SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315826
   },
   {
     "id": "canal-2315840",
@@ -1864,14 +1496,6 @@
     "xtreamId": 2315830
   },
   {
-    "id": "canal-2315831",
-    "tipo": "canal",
-    "titulo": "GLOBO TV VANGUARDA TAUBATE SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315831
-  },
-  {
     "id": "canal-2315720",
     "tipo": "canal",
     "titulo": "GLOBO TV VERDES MARES FORTALEZA FHD",
@@ -1896,14 +1520,6 @@
     "xtreamId": 2315722
   },
   {
-    "id": "canal-2315723",
-    "tipo": "canal",
-    "titulo": "GLOBO TV VERDES MARES FORTALEZA SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315723
-  },
-  {
     "id": "canal-5153601",
     "tipo": "canal",
     "titulo": "GLOBO UBERABA FHD",
@@ -1920,14 +1536,6 @@
     "xtreamId": 5153600
   },
   {
-    "id": "canal-5153599",
-    "tipo": "canal",
-    "titulo": "GLOBO UBERABA SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 5153599
-  },
-  {
     "id": "canal-5153592",
     "tipo": "canal",
     "titulo": "GLOBO UBERLANDIA FHD",
@@ -1942,14 +1550,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 5153591
-  },
-  {
-    "id": "canal-5153590",
-    "tipo": "canal",
-    "titulo": "GLOBO UBERLANDIA SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 5153590
   },
   {
     "id": "canal-5153673",
@@ -1982,14 +1582,6 @@
     "categoria": "GLOBO",
     "capa": "https://i.ibb.co/wRFXTYR/globo.png",
     "xtreamId": 2315725
-  },
-  {
-    "id": "canal-2315726",
-    "tipo": "canal",
-    "titulo": "TV DIARIO FORTALEZA SD",
-    "categoria": "GLOBO",
-    "capa": "https://i.ibb.co/wRFXTYR/globo.png",
-    "xtreamId": 2315726
   },
   {
     "id": "canal-2315854",

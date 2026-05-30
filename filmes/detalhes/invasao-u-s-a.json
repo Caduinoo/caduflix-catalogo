@@ -26,9 +26,23 @@
       "qualidade": "Não informado",
       "xtreamId": 11033881,
       "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11084904,
+      "container": "mp4"
+    },
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11084918,
+      "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1775158445,
+  "dataCriacaoXtream": 1780134582,
   "tituloOriginal": "Invasion U.S.A.",
   "dataLancamento": "1985-09-27"
 }

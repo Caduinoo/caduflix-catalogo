@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Quando um terrorista do Estado Islâmico invade o vagão de um trem a caminho de Paris, três soldados americanos - Anthony Sadler, Alex Skarlatos e Specen Stone - se esforçam para imobilizar o extremista, armado com um fuzil AK-47, e evitar uma enorme tragédia.",
   "generos": [
+    "LEGENDADOS",
     "4K",
     "DRAMA"
   ],
@@ -13,6 +14,13 @@
   "tmdbId": 453201,
   "nota": 5.414,
   "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050498,
+      "container": "mp4"
+    },
     {
       "nome": "4K",
       "idioma": "Não informado",
@@ -28,7 +36,7 @@
       "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1773567059,
+  "dataCriacaoXtream": 1779198843,
   "tituloOriginal": "The 15:17 to Paris",
   "dataLancamento": "2018-02-07"
 }

@@ -1,5 +1,139 @@
 [
   {
+    "id": "a-mutacao",
+    "tipo": "filme",
+    "titulo": "Experiência II - A Mutação",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/53IqPn7T5uP5SSv6ToQW0a3i9Rk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/x0XakykB5NRwOv9QZT9oBJbXg29.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.18,
+    "tmdbId": 10216,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-mutacao.json"
+  },
+  {
+    "id": "a-negociadora",
+    "tipo": "filme",
+    "titulo": "A Negociadora",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/w6ffHjnN1XYgLYb5VNTnmOLUUY1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2EYZgQCo9MNty5Nc6swTgzFYJUs.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 4.42,
+    "tmdbId": 877619,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-negociadora.json"
+  },
+  {
+    "id": "a-nevoa-da-guerra",
+    "tipo": "filme",
+    "titulo": "A Névoa da Guerra",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7Wf6E9zlMPHszXR8VwNH6a7dzgW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8zcAFl8oys90n8oMbl7QD0oW7jV.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.734,
+    "tmdbId": 1138621,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-nevoa-da-guerra.json"
+  },
+  {
+    "id": "a-nice-girl-like-you",
+    "tipo": "filme",
+    "titulo": "Tão Legal Quanto Você",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uuF7Smx3CDzknb8RbuxfIAcJKoi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2HiL1H8VjqYwcTjxC2WIAGJHFx0.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 5.84,
+    "tmdbId": 718840,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-nice-girl-like-you.json"
+  },
+  {
+    "id": "a-night-in-2005",
+    "tipo": "filme",
+    "titulo": "A Cry in the Night",
+    "ano": 2005,
+    "capa": "https://image.tmdb.org/t/p/w500/qbZmVAfmdRK50wrgMCJK2HGq3Ne.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jQqpGfBolZoZGsEUu96EO0wvNlP.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 4.429,
+    "tmdbId": 189288,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-night-in-2005.json"
+  },
+  {
+    "id": "a-noite-antes-do-natal",
+    "tipo": "filme",
+    "titulo": "A Noite Antes do Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/r8pITK3uJdfBgQGiHNwiLpBcB7R.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7sXnIzZ256XwAicYw5js2KCHG4k.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.157,
+    "tmdbId": 1028547,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-noite-antes-do-natal.json"
+  },
+  {
+    "id": "a-noite-das-bruxas",
+    "tipo": "filme",
+    "titulo": "A Noite das Bruxas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9UAc4DF4oEObQk4sz4sNeHI4waY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qB9wshRySHgN2MibLOlsW6YalqD.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "4K"
+    ],
+    "nota": 6.572,
+    "tmdbId": 945729,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-noite-das-bruxas.json"
+  },
+  {
+    "id": "a-noite-do-jogo",
+    "tipo": "filme",
+    "titulo": "A Noite do Jogo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fWbGZt8URdS8N4AVpTRupdBXClz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aKPCZwkSZy2ASLo0QKeYmcoplfA.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.845,
+    "tmdbId": 445571,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-noite-do-jogo.json"
+  },
+  {
+    "id": "a-noite-dos-lobisomens",
+    "tipo": "filme",
+    "titulo": "A Noite dos Lobisomens",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qC7kejOLqMtY2Y2uoeAQuYsesnW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cA88pwGnHa64BBcU3R1oCcJH9Qc.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.843,
+    "tmdbId": 970450,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-noite-dos-lobisomens.json"
+  },
+  {
     "id": "a-noite-em-que-voltaram-para-casa",
     "tipo": "filme",
     "titulo": "A Noite Em Que Voltaram Para Casa",
@@ -59,6 +193,22 @@
     "nota": 6.055,
     "tmdbId": 1254624,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-noite-sempre-chega.json"
+  },
+  {
+    "id": "a-noiva-do-ano",
+    "tipo": "filme",
+    "titulo": "A Noiva do Ano",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/geFc71rCYM8fErbROLY6n1LfAS6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/es6wAAA72qIKGecMggiRZNQK0fa.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 7,
+    "tmdbId": 1684226,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-noiva-do-ano.json"
   },
   {
     "id": "a-noiva",
@@ -731,6 +881,22 @@
     "nota": null,
     "tmdbId": 613121,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-poet.json"
+  },
+  {
+    "id": "a-porrada-vai-comer",
+    "tipo": "filme",
+    "titulo": "A Porrada Vai Comer!",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2ujZDnUE0g309LxhLtQFIDQgGyM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uzXLCqPWYbsVzPU3pGz3oPqO4lE.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.5,
+    "tmdbId": 1165441,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-porrada-vai-comer.json"
   },
   {
     "id": "a-porta-ao-lado",
@@ -1462,6 +1628,21 @@
     "nota": 5.9,
     "tmdbId": 1036903,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-rede-do-trafico.json"
+  },
+  {
+    "id": "a-redencao-2021",
+    "tipo": "filme",
+    "titulo": "A Redenção",
+    "ano": 2021,
+    "capa": "https://image.tmdb.org/t/p/w500/3iqcd55lnoWJuhooovDLwXa711j.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uxTheB0MN5vtxvFBWoePaRSrGcD.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 3.5,
+    "tmdbId": 871190,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-redencao-2021.json"
   },
   {
     "id": "a-redencao",
@@ -2354,6 +2535,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-travessia.json"
   },
   {
+    "id": "a-tregua",
+    "tipo": "filme",
+    "titulo": "A trégua",
+    "ano": null,
+    "capa": null,
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA",
+      "LANÇAMENTOS"
+    ],
+    "nota": null,
+    "tmdbId": 735675,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-tregua.json"
+  },
+  {
     "id": "a-trilha-sonora-dos-dezesseis",
     "tipo": "filme",
     "titulo": "A Trilha Sonora dos Dezesseis",
@@ -2898,6 +3095,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-vinganca.json"
   },
   {
+    "id": "a-um-passo-do-estrelato",
+    "tipo": "filme",
+    "titulo": "A Um Passo do Estrelato",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nCqVpHwdVcaCJ8dS4Ms6zWzXhKt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wUop1B76njSptV0B0s8YUFRRG5I.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 7.178,
+    "tmdbId": 159014,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-um-passo-do-estrelato.json"
+  },
+  {
     "id": "a-unica-sobrevivente",
     "tipo": "filme",
     "titulo": "A Única Sobrevivente",
@@ -3224,6 +3435,21 @@
     "nota": 7.591,
     "tmdbId": 1255187,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-vida-dos-leopardos.json"
+  },
+  {
+    "id": "a-vida-e-agora-2021",
+    "tipo": "filme",
+    "titulo": "A Vida é Agora",
+    "ano": 2021,
+    "capa": "https://image.tmdb.org/t/p/w500/neKaddWZOH6elKQRjI49avgSGfY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/esGtYJE3uoRuwA7o4ST2kGDhmeO.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 6.447,
+    "tmdbId": 763148,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-vida-e-agora-2021.json"
   },
   {
     "id": "a-vida-e-agora",
@@ -4246,230 +4472,5 @@
     "nota": null,
     "tmdbId": 688373,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/acerto-de-contas.json"
-  },
-  {
-    "id": "achados-nao-procurados",
-    "tipo": "filme",
-    "titulo": "Achados Não Procurados",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mCcmUbCTyWkLLwAwItM3a0q2LyT.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/l2KlHRNgM77IWEjMC9XG5vvdFyp.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": null,
-    "tmdbId": 872184,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/achados-nao-procurados.json"
-  },
-  {
-    "id": "acima-da-lei",
-    "tipo": "filme",
-    "titulo": "Nico, Acima da Lei",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/pKG43MIFI3QezsdsqDKGqjgVWqI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qvrayOIHOQMo9y9B3u7ACGimuo2.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.1,
-    "tmdbId": 9395,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/acima-da-lei.json"
-  },
-  {
-    "id": "acima-das-linhas-inimigas",
-    "tipo": "filme",
-    "titulo": "Acima das Linhas Inimigas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/sUz7EJ0Ec9vw8g9i2BmymwvzJjo.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ilK1JRbMjo4sMJtNKLOKnqRf1RH.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.492,
-    "tmdbId": 976906,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/acima-das-linhas-inimigas.json"
-  },
-  {
-    "id": "acima-de-qualquer-suspeita",
-    "tipo": "filme",
-    "titulo": "Acima de Qualquer Suspeita",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1HR4OdDkvSM4pgnq1fQfdfc3OFB.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dxoYbFNaIBhtOUb1Q3tEOuSdwMc.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.81,
-    "tmdbId": 11092,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/acima-de-qualquer-suspeita.json"
-  },
-  {
-    "id": "acompanhante-de-luxo",
-    "tipo": "filme",
-    "titulo": "Acompanhante de Luxo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hEscajEsbJnomruYQJvIwE7TAmX.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1A0ujkvVduVuEQi9Owkl56Asp4X.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 5.8,
-    "tmdbId": 1073035,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/acompanhante-de-luxo.json"
-  },
-  {
-    "id": "acompanhante-fatal",
-    "tipo": "filme",
-    "titulo": "Acompanhante Fatal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/aHLSB5y42sPjbZhMabG0NVkWtUH.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kWPJneTmINgmJ9lXqDpHECG7AQ6.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 3.8,
-    "tmdbId": 1030542,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/acompanhante-fatal.json"
-  },
-  {
-    "id": "acompanhante-perfeita",
-    "tipo": "filme",
-    "titulo": "Acompanhante Perfeita",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7LbrEQvturE05hljvTCWST7rLQL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/qA6MHDGDY0LyutjLUgFJRbPXLpW.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER",
-      "4K"
-    ],
-    "nota": 7.015,
-    "tmdbId": 1084199,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/acompanhante-perfeita.json"
-  },
-  {
-    "id": "aconteceu-no-natal-do-mickey",
-    "tipo": "filme",
-    "titulo": "Aconteceu no Natal do Mickey",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/bpumZmxDpepWRvghV49gB1MXAAk.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fYVfFDDBTkLYwsRsHhQ1nbpdHDE.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 7.135,
-    "tmdbId": 15400,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/aconteceu-no-natal-do-mickey.json"
-  },
-  {
-    "id": "acordando-o-diabo",
-    "tipo": "filme",
-    "titulo": "Acordando o Diabo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jRxtVu5HEeGN09mvhm8oNhhIckr.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nehpjVk7DSh0pw4L4U623Zg1mRs.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 4.6,
-    "tmdbId": 760875,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/acordando-o-diabo.json"
-  },
-  {
-    "id": "acordo-com-o-diabo",
-    "tipo": "filme",
-    "titulo": "Acordo com o Diabo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ePvoTxLtmJe2IiR7i10NuZaJFMH.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mWTtdHi5ucZs59vyv2qGHMSLzbl.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 3.583,
-    "tmdbId": 1107752,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/acordo-com-o-diabo.json"
-  },
-  {
-    "id": "acrescente-amor",
-    "tipo": "filme",
-    "titulo": "Acrescente Amor",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/1eI3fUEHe2CuRkchCoADUvSh6yg.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lcX9CGJqblNBQASpqI0AihPkkMo.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 6.5,
-    "tmdbId": 997190,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/acrescente-amor.json"
-  },
-  {
-    "id": "acts-of-revenge",
-    "tipo": "filme",
-    "titulo": "Acts of Revenge",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/5CM3iSYdKWQOd8D2a66EXpuWvaA.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1Jhw6AvW5I1RKUnWioZtox2Keq.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 2.9,
-    "tmdbId": 815194,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/acts-of-revenge.json"
-  },
-  {
-    "id": "acusada-e-foragida",
-    "tipo": "filme",
-    "titulo": "Acusada e Foragida",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/2C6DDVBmNgcgAjfHlSfGH0HZIE9.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9PLeVq948gqhY4d63q66D5Xds1Z.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 7.3,
-    "tmdbId": 823803,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/acusada-e-foragida.json"
-  },
-  {
-    "id": "ad-astra",
-    "tipo": "filme",
-    "titulo": "Ad Astra - Rumo às Estrelas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wigZBAmNrIhxp2FNGOROUAeHvdh.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/duengnNbJdTdjR329SmAAJO4stC.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.13,
-    "tmdbId": 419704,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ad-astra.json"
-  },
-  {
-    "id": "ad-astra-rumo-as-estrelas",
-    "tipo": "filme",
-    "titulo": "Ad Astra - Rumo às Estrelas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wigZBAmNrIhxp2FNGOROUAeHvdh.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/duengnNbJdTdjR329SmAAJO4stC.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA",
-      "4K"
-    ],
-    "nota": 6.13,
-    "tmdbId": 419704,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ad-astra-rumo-as-estrelas.json"
   }
 ]

@@ -1,5 +1,49 @@
 [
   {
+    "id": "refens-da-guerra",
+    "tipo": "filme",
+    "titulo": "Reféns da Guerra",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1AVjA9nEkpPfdpFL2f5h1wqI2v8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9Yblyhbvu0J0zosQLLpw9HN9AHm.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6,
+    "tmdbId": 820682,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/refens-da-guerra.json"
+  },
+  {
+    "id": "regras-do-jogo",
+    "tipo": "filme",
+    "titulo": "Adultério: As Regras do Jogo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/z5FfGY2GhF5impdWwgZY9ZSd1ab.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 9,
+    "tmdbId": 1055875,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/regras-do-jogo.json"
+  },
+  {
+    "id": "rei-charles-iii",
+    "tipo": "filme",
+    "titulo": "Rei Charles III",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4Gzutk4mrOBPQgg9nQHu79cR7AY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jVrwsONwPDudZOwvgvsLabSDMOd.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.483,
+    "tmdbId": 456187,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rei-charles-iii.json"
+  },
+  {
     "id": "rei-do-ringue-a-historia-de-jem-belcher",
     "tipo": "filme",
     "titulo": "Rei do Ringue: A História de Jem Belcher",
@@ -481,6 +525,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/cHSbmimdxYcm5x6BQMX8y1G9YGO.jpg",
     "banner": "https://image.tmdb.org/t/p/original/9b1KGgzmZsUl7g3p1bjjpMRxANe.jpg",
     "generos": [
+      "LEGENDADOS",
       "DRAMA"
     ],
     "nota": 6.197,
@@ -2169,6 +2214,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sob-as-estrelas.json"
   },
   {
+    "id": "sob-o-dominio-do-medo",
+    "tipo": "filme",
+    "titulo": "Sob o Domínio do Medo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bozlKsBX8mvNiBUEtJRsNLFSaLi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uTTySGAQ092zr5TP7PqDnHuWR1W.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 7.166,
+    "tmdbId": 994,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sob-o-dominio-do-medo.json"
+  },
+  {
     "id": "sob-o-mesmo-ceu",
     "tipo": "filme",
     "titulo": "Sob o Mesmo Céu",
@@ -2478,6 +2538,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/zRtwTGqMbgv2PaTSAMg0R3qfUO4.jpg",
     "banner": "https://image.tmdb.org/t/p/original/8dlna8rRcf5gDCRzEsjtHizpj1X.jpg",
     "generos": [
+      "LEGENDADOS",
       "DRAMA",
       "ROMANCE"
     ],
@@ -4298,63 +4359,5 @@
     "nota": 4.6,
     "tmdbId": 655289,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/todos-os-mortos.json"
-  },
-  {
-    "id": "together",
-    "tipo": "filme",
-    "titulo": "Juntos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/m9jfOWLuyYejyJX17wRFUQGtUji.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/39Niij05MXfibXBsHiUU0Ml0POX.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.924,
-    "tmdbId": 1242011,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/together.json"
-  },
-  {
-    "id": "togo",
-    "tipo": "filme",
-    "titulo": "Togo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/tCCgIgIqNHZCxKgZKTqv1LzxuwI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2Jr2OBzoLLOYqQWnyN4eicZv0sL.jpg",
-    "generos": [
-      "DRAMA",
-      "4K"
-    ],
-    "nota": 8.123,
-    "tmdbId": 606856,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/togo.json"
-  },
-  {
-    "id": "tolkien",
-    "tipo": "filme",
-    "titulo": "Tolkien",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/A7eYO3t7oZQdfJj5KlJBI7GhT9H.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4HXiEsWUEMzJNFwjJv6oUaocqJU.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.915,
-    "tmdbId": 468224,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tolkien.json"
-  },
-  {
-    "id": "tomates-verdes-fritos",
-    "tipo": "filme",
-    "titulo": "Tomates Verdes Fritos",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/9lMAsEo9xA0Iw1DGgy12BOdNlBH.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ApnB7gY4MrWoPqIw17lEMp1mXJD.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 7.666,
-    "tmdbId": 1633,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tomates-verdes-fritos.json"
   }
 ]

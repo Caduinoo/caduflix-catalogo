@@ -26,9 +26,16 @@
       "qualidade": "Não informado",
       "xtreamId": 10777794,
       "container": "mp4"
+    },
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11084917,
+      "container": "mp4"
     }
   ],
-  "dataCriacaoXtream": 1773567065,
+  "dataCriacaoXtream": 1780134581,
   "tituloOriginal": "I.S.S.",
   "dataLancamento": "2024-01-19"
 }

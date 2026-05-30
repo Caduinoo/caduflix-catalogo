@@ -1,5 +1,21 @@
 [
   {
+    "id": "o-tatuador-de-auschwitz",
+    "tipo": "serie",
+    "titulo": "O Tatuador de Auschwitz",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sapMaif5lgykkpXGZAnHf3aIyih.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mxs62JGInE5pQcWa7keHmEpY87P.jpg",
+    "generos": [
+      "GLOBOPLAY"
+    ],
+    "nota": 7.977,
+    "tmdbId": 222405,
+    "totalTemporadas": 1,
+    "totalEpisodios": 6,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/o-tatuador-de-auschwitz.json"
+  },
+  {
     "id": "o-tempo-e-o-vento",
     "tipo": "serie",
     "titulo": "O Tempo e o Vento",
@@ -934,7 +950,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/zMmNfFkPLEyv5dDsx2LpvDSiI0o.jpg",
     "banner": "https://image.tmdb.org/t/p/original/8qGdsEdvyGGxF8taEFetsJuOdM3.jpg",
     "generos": [
-      "GLOBOPLAY"
+      "GLOBOPLAY",
+      "TURCAS | MEXICANAS"
     ],
     "nota": 8.2,
     "tmdbId": 97852,

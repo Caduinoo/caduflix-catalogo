@@ -1,5 +1,1014 @@
 [
   {
+    "id": "vida-em-jogo",
+    "tipo": "filme",
+    "titulo": "Vida em Jogo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qQ97Zq97q28wy984rNAJYanSkwy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/r7HFL82L3NZOMWpxxyewEdoXPuP.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.203,
+    "tmdbId": 365958,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vida-em-jogo.json"
+  },
+  {
+    "id": "vida-em-silencio",
+    "tipo": "filme",
+    "titulo": "Vida em Silêncio",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2He9D6Y7wM0GJUfEuCzUwLZq3Az.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6zbRm3L6RYth7xxo1gHYTYLuc75.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 7,
+    "tmdbId": 678496,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vida-em-silencio.json"
+  },
+  {
+    "id": "vida-eterna",
+    "tipo": "filme",
+    "titulo": "Vida Eterna & Asociados",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lM4cQbqbFVI5dCU3VPGxNUQTmv9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3J8JI2DL2osz0eUhQgNLaKwuCBm.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 10,
+    "tmdbId": 654208,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vida-eterna.json"
+  },
+  {
+    "id": "vida-selvagem",
+    "tipo": "filme",
+    "titulo": "Vida Selvagem",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/z5w5hM3tg9VzXaOOdR7m5cWayEn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nrzKvKLEOYWFEi3iWefST8EKgga.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 6.627,
+    "tmdbId": 417812,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vida-selvagem.json"
+  },
+  {
+    "id": "vidas-a-deriva",
+    "tipo": "filme",
+    "titulo": "Vidas à Deriva",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cejjvrBhIgnUx1RJQaKG0T3c1sG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/64jAqTJvrzEwncD3ARZdqYLcqbc.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.84,
+    "tmdbId": 429300,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vidas-a-deriva.json"
+  },
+  {
+    "id": "vidas-cruzadas",
+    "tipo": "filme",
+    "titulo": "Vidas cruzadas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tViWTCDALje9Gsd61GlRcEaVvji.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 4.5,
+    "tmdbId": 778066,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vidas-cruzadas.json"
+  },
+  {
+    "id": "vidas-cruzadas-a-vida-intima-de-pippa-lee",
+    "tipo": "filme",
+    "titulo": "Vidas Cruzadas: A Vida Íntima de Pippa Lee",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6HL7JKkVx7p2ejGBX6CQzLXFmu0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ayEMwa3URnwQEG7LXhzRBHkfOGA.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 5.9,
+    "tmdbId": 4475,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vidas-cruzadas-a-vida-intima-de-pippa-lee.json"
+  },
+  {
+    "id": "vidas-de-ponta-cabeca",
+    "tipo": "filme",
+    "titulo": "Vidas de Ponta-Cabeça",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/z2oBiJeImAiaxWuwFLlNp9PxORc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mLyFIk9D9XxmSkiw1DT5UgQIzaI.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 2.8,
+    "tmdbId": 1008651,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vidas-de-ponta-cabeca.json"
+  },
+  {
+    "id": "vidas-duplas",
+    "tipo": "filme",
+    "titulo": "Vidas Duplas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4g4S7HNzOrE1666PRpqJPfDOIGV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/96FSuNGiuHAJnDsxlVExafH6LZy.jpg",
+    "generos": [
+      "COMÉDIA"
+    ],
+    "nota": 5.442,
+    "tmdbId": 471856,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vidas-duplas.json"
+  },
+  {
+    "id": "vidas-em-jogo",
+    "tipo": "filme",
+    "titulo": "Vidas em Jogo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rEx8sNpIQ351tdVFGJI0fGZMvdi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/k7GM13qRYSour3lk90Dq1EwdpoW.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 7.6,
+    "tmdbId": 2649,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vidas-em-jogo.json"
+  },
+  {
+    "id": "vidas-emaranhadas",
+    "tipo": "filme",
+    "titulo": "Vidas Emaranhadas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7zyrB5no9anfZLaO6KEgtAtiHGl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ofCnNvAZLGZc3iKNr9sA0oxdAnk.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 4.2,
+    "tmdbId": 508687,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vidas-emaranhadas.json"
+  },
+  {
+    "id": "vidas-entrelacadas",
+    "tipo": "filme",
+    "titulo": "Vidas Entrelaçadas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/u0NhC2TpRpmdKncuHPct3HYH3Zi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oxnRfZWjRTNHUYjT8YEft26McMK.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.5,
+    "tmdbId": 1390382,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vidas-entrelacadas.json"
+  },
+  {
+    "id": "vidas-importam",
+    "tipo": "filme",
+    "titulo": "Vidas Importam",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mEzfrfbAAPEGsyYNbhq5I0EPoXg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fVTVNYgnSa3M5cPFpqkgT3ZybY7.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7.3,
+    "tmdbId": 652385,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vidas-importam.json"
+  },
+  {
+    "id": "vidas-negras-importam",
+    "tipo": "filme",
+    "titulo": "Vidas Negras Importam",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8HscW95aPSfHKmvpNUTS7tyTHw0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fY1osRv4Y5gimYQPm5iuSOZw5Io.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.8,
+    "tmdbId": 757821,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vidas-negras-importam.json"
+  },
+  {
+    "id": "vidas-paralelas",
+    "tipo": "filme",
+    "titulo": "Vidas paralelas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rjsTHkf2i0IsAZ58UWxaYaw5EF.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": null,
+    "tmdbId": 404978,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vidas-paralelas.json"
+  },
+  {
+    "id": "vidas-partidas",
+    "tipo": "filme",
+    "titulo": "Vidas Partidas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uyYRIoFBurYQp0izgoWbSzvQrI6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sOEHF4r5s3IE7Zb5W15v34u7a8E.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 4.6,
+    "tmdbId": 379315,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vidas-partidas.json"
+  },
+  {
+    "id": "vidas-passadas",
+    "tipo": "filme",
+    "titulo": "Vidas Passadas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/toSI71gFF11VnLfz2uiNx6jjNUF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7HR38hMBl23lf38MAN63y4pKsHz.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 7.709,
+    "tmdbId": 666277,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vidas-passadas.json"
+  },
+  {
+    "id": "vidas-que-se-encontram",
+    "tipo": "filme",
+    "titulo": "Vidas que se Encontram",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rVPVqcRVUiuLguYuzEl0TRsuYbT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zHgnNYtgCSTdlR1nQ7nWASRyLiR.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.4,
+    "tmdbId": 652009,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vidas-que-se-encontram.json"
+  },
+  {
+    "id": "vidente-por-acidente",
+    "tipo": "filme",
+    "titulo": "Vidente Por Acidente",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3L4YF9CLtXunQgvvuUe4cuhNe4T.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1hXPTMVVNc4BLa7fPb1JA0Phd8m.jpg",
+    "generos": [
+      "NACIONAIS",
+      "4K"
+    ],
+    "nota": 4.333,
+    "tmdbId": 1239083,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vidente-por-acidente.json"
+  },
+  {
+    "id": "videomannen",
+    "tipo": "filme",
+    "titulo": "Videomannen",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/61mWDbk5ngPWM6PmLvjJm6kw9UE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xJ2YkUCGc4ETkgEKSmXJyLCqsr7.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.5,
+    "tmdbId": 414181,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/videomannen.json"
+  },
+  {
+    "id": "vidro",
+    "tipo": "filme",
+    "titulo": "Vidro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/d8rvXqqZ3hzrWfFGS47jU7sCx69.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rzsMWXQ7GaN60wIpg3yf01iBmXy.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.7,
+    "tmdbId": 450465,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vidro.json"
+  },
+  {
+    "id": "vidro-fume",
+    "tipo": "filme",
+    "titulo": "Vidro Fumê",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7IqRgkMnsQpuOLZmn7z8bkxAUQf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cC1opm3zzBl5PxcEYETcoRsBbEq.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NACIONAIS"
+    ],
+    "nota": 5,
+    "tmdbId": 541557,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vidro-fume.json"
+  },
+  {
+    "id": "vietna",
+    "tipo": "filme",
+    "titulo": "Bom Dia, Vietnã",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pOiivkoWYBZIcYXxjhgOZIITpAi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mbgJEkrJ0uBOakLwpufdmW4K8Im.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 7.302,
+    "tmdbId": 801,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vietna.json"
+  },
+  {
+    "id": "vigaristas-em-hollywood",
+    "tipo": "filme",
+    "titulo": "Vigaristas em Hollywood",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vDciW7wYFUCWftuI5wlTms4MF4q.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wRrhiUWQSrmCzuVRTUfrei6p3VY.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 5.859,
+    "tmdbId": 650783,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vigaristas-em-hollywood.json"
+  },
+  {
+    "id": "vigia-noturno-o-legado",
+    "tipo": "filme",
+    "titulo": "Vigia Noturno: O Legado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ld9ciaBKcNB1Dl7YncfhHKLgBgl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/opNdWurarqYxrzqpVRPyZrbWb3K.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.3,
+    "tmdbId": 1029880,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vigia-noturno-o-legado.json"
+  },
+  {
+    "id": "vigiados",
+    "tipo": "filme",
+    "titulo": "Vigiados",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gsOyXyBWMtzXXRQ3PVLSk8Fsvz5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hwzBIfrje4mGYC1WiPGee2ZDYI6.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.552,
+    "tmdbId": 587496,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vigiados.json"
+  },
+  {
+    "id": "viking",
+    "tipo": "filme",
+    "titulo": "Amnésia Criminosa",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iJRYtHXHgVQ2CYKqIRg3RAl8q76.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zo1SfeASCrbHFaXJN9y1RW7uU2m.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7.304,
+    "tmdbId": 1295400,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/viking.json"
+  },
+  {
+    "id": "villain",
+    "tipo": "filme",
+    "titulo": "Villain",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lkiH4ymNny3R1aAUgNYXeSaVtQr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/r3cWXIe9eVAuFXFglySHNc10bHQ.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.9,
+    "tmdbId": 1078665,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/villain.json"
+  },
+  {
+    "id": "villains",
+    "tipo": "filme",
+    "titulo": "Vilões",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nFDevg9HeRftVxGGkvriABJO2VF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/l43Misvmwvc44suLlGasKnoQKGE.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.24,
+    "tmdbId": 510388,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/villains.json"
+  },
+  {
+    "id": "viloes",
+    "tipo": "filme",
+    "titulo": "Colonia e Vilões",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/z5dlNljRSS7pTdOKf3AZwHOe6pZ.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 8,
+    "tmdbId": 567638,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/viloes.json"
+  },
+  {
+    "id": "vincent-doit-mourir",
+    "tipo": "filme",
+    "titulo": "Vincent Tem de Morrer",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dJYF9WD2lKWSQG4E4LMnBaZfM1C.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/32E8LziFHOD1xEtVh5tXpUBR93R.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.243,
+    "tmdbId": 965890,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vincent-doit-mourir.json"
+  },
+  {
+    "id": "vingadora",
+    "tipo": "filme",
+    "titulo": "Vingadora",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/l4WzNZC5o9KXnps4smVt45v1nYX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vpuPY4UziUCxv7gYYoaZQ3LX7to.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "LANÇAMENTOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.4,
+    "tmdbId": 1383731,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vingadora.json"
+  },
+  {
+    "id": "vingadores-guerra-infinita",
+    "tipo": "filme",
+    "titulo": "Vingadores: Guerra Infinita",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/A4kvp7vY1BDLrrQIagRCffLKj1t.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+    "generos": [
+      "4K",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 8.235,
+    "tmdbId": 299536,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vingadores-guerra-infinita.json"
+  },
+  {
+    "id": "vingadores-era-de-ultron",
+    "tipo": "filme",
+    "titulo": "Vingadores: Era de Ultron",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uvzqTsRmUzk9mJVzX8cMSWMyM5l.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7.271,
+    "tmdbId": 99861,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vingadores-era-de-ultron.json"
+  },
+  {
+    "id": "vingadores-ultimato",
+    "tipo": "filme",
+    "titulo": "Vingadores: Ultimato",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9fRX8UKlIW7Lb9GqNsJVakWWFCi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA",
+      "4K"
+    ],
+    "nota": 8.235,
+    "tmdbId": 299534,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vingadores-ultimato.json"
+  },
+  {
+    "id": "vinganca",
+    "tipo": "filme",
+    "titulo": "Vingança Brutal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/88P3qzWBRYvI0K5fNtqwwXQsvwi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xyW8rJO3rwG2EGcTO6eaUEa8b9d.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA",
+      "4K",
+      "NACIONAIS"
+    ],
+    "nota": 7.408,
+    "tmdbId": 1613798,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca.json"
+  },
+  {
+    "id": "vinganca-2017",
+    "tipo": "filme",
+    "titulo": "La Vingança",
+    "ano": 2017,
+    "capa": "https://image.tmdb.org/t/p/w500/s4aNLsRTlTGgp8q6zQzWx0s04T1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rZalB9e41E94XswuBogMlP47JS9.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.2,
+    "tmdbId": 365003,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-2017.json"
+  },
+  {
+    "id": "vinganca-e-castigo",
+    "tipo": "filme",
+    "titulo": "Vingança & Castigo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/29WYtxffy1NJhxXZ8al5XJ8US1s.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/d0mpUFKzoPwF1KsdjHpkkaYSvKm.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "FAROESTE"
+    ],
+    "nota": 6.633,
+    "tmdbId": 618162,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-e-castigo.json"
+  },
+  {
+    "id": "vinganca-a-queima-roupa",
+    "tipo": "filme",
+    "titulo": "Vingança à Queima-Roupa",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/A8fkEjvxU81YUJuoF69yF9arl9x.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/klY4l1qMKyQRY3hdQpNghSZOOQi.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 4.456,
+    "tmdbId": 56125,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-a-queima-roupa.json"
+  },
+  {
+    "id": "vinganca-a-sangue-frio",
+    "tipo": "filme",
+    "titulo": "Vingança a Sangue Frio",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rM93VoRIdlgRKOzh5t0zYNRmNv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aiM3XxYE2JvW1vJ4AC6cI1RjAoT.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.876,
+    "tmdbId": 438650,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-a-sangue-frio.json"
+  },
+  {
+    "id": "vinganca-acima-da-lei",
+    "tipo": "filme",
+    "titulo": "Vingança Acima da Lei",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ymZ3MewWInM78zSIwW9l1m4M5cQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fzv87rT0jlAkh5Uf9PpIlUj6Nj8.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 7,
+    "tmdbId": 1195585,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-acima-da-lei.json"
+  },
+  {
+    "id": "vinganca-ancestral",
+    "tipo": "filme",
+    "titulo": "Vingança Ancestral",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hwHAWJ0rsFeRHukFGU7NN0Y4QWw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4mTi7xJO5BoeV4XbOk7wiEYlzXc.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 4.136,
+    "tmdbId": 1114743,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-ancestral.json"
+  },
+  {
+    "id": "vinganca-brutal",
+    "tipo": "filme",
+    "titulo": "Vingança Brutal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/88P3qzWBRYvI0K5fNtqwwXQsvwi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xyW8rJO3rwG2EGcTO6eaUEa8b9d.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "FAROESTE",
+      "4K"
+    ],
+    "nota": 7.408,
+    "tmdbId": 1613798,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-brutal.json"
+  },
+  {
+    "id": "vinganca-brutal-dv",
+    "tipo": "filme",
+    "titulo": "Vingança Brutal [DV]",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/88P3qzWBRYvI0K5fNtqwwXQsvwi.jpg",
+    "banner": null,
+    "generos": [
+      "4K"
+    ],
+    "nota": null,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-brutal-dv.json"
+  },
+  {
+    "id": "vinganca-e-redencao",
+    "tipo": "filme",
+    "titulo": "Vingança e Redenção",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6hLaPB3OFcRZMFQT6skxLnnErpF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cyV2syN5zRQwU6BmWMyMFyjRLow.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.837,
+    "tmdbId": 843633,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-e-redencao.json"
+  },
+  {
+    "id": "vinganca-e-traicao",
+    "tipo": "filme",
+    "titulo": "Vingança e Traição",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sghDw5MxoiXtpkqnKQCjjUJNXFq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9gWnKcd4EGX6DdkZMJloHQUtSMj.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 4.2,
+    "tmdbId": 650906,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-e-traicao.json"
+  },
+  {
+    "id": "vinganca-em-cold-cross",
+    "tipo": "filme",
+    "titulo": "Vingança em Cold Cross",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/W47bfUXsfHezplXioyJotYPCi4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gLLpneZQw1uuVOpjeiL1s5Wkoaj.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "FAROESTE"
+    ],
+    "nota": 4.7,
+    "tmdbId": 1022712,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-em-cold-cross.json"
+  },
+  {
+    "id": "vinganca-em-dobro",
+    "tipo": "filme",
+    "titulo": "Vingança em Dobro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/e2p9E20sU6uBldcZto7CYS6PzJe.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lESlCC0b9L6uxTxb5a4XeLyzcd9.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.8,
+    "tmdbId": 604782,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-em-dobro.json"
+  },
+  {
+    "id": "vinganca-em-duas-rodas",
+    "tipo": "filme",
+    "titulo": "Vingança em Duas Rodas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/essd7DICfIsaE5iJgwdDr03vygy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ywA6KfqA67R93DiTEkVtlcgy5el.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.4,
+    "tmdbId": 847738,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-em-duas-rodas.json"
+  },
+  {
+    "id": "vinganca-entre-assassinos",
+    "tipo": "filme",
+    "titulo": "Vingança Entre Assassinos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iG1Z1wiVAkVYsBjS96YHk9Vtg1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oRfGMshVwOh5gqRiVMsFDPolEXF.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.954,
+    "tmdbId": 24056,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-entre-assassinos.json"
+  },
+  {
+    "id": "vinganca-fatal",
+    "tipo": "filme",
+    "titulo": "Vingança Fatal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/y33paUKgDhJrdsvNDiGjltYkWau.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/33qGtN2GpGEb94pn25PDPeWQZLk.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.063,
+    "tmdbId": 894169,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-fatal.json"
+  },
+  {
+    "id": "vinganca-fatal-2014",
+    "tipo": "filme",
+    "titulo": "Vingança Fatal",
+    "ano": 2014,
+    "capa": "https://image.tmdb.org/t/p/w500/oCi6ELc0uGv5FRTQeA245AvLQ8P.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/plhx3rFbnhpPdDb4HkKm94OhN5p.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.341,
+    "tmdbId": 270938,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-fatal-2014.json"
+  },
+  {
+    "id": "vinganca-final",
+    "tipo": "filme",
+    "titulo": "Vingança Final",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tqlthKFb0aL7GCXJgltnzFJebcw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ayTQ3hMnyv4yawGMSVwfBy5teg9.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.512,
+    "tmdbId": 3515,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-final.json"
+  },
+  {
+    "id": "vinganca-fm",
+    "tipo": "filme",
+    "titulo": "Vingança FM",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4oyrL3j3sj6G05Ew7mXTsQokeVP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/f1kb20sXU7YkuHUgdecGuRSjzT0.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 5.806,
+    "tmdbId": 577889,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-fm.json"
+  },
+  {
+    "id": "vinganca-no-deserto",
+    "tipo": "filme",
+    "titulo": "Vingança no Deserto",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zQUutDa3XRn8xmGE24KD6EnVsci.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4PnNZVmxVn19rers87SWCYLw05D.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 10,
+    "tmdbId": 1292906,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-no-deserto.json"
+  },
+  {
+    "id": "vinganca-no-oeste",
+    "tipo": "filme",
+    "titulo": "Vingança no Oeste",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3pfNtlnvBOm72mwKBtI5E9Sq9BO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cQLb9RtzPz0qqKgUjKwYZU5nrTW.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "FAROESTE"
+    ],
+    "nota": 6.765,
+    "tmdbId": 540977,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-no-oeste.json"
+  },
+  {
+    "id": "vinganca-pelo-passado",
+    "tipo": "filme",
+    "titulo": "Vingança Pelo Passado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nO8cPPQOVN2D1kQG26tdNfgrPay.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ru2LECaGqWtsL3kRWWJ3EoDlF5J.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 7.563,
+    "tmdbId": 633374,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-pelo-passado.json"
+  },
+  {
+    "id": "vinganca-solitaria",
+    "tipo": "filme",
+    "titulo": "Vingança Solitária",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pz5ZrXSymSrVybrKnTwiPQ4Cg1U.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iNH5rwMRBE8TLBalrnwcEe3VodE.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 5.69,
+    "tmdbId": 768939,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinganca-solitaria.json"
+  },
+  {
+    "id": "vingt-dieux",
+    "tipo": "filme",
+    "titulo": "Vingt Dieux",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zdoLIMMgcbqBtgPIWe7Ep8KcsiH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/87FfUfTb7gxty2L8sAiVwO3ul5y.jpg",
+    "generos": [
+      "LEGENDADOS"
+    ],
+    "nota": 6.9,
+    "tmdbId": 1079310,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vingt-dieux.json"
+  },
+  {
+    "id": "vini",
+    "tipo": "filme",
+    "titulo": "Baila, Vini",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/s1zEsvB5XoS0Gqr7tmnNZExVdRI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qQ9i4mO2GrUFR3gLWjf8J6s3Wf3.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "4K"
+    ],
+    "nota": 5.88,
+    "tmdbId": 1390394,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vini.json"
+  },
+  {
+    "id": "vinski-o-heroi-invisivel",
+    "tipo": "filme",
+    "titulo": "Vinski - O Herói Invisível",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/aJmRMWtz33UPB1LG5epgXw3lKjU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zmVi2MaOfF9AiTn6CzMmIhbFkou.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "COMÉDIA"
+    ],
+    "nota": 6.1,
+    "tmdbId": 661707,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vinski-o-heroi-invisivel.json"
+  },
+  {
+    "id": "violacao-de-conduta",
+    "tipo": "filme",
+    "titulo": "Violação de Conduta",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lamkgtFVGtytaFhDQuWrI8tNnMn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nbQccqxcpAV1dwofccLeM3c6qzn.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AÇÃO | CRIME | GUERRA"
+    ],
+    "nota": 6.503,
+    "tmdbId": 10782,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/violacao-de-conduta.json"
+  },
+  {
+    "id": "violacao-de-privacidade",
+    "tipo": "filme",
+    "titulo": "Violação de Privacidade",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bB7v0RRCeLdzXeFFg1t5titpcTU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nGjquGZjmS3tlfXCKTHOrtDJwOe.jpg",
+    "generos": [
+      "DRAMA"
+    ],
+    "nota": 6.077,
+    "tmdbId": 11099,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/violacao-de-privacidade.json"
+  },
+  {
+    "id": "violencia-explicita",
+    "tipo": "filme",
+    "titulo": "Violência Explícita",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8QrzjL1RbLhFnDyUDflFbROHtii.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/e1hVQtnnMpoCBPOMR7nCm9CB7T5.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 4,
+    "tmdbId": 562566,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/violencia-explicita.json"
+  },
+  {
+    "id": "violencia-gratuita",
+    "tipo": "filme",
+    "titulo": "Violência Gratuita",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4CxW8ISpqNfY1mI9kJS6JchLYGx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6P4R7kYUdJprHpyBmOQO6aB85xX.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "SUSPENSE | TERROR | THRILLER"
+    ],
+    "nota": 6.564,
+    "tmdbId": 8461,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/violencia-gratuita.json"
+  },
+  {
+    "id": "violet-evergarden-gaiden-eternidade-e-a-boneca-de-automemoria",
+    "tipo": "filme",
+    "titulo": "Violet Evergarden Gaiden: Eternidade e a Boneca de Automemória",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/u0dwtMz4WNwr6nAFwrrtbIPZwnC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ldOF0T4x0YuST0OeJr9ctWMXuTL.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 8.085,
+    "tmdbId": 610892,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/violet-evergarden-gaiden-eternidade-e-a-boneca-de-automemoria.json"
+  },
+  {
+    "id": "violet-evergarden-o-filme",
+    "tipo": "filme",
+    "titulo": "Violet Evergarden: O Filme",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/klSuPjBIpZcogieQgETCkBYoM8S.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wGwSWDG3LIQxchg2M8HV7bDqYKU.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA",
+      "ANIMES"
+    ],
+    "nota": 8.295,
+    "tmdbId": 533514,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/violet-evergarden-o-filme.json"
+  },
+  {
+    "id": "violet-no-mundo-da-fantasia",
+    "tipo": "filme",
+    "titulo": "Violet no Mundo da Fantasia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hqsoKyfHnXkB11nrHkMzHXHvHUl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/d8ykdViWaxSSN5ZdAUGrDAhmROF.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "AVENTURA | FICÇÃO | FANTASIA"
+    ],
+    "nota": 5.485,
+    "tmdbId": 456483,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/violet-no-mundo-da-fantasia.json"
+  },
+  {
     "id": "violeta",
     "tipo": "filme",
     "titulo": "Violeta",
@@ -3079,6 +4088,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/2wmBp66KFv5l5AYh83XxCU03d1F.jpg",
     "banner": "https://image.tmdb.org/t/p/original/umRHfarsWMLC9iI2sCEMiJMB56.jpg",
     "generos": [
+      "LEGENDADOS",
       "AÇÃO | CRIME | GUERRA"
     ],
     "nota": 7.554,
@@ -3364,986 +4374,5 @@
     "nota": 6.1,
     "tmdbId": 47971,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/xxx-reativado.json"
-  },
-  {
-    "id": "y2k",
-    "tipo": "filme",
-    "titulo": "Y2K: O Bug do Milênio",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/s4lE9QpFxXj5erOQn1PBMNReVvt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/47bsGWAEtJNWMcd3oNS7TELmi6v.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.2,
-    "tmdbId": 1094274,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/y2k.json"
-  },
-  {
-    "id": "y2k-bomba-relogio",
-    "tipo": "filme",
-    "titulo": "Y2K: Bomba-Relógio",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/8yglLnW3tez4ekvuEM5ZA67mdul.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/OI06C8QPnm927kmItRbE3lXWTg.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.417,
-    "tmdbId": 1088233,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/y2k-bomba-relogio.json"
-  },
-  {
-    "id": "y2k-o-bug-do-milenio",
-    "tipo": "filme",
-    "titulo": "Y2K: O Bug do Milênio",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/s4lE9QpFxXj5erOQn1PBMNReVvt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/47bsGWAEtJNWMcd3oNS7TELmi6v.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 5.2,
-    "tmdbId": 1094274,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/y2k-o-bug-do-milenio.json"
-  },
-  {
-    "id": "yaksha-operacao-implacavel",
-    "tipo": "filme",
-    "titulo": "Yaksha: Operação Implacável",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/wRt4ZJYcbTThbG5p2He48m2P4M9.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/hXTWVJMsI9BkxMLliqL1j0FT55t.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.65,
-    "tmdbId": 606402,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/yaksha-operacao-implacavel.json"
-  },
-  {
-    "id": "yannick",
-    "tipo": "filme",
-    "titulo": "Yannick",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/azwfHg1QCOWZha7uAbYIwTdSs2L.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/27e2IkJnwEqXoEx9WTY0aDON8L.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7.055,
-    "tmdbId": 1110358,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/yannick.json"
-  },
-  {
-    "id": "yara",
-    "tipo": "filme",
-    "titulo": "Yara",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/gcVFI8t5QAvXGzQRKA82glDdOr3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7XhJX2V2BDQLWku0ILSOCXpsxrJ.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.304,
-    "tmdbId": 747688,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/yara.json"
-  },
-  {
-    "id": "yesterday",
-    "tipo": "filme",
-    "titulo": "Yesterday",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6hGo8YPZZTU0Dj5LrA9OhqpQBJj.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/t5Kp02Jzixl0KfpwthHp9ZUex9t.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.686,
-    "tmdbId": 515195,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/yesterday.json"
-  },
-  {
-    "id": "yiya-murano-muerte-a-la-hora-del-te",
-    "tipo": "filme",
-    "titulo": "Yiya Murano: Morte na Hora do Chá",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/msoLCiSHuVDIBeD2b3f7BODGbZJ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/x6pJGUc9hXOEjvhtDZ0W8cPOzQy.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "LANÇAMENTOS"
-    ],
-    "nota": 6.4,
-    "tmdbId": 1661439,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/yiya-murano-muerte-a-la-hora-del-te.json"
-  },
-  {
-    "id": "yo-yo-honey-singh-famous",
-    "tipo": "filme",
-    "titulo": "Yo Yo Honey Singh: Famous",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/t4LAe1fwWmLEO8MH8U56uICxxU.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/mHvvxntUAv3nrSAWzjPfMt4t1dQ.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 5.3,
-    "tmdbId": 1252467,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/yo-yo-honey-singh-famous.json"
-  },
-  {
-    "id": "yolo-o-destino-de-le-ying",
-    "tipo": "filme",
-    "titulo": "YOLO: O Destino de Le Ying",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/533BcRVd8zMbPvK0HT7vn2IhlTB.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9IEYCg2Sxk72QdNNcvbbCMelalu.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.778,
-    "tmdbId": 1229349,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/yolo-o-destino-de-le-ying.json"
-  },
-  {
-    "id": "yonlu",
-    "tipo": "filme",
-    "titulo": "Yonlu",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/riX9lP1BgSlgCBaRDvxASIhcqvf.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/fgFV6IOrXmmvX4SuPuNwfQvj7iu.jpg",
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": 7.8,
-    "tmdbId": 480252,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/yonlu.json"
-  },
-  {
-    "id": "yorimata",
-    "tipo": "filme",
-    "titulo": "Yorimatã",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3fMupuug9FATtfqHrkT6UtX32ll.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wYTd5s43Tt8zTyiJA3PvmbEH9sq.jpg",
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": 10,
-    "tmdbId": 392657,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/yorimata.json"
-  },
-  {
-    "id": "you-hurt-my-feelings",
-    "tipo": "filme",
-    "titulo": "Verdades Dolorosas",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qk5aQmNkRx4WR0CaR0lYE9MddjO.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9cnUiMidzgt2tsxUc2qhhlxU1bk.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.317,
-    "tmdbId": 890215,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/you-hurt-my-feelings.json"
-  },
-  {
-    "id": "you-should-have-left",
-    "tipo": "filme",
-    "titulo": "Você Deveria Ter Partido",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/48g3GxLLekaan7agQAOd7i386qK.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/chAGSv4DB9s3fsgULpSZQLN7LgN.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.083,
-    "tmdbId": 514593,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/you-should-have-left.json"
-  },
-  {
-    "id": "you-tubers",
-    "tipo": "filme",
-    "titulo": "You Tubers",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6HZ3c3DMWzCtfeNajtYDjpnNekl.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xQpTWSlymt4jTvbBquw26LjZ9Ci.jpg",
-    "generos": [
-      "DOCUMENTARIOS"
-    ],
-    "nota": null,
-    "tmdbId": 738739,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/you-tubers.json"
-  },
-  {
-    "id": "you-ll-never-find-me",
-    "tipo": "filme",
-    "titulo": "Você Nunca Me Encontrará",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/oa4IBO64nlc14lip3PmPO2vjMPq.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xYNiy7nCN7C01QI8OKTutstY3Vq.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.031,
-    "tmdbId": 1117321,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/you-ll-never-find-me.json"
-  },
-  {
-    "id": "your-lucky-day",
-    "tipo": "filme",
-    "titulo": "Loteria Fatal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/3zwqemYFrYiWISWeC64OumJW95v.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rkmjKERkVIqG3DhwY4mcRYH1RFf.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6,
-    "tmdbId": 923993,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/your-lucky-day.json"
-  },
-  {
-    "id": "your-name",
-    "tipo": "filme",
-    "titulo": "Your name.",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/eIm2nKC0125GyEPSWl6ODCA9J1S.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": 8.5,
-    "tmdbId": 372058,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/your-name.json"
-  },
-  {
-    "id": "your-name-engraved-herein",
-    "tipo": "filme",
-    "titulo": "Seu Nome Gravado em Mim",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/13nn4RmQbHBxeSIjl2Ixeagu2rk.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rhsvTWUeH6RKXk8pQ830oBw56qb.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7.868,
-    "tmdbId": 719410,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/your-name-engraved-herein.json"
-  },
-  {
-    "id": "yowamushi-pedal-movie",
-    "tipo": "filme",
-    "titulo": "Yowamushi Pedal Movie",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/aeUViOBU6H09EsUpPNh4O1x7GFt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rACHuh9fPcX8uK5ZYL2W8Rw6B2r.jpg",
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": 6.8,
-    "tmdbId": 334372,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/yowamushi-pedal-movie.json"
-  },
-  {
-    "id": "yowamushi-pedal-spare-bike",
-    "tipo": "filme",
-    "titulo": "弱虫ペダル SPARE BIKE",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qhe6F5rUa0s0wkJXrCVBiiiS0L3.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/h6ad9499yWKpihA2R1HE7DR6y4s.jpg",
-    "generos": [
-      "ANIMES"
-    ],
-    "nota": 6,
-    "tmdbId": 403895,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/yowamushi-pedal-spare-bike.json"
-  },
-  {
-    "id": "yu-gi-oh-o-filme-piramide-de-luz",
-    "tipo": "filme",
-    "titulo": "Yu-Gi-Oh! O Filme: Pirâmide de Luz",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zrOts4zqd0B8i1Gt6IasYtTMQZb.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/eZhgY71I2kOkKgYckYHuLncsVlX.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.1,
-    "tmdbId": 11052,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/yu-gi-oh-o-filme-piramide-de-luz.json"
-  },
-  {
-    "id": "yucatan",
-    "tipo": "filme",
-    "titulo": "Yucatán",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6z3f3I2YLpaipyYGItOf7c7kqRK.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xmfLkz196E6RC4YpZV0wJpEA5Af.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.575,
-    "tmdbId": 517324,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/yucatan.json"
-  },
-  {
-    "id": "yummy",
-    "tipo": "filme",
-    "titulo": "UTI Zumbi",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/nychvxBaGEijaMmgRzkeMNSfPpT.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2UcDOPaJjCTW0YrvyeMkAof5wub.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.318,
-    "tmdbId": 633604,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/yummy.json"
-  },
-  {
-    "id": "yuri-marcal-ledo-engano",
-    "tipo": "filme",
-    "titulo": "Yuri Marçal: Ledo Engano",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/92c9LKcFquhk9zsjuce6PlYB7Ja.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gfemkdtCdixSY0D1GQ9f4Qf7iAl.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 7,
-    "tmdbId": 979522,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/yuri-marcal-ledo-engano.json"
-  },
-  {
-    "id": "yves-saint-laurent",
-    "tipo": "filme",
-    "titulo": "Yves Saint Laurent",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/c3OQ4DtCzm4JfBxviXk5g7grsxM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/pzsd4yHmasqvdnJwmqQboosiGwV.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.615,
-    "tmdbId": 245775,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/yves-saint-laurent.json"
-  },
-  {
-    "id": "z",
-    "tipo": "filme",
-    "titulo": "Guerra Mundial Z",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/2Sdz5gGrwN92pRanlJKeUqkIjRk.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/31VpBgUX5O4Z3dn5ZbX8HLqoXH3.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.83,
-    "tmdbId": 72190,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/z.json"
-  },
-  {
-    "id": "z-o-m-b-i-e-s",
-    "tipo": "filme",
-    "titulo": "Z-O-M-B-I-E-S",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/6S9O5U7Ietqh6zTtZhGbhbA3Pze.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/ArccbTKFk8fMp5JnHuxoW8xU0iJ.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 7.251,
-    "tmdbId": 483980,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/z-o-m-b-i-e-s.json"
-  },
-  {
-    "id": "z-o-m-b-i-e-s-2",
-    "tipo": "filme",
-    "titulo": "Z-O-M-B-I-E-S 2",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/cOnxoQ3kx4mgmWb7yRi6GBWssOh.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/aJK3XZGn7TaCnb1wbHBgCfXOxnc.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 7.47,
-    "tmdbId": 599521,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/z-o-m-b-i-e-s-2.json"
-  },
-  {
-    "id": "z-o-m-b-i-e-s-3",
-    "tipo": "filme",
-    "titulo": "Z-O-M-B-I-E-S 3",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/vqzdv4nArhuZxd7il0boKaVxQMF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/xBHq2c25I776tO1VYrDNQaT5xzZ.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AVENTURA | FICÇÃO | FANTASIA",
-      "4K"
-    ],
-    "nota": 7.309,
-    "tmdbId": 809107,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/z-o-m-b-i-e-s-3.json"
-  },
-  {
-    "id": "zack-e-cody-o-filme",
-    "tipo": "filme",
-    "titulo": "Zack e Cody: O Filme",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ajy3ALNpFhC4S1BHoBQq8tWPvlt.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wwRNIPvYc1h4YDXDg7PshBLKw3D.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.079,
-    "tmdbId": 60803,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zack-e-cody-o-filme.json"
-  },
-  {
-    "id": "zamach-na-papieza-ruim",
-    "tipo": "filme",
-    "titulo": "Zamach na papieża RUIM",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvNLNMZjSYvnPvIdfMZWZzpBPIW.jpg",
-    "banner": null,
-    "generos": [
-      "CINEMA | RUIM | CAM | PROPAGANDA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zamach-na-papieza-ruim.json"
-  },
-  {
-    "id": "zarafa",
-    "tipo": "filme",
-    "titulo": "Zarafa",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/r2QvKG2gjG2Jv53rMTQcrCoKBj4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wu1ZfK910bxCUtyne1bL1s9lOLj.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.8,
-    "tmdbId": 94196,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zarafa.json"
-  },
-  {
-    "id": "zarna-garg-one-in-a-billion",
-    "tipo": "filme",
-    "titulo": "Zarna Garg: One in a Billion",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kZHF4QsTgoRcRWvEcv2i3tN8hLA.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rsjwblrTy574JmDAO9q5WQXA4W8.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 7.2,
-    "tmdbId": 1118443,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zarna-garg-one-in-a-billion.json"
-  },
-  {
-    "id": "zathura-uma-aventura-espacial",
-    "tipo": "filme",
-    "titulo": "Zathura: Uma Aventura Espacial",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ufvBPlygnMSjjbv62ufRR6EKwdZ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/s9Bn7Mx4U9cWOR1WdFZjU1DTAkh.jpg",
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 6.442,
-    "tmdbId": 6795,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zathura-uma-aventura-espacial.json"
-  },
-  {
-    "id": "zaytoun",
-    "tipo": "filme",
-    "titulo": "Zaytoun",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mthd0wx6aalh17DV73Awh9bIKKQ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/iP9nlaUoH8dYxlE2zip3yY7egHx.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 6.3,
-    "tmdbId": 121640,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zaytoun.json"
-  },
-  {
-    "id": "ze",
-    "tipo": "filme",
-    "titulo": "Zé",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/glVfECG4rUlYbb1U36c7JQMDzBs.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/c6oawjdZco1lHJKkgrwp8LDM27l.jpg",
-    "generos": [
-      "NACIONAIS",
-      "LANÇAMENTOS"
-    ],
-    "nota": null,
-    "tmdbId": 1136607,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ze.json"
-  },
-  {
-    "id": "ze-colmeia-o-filme",
-    "tipo": "filme",
-    "titulo": "Zé Colmeia: O Filme",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fJznQfkWmN8MDnOvwxrt1UOnEAG.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/olt6xjI8QvrTmm1GTH6VtX6ROCl.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 5.568,
-    "tmdbId": 41515,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ze-colmeia-o-filme.json"
-  },
-  {
-    "id": "zebra-girl",
-    "tipo": "filme",
-    "titulo": "Zebra Girl",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jXiIPmOkixWB5n97Y8iWf86tYBq.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/x8ADn1tQ1dpc5bWVrxc201T9FFB.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.6,
-    "tmdbId": 802884,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zebra-girl.json"
-  },
-  {
-    "id": "zerando-a-vida",
-    "tipo": "filme",
-    "titulo": "Zerando a Vida",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/moWEJfrNnywDAJAiFZ1r2OfF5s4.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rDZArKpxVhrLXrRYD9xF271klVf.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.71,
-    "tmdbId": 389053,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zerando-a-vida.json"
-  },
-  {
-    "id": "zero",
-    "tipo": "filme",
-    "titulo": "Zona Zero",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.2,
-    "tmdbId": 1375646,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zero.json"
-  },
-  {
-    "id": "zero-e-uns",
-    "tipo": "filme",
-    "titulo": "Zero e Uns",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVXGyReSl955Wr2c8ythuxRmJRK.jpg",
-    "banner": null,
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zero-e-uns.json"
-  },
-  {
-    "id": "zeroville",
-    "tipo": "filme",
-    "titulo": "Zeroville: A Vida em Hollywood",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/o1tA9jpbjPLSCuIipJj6PLg0oGG.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/yvxHC0wZyuH1ZnxmjpVrEuggzv3.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.07,
-    "tmdbId": 291867,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zeroville.json"
-  },
-  {
-    "id": "zeus-e-roxanne",
-    "tipo": "filme",
-    "titulo": "Zeus & Roxanne",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/zQbj5TRFVbtNGZFKPKMipIjt8fY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/67rDbJBnh5BxrjNvgx51jIEJgpo.jpg",
-    "generos": [
-      "ROMANCE"
-    ],
-    "nota": 5.25,
-    "tmdbId": 42424,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zeus-e-roxanne.json"
-  },
-  {
-    "id": "zodiaco",
-    "tipo": "filme",
-    "titulo": "Zodíaco",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jFmlV5vUzOt1PgJ82efOhNsWcWX.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 7.528,
-    "tmdbId": 1949,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zodiaco.json"
-  },
-  {
-    "id": "zoe",
-    "tipo": "filme",
-    "titulo": "Zoe",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hagf4LA3FRD2o1wI3LhNzl0t5vo.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7RIYU3mMHiK0QzMP8hG6IX4Sntl.jpg",
-    "generos": [
-      "AVENTURA | FICÇÃO | FANTASIA"
-    ],
-    "nota": 5.928,
-    "tmdbId": 458005,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zoe.json"
-  },
-  {
-    "id": "zoe-e-raven-os-doze-presentes-de-natal",
-    "tipo": "filme",
-    "titulo": "Zoe e Raven: Os Doze Presentes de Natal",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/o8lQpqYMY9CW4MvhLbb9sesXZxy.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/r6SsPXO9xWanCR8X8oxoYlBsCA4.jpg",
-    "generos": [
-      "NATALINO"
-    ],
-    "nota": 6.697,
-    "tmdbId": 567145,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zoe-e-raven-os-doze-presentes-de-natal.json"
-  },
-  {
-    "id": "zoe-e-tempestade",
-    "tipo": "filme",
-    "titulo": "Zoe e Tempestade",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/b6WSXeogzyIA9GP4y0s5pj88Cva.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/x93D07coMGtZHP7SNAQjn7Jb1Zw.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.761,
-    "tmdbId": 894246,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zoe-e-tempestade.json"
-  },
-  {
-    "id": "zoey-102-o-casamento",
-    "tipo": "filme",
-    "titulo": "Zoey 102: O Casamento",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/liVS0KJMviz4iOfbrZkLqdCzBIp.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tXkIqZL1GnDymT1M8WMXfLzC1qa.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "ROMANCE"
-    ],
-    "nota": 6.77,
-    "tmdbId": 1073170,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zoey-102-o-casamento.json"
-  },
-  {
-    "id": "zog-e-os-doutores-voadores",
-    "tipo": "filme",
-    "titulo": "Zog e os Doutores Voadores",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/fEQRCAScwpr6PwEhk6VXqtkBz8P.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3VeNFWlxgCJd7Oq8EvoSv50N5Jv.jpg",
-    "generos": [
-      "ANIMAÇÃO | INFANTIL | FAMILIA"
-    ],
-    "nota": 6.5,
-    "tmdbId": 779611,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zog-e-os-doutores-voadores.json"
-  },
-  {
-    "id": "zohan-um-agente-bom-de-corte",
-    "tipo": "filme",
-    "titulo": "Zohan: Um Agente Bom de Corte",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/mT81xdLGdexnLfPqiNjjZ2BR82u.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tfUotS2rLaIu7ieJPDonyDn5EqQ.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.714,
-    "tmdbId": 10661,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zohan-um-agente-bom-de-corte.json"
-  },
-  {
-    "id": "zola",
-    "tipo": "filme",
-    "titulo": "Zola",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/bJLCPROp9bmNndurwZpVnOioVpB.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zL7CozbpAbGSdhBsuTI847tu5Fo.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA"
-    ],
-    "nota": 6.167,
-    "tmdbId": 539565,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zola.json"
-  },
-  {
-    "id": "zombieland-double-tap",
-    "tipo": "filme",
-    "titulo": "Zumbilândia: Atire Duas Vezes",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/x8T7xy6usNhTWphfQTH7vmr4tOC.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/e7tMI0zVKJB2TS74TaBifIZIkCp.jpg",
-    "generos": [
-      "LEGENDADOS"
-    ],
-    "nota": 6.901,
-    "tmdbId": 338967,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zombieland-double-tap.json"
-  },
-  {
-    "id": "zombies-4-a-era-dos-vampiros",
-    "tipo": "filme",
-    "titulo": "ZOMBIES 4: A Era dos Vampiros",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/7hkr3teBIjkgIYXTk0V36CThSVL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/68TGPnvmZ21NBOoV5IUZ4fQDyvZ.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "COMÉDIA",
-      "4K"
-    ],
-    "nota": 6.888,
-    "tmdbId": 1243341,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zombies-4-a-era-dos-vampiros.json"
-  },
-  {
-    "id": "zombies-of-the-third-reich",
-    "tipo": "filme",
-    "titulo": "Zombies of the Third Reich",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/hjrgOWoruk9ea0tXaN8l2gtmkeH.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/7OjUOEWRoASbsmngmS96CpYfH3C.jpg",
-    "generos": [
-      "CINEMA | RUIM | CAM | PROPAGANDA"
-    ],
-    "nota": 6,
-    "tmdbId": 1301310,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zombies-of-the-third-reich.json"
-  },
-  {
-    "id": "zombio-2-chimarrao-zombies",
-    "tipo": "filme",
-    "titulo": "Zombio 2: Chimarrão Zombies",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/k5doBmp5arzi1qn1aCxJf2tRmqy.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nVV03eCiwid0pv186EB7sVSdILf.jpg",
-    "generos": [
-      "NACIONAIS"
-    ],
-    "nota": 5,
-    "tmdbId": 279969,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zombio-2-chimarrao-zombies.json"
-  },
-  {
-    "id": "zona-de-caca",
-    "tipo": "filme",
-    "titulo": "Zona de Caça",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/eFrZLDfyb0fef5IDk9CH4MV2aod.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1leYKN0DPNffpldGnCWnbXaiWoD.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.753,
-    "tmdbId": 1305717,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zona-de-caca.json"
-  },
-  {
-    "id": "zona-de-combate",
-    "tipo": "filme",
-    "titulo": "Zona de Combate",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/vnVQx7MJMwTvqcn5pkYDImxzlMg.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/lOSdUkGQmbAl5JQ3QoHqBZUbZhC.jpg",
-    "generos": [
-      "4K",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.4,
-    "tmdbId": 775996,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zona-de-combate.json"
-  },
-  {
-    "id": "zona-de-confronto",
-    "tipo": "filme",
-    "titulo": "Zona de Confronto",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/m9acLluSUQRFriTHA6V6CNvXouL.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/rVttzFfjuFABzVoafvUxwuGtgV8.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.357,
-    "tmdbId": 711017,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zona-de-confronto.json"
-  },
-  {
-    "id": "zona-de-exclusao",
-    "tipo": "filme",
-    "titulo": "Zona de Exclusão",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/kXhDC0oa1g8XDhf9ZvCuqHyUAPF.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2LtjLdQwy4VPW8ajCFbgf90KOE6.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 7.36,
-    "tmdbId": 1121956,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zona-de-exclusao.json"
-  },
-  {
-    "id": "zona-de-interesse",
-    "tipo": "filme",
-    "titulo": "Zona de Interesse",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iQoyDhBjHwo1HTR0DuTzR8o1CqI.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/pnTSOKcYnvdpQNQElAtJM1rWOxH.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA",
-      "4K",
-      "OSCAR"
-    ],
-    "nota": 7,
-    "tmdbId": 467244,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zona-de-interesse.json"
-  },
-  {
-    "id": "zona-de-perigo",
-    "tipo": "filme",
-    "titulo": "Zona de Perigo",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/40fmdc0apEKe8r36RRqBTqKELVS.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/3kdSGx028h48Zzr6PFbGZWY4fJM.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 5.904,
-    "tmdbId": 11074,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zona-de-perigo.json"
-  },
-  {
-    "id": "zona-de-risco",
-    "tipo": "filme",
-    "titulo": "Zona de Risco",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/qLqI0lA5WFIpItLCQNqPJYM3W6p.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/iKqItVltY6r0eJeIRdIZV8IrBpz.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "AÇÃO | CRIME | GUERRA",
-      "4K"
-    ],
-    "nota": 7.254,
-    "tmdbId": 969492,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zona-de-risco.json"
-  },
-  {
-    "id": "zona-de-risco-2021",
-    "tipo": "filme",
-    "titulo": "Zona de Risco",
-    "ano": 2021,
-    "capa": "https://image.tmdb.org/t/p/w500/ntZN3ZuWb6yjfRL5h2O5ba9lJFM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/wD8XVyp9FnKZ6KIlkBF5ylSEltK.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 4.767,
-    "tmdbId": 808969,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zona-de-risco-2021.json"
-  },
-  {
-    "id": "zona-de-silencio",
-    "tipo": "filme",
-    "titulo": "Zona de Silêncio",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/jhI6yOoWaLZwlnmBuEdqr3T3Zzx.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/c26GB3r9rJtamesS5ZJBBLxtxEz.jpg",
-    "generos": [
-      "LEGENDADOS",
-      "DRAMA"
-    ],
-    "nota": 6.283,
-    "tmdbId": 543749,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zona-de-silencio.json"
-  },
-  {
-    "id": "zona-de-tubaroes",
-    "tipo": "filme",
-    "titulo": "Zona De Tubarões",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpK1KqZKv3qq4ky4QEIAjbBkyVY.jpg",
-    "banner": null,
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": null,
-    "tmdbId": null,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zona-de-tubaroes.json"
-  },
-  {
-    "id": "zona-desmilitarizada",
-    "tipo": "filme",
-    "titulo": "Zona Desmilitarizada",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/y3XnNJmEscLLEIbRGLv6hN25kXE.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4tOYcEXHXclnD1B7EpVDw4guJoH.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 6.886,
-    "tmdbId": 557972,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zona-desmilitarizada.json"
-  },
-  {
-    "id": "zona-fria",
-    "tipo": "filme",
-    "titulo": "Zona Fria",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/c47vzme1QvFdSYaVJuyy8rtJdBB.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/sh4rXuam1Gd9lriKbDOKMw9p1Ti.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 4.7,
-    "tmdbId": 437463,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zona-fria.json"
   }
 ]

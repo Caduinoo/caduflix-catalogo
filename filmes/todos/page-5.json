@@ -1,5 +1,50 @@
 [
   {
+    "id": "a-ouvinte",
+    "tipo": "filme",
+    "titulo": "A Ouvinte",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dnkZEcD7VuCHoqhkaAuAGrXhpAd.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6tCLkR2I9ZK4gjc3bgHUcY8UbQ5.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 5.7,
+    "tmdbId": 914243,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ouvinte.json"
+  },
+  {
+    "id": "a-paisana",
+    "tipo": "filme",
+    "titulo": "À Paisana",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9NVBrFkIYVgx4jEtfLvFqwmJi2M.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yMpLgrUs5AILPQwXO2eMtgEEar0.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 7.3,
+    "tmdbId": 1255718,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-paisana.json"
+  },
+  {
+    "id": "a-paixao-de-cristo",
+    "tipo": "filme",
+    "titulo": "A Paixão de Cristo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ptGYQgdYCR8GVMVjpJ8QNJSxlkf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4840rkbpsiuow5ew155oVKcqJwj.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "RELIGIOSOS"
+    ],
+    "nota": 7.54,
+    "tmdbId": 615,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-paixao-de-cristo.json"
+  },
+  {
     "id": "a-paixao-segundo-g-h",
     "tipo": "filme",
     "titulo": "A Paixão Segundo G.H.",
@@ -587,6 +632,7 @@
     "capa": "https://image.tmdb.org/t/p/w500/2ujZDnUE0g309LxhLtQFIDQgGyM.jpg",
     "banner": "https://image.tmdb.org/t/p/original/uzXLCqPWYbsVzPU3pGz3oPqO4lE.jpg",
     "generos": [
+      "LEGENDADOS",
       "COMÉDIA",
       "LANÇAMENTOS"
     ],
@@ -1842,6 +1888,20 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-raposa-e-o-cavalo.json"
   },
   {
+    "id": "a-ratinha-valente",
+    "tipo": "filme",
+    "titulo": "A Ratinha Valente",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ydHOcvSIZNgp80r5fCrJf8jBevR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4Q0C49l6KkRbnVlE3N86IljtAXH.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.5,
+    "tmdbId": 11704,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ratinha-valente.json"
+  },
+  {
     "id": "a-rebeliao",
     "tipo": "filme",
     "titulo": "A Rebelião",
@@ -1957,6 +2017,21 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-rede-social.json"
   },
   {
+    "id": "a-redencao-2021",
+    "tipo": "filme",
+    "titulo": "A Redenção",
+    "ano": 2021,
+    "capa": "https://image.tmdb.org/t/p/w500/3iqcd55lnoWJuhooovDLwXa711j.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uxTheB0MN5vtxvFBWoePaRSrGcD.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "DRAMA"
+    ],
+    "nota": 3.5,
+    "tmdbId": 871190,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-redencao-2021.json"
+  },
+  {
     "id": "a-redencao",
     "tipo": "filme",
     "titulo": "A Redenção",
@@ -1970,20 +2045,6 @@
     "nota": 7.2,
     "tmdbId": 605375,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-redencao.json"
-  },
-  {
-    "id": "a-redencao-2021",
-    "tipo": "filme",
-    "titulo": "A Redenção",
-    "ano": 2021,
-    "capa": "https://image.tmdb.org/t/p/w500/3iqcd55lnoWJuhooovDLwXa711j.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/uxTheB0MN5vtxvFBWoePaRSrGcD.jpg",
-    "generos": [
-      "DRAMA"
-    ],
-    "nota": 3.5,
-    "tmdbId": 871190,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-redencao-2021.json"
   },
   {
     "id": "a-redencao-2019",
@@ -3558,6 +3619,7 @@
     "capa": null,
     "banner": null,
     "generos": [
+      "LEGENDADOS",
       "DRAMA",
       "LANÇAMENTOS"
     ],
@@ -4298,62 +4360,5 @@
     "nota": 6.913,
     "tmdbId": 1047020,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-parada-no-condado-de-yuma.json"
-  },
-  {
-    "id": "a-ultima-primavera",
-    "tipo": "filme",
-    "titulo": "A Última Primavera",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/rPf8soyuxu4dgZYJhDCTequDm30.jpg",
-    "banner": null,
-    "generos": [
-      "LEGENDADOS",
-      "NACIONAIS"
-    ],
-    "nota": null,
-    "tmdbId": 1329225,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-primavera.json"
-  },
-  {
-    "id": "a-ultima-profecia",
-    "tipo": "filme",
-    "titulo": "A Última Profecia",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/ymDIvdCemcLBUUavsMMa2zBXZk6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/zQM01PhOwJY9ePnWPQ8L0YeKf8c.jpg",
-    "generos": [
-      "SUSPENSE | TERROR | THRILLER"
-    ],
-    "nota": 6.225,
-    "tmdbId": 2637,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-profecia.json"
-  },
-  {
-    "id": "a-ultima-resistencia",
-    "tipo": "filme",
-    "titulo": "A Última Resistência",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/iSOmOm5PlJ3kEhkQJxtqMSeuWpQ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/nvVkh27onVgYQLJqRCjko8zyCXC.jpg",
-    "generos": [
-      "AÇÃO | CRIME | GUERRA"
-    ],
-    "nota": 7.25,
-    "tmdbId": 484936,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-resistencia.json"
-  },
-  {
-    "id": "a-ultima-ressaca-do-ano",
-    "tipo": "filme",
-    "titulo": "A Última Ressaca do Ano",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/vdkDOqgsyvLdPjUUUQD2wtWVZ5E.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/1uDvPjKthACQKeQBvkiJ3aSvtdh.jpg",
-    "generos": [
-      "COMÉDIA"
-    ],
-    "nota": 5.712,
-    "tmdbId": 384682,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-ressaca-do-ano.json"
   }
 ]

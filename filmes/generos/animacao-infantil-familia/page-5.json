@@ -1,5 +1,34 @@
 [
   {
+    "id": "vera-sonhos-de-inverno",
+    "tipo": "filme",
+    "titulo": "Vera - Sonhos de Inverno",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oBUKoeZNhHppEmGlhbNZPDBTgiW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kokIDYJkdKWTSFiJLDuAMi2tZY2.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.3,
+    "tmdbId": 651249,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/vera-sonhos-de-inverno.json"
+  },
+  {
+    "id": "viagem-ao-topo-da-terra",
+    "tipo": "filme",
+    "titulo": "Viagem ao Topo da Terra",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fj8wv7ip5JbnJFqwNicNKHLClYH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5vtEKq41KFezEnwIHmFrekQKNDy.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.751,
+    "tmdbId": 712454,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/viagem-ao-topo-da-terra.json"
+  },
+  {
     "id": "viagem-para-agartha",
     "tipo": "filme",
     "titulo": "Viagem para Agartha",

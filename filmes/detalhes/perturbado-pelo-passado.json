@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Jonathan Teller é um homem mercado pela tragédia desde cedo. Obrigado a escolher entre ir para o Vietnã ou ser preso, ele opta pelo serviço militar. Após sobreviver ao conflito, Jonathan enfrenta uma luta ainda mais difícil: o transtorno de estresse pós-traumático, que domina seus dias e noites. Isolado e em sofrimento, ele vive como um -homem de plástico -, quebrado e moldado pela guerra. Porém, quando menos espera, um encontro como alguém que parece um anjo lhe oferece esperança e um possível caminho para a cura.",
   "generos": [
+    "LEGENDADOS",
     "AÇÃO | CRIME | GUERRA",
     "LANÇAMENTOS"
   ],
@@ -13,6 +14,13 @@
   "tmdbId": 1380279,
   "nota": 7,
   "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11054577,
+      "container": "mp4"
+    },
     {
       "nome": "Padrão",
       "idioma": "Não informado",

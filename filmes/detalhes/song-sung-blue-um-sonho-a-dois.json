@@ -5,6 +5,7 @@
   "ano": null,
   "descricao": "Mike e Claire Sardina, um casal azarado de Milwaukee, compartilham o sonho de se tornarem músicos de sucesso. Ambos com grandes aspirações, a dupla decide mudar radicalmente o rumo de suas carreiras: eles formam uma banda de tributo a Neil Diamond. Essa decisão inesperada transforma a vida dos dois artistas, que rapidamente se tornam um ícone local, lidando com a fama e as consequências dessa guinada profissional e pessoal.",
   "generos": [
+    "LEGENDADOS",
     "DRAMA",
     "ROMANCE"
   ],
@@ -13,6 +14,13 @@
   "tmdbId": 1371185,
   "nota": 7.4,
   "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11060875,
+      "container": "mp4"
+    },
     {
       "nome": "Padrão",
       "idioma": "Não informado",

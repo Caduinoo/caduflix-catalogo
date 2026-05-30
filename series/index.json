@@ -1,6 +1,6 @@
 {
-  "total": 7172,
-  "paginas": 24,
+  "total": 7708,
+  "paginas": 26,
   "tamanhoPagina": 300,
   "todos": {
     "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/todos/page-1.json"
@@ -9,7 +9,7 @@
     {
       "slug": "amazon-prime",
       "nome": "AMAZON PRIME",
-      "total": 844,
+      "total": 849,
       "paginas": 3,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/amazon-prime/page-1.json"
     },
@@ -44,21 +44,21 @@
     {
       "slug": "disney",
       "nome": "DISNEY+",
-      "total": 486,
+      "total": 487,
       "paginas": 2,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/disney/page-1.json"
     },
     {
       "slug": "doramas",
       "nome": "DORAMAS",
-      "total": 857,
+      "total": 858,
       "paginas": 3,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/doramas/page-1.json"
     },
     {
       "slug": "globoplay",
       "nome": "GLOBOPLAY",
-      "total": 476,
+      "total": 477,
       "paginas": 2,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/globoplay/page-1.json"
     },
@@ -72,7 +72,7 @@
     {
       "slug": "netflix",
       "nome": "NETFLIX",
-      "total": 1635,
+      "total": 1636,
       "paginas": 6,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/netflix/page-1.json"
     },
@@ -86,7 +86,7 @@
     {
       "slug": "outras-produtoras",
       "nome": "OUTRAS PRODUTORAS",
-      "total": 862,
+      "total": 865,
       "paginas": 3,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/outras-produtoras/page-1.json"
     },
@@ -121,8 +121,8 @@
     {
       "slug": "turcas-mexicanas",
       "nome": "TURCAS | MEXICANAS²",
-      "total": 83,
-      "paginas": 1,
+      "total": 616,
+      "paginas": 3,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/turcas-mexicanas/page-1.json"
     }
   ],

@@ -8,14 +8,6 @@
     "xtreamId": 2315204
   },
   {
-    "id": "canal-2315205",
-    "tipo": "canal",
-    "titulo": "AGROMAIS SD",
-    "categoria": "ABERTOS",
-    "capa": "https://i.ibb.co/z2Dw1hy/tv-agro-brasil.png",
-    "xtreamId": 2315205
-  },
-  {
     "id": "canal-9774764",
     "tipo": "canal",
     "titulo": "BRTVMAX HD",
@@ -62,14 +54,6 @@
     "categoria": "ABERTOS",
     "capa": "https://i.ibb.co/Fs70Gph/Logo-Canal-do-Boi.png",
     "xtreamId": 2315227
-  },
-  {
-    "id": "canal-2315228",
-    "tipo": "canal",
-    "titulo": "CANAL DO BOI SD",
-    "categoria": "ABERTOS",
-    "capa": "https://i.ibb.co/Fs70Gph/Logo-Canal-do-Boi.png",
-    "xtreamId": 2315228
   },
   {
     "id": "canal-2315229",
@@ -130,7 +114,7 @@
   {
     "id": "canal-9774765",
     "tipo": "canal",
-    "titulo": "TERRA VIVA HD",
+    "titulo": "TERRA VIVA",
     "categoria": "ABERTOS",
     "capa": "https://i.ibb.co/sjxnMCG/terra-viva-logo.png",
     "xtreamId": 9774765
@@ -138,7 +122,7 @@
   {
     "id": "canal-9250355",
     "tipo": "canal",
-    "titulo": "TV A CRITICA HD",
+    "titulo": "TV A CRITICA",
     "categoria": "ABERTOS",
     "capa": "https://i.ibb.co/607HMz9s/acritica.png",
     "xtreamId": 9250355
@@ -158,14 +142,6 @@
     "categoria": "ABERTOS",
     "capa": "https://i.ibb.co/2NtQV8R/TV-Brasil-logo.png",
     "xtreamId": 2315215
-  },
-  {
-    "id": "canal-2315216",
-    "tipo": "canal",
-    "titulo": "TV BRASIL SD",
-    "categoria": "ABERTOS",
-    "capa": "https://i.ibb.co/2NtQV8R/TV-Brasil-logo.png",
-    "xtreamId": 2315216
   },
   {
     "id": "canal-2315225",

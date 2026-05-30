@@ -3653,7 +3653,8 @@
     "capa": "https://image.tmdb.org/t/p/w500/Qqe0D4gFMNGL1OtFcvQ0yvCF6D.jpg",
     "banner": "https://image.tmdb.org/t/p/original/iU955nBcsc5Zr5e31eWU2xKVqHk.jpg",
     "generos": [
-      "NETFLIX"
+      "NETFLIX",
+      "TURCAS | MEXICANAS"
     ],
     "nota": 7.3,
     "tmdbId": 93785,
@@ -4558,6 +4559,22 @@
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/borges.json"
   },
   {
+    "id": "brasil-70-a-saga-do-tri",
+    "tipo": "serie",
+    "titulo": "Brasil 70: A Saga do Tri",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/AbacRmw60119iQEiDf0dfseVDuk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zmHbIGIgFN9zYK78ei7ZnpnrOEV.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": null,
+    "tmdbId": 292532,
+    "totalTemporadas": 1,
+    "totalEpisodios": 5,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/brasil-70-a-saga-do-tri.json"
+  },
+  {
     "id": "break-point",
     "tipo": "serie",
     "titulo": "Break Point",
@@ -4781,21 +4798,5 @@
     "totalTemporadas": 1,
     "totalEpisodios": 16,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/cacadores-de-demonios.json"
-  },
-  {
-    "id": "cacadores-de-trolls",
-    "tipo": "serie",
-    "titulo": "Caçadores de Trolls",
-    "ano": null,
-    "capa": "https://image.tmdb.org/t/p/w500/58dBUuVIpLWN0oeQttbZp6WZpZP.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/oyi9AeavhrKTbISf4tZ83S7xp29.jpg",
-    "generos": [
-      "NETFLIX"
-    ],
-    "nota": 8.5,
-    "tmdbId": 68267,
-    "totalTemporadas": 3,
-    "totalEpisodios": 52,
-    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/cacadores-de-trolls.json"
   }
 ]
