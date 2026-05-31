@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-05-30T22:03:32.650Z",
-  "total": 19,
+  "atualizadoEm": "2026-05-31T11:00:37.986Z",
+  "total": 21,
   "categoria": "Jogos do Dia",
   "canais": [
     {
@@ -13,166 +13,184 @@
       "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11050119"
     },
     {
-      "id": "11084884",
-      "nome": "09h Escócia X Curacao (Espn 1)",
+      "id": "11103326",
+      "nome": "07h Japão X Islândia (Sportv 1)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11084884"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11103326"
     },
     {
-      "id": "11084885",
-      "nome": "13h PSG X Arsenal (SBT SP)",
+      "id": "11103327",
+      "nome": "11h Bragantino X Inter (Premiere 1)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11084885"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11103327"
     },
     {
-      "id": "11084886",
-      "nome": "13h PSG X Arsenal (TNT)",
+      "id": "11103328",
+      "nome": "11h Bragantino X Inter (Premiere 1)*",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11084886"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11103328"
     },
     {
-      "id": "11084896",
-      "nome": "13h PSG X Arsenal (TNT)*",
+      "id": "11103329",
+      "nome": "12h Polônia X Ucrânia (Sportv 1)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11084896"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11103329"
     },
     {
-      "id": "11084887",
-      "nome": "16h Athletico PR X Mirassol (Premiere 4)",
+      "id": "11103330",
+      "nome": "15h45 Alemanha X Finlândia (Espn 1)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11084887"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11103330"
     },
     {
-      "id": "11084897",
-      "nome": "16h Athletico PR X Mirassol (Premiere 4)*",
+      "id": "11103331",
+      "nome": "16h Palmeiras X Chape (Premiere 1)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11084897"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11103331"
     },
     {
-      "id": "11084889",
-      "nome": "16h Avai X Criciúma (Espn 1)",
+      "id": "11103332",
+      "nome": "16h Palmeiras X Chape (Premiere 1)*",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11084889"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11103332"
     },
     {
-      "id": "11084888",
-      "nome": "16h Flamengo X Coritiba (Sportv 1)",
+      "id": "11103333",
+      "nome": "16h Vasco X Atlético MG (Prime Video)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11084888"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11103333"
     },
     {
-      "id": "11084898",
-      "nome": "16h Flamengo X Coritiba (Sportv 1)*",
+      "id": "11103334",
+      "nome": "16h Vasco X Atlético MG (Prime Video)*",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11084898"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11103334"
     },
     {
-      "id": "11084890",
-      "nome": "17h30 Bahia X Botafogo (Globo RJ)",
+      "id": "11103335",
+      "nome": "16h30 Estados Unidos X Senegal (Espn 4)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11084890"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11103335"
     },
     {
-      "id": "11084899",
-      "nome": "17h30 Bahia X Botafogo (Globo RJ)*",
+      "id": "11103336",
+      "nome": "18h30 Brasil X Panama (Globo SP)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11084899"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11103336"
     },
     {
-      "id": "11084891",
-      "nome": "17h30 Bahia X Botafogo (Premiere 2)",
+      "id": "11103337",
+      "nome": "18h30 Brasil X Panama (Globo SP)*",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11084891"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11103337"
     },
     {
-      "id": "11084892",
-      "nome": "17h30 Grêmio X Corinthians (Globo SP)",
+      "id": "11103338",
+      "nome": "18h30 Brasil X Panama (Sportv 1)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11084892"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11103338"
     },
     {
-      "id": "11084900",
-      "nome": "17h30 Grêmio X Corinthians (Globo SP)*",
+      "id": "11103339",
+      "nome": "18h30 Brasil X Panama (GE TV)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11084900"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11103339"
     },
     {
-      "id": "11084893",
-      "nome": "17h30 Grêmio X Corinthians (Premiere 3)",
+      "id": "11103340",
+      "nome": "20h30 Cruzeiro X Fluminense (Caze Tv)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11084893"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11103340"
     },
     {
-      "id": "11084894",
-      "nome": "17h30 Grêmio X Corinthians (GE TV)",
+      "id": "11103341",
+      "nome": "20h30 Cruzeiro X Fluminense (Premiere 3)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11084894"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11103341"
     },
     {
-      "id": "11084895",
-      "nome": "20h Santos X Vitória (Sportv 1)",
+      "id": "11103342",
+      "nome": "20h30 Cruzeiro X Fluminense (Record SP)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11084895"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11103342"
     },
     {
-      "id": "11084901",
-      "nome": "20h Santos X Vitória (Sportv 1)*",
+      "id": "11103344",
+      "nome": "20h30 Cruzeiro X Fluminense (Record SP)*",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11084901"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11103344"
+    },
+    {
+      "id": "11103345",
+      "nome": "20h30 Remo X São Paulo (Premiere 1)",
+      "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
+      "categoria": "JOGOS DO DIA",
+      "categoriaId": "2648",
+      "tipo": "live",
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11103345"
+    },
+    {
+      "id": "11103346",
+      "nome": "20h30 Remo X São Paulo (Premiere 1)*",
+      "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
+      "categoria": "JOGOS DO DIA",
+      "categoriaId": "2648",
+      "tipo": "live",
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11103346"
     }
   ]
 }
